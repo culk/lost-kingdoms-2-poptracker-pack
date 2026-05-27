@@ -1,0 +1,68 @@
+[
+    {
+        "name": "Goal",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/goal_defeat_god_of_harmony.png",
+                "codes": "goal, goal_defeat_god_of_harmony",
+                "inherit_codes": false,
+                "name": "Goal - Defeat God of Harmony"
+            },
+            {
+                "img": "images/settings/goal_defeat_emperor.png",
+                "codes": "goal, goal_defeat_emperor",
+                "inherit_codes": false,
+                "name": "Goal - Defeat Emperor"
+            },
+            {
+                "img": "images/settings/goal_collect_red_fairies.png",
+                "codes": "goal, goal_collect_red_fairies",
+                "inherit_codes": false,
+                "name": "Goal - Collect Red Fairies"
+            }
+        ]
+    },
+    {
+        "name": "Red Fairy Goal",
+        "type": "consumable",
+        "min_quantity": 1,
+        "max_quantity": 97,
+        "initial_quantity": 50,
+        "overlay_background": "#000000",
+        "img": "images/settings/red_fairies.png",
+        "codes": "red_fairies_goal_amount"
+    },
+    {
+        "name": "Fairysanity",
+        "type": "toggle",
+        "img": "images/settings/fairysanity.png",
+        "codes": "fairysanity"
+    },
+    {
+        "name": "Combosanity",
+        "type": "toggle",
+        "img": "images/settings/combosanity.png",
+        "codes": "combosanity"
+    },
+    {
+        "name": "Enemysanity",
+        "type": "toggle",
+        "img": "images/settings/enemysanity.png",
+        "codes": "enemysanity"
+    },
+    {
+        "name": "Progressive Leveling",
+        "type": "toggle",
+        "img": "images/settings/progressive_leveling.png",
+        "codes": "progressive_leveling"
+    },
+    {
+        "name": "Progressive Attribute Proficiencies",
+        "type": "toggle",
+        "img": "images/settings/progressive_attribute_proficiencies.png",
+        "codes": "progressive_attribute_proficiencies"
+    }
+]

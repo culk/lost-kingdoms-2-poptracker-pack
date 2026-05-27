@@ -1,18 +1,17 @@
 {
     "settings_popup": {
-        "type": "array",
-        "margin": 5,
+        "type": "container",
         "content": [
             {
-                "type": "group",
-                "header": "Autofill Settings",
-                "header_background": "#3e4b57",
-                "content": [
-                    {
-                        "type": "item",
-                        "margin": "5,1,5,5",
-                        "item": "autofill_settings"
-                    }
+                "type": "itemgrid",
+                "background":  "#000000",
+                "h_alignment": "left",
+                "item_margin": "2,2",
+                "item_size": "32,32",
+                "rows": [
+                    ["goal", "red_fairies_goal_amount"],
+                    ["fairysanity", "combosanity", "enemysanity"],
+                    ["progressive_leveling", "progressive_attribute_proficiencies"]
                 ]
             }
         ]

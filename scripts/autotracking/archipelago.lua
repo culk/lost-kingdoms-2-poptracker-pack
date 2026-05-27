@@ -1,8 +1,8 @@
 require("scripts/autotracking/item_mapping")
 require("scripts/autotracking/location_mapping")
+require("scripts/autotracking/setting_mapping")
 
 CUR_INDEX = -1
---SLOT_DATA = nil
 
 ALL_LOCATIONS = {}
 SLOT_DATA = {}
@@ -14,14 +14,14 @@ if Highlight then
         [20] = Highlight.Avoid,
         [30] = Highlight.Priority,
         [40] = Highlight.None,
-        [100] = Highlight.Unspecified, --Filler
-        [101] = Highlight.Priority, --Progression
-        [102] = Highlight.NoPriority, --Useful
-        [103] = Highlight.Priority, -- Prog + Useful
-        [104] = Highlight.Avoid, --Trap
-        [105] = Highlight.Priority, -- Prog + Trap
-        [106] = Highlight.NoPriority, -- Useful + Trap
-        [107] = Highlight.Priority, -- Prog + Useful + Trap
+        [100] = Highlight.Unspecified, -- Filler
+        [101] = Highlight.Priority,    -- Progression
+        [102] = Highlight.NoPriority,  -- Useful
+        [103] = Highlight.Priority,    -- Prog + Useful
+        [104] = Highlight.Avoid,       -- Trap
+        [105] = Highlight.Priority,    -- Prog + Trap
+        [106] = Highlight.NoPriority,  -- Useful + Trap
+        [107] = Highlight.Priority,    -- Prog + Useful + Trap
     }
 end
 
@@ -68,9 +68,11 @@ end
 function onClear(slot_data)
     preOnClear()
 
-    --SLOT_DATA = slot_data
+    SLOT_DATA = slot_data
+    print(string.format("onClear: Reading slot data:\n%s", dump_table(SLOT_DATA)))
     CUR_INDEX = -1
-    -- reset locations
+
+    -- Reset locations.
     for _, location_array in pairs(LOCATION_MAPPING) do
         for _, location in pairs(location_array) do
             if location then
@@ -78,19 +80,24 @@ function onClear(slot_data)
                 if location_obj then
                     if location:sub(1, 1) == "@" then
                         location_obj.AvailableChestCount = location_obj.ChestCount
+                        if Highlight then
+                            location_obj.Highlight = Highlight.None
+                        end
                     else
                         location_obj.Active = false
                     end
+                else
+                    print(string.format("onClear: could not find location for code %s", location))
                 end
             end
         end
     end
-    -- reset items
+
+    -- Reset items.
     for _, item_array in pairs(ITEM_MAPPING) do
         for _, item_pair in pairs(item_array) do
             item_code = item_pair[1]
             item_type = item_pair[2]
-            -- print("on clear", item_code, item_type)
             local item_obj = Tracker:FindObjectForCode(item_code)
             if item_obj then
                 if item_obj.Type == "toggle" then
@@ -107,16 +114,32 @@ function onClear(slot_data)
                     item_obj.CurrentStage = 0
                     item_obj.Active = false
                 end
+            else
+                print(string.format("onClear: could not find item for code %s", item_code))
             end
         end
     end
+
+    -- Read settings from slot data.
+    for key, value in pairs(SLOT_DATA) do
+        if SETTING_MAPPING[key] then
+            local setting_obj = Tracker:FindObjectForCode(SETTING_MAPPING[key].code)
+            if setting_obj then
+                if setting_obj.Type == "toggle" then
+                    setting_obj.Active = SETTING_MAPPING[key].mapping[value]
+                elseif setting_obj.Type == "consumable" then
+                    setting_obj.AcquiredCount = value
+                elseif setting_obj.Type == "progressive" then
+                    setting_obj.CurrentStage = SETTING_MAPPING[key].mapping[value]
+                end
+            else
+                print(string.format("onClear: could not find setting for code %s", SETTING_MAPPING[key].code))
+            end
+        end
+    end
+
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
-    SLOT_DATA = slot_data
-    -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
-    --     autoFill(slot_data)
-    -- end
-    -- print(PLAYER_ID, TEAM_NUMBER)
     if Archipelago.PlayerNumber > -1 then
         if #ALL_LOCATIONS > 0 then
             ALL_LOCATIONS = {}
@@ -200,40 +223,6 @@ function onLocation(location_id, location_name)
         end
     end
 end
-
--- this Autofill function is meant as an example on how to do the reading from slotdata and mapping the values to
--- your own settings
--- function autoFill()
---     if SLOT_DATA == nil  then
---         print("its fucked")
---         return
---     end
---     -- print(dump_table(SLOT_DATA))
-
---     mapToggle={[0]=0,[1]=1,[2]=1,[3]=1,[4]=1}
---     mapToggleReverse={[0]=1,[1]=0,[2]=0,[3]=0,[4]=0}
---     mapTripleReverse={[0]=2,[1]=1,[2]=0}
-
---     slotCodes = {
---         map_name = {code="", mapping=mapToggle...}
---     }
---     -- print(dump_table(SLOT_DATA))
---     -- print(Tracker:FindObjectForCode("autofill_settings").Active)
---     if Tracker:FindObjectForCode("autofill_settings").Active == true then
---         for settings_name , settings_value in pairs(SLOT_DATA) do
---             -- print(k, v)
---             if slotCodes[settings_name] then
---                 item = Tracker:FindObjectForCode(slotCodes[settings_name].code)
---                 if item.Type == "toggle" then
---                     item.Active = slotCodes[settings_name].mapping[settings_value]
---                 else
---                     -- print(k,v,Tracker:FindObjectForCode(slotCodes[k].code).CurrentStage, slotCodes[k].mapping[v])
---                     item.CurrentStage = slotCodes[settings_name].mapping[settings_value]
---                 end
---             end
---         end
---     end
--- end
 
 function OnNotify(key, value, old_value)
     print("OnNotify", key, value, old_value)
