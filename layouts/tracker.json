@@ -46,7 +46,7 @@
                     "content": [
                         {
                             "type": "layout",
-                            "key": "tabbed_maps_vertical"
+                            "key": "tabbed_maps"
                         }
                     ]
                 }
@@ -105,7 +105,7 @@
                     "content": [
                         {
                             "type": "layout",
-                            "key": "tabbed_maps_horizontal"
+                            "key": "tabbed_maps"
                         }
                     ]
                 }

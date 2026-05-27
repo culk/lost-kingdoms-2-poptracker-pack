@@ -1,22 +1,13 @@
 {
-    "tabbed_maps_horizontal": {
+    "tabbed_maps": {
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Alanjeh Castle",
+                "title": "Noblemans Residence",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Alanjeh Castle"
-                    ]
-                }
-            },
-            {
-                "title": "Bhashea Castle",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Bhashea Castle"
+                        "Noblemans Residence"
                     ]
                 }
             },
@@ -30,47 +21,11 @@
                 }
             },
             {
-                "title": "Combo",
+                "title": "Kadishu",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Combo"
-                    ]
-                }
-            },
-            {
-                "title": "Fairy House",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Fairy House"
-                    ]
-                }
-            },
-            {
-                "title": "Fossil Boneyard",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Fossil Boneyard"
-                    ]
-                }
-            },
-            {
-                "title": "Grenfoel Cathedral",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Grenfoel Cathedral"
-                    ]
-                }
-            },
-            {
-                "title": "Grenfoel Church",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Grenfoel Church"
+                        "Kadishu"
                     ]
                 }
             },
@@ -84,11 +39,20 @@
                 }
             },
             {
-                "title": "Holzogh Town",
+                "title": "Kendarie Fortress",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Holzogh Town"
+                        "Kendarie Fortress"
+                    ]
+                }
+            },
+            {
+                "title": "Bhashea Castle",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Bhashea Castle"
                     ]
                 }
             },
@@ -102,47 +66,74 @@
                 }
             },
             {
-                "title": "Kadishu",
+                "title": "Runestone Caverns - Upper Chambers",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Kadishu"
+                        "Runestone Caverns - Upper Chambers"
                     ]
                 }
             },
             {
-                "title": "Kendarie Fortress",
+                "title": "Runestone Caverns - Lower Chambers",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Kendarie Fortress"
+                        "Runestone Caverns - Lower Chambers"
                     ]
                 }
             },
             {
-                "title": "Krasheen Mountains",
+                "title": "Ruldo Forest",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Krasheen Mountains"
+                        "Ruldo Forest"
                     ]
                 }
             },
             {
-                "title": "Noblemans Residence",
+                "title": "Fossil Boneyard",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Noblemans Residence"
+                        "Fossil Boneyard"
                     ]
                 }
             },
             {
-                "title": "Obenoix Gorge",
+                "title": "Sarvan",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Obenoix Gorge"
+                        "Sarvan"
+                    ]
+                }
+            },
+            {
+                "title": "Sacred Battle Arena 1",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sacred Battle Arena 1"
+                    ]
+                }
+            },
+            {
+                "title": "Sacred Battle Arena 2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Sacred Battle Arena 2"
+                    ]
+                }
+            },
+            {
+                "title": "Holzogh Town",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Holzogh Town"
                     ]
                 }
             },
@@ -152,6 +143,15 @@
                     "type": "map",
                     "maps": [
                         "Plains of Rowahl"
+                    ]
+                }
+            },
+            {
+                "title": "Alanjeh Castle",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Alanjeh Castle"
                     ]
                 }
             },
@@ -183,187 +183,11 @@
                 }
             },
             {
-                "title": "Ruldo Forest",
+                "title": "Obenoix Gorge",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Ruldo Forest"
-                    ]
-                }
-            },
-            {
-                "title": "Runestone Caverns - Lower Chambers",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Runestone Caverns - Lower Chambers"
-                    ]
-                }
-            },
-            {
-                "title": "Runestone Caverns - Upper Chambers",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Runestone Caverns - Upper Chambers"
-                    ]
-                }
-            },
-            {
-                "title": "Sacred Battle Arena 1",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sacred Battle Arena 1"
-                    ]
-                }
-            },
-            {
-                "title": "Sacred Battle Arena 2",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sacred Battle Arena 2"
-                    ]
-                }
-            },
-            {
-                "title": "Sarvan",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sarvan"
-                    ]
-                }
-            },
-            {
-                "title": "Temple of Sharacia",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Temple of Sharacia"
-                    ]
-                }
-            }
-        ]
-    },
-    "tabbed_maps_vertical": {
-        "type": "tabbed",
-        "tabs": [
-            {
-                "title": "Alanjeh Castle",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Alanjeh Castle"
-                    ]
-                }
-            },
-            {
-                "title": "Bhashea Castle",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Bhashea Castle"
-                    ]
-                }
-            },
-            {
-                "title": "Bhashea High Road",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Bhashea High Road"
-                    ]
-                }
-            },
-            {
-                "title": "Combo",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Combo"
-                    ]
-                }
-            },
-            {
-                "title": "Fairy House",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Fairy House"
-                    ]
-                }
-            },
-            {
-                "title": "Fossil Boneyard",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Fossil Boneyard"
-                    ]
-                }
-            },
-            {
-                "title": "Grenfoel Cathedral",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Grenfoel Cathedral"
-                    ]
-                }
-            },
-            {
-                "title": "Grenfoel Church",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Grenfoel Church"
-                    ]
-                }
-            },
-            {
-                "title": "Gromtull Desert",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Gromtull Desert"
-                    ]
-                }
-            },
-            {
-                "title": "Holzogh Town",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Holzogh Town"
-                    ]
-                }
-            },
-            {
-                "title": "Isamat Urbur",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Isamat Urbur"
-                    ]
-                }
-            },
-            {
-                "title": "Kadishu",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Kadishu"
-                    ]
-                }
-            },
-            {
-                "title": "Kendarie Fortress",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Kendarie Fortress"
+                        "Obenoix Gorge"
                     ]
                 }
             },
@@ -377,110 +201,11 @@
                 }
             },
             {
-                "title": "Noblemans Residence",
+                "title": "Grenfoel Cathedral",
                 "content": {
                     "type": "map",
                     "maps": [
-                        "Noblemans Residence"
-                    ]
-                }
-            },
-            {
-                "title": "Obenoix Gorge",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Obenoix Gorge"
-                    ]
-                }
-            },
-            {
-                "title": "Plains of Rowahl",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Plains of Rowahl"
-                    ]
-                }
-            },
-            {
-                "title": "Royal Tower - Lower",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Royal Tower - Lower"
-                    ]
-                }
-            },
-            {
-                "title": "Royal Tower - Middle",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Royal Tower - Middle"
-                    ]
-                }
-            },
-            {
-                "title": "Royal Tower - Upper",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Royal Tower - Upper"
-                    ]
-                }
-            },
-            {
-                "title": "Ruldo Forest",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Ruldo Forest"
-                    ]
-                }
-            },
-            {
-                "title": "Runestone Caverns - Lower Chambers",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Runestone Caverns - Lower Chambers"
-                    ]
-                }
-            },
-            {
-                "title": "Runestone Caverns - Upper Chambers",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Runestone Caverns - Upper Chambers"
-                    ]
-                }
-            },
-            {
-                "title": "Sacred Battle Arena 1",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sacred Battle Arena 1"
-                    ]
-                }
-            },
-            {
-                "title": "Sacred Battle Arena 2",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sacred Battle Arena 2"
-                    ]
-                }
-            },
-            {
-                "title": "Sarvan",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Sarvan"
+                        "Grenfoel Cathedral"
                     ]
                 }
             },
@@ -490,6 +215,15 @@
                     "type": "map",
                     "maps": [
                         "Temple of Sharacia"
+                    ]
+                }
+            },
+            {
+                "title": "Combo",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Combo"
                     ]
                 }
             }

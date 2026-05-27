@@ -3,162 +3,150 @@
         "name": "Alanjeh Castle",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Alanjeh Castle.png"
+        "img": "images/maps/alanjeh_castle.png"
     },
     {
         "name": "Bhashea Castle",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Bhashea Castle.png"
+        "img": "images/maps/bhashea_castle.png"
     },
     {
         "name": "Bhashea High Road",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Bhashea High Road.png"
+        "img": "images/maps/bhashea_high_road.png"
     },
     {
         "name": "Combo",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Combo.png"
-    },
-    {
-        "name": "Fairy House",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Fairy House.png"
+        "img": "images/maps/combo.png"
     },
     {
         "name": "Fossil Boneyard",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Fossil Boneyard.png"
+        "img": "images/maps/fossil_boneyard.png"
     },
     {
         "name": "Grenfoel Cathedral",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Grenfoel Cathedral.png"
-    },
-    {
-        "name": "Grenfoel Church",
-        "location_size": 6,
-        "location_border_thickness": 1,
-        "img": "images/maps/Grenfoel Church.png"
+        "img": "images/maps/grenfoel_cathedral.png"
     },
     {
         "name": "Gromtull Desert",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Gromtull Desert.png"
+        "img": "images/maps/gromtull_desert.png"
     },
     {
         "name": "Holzogh Town",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Holzogh Town.png"
+        "img": "images/maps/holzogh_town.png"
     },
     {
         "name": "Isamat Urbur",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Isamat Urbur.png"
+        "img": "images/maps/isamat_urbur.png"
     },
     {
         "name": "Kadishu",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Kadishu.png"
+        "img": "images/maps/kadishu.png"
     },
     {
         "name": "Kendarie Fortress",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Kendarie Fortress.png"
+        "img": "images/maps/kendarie_fortress.png"
     },
     {
         "name": "Krasheen Mountains",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Krasheen Mountains.png"
+        "img": "images/maps/krasheen_mountains.png"
     },
     {
         "name": "Noblemans Residence",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Noblemans Residence.png"
+        "img": "images/maps/noblemans_residence.png"
     },
     {
         "name": "Obenoix Gorge",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Obenoix Gorge.png"
+        "img": "images/maps/obenoix_gorge.png"
     },
     {
         "name": "Plains of Rowahl",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Plains of Rowahl.png"
+        "img": "images/maps/plains_of_rowahl.png"
     },
     {
         "name": "Royal Tower - Lower",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Royal Tower - Lower.png"
+        "img": "images/maps/royal_tower_lower.png"
     },
     {
         "name": "Royal Tower - Middle",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Royal Tower - Middle.png"
+        "img": "images/maps/royal_tower_middle.png"
     },
     {
         "name": "Royal Tower - Upper",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Royal Tower - Upper.png"
+        "img": "images/maps/royal_tower_upper.png"
     },
     {
         "name": "Ruldo Forest",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Ruldo Forest.png"
+        "img": "images/maps/ruldo_forest.png"
     },
     {
         "name": "Runestone Caverns - Lower Chambers",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Runestone Caverns - Lower Chambers.png"
+        "img": "images/maps/runestone_caverns_lower_chambers.png"
     },
     {
         "name": "Runestone Caverns - Upper Chambers",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Runestone Caverns - Upper Chambers.png"
+        "img": "images/maps/runestone_caverns_upper_chambers.png"
     },
     {
         "name": "Sacred Battle Arena 1",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Sacred Battle Arena 1.png"
+        "img": "images/maps/sacred_battle_arena_1.png"
     },
     {
         "name": "Sacred Battle Arena 2",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Sacred Battle Arena 2.png"
+        "img": "images/maps/sacred_battle_arena_2.png"
     },
     {
         "name": "Sarvan",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Sarvan.png"
+        "img": "images/maps/sarvan.png"
     },
     {
         "name": "Temple of Sharacia",
         "location_size": 6,
         "location_border_thickness": 1,
-        "img": "images/maps/Temple of Sharacia.png"
+        "img": "images/maps/temple_of_sharacia.png"
     }
 ]
