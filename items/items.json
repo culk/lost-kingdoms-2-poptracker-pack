@@ -1,22 +1,6 @@
 [
     {
-        "name": "hellhound",
-        "type": "toggle",
-        "img": "images/items/hellhound.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hellhound"
-    },
-    {
-        "name": "fenril",
-        "type": "toggle",
-        "img": "images/items/fenril.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fenril"
-    },
-    {
-        "name": "red_key",
+        "name": "Red Key",
         "type": "toggle",
         "img": "images/items/red_key.png",
         "initial_active_state": false,
@@ -24,477 +8,7 @@
         "codes": "red_key"
     },
     {
-        "name": "golden_porcupig",
-        "type": "toggle",
-        "img": "images/items/golden_porcupig.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "golden_porcupig"
-    },
-    {
-        "name": "lich",
-        "type": "toggle",
-        "img": "images/items/lich.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lich"
-    },
-    {
-        "name": "garuda",
-        "type": "toggle",
-        "img": "images/items/garuda.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "garuda"
-    },
-    {
-        "name": "scythe_beast",
-        "type": "toggle",
-        "img": "images/items/scythe_beast.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "scythe_beast"
-    },
-    {
-        "name": "plague_rat",
-        "type": "toggle",
-        "img": "images/items/plague_rat.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "plague_rat"
-    },
-    {
-        "name": "fossil_left_leg",
-        "type": "toggle",
-        "img": "images/items/fossil_left_leg.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fossil_left_leg"
-    },
-    {
-        "name": "fire_golem",
-        "type": "toggle",
-        "img": "images/items/fire_golem.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fire_golem"
-    },
-    {
-        "name": "centaur",
-        "type": "toggle",
-        "img": "images/items/centaur.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "centaur"
-    },
-    {
-        "name": "bum_hagan",
-        "type": "toggle",
-        "img": "images/items/bum_hagan.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bum_hagan"
-    },
-    {
-        "name": "crystal_magic",
-        "type": "toggle",
-        "img": "images/items/crystal_magic.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "crystal_magic"
-    },
-    {
-        "name": "sacred_umpire",
-        "type": "toggle",
-        "img": "images/items/sacred_umpire.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sacred_umpire"
-    },
-    {
-        "name": "flayer_spawn",
-        "type": "toggle",
-        "img": "images/items/flayer_spawn.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "flayer_spawn"
-    },
-    {
-        "name": "tumble_chick",
-        "type": "toggle",
-        "img": "images/items/tumble_chick.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tumble_chick"
-    },
-    {
-        "name": "efreet",
-        "type": "toggle",
-        "img": "images/items/efreet.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "efreet"
-    },
-    {
-        "name": "psycho_dice",
-        "type": "toggle",
-        "img": "images/items/psycho_dice.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "psycho_dice"
-    },
-    {
-        "name": "cerberus",
-        "type": "toggle",
-        "img": "images/items/cerberus.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cerberus"
-    },
-    {
-        "name": "super_pumper",
-        "type": "toggle",
-        "img": "images/items/super_pumper.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "super_pumper"
-    },
-    {
-        "name": "elephant",
-        "type": "toggle",
-        "img": "images/items/elephant.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "elephant"
-    },
-    {
-        "name": "castle_gate_key",
-        "type": "toggle",
-        "img": "images/items/castle_gate_key.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "castle_gate_key"
-    },
-    {
-        "name": "demon_swordsman",
-        "type": "toggle",
-        "img": "images/items/demon_swordsman.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "demon_swordsman"
-    },
-    {
-        "name": "marid",
-        "type": "toggle",
-        "img": "images/items/marid.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "marid"
-    },
-    {
-        "name": "demon_fox",
-        "type": "toggle",
-        "img": "images/items/demon_fox.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "demon_fox"
-    },
-    {
-        "name": "yin_yang",
-        "type": "toggle",
-        "img": "images/items/yin_yang.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "yin_yang"
-    },
-    {
-        "name": "green_key",
-        "type": "toggle",
-        "img": "images/items/green_key.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "green_key"
-    },
-    {
-        "name": "juggernaut",
-        "type": "toggle",
-        "img": "images/items/juggernaut.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "juggernaut"
-    },
-    {
-        "name": "stone_of_sealing",
-        "type": "toggle",
-        "img": "images/items/stone_of_sealing.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "stone_of_sealing"
-    },
-    {
-        "name": "king_mandragora",
-        "type": "toggle",
-        "img": "images/items/king_mandragora.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "king_mandragora"
-    },
-    {
-        "name": "sekmet",
-        "type": "toggle",
-        "img": "images/items/sekmet.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sekmet"
-    },
-    {
-        "name": "venom_lizard",
-        "type": "toggle",
-        "img": "images/items/venom_lizard.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "venom_lizard"
-    },
-    {
-        "name": "lizard_man",
-        "type": "toggle",
-        "img": "images/items/lizard_man.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lizard_man"
-    },
-    {
-        "name": "dark_sprite",
-        "type": "toggle",
-        "img": "images/items/dark_sprite.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dark_sprite"
-    },
-    {
-        "name": "fafnir",
-        "type": "toggle",
-        "img": "images/items/fafnir.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fafnir"
-    },
-    {
-        "name": "earth_moray",
-        "type": "toggle",
-        "img": "images/items/earth_moray.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "earth_moray"
-    },
-    {
-        "name": "stone_head",
-        "type": "toggle",
-        "img": "images/items/stone_head.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "stone_head"
-    },
-    {
-        "name": "salamander",
-        "type": "toggle",
-        "img": "images/items/salamander.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "salamander"
-    },
-    {
-        "name": "sea_monk",
-        "type": "toggle",
-        "img": "images/items/sea_monk.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sea_monk"
-    },
-    {
-        "name": "running_bird",
-        "type": "toggle",
-        "img": "images/items/running_bird.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "running_bird"
-    },
-    {
-        "name": "daidarapochi",
-        "type": "toggle",
-        "img": "images/items/daidarapochi.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "daidarapochi"
-    },
-    {
-        "name": "sand_worm",
-        "type": "toggle",
-        "img": "images/items/sand_worm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sand_worm"
-    },
-    {
-        "name": "superscrubber",
-        "type": "toggle",
-        "img": "images/items/superscrubber.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "superscrubber"
-    },
-    {
-        "name": "kitty_trap",
-        "type": "toggle",
-        "img": "images/items/kitty_trap.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "kitty_trap"
-    },
-    {
-        "name": "fossil_tail",
-        "type": "toggle",
-        "img": "images/items/fossil_tail.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fossil_tail"
-    },
-    {
-        "name": "runestone_eno",
-        "type": "toggle",
-        "img": "images/items/runestone_eno.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "runestone_eno"
-    },
-    {
-        "name": "progressive_attribute_proficiency_water",
-        "type": "consumable",
-        "img": "images/items/progressive_attribute_proficiency_water.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressive_attribute_proficiency_water"
-    },
-    {
-        "name": "sleipnir",
-        "type": "toggle",
-        "img": "images/items/sleipnir.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sleipnir"
-    },
-    {
-        "name": "pegasus",
-        "type": "toggle",
-        "img": "images/items/pegasus.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pegasus"
-    },
-    {
-        "name": "goblin_lord",
-        "type": "toggle",
-        "img": "images/items/goblin_lord.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "goblin_lord"
-    },
-    {
-        "name": "steel_skeleton",
-        "type": "toggle",
-        "img": "images/items/steel_skeleton.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "steel_skeleton"
-    },
-    {
-        "name": "popgun_charlie",
-        "type": "toggle",
-        "img": "images/items/popgun_charlie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "popgun_charlie"
-    },
-    {
-        "name": "jade_giant",
-        "type": "toggle",
-        "img": "images/items/jade_giant.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "jade_giant"
-    },
-    {
-        "name": "sand_golem",
-        "type": "toggle",
-        "img": "images/items/sand_golem.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sand_golem"
-    },
-    {
-        "name": "march_hare",
-        "type": "toggle",
-        "img": "images/items/march_hare.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "march_hare"
-    },
-    {
-        "name": "amber_dragon",
-        "type": "toggle",
-        "img": "images/items/amber_dragon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "amber_dragon"
-    },
-    {
-        "name": "bottle",
-        "type": "toggle",
-        "img": "images/items/bottle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bottle"
-    },
-    {
-        "name": "thanatos",
-        "type": "toggle",
-        "img": "images/items/thanatos.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "thanatos"
-    },
-    {
-        "name": "blade_of_time",
-        "type": "toggle",
-        "img": "images/items/blade_of_time.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blade_of_time"
-    },
-    {
-        "name": "baby_dragon",
-        "type": "toggle",
-        "img": "images/items/baby_dragon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "baby_dragon"
-    },
-    {
-        "name": "matador",
-        "type": "toggle",
-        "img": "images/items/matador.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "matador"
-    },
-    {
-        "name": "blue_key",
+        "name": "Blue Key",
         "type": "toggle",
         "img": "images/items/blue_key.png",
         "initial_active_state": false,
@@ -502,7 +16,71 @@
         "codes": "blue_key"
     },
     {
-        "name": "fossil_right_leg",
+        "name": "Green Key",
+        "type": "toggle",
+        "img": "images/items/green_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "green_key"
+    },
+    {
+        "name": "Fossil Head",
+        "type": "toggle",
+        "img": "images/items/fossil_head.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fossil_head"
+    },
+    {
+        "name": "Fossil Torso",
+        "type": "toggle",
+        "img": "images/items/fossil_torso.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fossil_torso"
+    },
+    {
+        "name": "Fossil Tail",
+        "type": "toggle",
+        "img": "images/items/fossil_tail.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fossil_tail"
+    },
+    {
+        "name": "Fossil Right Wing",
+        "type": "toggle",
+        "img": "images/items/fossil_right_wing.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fossil_right_wing"
+    },
+    {
+        "name": "Fossil Left Wing",
+        "type": "toggle",
+        "img": "images/items/fossil_left_wing.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fossil_left_wing"
+    },
+    {
+        "name": "Fossil Right Arm",
+        "type": "toggle",
+        "img": "images/items/fossil_right_arm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fossil_right_arm"
+    },
+    {
+        "name": "Fossil Left Arm",
+        "type": "toggle",
+        "img": "images/items/fossil_left_arm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fossil_left_arm"
+    },
+    {
+        "name": "Fossil Right Leg",
         "type": "toggle",
         "img": "images/items/fossil_right_leg.png",
         "initial_active_state": false,
@@ -510,63 +88,87 @@
         "codes": "fossil_right_leg"
     },
     {
-        "name": "ghost_armor",
+        "name": "Fossil Left Leg",
         "type": "toggle",
-        "img": "images/items/ghost_armor.png",
+        "img": "images/items/fossil_left_leg.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "ghost_armor"
+        "codes": "fossil_left_leg"
     },
     {
-        "name": "wizard",
+        "name": "Bottle",
         "type": "toggle",
-        "img": "images/items/wizard.png",
+        "img": "images/items/bottle.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "wizard"
+        "codes": "bottle"
     },
     {
-        "name": "treant",
+        "name": "Black Liquid",
         "type": "toggle",
-        "img": "images/items/treant.png",
+        "img": "images/items/black_liquid.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "treant"
+        "codes": "black_liquid"
     },
     {
-        "name": "hydra",
+        "name": "Mysterious Key",
         "type": "toggle",
-        "img": "images/items/hydra.png",
+        "img": "images/items/mysterious_key.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "hydra"
+        "codes": "mysterious_key"
     },
     {
-        "name": "demon_lord",
+        "name": "Blade of Skill",
         "type": "toggle",
-        "img": "images/items/demon_lord.png",
+        "img": "images/items/blade_of_skill.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "demon_lord"
+        "codes": "blade_of_skill"
     },
     {
-        "name": "claws-r-us",
+        "name": "Blade of Power",
         "type": "toggle",
-        "img": "images/items/claws-r-us.png",
+        "img": "images/items/blade_of_power.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "claws-r-us"
+        "codes": "blade_of_power"
     },
     {
-        "name": "zombie_dragon",
+        "name": "Blade of Wisdom",
         "type": "toggle",
-        "img": "images/items/zombie_dragon.png",
+        "img": "images/items/blade_of_wisdom.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "zombie_dragon"
+        "codes": "blade_of_wisdom"
     },
     {
-        "name": "runestone_oht",
+        "name": "Blade of Time",
+        "type": "toggle",
+        "img": "images/items/blade_of_time.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blade_of_time"
+    },
+    {
+        "name": "Jewel of Alanjeh",
+        "type": "toggle",
+        "img": "images/items/jewel_of_alanjeh.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jewel_of_alanjeh"
+    },
+    {
+        "name": "Eno Runestone",
+        "type": "toggle",
+        "img": "images/items/runestone_eno.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "runestone_eno"
+    },
+    {
+        "name": "Oht Runestone",
         "type": "toggle",
         "img": "images/items/runestone_oht.png",
         "initial_active_state": false,
@@ -574,11 +176,179 @@
         "codes": "runestone_oht"
     },
     {
+        "name": "Elise Runestone",
+        "type": "toggle",
+        "img": "images/items/runestone_elise.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "runestone_elise"
+    },
+    {
+        "name": "Olf Runestone",
+        "type": "toggle",
+        "img": "images/items/runestone_olf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "runestone_olf"
+    },
+    {
+        "name": "Ebin Runestone",
+        "type": "toggle",
+        "img": "images/items/runestone_ebin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "runestone_ebin"
+    },
+    {
+        "name": "Keil Runestone",
+        "type": "toggle",
+        "img": "images/items/runestone_keil.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "runestone_keil"
+    },
+    {
+        "name": "Nebeth Runestone",
+        "type": "toggle",
+        "img": "images/items/runestone_nebeth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "runestone_nebeth"
+    },
+    {
+        "name": "Stone of Sealing",
+        "type": "toggle",
+        "img": "images/items/stone_of_sealing.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stone_of_sealing"
+    },
+    {
+        "name": "Castle Gate Key",
+        "type": "toggle",
+        "img": "images/items/castle_gate_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "castle_gate_key"
+    },
+    {
+        "name": "Fountain Key",
+        "type": "toggle",
+        "img": "images/items/fountain_key.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fountain_key"
+    },
+    {
+        "name": "Magic Boosters",
+        "type": "toggle",
+        "img": "images/items/magic_boosters.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magic_boosters"
+    },
+    {
+        "name": "red_fairy",
+        "type": "consumable",
+        "img": "images/items/red_fairy.png",
+        "min_quantity": 0,
+        "max_quantity": 100,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "red_fairy"
+    },
+
+    {
+        "name": "Baba Yaga",
+        "type": "toggle",
+        "img": "images/items/cards/baba_yaga.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "baba_yaga"
+    },
+    {
+        "name": "Birdman",
+        "type": "toggle",
+        "img": "images/items/cards/birdman.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "birdman"
+    },
+    {
+        "name": "Garuda",
+        "type": "toggle",
+        "img": "images/items/cards/garuda.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "garuda"
+    },
+    {
+        "name": "Wyvern",
+        "type": "toggle",
+        "img": "images/items/cards/wyvern.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wyvern"
+    },
+    {
+        "name": "Pazuzu",
+        "type": "toggle",
+        "img": "images/items/cards/pazuzu.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pazuzu"
+    },
+    {
+        "name": "Hell Hound",
+        "type": "toggle",
+        "img": "images/items/cards/hell_hound.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hell_hound"
+    },
+    {
+        "name": "Cerberus",
+        "type": "toggle",
+        "img": "images/items/cards/cerberus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cerberus"
+    },
+    {
+        "name": "Centaur",
+        "type": "toggle",
+        "img": "images/items/cards/centaur.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "centaur"
+    },
+    {
+        "name": "Stone Golem",
+        "type": "toggle",
+        "img": "images/items/cards/stone_golem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stone_golem"
+    },
+    {
+        "name": "God of Destruction",
+        "type": "toggle",
+        "img": "images/items/cards/god_of_destruction.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "god_of_destruction"
+    },
+
+    {
         "name": "progressive_player_level",
         "type": "consumable",
         "img": "images/items/progressive_player_level.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
+        "min_quantity": 1,
+        "max_quantity": 20,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 1,
@@ -588,249 +358,11 @@
         "codes": "progressive_player_level"
     },
     {
-        "name": "chimera",
-        "type": "toggle",
-        "img": "images/items/chimera.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chimera"
-    },
-    {
-        "name": "mummy",
-        "type": "toggle",
-        "img": "images/items/mummy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mummy"
-    },
-    {
-        "name": "wood_elemental",
-        "type": "toggle",
-        "img": "images/items/wood_elemental.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wood_elemental"
-    },
-    {
-        "name": "gorgon",
-        "type": "toggle",
-        "img": "images/items/gorgon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gorgon"
-    },
-    {
-        "name": "mind_flayer",
-        "type": "toggle",
-        "img": "images/items/mind_flayer.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mind_flayer"
-    },
-    {
-        "name": "berserk_master",
-        "type": "toggle",
-        "img": "images/items/berserk_master.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "berserk_master"
-    },
-    {
-        "name": "blade_of_power",
-        "type": "toggle",
-        "img": "images/items/blade_of_power.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blade_of_power"
-    },
-    {
-        "name": "runestone_olf",
-        "type": "toggle",
-        "img": "images/items/runestone_olf.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "runestone_olf"
-    },
-    {
-        "name": "orc",
-        "type": "toggle",
-        "img": "images/items/orc.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "orc"
-    },
-    {
-        "name": "mermaid",
-        "type": "toggle",
-        "img": "images/items/mermaid.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mermaid"
-    },
-    {
-        "name": "beaker",
-        "type": "toggle",
-        "img": "images/items/beaker.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "beaker"
-    },
-    {
-        "name": "wraith",
-        "type": "toggle",
-        "img": "images/items/wraith.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wraith"
-    },
-    {
-        "name": "beelzebub",
-        "type": "toggle",
-        "img": "images/items/beelzebub.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "beelzebub"
-    },
-    {
-        "name": "necromancer",
-        "type": "toggle",
-        "img": "images/items/necromancer.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "necromancer"
-    },
-    {
-        "name": "night_mare",
-        "type": "toggle",
-        "img": "images/items/night_mare.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "night_mare"
-    },
-    {
-        "name": "barometz",
-        "type": "toggle",
-        "img": "images/items/barometz.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "barometz"
-    },
-    {
-        "name": "pazuzu",
-        "type": "toggle",
-        "img": "images/items/pazuzu.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pazuzu"
-    },
-    {
-        "name": "progressive_attribute_proficiency_earth",
-        "type": "consumable",
-        "img": "images/items/progressive_attribute_proficiency_earth.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressive_attribute_proficiency_earth"
-    },
-    {
-        "name": "cockatrice",
-        "type": "toggle",
-        "img": "images/items/cockatrice.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cockatrice"
-    },
-    {
-        "name": "archer_tree",
-        "type": "toggle",
-        "img": "images/items/archer_tree.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "archer_tree"
-    },
-    {
-        "name": "gold_butterfly",
-        "type": "toggle",
-        "img": "images/items/gold_butterfly.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gold_butterfly"
-    },
-    {
-        "name": "fireworks",
-        "type": "toggle",
-        "img": "images/items/fireworks.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fireworks"
-    },
-    {
-        "name": "devil_plant",
-        "type": "toggle",
-        "img": "images/items/devil_plant.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "devil_plant"
-    },
-    {
-        "name": "water_moray",
-        "type": "toggle",
-        "img": "images/items/water_moray.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "water_moray"
-    },
-    {
-        "name": "blade_of_skill",
-        "type": "toggle",
-        "img": "images/items/blade_of_skill.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blade_of_skill"
-    },
-    {
-        "name": "runestone_nebeth",
-        "type": "toggle",
-        "img": "images/items/runestone_nebeth.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "runestone_nebeth"
-    },
-    {
-        "name": "puppet_master",
-        "type": "toggle",
-        "img": "images/items/puppet_master.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "puppet_master"
-    },
-    {
-        "name": "cyclops",
-        "type": "toggle",
-        "img": "images/items/cyclops.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "cyclops"
-    },
-    {
-        "name": "astrobot",
-        "type": "toggle",
-        "img": "images/items/astrobot.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "astrobot"
-    },
-    {
         "name": "progressive_attribute_proficiency_fire",
         "type": "consumable",
         "img": "images/items/progressive_attribute_proficiency_fire.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
+        "min_quantity": 3,
+        "max_quantity": 8,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 1,
@@ -840,507 +372,39 @@
         "codes": "progressive_attribute_proficiency_fire"
     },
     {
-        "name": "black_liquid",
-        "type": "toggle",
-        "img": "images/items/black_liquid.png",
-        "initial_active_state": false,
+        "name": "progressive_attribute_proficiency_water",
+        "type": "consumable",
+        "img": "images/items/progressive_attribute_proficiency_water.png",
+        "min_quantity": 3,
+        "max_quantity": 8,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
         "overlay_align": "right",
-        "codes": "black_liquid"
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressive_attribute_proficiency_water"
     },
     {
-        "name": "mechapult",
-        "type": "toggle",
-        "img": "images/items/mechapult.png",
-        "initial_active_state": false,
+        "name": "progressive_attribute_proficiency_earth",
+        "type": "consumable",
+        "img": "images/items/progressive_attribute_proficiency_earth.png",
+        "min_quantity": 3,
+        "max_quantity": 8,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
         "overlay_align": "right",
-        "codes": "mechapult"
-    },
-    {
-        "name": "runestone_elise",
-        "type": "toggle",
-        "img": "images/items/runestone_elise.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "runestone_elise"
-    },
-    {
-        "name": "behemoth",
-        "type": "toggle",
-        "img": "images/items/behemoth.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "behemoth"
-    },
-    {
-        "name": "sphinx",
-        "type": "toggle",
-        "img": "images/items/sphinx.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sphinx"
-    },
-    {
-        "name": "charadrius",
-        "type": "toggle",
-        "img": "images/items/charadrius.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "charadrius"
-    },
-    {
-        "name": "octobush",
-        "type": "toggle",
-        "img": "images/items/octobush.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "octobush"
-    },
-    {
-        "name": "emperor",
-        "type": "toggle",
-        "img": "images/items/emperor.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "emperor"
-    },
-    {
-        "name": "lycanthrope",
-        "type": "toggle",
-        "img": "images/items/lycanthrope.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lycanthrope"
-    },
-    {
-        "name": "blue_dragon",
-        "type": "toggle",
-        "img": "images/items/blue_dragon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blue_dragon"
-    },
-    {
-        "name": "mandra_dancer",
-        "type": "toggle",
-        "img": "images/items/mandra_dancer.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mandra_dancer"
-    },
-    {
-        "name": "gemini",
-        "type": "toggle",
-        "img": "images/items/gemini.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gemini"
-    },
-    {
-        "name": "jewel_of_alanjeh",
-        "type": "toggle",
-        "img": "images/items/jewel_of_alanjeh.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "jewel_of_alanjeh"
-    },
-    {
-        "name": "runestone_keil",
-        "type": "toggle",
-        "img": "images/items/runestone_keil.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "runestone_keil"
-    },
-    {
-        "name": "fire_elemental",
-        "type": "toggle",
-        "img": "images/items/fire_elemental.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fire_elemental"
-    },
-    {
-        "name": "dragonoid",
-        "type": "toggle",
-        "img": "images/items/dragonoid.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dragonoid"
-    },
-    {
-        "name": "death",
-        "type": "toggle",
-        "img": "images/items/death.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "death"
-    },
-    {
-        "name": "gargoyle",
-        "type": "toggle",
-        "img": "images/items/gargoyle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gargoyle"
-    },
-    {
-        "name": "acid_bot",
-        "type": "toggle",
-        "img": "images/items/acid_bot.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "acid_bot"
-    },
-    {
-        "name": "will_o_wisp",
-        "type": "toggle",
-        "img": "images/items/will_o_wisp.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "will_o_wisp"
-    },
-    {
-        "name": "uroboros",
-        "type": "toggle",
-        "img": "images/items/uroboros.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "uroboros"
-    },
-    {
-        "name": "napalm_beast",
-        "type": "toggle",
-        "img": "images/items/napalm_beast.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "napalm_beast"
-    },
-    {
-        "name": "demon_skeleton",
-        "type": "toggle",
-        "img": "images/items/demon_skeleton.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "demon_skeleton"
-    },
-    {
-        "name": "fossil_head",
-        "type": "toggle",
-        "img": "images/items/fossil_head.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fossil_head"
-    },
-    {
-        "name": "uberbomberbot",
-        "type": "toggle",
-        "img": "images/items/uberbomberbot.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "uberbomberbot"
-    },
-    {
-        "name": "chaos_knight",
-        "type": "toggle",
-        "img": "images/items/chaos_knight.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chaos_knight"
-    },
-    {
-        "name": "elf",
-        "type": "toggle",
-        "img": "images/items/elf.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "elf"
-    },
-    {
-        "name": "brine_dragon",
-        "type": "toggle",
-        "img": "images/items/brine_dragon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "brine_dragon"
-    },
-    {
-        "name": "pixie",
-        "type": "toggle",
-        "img": "images/items/pixie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "pixie"
-    },
-    {
-        "name": "decoy_pillar",
-        "type": "toggle",
-        "img": "images/items/decoy_pillar.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "decoy_pillar"
-    },
-    {
-        "name": "sandbeetle",
-        "type": "toggle",
-        "img": "images/items/sandbeetle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sandbeetle"
-    },
-    {
-        "name": "earth_elemental",
-        "type": "toggle",
-        "img": "images/items/earth_elemental.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "earth_elemental"
-    },
-    {
-        "name": "myconid",
-        "type": "toggle",
-        "img": "images/items/myconid.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "myconid"
-    },
-    {
-        "name": "water_elemental",
-        "type": "toggle",
-        "img": "images/items/water_elemental.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "water_elemental"
-    },
-    {
-        "name": "phantom_ship",
-        "type": "toggle",
-        "img": "images/items/phantom_ship.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "phantom_ship"
-    },
-    {
-        "name": "dark_treant",
-        "type": "toggle",
-        "img": "images/items/dark_treant.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dark_treant"
-    },
-    {
-        "name": "aggressor_dx5",
-        "type": "toggle",
-        "img": "images/items/aggressor_dx5.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "aggressor_dx5"
-    },
-    {
-        "name": "magic_boosters",
-        "type": "toggle",
-        "img": "images/items/magic_boosters.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "magic_boosters"
-    },
-    {
-        "name": "red_lizard",
-        "type": "toggle",
-        "img": "images/items/red_lizard.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "red_lizard"
-    },
-    {
-        "name": "fossil_left_wing",
-        "type": "toggle",
-        "img": "images/items/fossil_left_wing.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fossil_left_wing"
-    },
-    {
-        "name": "undine",
-        "type": "toggle",
-        "img": "images/items/undine.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "undine"
-    },
-    {
-        "name": "elf_lord",
-        "type": "toggle",
-        "img": "images/items/elf_lord.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "elf_lord"
-    },
-    {
-        "name": "mechlance_5l",
-        "type": "toggle",
-        "img": "images/items/mechlance_5l.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mechlance_5l"
-    },
-    {
-        "name": "dark_elf",
-        "type": "toggle",
-        "img": "images/items/dark_elf.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dark_elf"
-    },
-    {
-        "name": "tiger_mage",
-        "type": "toggle",
-        "img": "images/items/tiger_mage.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "tiger_mage"
-    },
-    {
-        "name": "lamassu",
-        "type": "toggle",
-        "img": "images/items/lamassu.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lamassu"
-    },
-    {
-        "name": "ryuhi",
-        "type": "toggle",
-        "img": "images/items/ryuhi.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ryuhi"
-    },
-    {
-        "name": "giant_crab",
-        "type": "toggle",
-        "img": "images/items/giant_crab.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "giant_crab"
-    },
-    {
-        "name": "aggressor_gl2",
-        "type": "toggle",
-        "img": "images/items/aggressor_gl2.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "aggressor_gl2"
-    },
-    {
-        "name": "lazerbug_39k",
-        "type": "toggle",
-        "img": "images/items/lazerbug_39k.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lazerbug_39k"
-    },
-    {
-        "name": "fountain_key",
-        "type": "toggle",
-        "img": "images/items/fountain_key.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fountain_key"
-    },
-    {
-        "name": "lucky_lion",
-        "type": "toggle",
-        "img": "images/items/lucky_lion.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "lucky_lion"
-    },
-    {
-        "name": "white_tiger",
-        "type": "toggle",
-        "img": "images/items/white_tiger.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "white_tiger"
-    },
-    {
-        "name": "great_turtle",
-        "type": "toggle",
-        "img": "images/items/great_turtle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "great_turtle"
-    },
-    {
-        "name": "rubber_froggy",
-        "type": "toggle",
-        "img": "images/items/rubber_froggy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rubber_froggy"
-    },
-    {
-        "name": "mandragora",
-        "type": "toggle",
-        "img": "images/items/mandragora.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mandragora"
-    },
-    {
-        "name": "skeleton",
-        "type": "toggle",
-        "img": "images/items/skeleton.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "skeleton"
-    },
-    {
-        "name": "jack-o-lantern",
-        "type": "toggle",
-        "img": "images/items/jack-o-lantern.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "jack-o-lantern"
-    },
-    {
-        "name": "venus_spider",
-        "type": "toggle",
-        "img": "images/items/venus_spider.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "venus_spider"
-    },
-    {
-        "name": "chameleus",
-        "type": "toggle",
-        "img": "images/items/chameleus.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chameleus"
-    },
-    {
-        "name": "talos",
-        "type": "toggle",
-        "img": "images/items/talos.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "talos"
-    },
-    {
-        "name": "vodianoi",
-        "type": "toggle",
-        "img": "images/items/vodianoi.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "vodianoi"
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressive_attribute_proficiency_earth"
     },
     {
         "name": "progressive_attribute_proficiency_wood",
         "type": "consumable",
         "img": "images/items/progressive_attribute_proficiency_wood.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
+        "min_quantity": 3,
+        "max_quantity": 8,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 1,
@@ -1350,599 +414,11 @@
         "codes": "progressive_attribute_proficiency_wood"
     },
     {
-        "name": "undead_knight",
-        "type": "toggle",
-        "img": "images/items/undead_knight.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "undead_knight"
-    },
-    {
-        "name": "elephant_king",
-        "type": "toggle",
-        "img": "images/items/elephant_king.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "elephant_king"
-    },
-    {
-        "name": "great_demon",
-        "type": "toggle",
-        "img": "images/items/great_demon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "great_demon"
-    },
-    {
-        "name": "ice_golem",
-        "type": "toggle",
-        "img": "images/items/ice_golem.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ice_golem"
-    },
-    {
-        "name": "siren",
-        "type": "toggle",
-        "img": "images/items/siren.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "siren"
-    },
-    {
-        "name": "baba_yaga",
-        "type": "toggle",
-        "img": "images/items/baba_yaga.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "baba_yaga"
-    },
-    {
-        "name": "ghoul",
-        "type": "toggle",
-        "img": "images/items/ghoul.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ghoul"
-    },
-    {
-        "name": "bird_man",
-        "type": "toggle",
-        "img": "images/items/bird_man.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "bird_man"
-    },
-    {
-        "name": "blood_bush",
-        "type": "toggle",
-        "img": "images/items/blood_bush.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blood_bush"
-    },
-    {
-        "name": "wyvern",
-        "type": "toggle",
-        "img": "images/items/wyvern.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "wyvern"
-    },
-    {
-        "name": "yowie",
-        "type": "toggle",
-        "img": "images/items/yowie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "yowie"
-    },
-    {
-        "name": "green_dragon",
-        "type": "toggle",
-        "img": "images/items/green_dragon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "green_dragon"
-    },
-    {
-        "name": "devata",
-        "type": "toggle",
-        "img": "images/items/devata.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "devata"
-    },
-    {
-        "name": "vampire_bush",
-        "type": "toggle",
-        "img": "images/items/vampire_bush.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "vampire_bush"
-    },
-    {
-        "name": "progressive_attribute_proficiency_mech",
-        "type": "consumable",
-        "img": "images/items/progressive_attribute_proficiency_mech.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressive_attribute_proficiency_mech"
-    },
-    {
-        "name": "trickster",
-        "type": "toggle",
-        "img": "images/items/trickster.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "trickster"
-    },
-    {
-        "name": "anarchy_owl",
-        "type": "toggle",
-        "img": "images/items/anarchy_owl.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "anarchy_owl"
-    },
-    {
-        "name": "fossil_right_arm",
-        "type": "toggle",
-        "img": "images/items/fossil_right_arm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fossil_right_arm"
-    },
-    {
-        "name": "mysterious_key",
-        "type": "toggle",
-        "img": "images/items/mysterious_key.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "mysterious_key"
-    },
-    {
-        "name": "berserker",
-        "type": "toggle",
-        "img": "images/items/berserker.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "berserker"
-    },
-    {
-        "name": "chariobot",
-        "type": "toggle",
-        "img": "images/items/chariobot.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chariobot"
-    },
-    {
-        "name": "rabandos",
-        "type": "toggle",
-        "img": "images/items/rabandos.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rabandos"
-    },
-    {
-        "name": "evil_eye",
-        "type": "toggle",
-        "img": "images/items/evil_eye.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "evil_eye"
-    },
-    {
-        "name": "gnome",
-        "type": "toggle",
-        "img": "images/items/gnome.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gnome"
-    },
-    {
-        "name": "raflesia",
-        "type": "toggle",
-        "img": "images/items/raflesia.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "raflesia"
-    },
-    {
-        "name": "blue_mold",
-        "type": "toggle",
-        "img": "images/items/blue_mold.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blue_mold"
-    },
-    {
-        "name": "sasquatch",
-        "type": "toggle",
-        "img": "images/items/sasquatch.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "sasquatch"
-    },
-    {
-        "name": "porcupig",
-        "type": "toggle",
-        "img": "images/items/porcupig.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "porcupig"
-    },
-    {
-        "name": "basilisk",
-        "type": "toggle",
-        "img": "images/items/basilisk.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "basilisk"
-    },
-    {
-        "name": "ice_skeleton",
-        "type": "toggle",
-        "img": "images/items/ice_skeleton.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "ice_skeleton"
-    },
-    {
-        "name": "stone_golem",
-        "type": "toggle",
-        "img": "images/items/stone_golem.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "stone_golem"
-    },
-    {
-        "name": "gravity_pillar",
-        "type": "toggle",
-        "img": "images/items/gravity_pillar.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gravity_pillar"
-    },
-    {
-        "name": "manticore",
-        "type": "toggle",
-        "img": "images/items/manticore.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "manticore"
-    },
-    {
-        "name": "succubus",
-        "type": "toggle",
-        "img": "images/items/succubus.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "succubus"
-    },
-    {
-        "name": "dark_raven",
-        "type": "toggle",
-        "img": "images/items/dark_raven.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dark_raven"
-    },
-    {
-        "name": "apsaras",
-        "type": "toggle",
-        "img": "images/items/apsaras.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "apsaras"
-    },
-    {
-        "name": "runestone_ebin",
-        "type": "toggle",
-        "img": "images/items/runestone_ebin.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "runestone_ebin"
-    },
-    {
-        "name": "nueh",
-        "type": "toggle",
-        "img": "images/items/nueh.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "nueh"
-    },
-    {
-        "name": "golden_goose",
-        "type": "toggle",
-        "img": "images/items/golden_goose.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "golden_goose"
-    },
-    {
-        "name": "dryad",
-        "type": "toggle",
-        "img": "images/items/dryad.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dryad"
-    },
-    {
-        "name": "circasaurus",
-        "type": "toggle",
-        "img": "images/items/circasaurus.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "circasaurus"
-    },
-    {
-        "name": "vouivre",
-        "type": "toggle",
-        "img": "images/items/vouivre.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "vouivre"
-    },
-    {
-        "name": "whip_worm",
-        "type": "toggle",
-        "img": "images/items/whip_worm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "whip_worm"
-    },
-    {
-        "name": "fossil_torso",
-        "type": "toggle",
-        "img": "images/items/fossil_torso.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fossil_torso"
-    },
-    {
-        "name": "boom_monkey",
-        "type": "toggle",
-        "img": "images/items/boom_monkey.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "boom_monkey"
-    },
-    {
-        "name": "coal_treant",
-        "type": "toggle",
-        "img": "images/items/coal_treant.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "coal_treant"
-    },
-    {
-        "name": "fossil_right_wing",
-        "type": "toggle",
-        "img": "images/items/fossil_right_wing.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fossil_right_wing"
-    },
-    {
-        "name": "hobgoblin",
-        "type": "toggle",
-        "img": "images/items/hobgoblin.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "hobgoblin"
-    },
-    {
-        "name": "incubus",
-        "type": "toggle",
-        "img": "images/items/incubus.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "incubus"
-    },
-    {
-        "name": "god_of_destruction",
-        "type": "toggle",
-        "img": "images/items/god_of_destruction.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "god_of_destruction"
-    },
-    {
-        "name": "phooka",
-        "type": "toggle",
-        "img": "images/items/phooka.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "phooka"
-    },
-    {
-        "name": "red_dragon",
-        "type": "toggle",
-        "img": "images/items/red_dragon.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "red_dragon"
-    },
-    {
-        "name": "leprechaun",
-        "type": "toggle",
-        "img": "images/items/leprechaun.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "leprechaun"
-    },
-    {
-        "name": "land_shark",
-        "type": "toggle",
-        "img": "images/items/land_shark.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "land_shark"
-    },
-    {
-        "name": "acid_cloud",
-        "type": "toggle",
-        "img": "images/items/acid_cloud.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "acid_cloud"
-    },
-    {
-        "name": "witchlette",
-        "type": "toggle",
-        "img": "images/items/witchlette.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "witchlette"
-    },
-    {
-        "name": "banshee",
-        "type": "toggle",
-        "img": "images/items/banshee.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "banshee"
-    },
-    {
-        "name": "spartoi",
-        "type": "toggle",
-        "img": "images/items/spartoi.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "spartoi"
-    },
-    {
-        "name": "flying_ray",
-        "type": "toggle",
-        "img": "images/items/flying_ray.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "flying_ray"
-    },
-    {
-        "name": "valkyrie",
-        "type": "toggle",
-        "img": "images/items/valkyrie.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "valkyrie"
-    },
-    {
-        "name": "rheebus",
-        "type": "toggle",
-        "img": "images/items/rheebus.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "rheebus"
-    },
-    {
-        "name": "carbuncle",
-        "type": "toggle",
-        "img": "images/items/carbuncle.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "carbuncle"
-    },
-    {
-        "name": "demon_hound",
-        "type": "toggle",
-        "img": "images/items/demon_hound.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "demon_hound"
-    },
-    {
-        "name": "maelstrom",
-        "type": "toggle",
-        "img": "images/items/maelstrom.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "maelstrom"
-    },
-    {
-        "name": "man_trap",
-        "type": "toggle",
-        "img": "images/items/man_trap.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "man_trap"
-    },
-    {
-        "name": "fairy",
-        "type": "toggle",
-        "img": "images/items/fairy.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fairy"
-    },
-    {
-        "name": "vampire",
-        "type": "toggle",
-        "img": "images/items/vampire.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "vampire"
-    },
-    {
-        "name": "gizmolizer",
-        "type": "toggle",
-        "img": "images/items/gizmolizer.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "gizmolizer"
-    },
-    {
-        "name": "catoblepas",
-        "type": "toggle",
-        "img": "images/items/catoblepas.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "catoblepas"
-    },
-    {
-        "name": "red_fairy",
-        "type": "consumable",
-        "img": "images/items/red_fairy.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "red_fairy"
-    },
-    {
-        "name": "water_reaper",
-        "type": "toggle",
-        "img": "images/items/water_reaper.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "water_reaper"
-    },
-    {
-        "name": "dragon_knight",
-        "type": "toggle",
-        "img": "images/items/dragon_knight.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "dragon_knight"
-    },
-    {
         "name": "progressive_attribute_proficiency_neutral",
         "type": "consumable",
         "img": "images/items/progressive_attribute_proficiency_neutral.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
+        "min_quantity": 1,
+        "max_quantity": 8,
         "increment": 1,
         "decrement": 1,
         "initial_quantity": 1,
@@ -1952,9 +428,1552 @@
         "codes": "progressive_attribute_proficiency_neutral"
     },
     {
+        "name": "progressive_attribute_proficiency_mech",
+        "type": "consumable",
+        "img": "images/items/progressive_attribute_proficiency_mech.png",
+        "min_quantity": 1,
+        "max_quantity": 8,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressive_attribute_proficiency_mech"
+    },
+
+    {
+        "name": "fenril",
+        "type": "toggle",
+        "img": "images/items/cards/fenril.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fenril"
+    },
+    {
+        "name": "golden_porcupig",
+        "type": "toggle",
+        "img": "images/items/cards/golden_porcupig.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "golden_porcupig"
+    },
+    {
+        "name": "lich",
+        "type": "toggle",
+        "img": "images/items/cards/lich.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lich"
+    },
+    {
+        "name": "scythe_beast",
+        "type": "toggle",
+        "img": "images/items/cards/scythe_beast.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "scythe_beast"
+    },
+    {
+        "name": "plague_rat",
+        "type": "toggle",
+        "img": "images/items/cards/plague_rat.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "plague_rat"
+    },
+    {
+        "name": "fire_golem",
+        "type": "toggle",
+        "img": "images/items/cards/fire_golem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fire_golem"
+    },
+    {
+        "name": "bum_hagan",
+        "type": "toggle",
+        "img": "images/items/cards/bum_hagan.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bum_hagan"
+    },
+    {
+        "name": "crystal_magic",
+        "type": "toggle",
+        "img": "images/items/cards/crystal_magic.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crystal_magic"
+    },
+    {
+        "name": "sacred_umpire",
+        "type": "toggle",
+        "img": "images/items/cards/sacred_umpire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sacred_umpire"
+    },
+    {
+        "name": "flayer_spawn",
+        "type": "toggle",
+        "img": "images/items/cards/flayer_spawn.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flayer_spawn"
+    },
+    {
+        "name": "tumble_chick",
+        "type": "toggle",
+        "img": "images/items/cards/tumble_chick.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tumble_chick"
+    },
+    {
+        "name": "efreet",
+        "type": "toggle",
+        "img": "images/items/cards/efreet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "efreet"
+    },
+    {
+        "name": "psycho_dice",
+        "type": "toggle",
+        "img": "images/items/cards/psycho_dice.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "psycho_dice"
+    },
+    {
+        "name": "super_pumper",
+        "type": "toggle",
+        "img": "images/items/cards/super_pumper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "super_pumper"
+    },
+    {
+        "name": "elephant",
+        "type": "toggle",
+        "img": "images/items/cards/elephant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elephant"
+    },
+    {
+        "name": "demon_swordsman",
+        "type": "toggle",
+        "img": "images/items/cards/demon_swordsman.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "demon_swordsman"
+    },
+    {
+        "name": "marid",
+        "type": "toggle",
+        "img": "images/items/cards/marid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "marid"
+    },
+    {
+        "name": "demon_fox",
+        "type": "toggle",
+        "img": "images/items/cards/demon_fox.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "demon_fox"
+    },
+    {
+        "name": "yin_yang",
+        "type": "toggle",
+        "img": "images/items/cards/yin_yang.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yin_yang"
+    },
+    {
+        "name": "juggernaut",
+        "type": "toggle",
+        "img": "images/items/cards/juggernaut.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "juggernaut"
+    },
+    {
+        "name": "king_mandragora",
+        "type": "toggle",
+        "img": "images/items/cards/king_mandragora.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "king_mandragora"
+    },
+    {
+        "name": "sekmet",
+        "type": "toggle",
+        "img": "images/items/cards/sekmet.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sekmet"
+    },
+    {
+        "name": "venom_lizard",
+        "type": "toggle",
+        "img": "images/items/cards/venom_lizard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "venom_lizard"
+    },
+    {
+        "name": "lizard_man",
+        "type": "toggle",
+        "img": "images/items/cards/lizard_man.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lizard_man"
+    },
+    {
+        "name": "dark_sprite",
+        "type": "toggle",
+        "img": "images/items/cards/dark_sprite.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dark_sprite"
+    },
+    {
+        "name": "fafnir",
+        "type": "toggle",
+        "img": "images/items/cards/fafnir.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fafnir"
+    },
+    {
+        "name": "earth_moray",
+        "type": "toggle",
+        "img": "images/items/cards/earth_moray.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "earth_moray"
+    },
+    {
+        "name": "stone_head",
+        "type": "toggle",
+        "img": "images/items/cards/stone_head.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stone_head"
+    },
+    {
+        "name": "salamander",
+        "type": "toggle",
+        "img": "images/items/cards/salamander.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "salamander"
+    },
+    {
+        "name": "sea_monk",
+        "type": "toggle",
+        "img": "images/items/cards/sea_monk.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sea_monk"
+    },
+    {
+        "name": "running_bird",
+        "type": "toggle",
+        "img": "images/items/cards/running_bird.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "running_bird"
+    },
+    {
+        "name": "daidarapochi",
+        "type": "toggle",
+        "img": "images/items/cards/daidarapochi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "daidarapochi"
+    },
+    {
+        "name": "sand_worm",
+        "type": "toggle",
+        "img": "images/items/cards/sand_worm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sand_worm"
+    },
+    {
+        "name": "superscrubber",
+        "type": "toggle",
+        "img": "images/items/cards/superscrubber.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "superscrubber"
+    },
+    {
+        "name": "kitty_trap",
+        "type": "toggle",
+        "img": "images/items/cards/kitty_trap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kitty_trap"
+    },
+    {
+        "name": "sleipnir",
+        "type": "toggle",
+        "img": "images/items/cards/sleipnir.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sleipnir"
+    },
+    {
+        "name": "pegasus",
+        "type": "toggle",
+        "img": "images/items/cards/pegasus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pegasus"
+    },
+    {
+        "name": "goblin_lord",
+        "type": "toggle",
+        "img": "images/items/cards/goblin_lord.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "goblin_lord"
+    },
+    {
+        "name": "steel_skeleton",
+        "type": "toggle",
+        "img": "images/items/cards/steel_skeleton.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "steel_skeleton"
+    },
+    {
+        "name": "popgun_charlie",
+        "type": "toggle",
+        "img": "images/items/cards/popgun_charlie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "popgun_charlie"
+    },
+    {
+        "name": "jade_giant",
+        "type": "toggle",
+        "img": "images/items/cards/jade_giant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jade_giant"
+    },
+    {
+        "name": "sand_golem",
+        "type": "toggle",
+        "img": "images/items/cards/sand_golem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sand_golem"
+    },
+    {
+        "name": "march_hare",
+        "type": "toggle",
+        "img": "images/items/cards/march_hare.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "march_hare"
+    },
+    {
+        "name": "amber_dragon",
+        "type": "toggle",
+        "img": "images/items/cards/amber_dragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "amber_dragon"
+    },
+    {
+        "name": "thanatos",
+        "type": "toggle",
+        "img": "images/items/cards/thanatos.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "thanatos"
+    },
+    {
+        "name": "baby_dragon",
+        "type": "toggle",
+        "img": "images/items/cards/baby_dragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "baby_dragon"
+    },
+    {
+        "name": "matador",
+        "type": "toggle",
+        "img": "images/items/cards/matador.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "matador"
+    },
+    {
+        "name": "ghost_armor",
+        "type": "toggle",
+        "img": "images/items/cards/ghost_armor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ghost_armor"
+    },
+    {
+        "name": "wizard",
+        "type": "toggle",
+        "img": "images/items/cards/wizard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wizard"
+    },
+    {
+        "name": "treant",
+        "type": "toggle",
+        "img": "images/items/cards/treant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "treant"
+    },
+    {
+        "name": "hydra",
+        "type": "toggle",
+        "img": "images/items/cards/hydra.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hydra"
+    },
+    {
+        "name": "demon_lord",
+        "type": "toggle",
+        "img": "images/items/cards/demon_lord.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "demon_lord"
+    },
+    {
+        "name": "claws-r-us",
+        "type": "toggle",
+        "img": "images/items/cards/claws-r-us.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "claws-r-us"
+    },
+    {
+        "name": "zombie_dragon",
+        "type": "toggle",
+        "img": "images/items/cards/zombie_dragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "zombie_dragon"
+    },
+    {
+        "name": "chimera",
+        "type": "toggle",
+        "img": "images/items/cards/chimera.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chimera"
+    },
+    {
+        "name": "mummy",
+        "type": "toggle",
+        "img": "images/items/cards/mummy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mummy"
+    },
+    {
+        "name": "wood_elemental",
+        "type": "toggle",
+        "img": "images/items/cards/wood_elemental.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wood_elemental"
+    },
+    {
+        "name": "gorgon",
+        "type": "toggle",
+        "img": "images/items/cards/gorgon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gorgon"
+    },
+    {
+        "name": "mind_flayer",
+        "type": "toggle",
+        "img": "images/items/cards/mind_flayer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mind_flayer"
+    },
+    {
+        "name": "berserk_master",
+        "type": "toggle",
+        "img": "images/items/cards/berserk_master.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "berserk_master"
+    },
+    {
+        "name": "orc",
+        "type": "toggle",
+        "img": "images/items/cards/orc.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "orc"
+    },
+    {
+        "name": "mermaid",
+        "type": "toggle",
+        "img": "images/items/cards/mermaid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mermaid"
+    },
+    {
+        "name": "beaker",
+        "type": "toggle",
+        "img": "images/items/cards/beaker.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beaker"
+    },
+    {
+        "name": "wraith",
+        "type": "toggle",
+        "img": "images/items/cards/wraith.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wraith"
+    },
+    {
+        "name": "beelzebub",
+        "type": "toggle",
+        "img": "images/items/cards/beelzebub.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beelzebub"
+    },
+    {
+        "name": "necromancer",
+        "type": "toggle",
+        "img": "images/items/cards/necromancer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "necromancer"
+    },
+    {
+        "name": "night_mare",
+        "type": "toggle",
+        "img": "images/items/cards/night_mare.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "night_mare"
+    },
+    {
+        "name": "barometz",
+        "type": "toggle",
+        "img": "images/items/cards/barometz.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "barometz"
+    },
+    {
+        "name": "cockatrice",
+        "type": "toggle",
+        "img": "images/items/cards/cockatrice.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cockatrice"
+    },
+    {
+        "name": "archer_tree",
+        "type": "toggle",
+        "img": "images/items/cards/archer_tree.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "archer_tree"
+    },
+    {
+        "name": "gold_butterfly",
+        "type": "toggle",
+        "img": "images/items/cards/gold_butterfly.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gold_butterfly"
+    },
+    {
+        "name": "fireworks",
+        "type": "toggle",
+        "img": "images/items/cards/fireworks.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fireworks"
+    },
+    {
+        "name": "devil_plant",
+        "type": "toggle",
+        "img": "images/items/cards/devil_plant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "devil_plant"
+    },
+    {
+        "name": "water_moray",
+        "type": "toggle",
+        "img": "images/items/cards/water_moray.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "water_moray"
+    },
+    {
+        "name": "puppet_master",
+        "type": "toggle",
+        "img": "images/items/cards/puppet_master.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "puppet_master"
+    },
+    {
+        "name": "cyclops",
+        "type": "toggle",
+        "img": "images/items/cards/cyclops.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cyclops"
+    },
+    {
+        "name": "astrobot",
+        "type": "toggle",
+        "img": "images/items/cards/astrobot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "astrobot"
+    },
+    {
+        "name": "mechapult",
+        "type": "toggle",
+        "img": "images/items/cards/mechapult.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mechapult"
+    },
+    {
+        "name": "behemoth",
+        "type": "toggle",
+        "img": "images/items/cards/behemoth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "behemoth"
+    },
+    {
+        "name": "sphinx",
+        "type": "toggle",
+        "img": "images/items/cards/sphinx.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sphinx"
+    },
+    {
+        "name": "charadrius",
+        "type": "toggle",
+        "img": "images/items/cards/charadrius.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "charadrius"
+    },
+    {
+        "name": "octobush",
+        "type": "toggle",
+        "img": "images/items/cards/octobush.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "octobush"
+    },
+    {
+        "name": "emperor",
+        "type": "toggle",
+        "img": "images/items/cards/emperor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "emperor"
+    },
+    {
+        "name": "lycanthrope",
+        "type": "toggle",
+        "img": "images/items/cards/lycanthrope.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lycanthrope"
+    },
+    {
+        "name": "blue_dragon",
+        "type": "toggle",
+        "img": "images/items/cards/blue_dragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blue_dragon"
+    },
+    {
+        "name": "mandra_dancer",
+        "type": "toggle",
+        "img": "images/items/cards/mandra_dancer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mandra_dancer"
+    },
+    {
+        "name": "gemini",
+        "type": "toggle",
+        "img": "images/items/cards/gemini.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gemini"
+    },
+    {
+        "name": "fire_elemental",
+        "type": "toggle",
+        "img": "images/items/cards/fire_elemental.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fire_elemental"
+    },
+    {
+        "name": "dragonoid",
+        "type": "toggle",
+        "img": "images/items/cards/dragonoid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dragonoid"
+    },
+    {
+        "name": "death",
+        "type": "toggle",
+        "img": "images/items/cards/death.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "death"
+    },
+    {
+        "name": "gargoyle",
+        "type": "toggle",
+        "img": "images/items/cards/gargoyle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gargoyle"
+    },
+    {
+        "name": "acid_bot",
+        "type": "toggle",
+        "img": "images/items/cards/acid_bot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "acid_bot"
+    },
+    {
+        "name": "will_o_wisp",
+        "type": "toggle",
+        "img": "images/items/cards/will_o_wisp.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "will_o_wisp"
+    },
+    {
+        "name": "uroboros",
+        "type": "toggle",
+        "img": "images/items/cards/uroboros.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uroboros"
+    },
+    {
+        "name": "napalm_beast",
+        "type": "toggle",
+        "img": "images/items/cards/napalm_beast.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "napalm_beast"
+    },
+    {
+        "name": "demon_skeleton",
+        "type": "toggle",
+        "img": "images/items/cards/demon_skeleton.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "demon_skeleton"
+    },
+    {
+        "name": "uberbomberbot",
+        "type": "toggle",
+        "img": "images/items/cards/uberbomberbot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uberbomberbot"
+    },
+    {
+        "name": "chaos_knight",
+        "type": "toggle",
+        "img": "images/items/cards/chaos_knight.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chaos_knight"
+    },
+    {
+        "name": "elf",
+        "type": "toggle",
+        "img": "images/items/cards/elf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elf"
+    },
+    {
+        "name": "brine_dragon",
+        "type": "toggle",
+        "img": "images/items/cards/brine_dragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "brine_dragon"
+    },
+    {
+        "name": "pixie",
+        "type": "toggle",
+        "img": "images/items/cards/pixie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pixie"
+    },
+    {
+        "name": "decoy_pillar",
+        "type": "toggle",
+        "img": "images/items/cards/decoy_pillar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "decoy_pillar"
+    },
+    {
+        "name": "sandbeetle",
+        "type": "toggle",
+        "img": "images/items/cards/sandbeetle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sandbeetle"
+    },
+    {
+        "name": "earth_elemental",
+        "type": "toggle",
+        "img": "images/items/cards/earth_elemental.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "earth_elemental"
+    },
+    {
+        "name": "myconid",
+        "type": "toggle",
+        "img": "images/items/cards/myconid.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "myconid"
+    },
+    {
+        "name": "water_elemental",
+        "type": "toggle",
+        "img": "images/items/cards/water_elemental.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "water_elemental"
+    },
+    {
+        "name": "phantom_ship",
+        "type": "toggle",
+        "img": "images/items/cards/phantom_ship.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "phantom_ship"
+    },
+    {
+        "name": "dark_treant",
+        "type": "toggle",
+        "img": "images/items/cards/dark_treant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dark_treant"
+    },
+    {
+        "name": "aggressor_dx5",
+        "type": "toggle",
+        "img": "images/items/cards/aggressor_dx5.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aggressor_dx5"
+    },
+    {
+        "name": "red_lizard",
+        "type": "toggle",
+        "img": "images/items/cards/red_lizard.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "red_lizard"
+    },
+    {
+        "name": "undine",
+        "type": "toggle",
+        "img": "images/items/cards/undine.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "undine"
+    },
+    {
+        "name": "elf_lord",
+        "type": "toggle",
+        "img": "images/items/cards/elf_lord.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elf_lord"
+    },
+    {
+        "name": "mechlance_5l",
+        "type": "toggle",
+        "img": "images/items/cards/mechlance_5l.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mechlance_5l"
+    },
+    {
+        "name": "dark_elf",
+        "type": "toggle",
+        "img": "images/items/cards/dark_elf.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dark_elf"
+    },
+    {
+        "name": "tiger_mage",
+        "type": "toggle",
+        "img": "images/items/cards/tiger_mage.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tiger_mage"
+    },
+    {
+        "name": "lamassu",
+        "type": "toggle",
+        "img": "images/items/cards/lamassu.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lamassu"
+    },
+    {
+        "name": "ryuhi",
+        "type": "toggle",
+        "img": "images/items/cards/ryuhi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ryuhi"
+    },
+    {
+        "name": "giant_crab",
+        "type": "toggle",
+        "img": "images/items/cards/giant_crab.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "giant_crab"
+    },
+    {
+        "name": "aggressor_gl2",
+        "type": "toggle",
+        "img": "images/items/cards/aggressor_gl2.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "aggressor_gl2"
+    },
+    {
+        "name": "lazerbug_39k",
+        "type": "toggle",
+        "img": "images/items/cards/lazerbug_39k.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lazerbug_39k"
+    },
+    {
+        "name": "lucky_lion",
+        "type": "toggle",
+        "img": "images/items/cards/lucky_lion.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lucky_lion"
+    },
+    {
+        "name": "white_tiger",
+        "type": "toggle",
+        "img": "images/items/cards/white_tiger.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "white_tiger"
+    },
+    {
+        "name": "great_turtle",
+        "type": "toggle",
+        "img": "images/items/cards/great_turtle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "great_turtle"
+    },
+    {
+        "name": "rubber_froggy",
+        "type": "toggle",
+        "img": "images/items/cards/rubber_froggy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rubber_froggy"
+    },
+    {
+        "name": "mandragora",
+        "type": "toggle",
+        "img": "images/items/cards/mandragora.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mandragora"
+    },
+    {
+        "name": "skeleton",
+        "type": "toggle",
+        "img": "images/items/cards/skeleton.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skeleton"
+    },
+    {
+        "name": "jack-o-lantern",
+        "type": "toggle",
+        "img": "images/items/cards/jack-o-lantern.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "jack-o-lantern"
+    },
+    {
+        "name": "venus_spider",
+        "type": "toggle",
+        "img": "images/items/cards/venus_spider.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "venus_spider"
+    },
+    {
+        "name": "chameleus",
+        "type": "toggle",
+        "img": "images/items/cards/chameleus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chameleus"
+    },
+    {
+        "name": "talos",
+        "type": "toggle",
+        "img": "images/items/cards/talos.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "talos"
+    },
+    {
+        "name": "vodianoi",
+        "type": "toggle",
+        "img": "images/items/cards/vodianoi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vodianoi"
+    },
+    {
+        "name": "undead_knight",
+        "type": "toggle",
+        "img": "images/items/cards/undead_knight.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "undead_knight"
+    },
+    {
+        "name": "elephant_king",
+        "type": "toggle",
+        "img": "images/items/cards/elephant_king.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "elephant_king"
+    },
+    {
+        "name": "great_demon",
+        "type": "toggle",
+        "img": "images/items/cards/great_demon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "great_demon"
+    },
+    {
+        "name": "ice_golem",
+        "type": "toggle",
+        "img": "images/items/cards/ice_golem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ice_golem"
+    },
+    {
+        "name": "siren",
+        "type": "toggle",
+        "img": "images/items/cards/siren.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "siren"
+    },
+    {
+        "name": "ghoul",
+        "type": "toggle",
+        "img": "images/items/cards/ghoul.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ghoul"
+    },
+    {
+        "name": "blood_bush",
+        "type": "toggle",
+        "img": "images/items/cards/blood_bush.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blood_bush"
+    },
+    {
+        "name": "yowie",
+        "type": "toggle",
+        "img": "images/items/cards/yowie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "yowie"
+    },
+    {
+        "name": "green_dragon",
+        "type": "toggle",
+        "img": "images/items/cards/green_dragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "green_dragon"
+    },
+    {
+        "name": "devata",
+        "type": "toggle",
+        "img": "images/items/cards/devata.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "devata"
+    },
+    {
+        "name": "vampire_bush",
+        "type": "toggle",
+        "img": "images/items/cards/vampire_bush.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vampire_bush"
+    },
+    {
+        "name": "trickster",
+        "type": "toggle",
+        "img": "images/items/cards/trickster.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "trickster"
+    },
+    {
+        "name": "anarchy_owl",
+        "type": "toggle",
+        "img": "images/items/cards/anarchy_owl.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "anarchy_owl"
+    },
+    {
+        "name": "berserker",
+        "type": "toggle",
+        "img": "images/items/cards/berserker.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "berserker"
+    },
+    {
+        "name": "chariobot",
+        "type": "toggle",
+        "img": "images/items/cards/chariobot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "chariobot"
+    },
+    {
+        "name": "rabandos",
+        "type": "toggle",
+        "img": "images/items/cards/rabandos.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rabandos"
+    },
+    {
+        "name": "evil_eye",
+        "type": "toggle",
+        "img": "images/items/cards/evil_eye.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "evil_eye"
+    },
+    {
+        "name": "gnome",
+        "type": "toggle",
+        "img": "images/items/cards/gnome.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gnome"
+    },
+    {
+        "name": "raflesia",
+        "type": "toggle",
+        "img": "images/items/cards/raflesia.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "raflesia"
+    },
+    {
+        "name": "blue_mold",
+        "type": "toggle",
+        "img": "images/items/cards/blue_mold.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blue_mold"
+    },
+    {
+        "name": "sasquatch",
+        "type": "toggle",
+        "img": "images/items/cards/sasquatch.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sasquatch"
+    },
+    {
+        "name": "porcupig",
+        "type": "toggle",
+        "img": "images/items/cards/porcupig.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "porcupig"
+    },
+    {
+        "name": "basilisk",
+        "type": "toggle",
+        "img": "images/items/cards/basilisk.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "basilisk"
+    },
+    {
+        "name": "ice_skeleton",
+        "type": "toggle",
+        "img": "images/items/cards/ice_skeleton.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ice_skeleton"
+    },
+    {
+        "name": "gravity_pillar",
+        "type": "toggle",
+        "img": "images/items/cards/gravity_pillar.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gravity_pillar"
+    },
+    {
+        "name": "manticore",
+        "type": "toggle",
+        "img": "images/items/cards/manticore.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "manticore"
+    },
+    {
+        "name": "succubus",
+        "type": "toggle",
+        "img": "images/items/cards/succubus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "succubus"
+    },
+    {
+        "name": "dark_raven",
+        "type": "toggle",
+        "img": "images/items/cards/dark_raven.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dark_raven"
+    },
+    {
+        "name": "apsaras",
+        "type": "toggle",
+        "img": "images/items/cards/apsaras.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "apsaras"
+    },
+    {
+        "name": "nueh",
+        "type": "toggle",
+        "img": "images/items/cards/nueh.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nueh"
+    },
+    {
+        "name": "golden_goose",
+        "type": "toggle",
+        "img": "images/items/cards/golden_goose.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "golden_goose"
+    },
+    {
+        "name": "dryad",
+        "type": "toggle",
+        "img": "images/items/cards/dryad.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dryad"
+    },
+    {
+        "name": "circasaurus",
+        "type": "toggle",
+        "img": "images/items/cards/circasaurus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "circasaurus"
+    },
+    {
+        "name": "vouivre",
+        "type": "toggle",
+        "img": "images/items/cards/vouivre.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vouivre"
+    },
+    {
+        "name": "whip_worm",
+        "type": "toggle",
+        "img": "images/items/cards/whip_worm.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "whip_worm"
+    },
+    {
+        "name": "boom_monkey",
+        "type": "toggle",
+        "img": "images/items/cards/boom_monkey.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "boom_monkey"
+    },
+    {
+        "name": "coal_treant",
+        "type": "toggle",
+        "img": "images/items/cards/coal_treant.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "coal_treant"
+    },
+    {
+        "name": "hobgoblin",
+        "type": "toggle",
+        "img": "images/items/cards/hobgoblin.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hobgoblin"
+    },
+    {
+        "name": "incubus",
+        "type": "toggle",
+        "img": "images/items/cards/incubus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "incubus"
+    },
+    {
+        "name": "phooka",
+        "type": "toggle",
+        "img": "images/items/cards/phooka.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "phooka"
+    },
+    {
+        "name": "red_dragon",
+        "type": "toggle",
+        "img": "images/items/cards/red_dragon.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "red_dragon"
+    },
+    {
+        "name": "leprechaun",
+        "type": "toggle",
+        "img": "images/items/cards/leprechaun.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leprechaun"
+    },
+    {
+        "name": "land_shark",
+        "type": "toggle",
+        "img": "images/items/cards/land_shark.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "land_shark"
+    },
+    {
+        "name": "acid_cloud",
+        "type": "toggle",
+        "img": "images/items/cards/acid_cloud.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "acid_cloud"
+    },
+    {
+        "name": "witchlette",
+        "type": "toggle",
+        "img": "images/items/cards/witchlette.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "witchlette"
+    },
+    {
+        "name": "banshee",
+        "type": "toggle",
+        "img": "images/items/cards/banshee.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "banshee"
+    },
+    {
+        "name": "spartoi",
+        "type": "toggle",
+        "img": "images/items/cards/spartoi.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spartoi"
+    },
+    {
+        "name": "flying_ray",
+        "type": "toggle",
+        "img": "images/items/cards/flying_ray.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flying_ray"
+    },
+    {
+        "name": "valkyrie",
+        "type": "toggle",
+        "img": "images/items/cards/valkyrie.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "valkyrie"
+    },
+    {
+        "name": "rheebus",
+        "type": "toggle",
+        "img": "images/items/cards/rheebus.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rheebus"
+    },
+    {
+        "name": "carbuncle",
+        "type": "toggle",
+        "img": "images/items/cards/carbuncle.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "carbuncle"
+    },
+    {
+        "name": "demon_hound",
+        "type": "toggle",
+        "img": "images/items/cards/demon_hound.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "demon_hound"
+    },
+    {
+        "name": "maelstrom",
+        "type": "toggle",
+        "img": "images/items/cards/maelstrom.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "maelstrom"
+    },
+    {
+        "name": "man_trap",
+        "type": "toggle",
+        "img": "images/items/cards/man_trap.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "man_trap"
+    },
+    {
+        "name": "fairy",
+        "type": "toggle",
+        "img": "images/items/cards/fairy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fairy"
+    },
+    {
+        "name": "vampire",
+        "type": "toggle",
+        "img": "images/items/cards/vampire.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vampire"
+    },
+    {
+        "name": "gizmolizer",
+        "type": "toggle",
+        "img": "images/items/cards/gizmolizer.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gizmolizer"
+    },
+    {
+        "name": "catoblepas",
+        "type": "toggle",
+        "img": "images/items/cards/catoblepas.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "catoblepas"
+    },
+    {
+        "name": "water_reaper",
+        "type": "toggle",
+        "img": "images/items/cards/water_reaper.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "water_reaper"
+    },
+    {
+        "name": "dragon_knight",
+        "type": "toggle",
+        "img": "images/items/cards/dragon_knight.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dragon_knight"
+    },
+    {
         "name": "kraken",
         "type": "toggle",
-        "img": "images/items/kraken.png",
+        "img": "images/items/cards/kraken.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "kraken"
@@ -1962,7 +1981,7 @@
     {
         "name": "ashura",
         "type": "toggle",
-        "img": "images/items/ashura.png",
+        "img": "images/items/cards/ashura.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "ashura"
@@ -1970,7 +1989,7 @@
     {
         "name": "caterpoker",
         "type": "toggle",
-        "img": "images/items/caterpoker.png",
+        "img": "images/items/cards/caterpoker.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "caterpoker"
@@ -1978,7 +1997,7 @@
     {
         "name": "sprite",
         "type": "toggle",
-        "img": "images/items/sprite.png",
+        "img": "images/items/cards/sprite.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sprite"
@@ -1986,7 +2005,7 @@
     {
         "name": "acid_dragon",
         "type": "toggle",
-        "img": "images/items/acid_dragon.png",
+        "img": "images/items/cards/acid_dragon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "acid_dragon"
@@ -1994,7 +2013,7 @@
     {
         "name": "fire_moray",
         "type": "toggle",
-        "img": "images/items/fire_moray.png",
+        "img": "images/items/cards/fire_moray.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fire_moray"
@@ -2002,7 +2021,7 @@
     {
         "name": "rock_hagan",
         "type": "toggle",
-        "img": "images/items/rock_hagan.png",
+        "img": "images/items/cards/rock_hagan.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "rock_hagan"
@@ -2010,7 +2029,7 @@
     {
         "name": "sleeping_giant",
         "type": "toggle",
-        "img": "images/items/sleeping_giant.png",
+        "img": "images/items/cards/sleeping_giant.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "sleeping_giant"
@@ -2018,39 +2037,23 @@
     {
         "name": "panther_mage",
         "type": "toggle",
-        "img": "images/items/panther_mage.png",
+        "img": "images/items/cards/panther_mage.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "panther_mage"
     },
     {
-        "name": "fossil_left_arm",
-        "type": "toggle",
-        "img": "images/items/fossil_left_arm.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "fossil_left_arm"
-    },
-    {
         "name": "triblaster",
         "type": "toggle",
-        "img": "images/items/triblaster.png",
+        "img": "images/items/cards/triblaster.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "triblaster"
     },
     {
-        "name": "blade_of_wisdom",
-        "type": "toggle",
-        "img": "images/items/blade_of_wisdom.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blade_of_wisdom"
-    },
-    {
         "name": "fire_gargoyle",
         "type": "toggle",
-        "img": "images/items/fire_gargoyle.png",
+        "img": "images/items/cards/fire_gargoyle.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fire_gargoyle"
@@ -2058,7 +2061,7 @@
     {
         "name": "mole_monster",
         "type": "toggle",
-        "img": "images/items/mole_monster.png",
+        "img": "images/items/cards/mole_monster.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mole_monster"
@@ -2066,7 +2069,7 @@
     {
         "name": "mad_reverser",
         "type": "toggle",
-        "img": "images/items/mad_reverser.png",
+        "img": "images/items/cards/mad_reverser.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mad_reverser"
@@ -2074,7 +2077,7 @@
     {
         "name": "unicorn",
         "type": "toggle",
-        "img": "images/items/unicorn.png",
+        "img": "images/items/cards/unicorn.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "unicorn"
@@ -2082,7 +2085,7 @@
     {
         "name": "phoenix",
         "type": "toggle",
-        "img": "images/items/phoenix.png",
+        "img": "images/items/cards/phoenix.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "phoenix"
@@ -2090,7 +2093,7 @@
     {
         "name": "black_dragon",
         "type": "toggle",
-        "img": "images/items/black_dragon.png",
+        "img": "images/items/cards/black_dragon.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "black_dragon"
@@ -2098,7 +2101,7 @@
     {
         "name": "crystal_rose",
         "type": "toggle",
-        "img": "images/items/crystal_rose.png",
+        "img": "images/items/cards/crystal_rose.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "crystal_rose"
@@ -2106,7 +2109,7 @@
     {
         "name": "storm_hagan",
         "type": "toggle",
-        "img": "images/items/storm_hagan.png",
+        "img": "images/items/cards/storm_hagan.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "storm_hagan"
@@ -2114,7 +2117,7 @@
     {
         "name": "doppelganger",
         "type": "toggle",
-        "img": "images/items/doppelganger.png",
+        "img": "images/items/cards/doppelganger.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "doppelganger"
@@ -2122,7 +2125,7 @@
     {
         "name": "horus",
         "type": "toggle",
-        "img": "images/items/horus.png",
+        "img": "images/items/cards/horus.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "horus"
@@ -2130,7 +2133,7 @@
     {
         "name": "dao",
         "type": "toggle",
-        "img": "images/items/dao.png",
+        "img": "images/items/cards/dao.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "dao"
@@ -2138,7 +2141,7 @@
     {
         "name": "golden_phoenix",
         "type": "toggle",
-        "img": "images/items/golden_phoenix.png",
+        "img": "images/items/cards/golden_phoenix.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "golden_phoenix"
@@ -2146,7 +2149,7 @@
     {
         "name": "larval_fly",
         "type": "toggle",
-        "img": "images/items/larval_fly.png",
+        "img": "images/items/cards/larval_fly.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "larval_fly"
@@ -2154,7 +2157,7 @@
     {
         "name": "global_bust",
         "type": "toggle",
-        "img": "images/items/global_bust.png",
+        "img": "images/items/cards/global_bust.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "global_bust"
@@ -2162,7 +2165,7 @@
     {
         "name": "update",
         "type": "toggle",
-        "img": "images/items/update.png",
+        "img": "images/items/cards/update.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "update"
