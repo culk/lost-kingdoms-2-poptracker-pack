@@ -6,7 +6,6 @@ require("scripts/items_import")
 -- Logic
 require("scripts/logic/logic_helper")
 require("scripts/logic/base_logic")
-require("scripts/logic/graph_logic/logic_main")
 
 -- Maps
 Tracker:AddMaps("maps/maps.json")
