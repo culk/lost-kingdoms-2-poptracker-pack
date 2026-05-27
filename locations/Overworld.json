@@ -1094,6 +1094,26 @@
                     {
                         "name": "Jewel of Alanjeh Reward - ",
                         "ref": "Grenfoel Cathedral/Jewel of Alanjeh Reward/"
+                    },
+                    {
+                        "name": "Near Organ - Red Fairy",
+                        "ref": "Grenfoel Cathedral/Near Organ/Red Fairy"
+                    },
+                    {
+                        "name": "Red Fairy Right Side - ",
+                        "ref": "Grenfoel Cathedral/Red Fairy Right Side/"
+                    },
+                    {
+                        "name": "Four Statues Room - Red Fairy 1",
+                        "ref": "Grenfoel Cathedral/Four Statues Room/Red Fairy 1"
+                    },
+                    {
+                        "name": "Four Statues Room - Red Fairy 2",
+                        "ref": "Grenfoel Cathedral/Four Statues Room/Red Fairy 2"
+                    },
+                    {
+                        "name": "Red Fairy Library - ",
+                        "ref": "Grenfoel Cathedral/Red Fairy Library/"
                     }
                 ],
                 "map_locations": [
@@ -1101,45 +1121,6 @@
                         "map": "Overworld",
                         "x": 2372,
                         "y": 152,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Grenfoel Church",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "Near Organ - Red Fairy",
-                        "ref": "Grenfoel Church/Near Organ/Red Fairy"
-                    },
-                    {
-                        "name": "Red Fairy Right Side - ",
-                        "ref": "Grenfoel Church/Red Fairy Right Side/"
-                    },
-                    {
-                        "name": "Four Statues Room - Red Fairy 1",
-                        "ref": "Grenfoel Church/Four Statues Room/Red Fairy 1"
-                    },
-                    {
-                        "name": "Four Statues Room - Red Fairy 2",
-                        "ref": "Grenfoel Church/Four Statues Room/Red Fairy 2"
-                    },
-                    {
-                        "name": "Red Fairy Library - ",
-                        "ref": "Grenfoel Church/Red Fairy Library/"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 1242,
-                        "y": 2146,
                         "size": 6
                     }
                 ]
