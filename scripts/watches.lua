@@ -1,5 +1,4 @@
--- Archipelago:AddClearHandler("clear handler", onClear)
-Archipelago:AddClearHandler("clear handler", onClearHandler)
+Archipelago:AddClearHandler("clear handler", onClear)
 Archipelago:AddItemHandler("item handler", onItem)
 Archipelago:AddLocationHandler("location handler", onLocation)
 

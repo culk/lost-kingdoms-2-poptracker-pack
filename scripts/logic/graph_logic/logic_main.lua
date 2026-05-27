@@ -247,11 +247,3 @@ function lost_kingdoms_ii_location:discover(accessibility, keys)
 end
 
 entry_point = lost_kingdoms_ii_location.new("entry_point")
-
--- 
-function StateChanged()
-    stale = true
-    -- entry_point:discover(AccessibilityLevel.Normal, 0)
-end
-
-ScriptHost:AddWatchForCode("StateChanged", "*", StateChanged)

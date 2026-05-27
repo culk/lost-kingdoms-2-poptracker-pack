@@ -2161,13 +2161,5 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "global_bust"
-    },
-    {
-        "name": "update",
-        "type": "toggle",
-        "img": "images/items/cards/update.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "update"
     }
 ]

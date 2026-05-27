@@ -78,9 +78,6 @@
                                 "progressive_attribute_proficiency_wood",
                                 "progressive_attribute_proficiency_neutral",
                                 "progressive_attribute_proficiency_mech"
-                            ],
-                            [
-                                "update"
                             ]
                         ]
                     }
@@ -167,9 +164,6 @@
                                 "progressive_attribute_proficiency_wood",
                                 "progressive_attribute_proficiency_neutral",
                                 "progressive_attribute_proficiency_mech"
-                            ],
-                            [
-                                "update"
                             ]
                         ]
                     }
