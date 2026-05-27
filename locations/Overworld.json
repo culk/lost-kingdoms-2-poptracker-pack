@@ -1,0 +1,4002 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Alanjeh Castle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Alanjeh Castle/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Alanjeh Castle/Chest 2/"
+                    },
+                    {
+                        "name": "Chest 3 - ",
+                        "ref": "Alanjeh Castle/Chest 3/"
+                    },
+                    {
+                        "name": "Chest 4 - ",
+                        "ref": "Alanjeh Castle/Chest 4/"
+                    },
+                    {
+                        "name": "Chest 5 - ",
+                        "ref": "Alanjeh Castle/Chest 5/"
+                    },
+                    {
+                        "name": "Chest 6 - ",
+                        "ref": "Alanjeh Castle/Chest 6/"
+                    },
+                    {
+                        "name": "Flight Chest - ",
+                        "ref": "Alanjeh Castle/Flight Chest/"
+                    },
+                    {
+                        "name": "Red Fairy Near Start - ",
+                        "ref": "Alanjeh Castle/Red Fairy Near Start/"
+                    },
+                    {
+                        "name": "Red Fairy Jump - ",
+                        "ref": "Alanjeh Castle/Red Fairy Jump/"
+                    },
+                    {
+                        "name": "Red Fairy End - ",
+                        "ref": "Alanjeh Castle/Red Fairy End/"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #1",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #1"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #2",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #2"
+                    },
+                    {
+                        "name": "Enemysanity - Gizmolizer #1",
+                        "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #1"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #3",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #3"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #4",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #4"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Treant #1",
+                        "ref": "Alanjeh Castle/Enemysanity/Dark Treant #1"
+                    },
+                    {
+                        "name": "Enemysanity - Gizmolizer #2",
+                        "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #2"
+                    },
+                    {
+                        "name": "Enemysanity - Claws-R-Us #1",
+                        "ref": "Alanjeh Castle/Enemysanity/Claws-R-Us #1"
+                    },
+                    {
+                        "name": "Enemysanity - Chariobot #1",
+                        "ref": "Alanjeh Castle/Enemysanity/Chariobot #1"
+                    },
+                    {
+                        "name": "Enemysanity - Claws-R-Us #2",
+                        "ref": "Alanjeh Castle/Enemysanity/Claws-R-Us #2"
+                    },
+                    {
+                        "name": "Enemysanity - Gizmolizer #3",
+                        "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #3"
+                    },
+                    {
+                        "name": "Enemysanity - Claws-R-Us #3",
+                        "ref": "Alanjeh Castle/Enemysanity/Claws-R-Us #3"
+                    },
+                    {
+                        "name": "Enemysanity - Gizmolizer #4",
+                        "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #4"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #5",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #5"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #6",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #6"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #7",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #7"
+                    },
+                    {
+                        "name": "Enemysanity - Chariobot #2",
+                        "ref": "Alanjeh Castle/Enemysanity/Chariobot #2"
+                    },
+                    {
+                        "name": "Enemysanity - Chariobot #3",
+                        "ref": "Alanjeh Castle/Enemysanity/Chariobot #3"
+                    },
+                    {
+                        "name": "Enemysanity - Chariobot #4",
+                        "ref": "Alanjeh Castle/Enemysanity/Chariobot #4"
+                    },
+                    {
+                        "name": "Enemysanity - Chariobot #5",
+                        "ref": "Alanjeh Castle/Enemysanity/Chariobot #5"
+                    },
+                    {
+                        "name": "Enemysanity - Barometz #1",
+                        "ref": "Alanjeh Castle/Enemysanity/Barometz #1"
+                    },
+                    {
+                        "name": "Enemysanity - Barometz #2",
+                        "ref": "Alanjeh Castle/Enemysanity/Barometz #2"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Treant #2",
+                        "ref": "Alanjeh Castle/Enemysanity/Dark Treant #2"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #8",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #8"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #9",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #9"
+                    },
+                    {
+                        "name": "Enemysanity - Gizmolizer #5",
+                        "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #5"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #10",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #10"
+                    },
+                    {
+                        "name": "Enemysanity - Claws-R-Us #4",
+                        "ref": "Alanjeh Castle/Enemysanity/Claws-R-Us #4"
+                    },
+                    {
+                        "name": "Enemysanity - Gizmolizer #6",
+                        "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #6"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #11",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #11"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #12",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #12"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Treant #3",
+                        "ref": "Alanjeh Castle/Enemysanity/Dark Treant #3"
+                    },
+                    {
+                        "name": "Enemysanity - AcidBot #1",
+                        "ref": "Alanjeh Castle/Enemysanity/AcidBot #1"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #13",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #13"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Treant #4",
+                        "ref": "Alanjeh Castle/Enemysanity/Dark Treant #4"
+                    },
+                    {
+                        "name": "Enemysanity - MechLance 5L #14",
+                        "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #14"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 741,
+                        "y": 1669,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bhashea Castle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Central Room Chest - ",
+                        "ref": "Bhashea Castle/Central Room Chest/"
+                    },
+                    {
+                        "name": "West Room Chest - ",
+                        "ref": "Bhashea Castle/West Room Chest/"
+                    },
+                    {
+                        "name": "North Room Chest - ",
+                        "ref": "Bhashea Castle/North Room Chest/"
+                    },
+                    {
+                        "name": "Throne Chest - ",
+                        "ref": "Bhashea Castle/Throne Chest/"
+                    },
+                    {
+                        "name": "East Jump Chest - ",
+                        "ref": "Bhashea Castle/East Jump Chest/"
+                    },
+                    {
+                        "name": "East Stairway Chest - ",
+                        "ref": "Bhashea Castle/East Stairway Chest/"
+                    },
+                    {
+                        "name": "Break Through Wall Chest - ",
+                        "ref": "Bhashea Castle/Break Through Wall Chest/"
+                    },
+                    {
+                        "name": "West Stairway Chest - ",
+                        "ref": "Bhashea Castle/West Stairway Chest/"
+                    },
+                    {
+                        "name": "Red Fairy Near Start - ",
+                        "ref": "Bhashea Castle/Red Fairy Near Start/"
+                    },
+                    {
+                        "name": "Red Fairy Central Room - ",
+                        "ref": "Bhashea Castle/Red Fairy Central Room/"
+                    },
+                    {
+                        "name": "Red Fairy Rubble - ",
+                        "ref": "Bhashea Castle/Red Fairy Rubble/"
+                    },
+                    {
+                        "name": "Red Fairy Throne - ",
+                        "ref": "Bhashea Castle/Red Fairy Throne/"
+                    },
+                    {
+                        "name": "Red Fairy Wall Break Rubble - ",
+                        "ref": "Bhashea Castle/Red Fairy Wall Break Rubble/"
+                    },
+                    {
+                        "name": "Blade of Skill Puzzle - ",
+                        "ref": "Bhashea Castle/Blade of Skill Puzzle/"
+                    },
+                    {
+                        "name": "Steel Skeleton Defeat - ",
+                        "ref": "Bhashea Castle/Steel Skeleton Defeat/"
+                    },
+                    {
+                        "name": "Blade of Wisdom Pickup - ",
+                        "ref": "Bhashea Castle/Blade of Wisdom Pickup/"
+                    },
+                    {
+                        "name": "Blade of Time Pickup - ",
+                        "ref": "Bhashea Castle/Blade of Time Pickup/"
+                    },
+                    {
+                        "name": "Enemysanity - Death #1",
+                        "ref": "Bhashea Castle/Enemysanity/Death #1"
+                    },
+                    {
+                        "name": "Enemysanity - Stone Head #1",
+                        "ref": "Bhashea Castle/Enemysanity/Stone Head #1"
+                    },
+                    {
+                        "name": "Enemysanity - Kitty Trap #1",
+                        "ref": "Bhashea Castle/Enemysanity/Kitty Trap #1"
+                    },
+                    {
+                        "name": "Enemysanity - Kitty Trap #2",
+                        "ref": "Bhashea Castle/Enemysanity/Kitty Trap #2"
+                    },
+                    {
+                        "name": "Enemysanity - Birdman #1",
+                        "ref": "Bhashea Castle/Enemysanity/Birdman #1"
+                    },
+                    {
+                        "name": "Enemysanity - Stone Head #2",
+                        "ref": "Bhashea Castle/Enemysanity/Stone Head #2"
+                    },
+                    {
+                        "name": "Enemysanity - Death #2",
+                        "ref": "Bhashea Castle/Enemysanity/Death #2"
+                    },
+                    {
+                        "name": "Enemysanity - Death #3",
+                        "ref": "Bhashea Castle/Enemysanity/Death #3"
+                    },
+                    {
+                        "name": "Enemysanity - Death #4",
+                        "ref": "Bhashea Castle/Enemysanity/Death #4"
+                    },
+                    {
+                        "name": "Enemysanity - Death #5",
+                        "ref": "Bhashea Castle/Enemysanity/Death #5"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Elf #1",
+                        "ref": "Bhashea Castle/Enemysanity/Dark Elf #1"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Elf #2",
+                        "ref": "Bhashea Castle/Enemysanity/Dark Elf #2"
+                    },
+                    {
+                        "name": "Enemysanity - Death #6",
+                        "ref": "Bhashea Castle/Enemysanity/Death #6"
+                    },
+                    {
+                        "name": "Enemysanity - Birdman #2",
+                        "ref": "Bhashea Castle/Enemysanity/Birdman #2"
+                    },
+                    {
+                        "name": "Enemysanity - Stone Head #3",
+                        "ref": "Bhashea Castle/Enemysanity/Stone Head #3"
+                    },
+                    {
+                        "name": "Enemysanity - Stone Head #4",
+                        "ref": "Bhashea Castle/Enemysanity/Stone Head #4"
+                    },
+                    {
+                        "name": "Enemysanity - Stone Head #5",
+                        "ref": "Bhashea Castle/Enemysanity/Stone Head #5"
+                    },
+                    {
+                        "name": "Enemysanity - Stone Head #6",
+                        "ref": "Bhashea Castle/Enemysanity/Stone Head #6"
+                    },
+                    {
+                        "name": "Enemysanity - Death #7",
+                        "ref": "Bhashea Castle/Enemysanity/Death #7"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Elf #3",
+                        "ref": "Bhashea Castle/Enemysanity/Dark Elf #3"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Elf #4",
+                        "ref": "Bhashea Castle/Enemysanity/Dark Elf #4"
+                    },
+                    {
+                        "name": "Enemysanity - Death #8",
+                        "ref": "Bhashea Castle/Enemysanity/Death #8"
+                    },
+                    {
+                        "name": "Enemysanity - Death #9",
+                        "ref": "Bhashea Castle/Enemysanity/Death #9"
+                    },
+                    {
+                        "name": "Enemysanity - Kitty Trap #3",
+                        "ref": "Bhashea Castle/Enemysanity/Kitty Trap #3"
+                    },
+                    {
+                        "name": "Enemysanity - Kitty Trap #4",
+                        "ref": "Bhashea Castle/Enemysanity/Kitty Trap #4"
+                    },
+                    {
+                        "name": "Enemysanity - Birdman #3",
+                        "ref": "Bhashea Castle/Enemysanity/Birdman #3"
+                    },
+                    {
+                        "name": "Enemysanity - Stone Head #7",
+                        "ref": "Bhashea Castle/Enemysanity/Stone Head #7"
+                    },
+                    {
+                        "name": "Enemysanity - Birdman #4",
+                        "ref": "Bhashea Castle/Enemysanity/Birdman #4"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Elf #5",
+                        "ref": "Bhashea Castle/Enemysanity/Dark Elf #5"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Elf #6",
+                        "ref": "Bhashea Castle/Enemysanity/Dark Elf #6"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Elf #7",
+                        "ref": "Bhashea Castle/Enemysanity/Dark Elf #7"
+                    },
+                    {
+                        "name": "Enemysanity - Stone Head #8",
+                        "ref": "Bhashea Castle/Enemysanity/Stone Head #8"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Elf #8",
+                        "ref": "Bhashea Castle/Enemysanity/Dark Elf #8"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Elf #9",
+                        "ref": "Bhashea Castle/Enemysanity/Dark Elf #9"
+                    },
+                    {
+                        "name": "Enemysanity - Death #10",
+                        "ref": "Bhashea Castle/Enemysanity/Death #10"
+                    },
+                    {
+                        "name": "Enemysanity - Death #11",
+                        "ref": "Bhashea Castle/Enemysanity/Death #11"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Swordsman #1",
+                        "ref": "Bhashea Castle/Enemysanity/Demon Swordsman #1"
+                    },
+                    {
+                        "name": "Enemysanity - Birdman #5",
+                        "ref": "Bhashea Castle/Enemysanity/Birdman #5"
+                    },
+                    {
+                        "name": "Enemysanity - Birdman #6",
+                        "ref": "Bhashea Castle/Enemysanity/Birdman #6"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2453,
+                        "y": 531,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Bhashea High Road",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest Near Horses - ",
+                        "ref": "Bhashea High Road/Chest Near Horses/"
+                    },
+                    {
+                        "name": "Card Throw Challenge - ",
+                        "ref": "Bhashea High Road/Card Throw Challenge/"
+                    },
+                    {
+                        "name": "Chest Near Overlook - ",
+                        "ref": "Bhashea High Road/Chest Near Overlook/"
+                    },
+                    {
+                        "name": "Chest Near Deck Point - ",
+                        "ref": "Bhashea High Road/Chest Near Deck Point/"
+                    },
+                    {
+                        "name": "Jump or Flight Chest - ",
+                        "ref": "Bhashea High Road/Jump or Flight Chest/"
+                    },
+                    {
+                        "name": "Flight Chest - ",
+                        "ref": "Bhashea High Road/Flight Chest/"
+                    },
+                    {
+                        "name": "Red Fairy Across Bridge - ",
+                        "ref": "Bhashea High Road/Red Fairy Across Bridge/"
+                    },
+                    {
+                        "name": "Red Fairy Across Bridge in Rubble - ",
+                        "ref": "Bhashea High Road/Red Fairy Across Bridge in Rubble/"
+                    },
+                    {
+                        "name": "Red Fairy Chaos Knight - ",
+                        "ref": "Bhashea High Road/Red Fairy Chaos Knight/"
+                    },
+                    {
+                        "name": "Enemysanity - Porcupig #1",
+                        "ref": "Bhashea High Road/Enemysanity/Porcupig #1"
+                    },
+                    {
+                        "name": "Enemysanity - Porcupig #2",
+                        "ref": "Bhashea High Road/Enemysanity/Porcupig #2"
+                    },
+                    {
+                        "name": "Enemysanity - Porcupig #3",
+                        "ref": "Bhashea High Road/Enemysanity/Porcupig #3"
+                    },
+                    {
+                        "name": "Enemysanity - Man Trap #1",
+                        "ref": "Bhashea High Road/Enemysanity/Man Trap #1"
+                    },
+                    {
+                        "name": "Enemysanity - Man Trap #2",
+                        "ref": "Bhashea High Road/Enemysanity/Man Trap #2"
+                    },
+                    {
+                        "name": "Enemysanity - Porcupig #4",
+                        "ref": "Bhashea High Road/Enemysanity/Porcupig #4"
+                    },
+                    {
+                        "name": "Enemysanity - Man Trap #3",
+                        "ref": "Bhashea High Road/Enemysanity/Man Trap #3"
+                    },
+                    {
+                        "name": "Enemysanity - Porcupig #5",
+                        "ref": "Bhashea High Road/Enemysanity/Porcupig #5"
+                    },
+                    {
+                        "name": "Enemysanity - Storm Hagan #1",
+                        "ref": "Bhashea High Road/Enemysanity/Storm Hagan #1"
+                    },
+                    {
+                        "name": "Enemysanity - Storm Hagan #2",
+                        "ref": "Bhashea High Road/Enemysanity/Storm Hagan #2"
+                    },
+                    {
+                        "name": "Enemysanity - Man Trap #4",
+                        "ref": "Bhashea High Road/Enemysanity/Man Trap #4"
+                    },
+                    {
+                        "name": "Enemysanity - Porcupig #6",
+                        "ref": "Bhashea High Road/Enemysanity/Porcupig #6"
+                    },
+                    {
+                        "name": "Enemysanity - Kendarie Soldier #1",
+                        "ref": "Bhashea High Road/Enemysanity/Kendarie Soldier #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor GL2 #1",
+                        "ref": "Bhashea High Road/Enemysanity/Aggressor GL2 #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor GL2 #2",
+                        "ref": "Bhashea High Road/Enemysanity/Aggressor GL2 #2"
+                    },
+                    {
+                        "name": "Enemysanity - Porcupig #7",
+                        "ref": "Bhashea High Road/Enemysanity/Porcupig #7"
+                    },
+                    {
+                        "name": "Enemysanity - Kendarie Soldier #2",
+                        "ref": "Bhashea High Road/Enemysanity/Kendarie Soldier #2"
+                    },
+                    {
+                        "name": "Enemysanity - Kendarie Soldier #3",
+                        "ref": "Bhashea High Road/Enemysanity/Kendarie Soldier #3"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor GL2 #3",
+                        "ref": "Bhashea High Road/Enemysanity/Aggressor GL2 #3"
+                    },
+                    {
+                        "name": "Enemysanity - Man Trap #5",
+                        "ref": "Bhashea High Road/Enemysanity/Man Trap #5"
+                    },
+                    {
+                        "name": "Enemysanity - Storm Hagan #3",
+                        "ref": "Bhashea High Road/Enemysanity/Storm Hagan #3"
+                    },
+                    {
+                        "name": "Enemysanity - Chaos Knight #1",
+                        "ref": "Bhashea High Road/Enemysanity/Chaos Knight #1"
+                    },
+                    {
+                        "name": "Enemysanity - Man Trap #6",
+                        "ref": "Bhashea High Road/Enemysanity/Man Trap #6"
+                    },
+                    {
+                        "name": "Enemysanity - Storm Hagan #4",
+                        "ref": "Bhashea High Road/Enemysanity/Storm Hagan #4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 263,
+                        "y": 968,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Combo",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Triple Hagan - ",
+                        "ref": "Combo/Triple Hagan/"
+                    },
+                    {
+                        "name": "Ultimate Pasta - ",
+                        "ref": "Combo/Ultimate Pasta/"
+                    },
+                    {
+                        "name": "Rotary Death - ",
+                        "ref": "Combo/Rotary Death/"
+                    },
+                    {
+                        "name": "Lizard War - ",
+                        "ref": "Combo/Lizard War/"
+                    },
+                    {
+                        "name": "Rocky Forecast - ",
+                        "ref": "Combo/Rocky Forecast/"
+                    },
+                    {
+                        "name": "Sir Spear-A-Lot - ",
+                        "ref": "Combo/Sir Spear-A-Lot/"
+                    },
+                    {
+                        "name": "Temper Tantrum - ",
+                        "ref": "Combo/Temper Tantrum/"
+                    },
+                    {
+                        "name": "Goblin Guts - ",
+                        "ref": "Combo/Goblin Guts/"
+                    },
+                    {
+                        "name": "Lethal Orbit - ",
+                        "ref": "Combo/Lethal Orbit/"
+                    },
+                    {
+                        "name": "Crystal Rage - ",
+                        "ref": "Combo/Crystal Rage/"
+                    },
+                    {
+                        "name": "Mandragora Mixer - ",
+                        "ref": "Combo/Mandragora Mixer/"
+                    },
+                    {
+                        "name": "Rust and Roll! - ",
+                        "ref": "Combo/Rust and Roll!/"
+                    },
+                    {
+                        "name": "EconoMagic - ",
+                        "ref": "Combo/EconoMagic/"
+                    },
+                    {
+                        "name": "Just Visiting - ",
+                        "ref": "Combo/Just Visiting/"
+                    },
+                    {
+                        "name": "Djinn and Bear It - ",
+                        "ref": "Combo/Djinn and Bear It/"
+                    },
+                    {
+                        "name": "Triple Kamikaze - ",
+                        "ref": "Combo/Triple Kamikaze/"
+                    },
+                    {
+                        "name": "One Way Ticket - ",
+                        "ref": "Combo/One Way Ticket/"
+                    },
+                    {
+                        "name": "The Masters Four - ",
+                        "ref": "Combo/The Masters Four/"
+                    },
+                    {
+                        "name": "The Big Save - ",
+                        "ref": "Combo/The Big Save/"
+                    },
+                    {
+                        "name": "Brutal Nightmare - ",
+                        "ref": "Combo/Brutal Nightmare/"
+                    },
+                    {
+                        "name": "Phantom BullDozer - ",
+                        "ref": "Combo/Phantom BullDozer/"
+                    },
+                    {
+                        "name": "Living Large - ",
+                        "ref": "Combo/Living Large/"
+                    },
+                    {
+                        "name": "Elemental Victory - ",
+                        "ref": "Combo/Elemental Victory/"
+                    },
+                    {
+                        "name": "Skullapalooza - ",
+                        "ref": "Combo/Skullapalooza/"
+                    },
+                    {
+                        "name": "Stone Cold Sniper - ",
+                        "ref": "Combo/Stone Cold Sniper/"
+                    },
+                    {
+                        "name": "Mega Tremor - ",
+                        "ref": "Combo/Mega Tremor/"
+                    },
+                    {
+                        "name": "Time Out! - ",
+                        "ref": "Combo/Time Out!/"
+                    },
+                    {
+                        "name": "Hell Hole - ",
+                        "ref": "Combo/Hell Hole/"
+                    },
+                    {
+                        "name": "Spiritual Force - ",
+                        "ref": "Combo/Spiritual Force/"
+                    },
+                    {
+                        "name": "Air Raid - ",
+                        "ref": "Combo/Air Raid/"
+                    },
+                    {
+                        "name": "Tech Support! - ",
+                        "ref": "Combo/Tech Support!/"
+                    },
+                    {
+                        "name": "Song of Hades - ",
+                        "ref": "Combo/Song of Hades/"
+                    },
+                    {
+                        "name": "Hearing Aid - ",
+                        "ref": "Combo/Hearing Aid/"
+                    },
+                    {
+                        "name": "Uber Vampire Root - ",
+                        "ref": "Combo/Uber Vampire Root/"
+                    },
+                    {
+                        "name": "Mo Better Moray - ",
+                        "ref": "Combo/Mo Better Moray/"
+                    },
+                    {
+                        "name": "Prayer of the Wise - ",
+                        "ref": "Combo/Prayer of the Wise/"
+                    },
+                    {
+                        "name": "Hawging the Action - ",
+                        "ref": "Combo/Hawging the Action/"
+                    },
+                    {
+                        "name": "Stone All Around - ",
+                        "ref": "Combo/Stone All Around/"
+                    },
+                    {
+                        "name": "Tender Mercy - ",
+                        "ref": "Combo/Tender Mercy/"
+                    },
+                    {
+                        "name": "Green Guardian - ",
+                        "ref": "Combo/Green Guardian/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 754,
+                        "y": 283,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Fairy House",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Collect Red Fairies - 1 Fairy",
+                        "ref": "Fairy House/Collect Red Fairies/1 Fairy"
+                    },
+                    {
+                        "name": "Collect Red Fairies - 10 Fairies",
+                        "ref": "Fairy House/Collect Red Fairies/10 Fairies"
+                    },
+                    {
+                        "name": "Collect Red Fairies - 20 Fairies",
+                        "ref": "Fairy House/Collect Red Fairies/20 Fairies"
+                    },
+                    {
+                        "name": "Collect Red Fairies - 30 Fairies",
+                        "ref": "Fairy House/Collect Red Fairies/30 Fairies"
+                    },
+                    {
+                        "name": "Collect Red Fairies - 50 Fairies",
+                        "ref": "Fairy House/Collect Red Fairies/50 Fairies"
+                    },
+                    {
+                        "name": "Collect Red Fairies - 70 Fairies",
+                        "ref": "Fairy House/Collect Red Fairies/70 Fairies"
+                    },
+                    {
+                        "name": "Collect Red Fairies - 80 Fairies",
+                        "ref": "Fairy House/Collect Red Fairies/80 Fairies"
+                    },
+                    {
+                        "name": "Collect Red Fairies - 90 Fairies",
+                        "ref": "Fairy House/Collect Red Fairies/90 Fairies"
+                    },
+                    {
+                        "name": "Collect Red Fairies - 100 Fairies",
+                        "ref": "Fairy House/Collect Red Fairies/100 Fairies"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2420,
+                        "y": 533,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Fossil Boneyard",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Fossil Boneyard/Chest 1/"
+                    },
+                    {
+                        "name": "Chest Behind Cultist - ",
+                        "ref": "Fossil Boneyard/Chest Behind Cultist/"
+                    },
+                    {
+                        "name": "Chest 3 - ",
+                        "ref": "Fossil Boneyard/Chest 3/"
+                    },
+                    {
+                        "name": "Chest 4 - ",
+                        "ref": "Fossil Boneyard/Chest 4/"
+                    },
+                    {
+                        "name": "Chest 5 - ",
+                        "ref": "Fossil Boneyard/Chest 5/"
+                    },
+                    {
+                        "name": "Chest 6 - ",
+                        "ref": "Fossil Boneyard/Chest 6/"
+                    },
+                    {
+                        "name": "Chest 7 - ",
+                        "ref": "Fossil Boneyard/Chest 7/"
+                    },
+                    {
+                        "name": "Flight Chest 1 - ",
+                        "ref": "Fossil Boneyard/Flight Chest 1/"
+                    },
+                    {
+                        "name": "Flight Chest 2 - ",
+                        "ref": "Fossil Boneyard/Flight Chest 2/"
+                    },
+                    {
+                        "name": "Zombie Dragon Chest - ",
+                        "ref": "Fossil Boneyard/Zombie Dragon Chest/"
+                    },
+                    {
+                        "name": "Red Fairy Near Start - ",
+                        "ref": "Fossil Boneyard/Red Fairy Near Start/"
+                    },
+                    {
+                        "name": "Red Fairy Near Booster - ",
+                        "ref": "Fossil Boneyard/Red Fairy Near Booster/"
+                    },
+                    {
+                        "name": "Red Fairy Near up Ledges - ",
+                        "ref": "Fossil Boneyard/Red Fairy Near up Ledges/"
+                    },
+                    {
+                        "name": "Fossil Head Pickup - ",
+                        "ref": "Fossil Boneyard/Fossil Head Pickup/"
+                    },
+                    {
+                        "name": "Fossil Torso Pickup - ",
+                        "ref": "Fossil Boneyard/Fossil Torso Pickup/"
+                    },
+                    {
+                        "name": "Fossil Tail Pickup - ",
+                        "ref": "Fossil Boneyard/Fossil Tail Pickup/"
+                    },
+                    {
+                        "name": "Fossil Right Wing Pickup - ",
+                        "ref": "Fossil Boneyard/Fossil Right Wing Pickup/"
+                    },
+                    {
+                        "name": "Fossil Left Wing Pickup - ",
+                        "ref": "Fossil Boneyard/Fossil Left Wing Pickup/"
+                    },
+                    {
+                        "name": "Fossil Right Arm Pickup - ",
+                        "ref": "Fossil Boneyard/Fossil Right Arm Pickup/"
+                    },
+                    {
+                        "name": "Fossil Left Arm Pickup - ",
+                        "ref": "Fossil Boneyard/Fossil Left Arm Pickup/"
+                    },
+                    {
+                        "name": "Fossil Right Leg Pickup - ",
+                        "ref": "Fossil Boneyard/Fossil Right Leg Pickup/"
+                    },
+                    {
+                        "name": "Fossil Left Leg Pickup - ",
+                        "ref": "Fossil Boneyard/Fossil Left Leg Pickup/"
+                    },
+                    {
+                        "name": "Stranger - ",
+                        "ref": "Fossil Boneyard/Stranger/"
+                    },
+                    {
+                        "name": "Enemysanity - Baby Dragon #1",
+                        "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #1"
+                    },
+                    {
+                        "name": "Enemysanity - Caterpoker #1",
+                        "ref": "Fossil Boneyard/Enemysanity/Caterpoker #1"
+                    },
+                    {
+                        "name": "Enemysanity - Gnome #1",
+                        "ref": "Fossil Boneyard/Enemysanity/Gnome #1"
+                    },
+                    {
+                        "name": "Enemysanity - Baby Dragon #2",
+                        "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #2"
+                    },
+                    {
+                        "name": "Enemysanity - Baby Dragon #3",
+                        "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #3"
+                    },
+                    {
+                        "name": "Enemysanity - Catoblepas #1",
+                        "ref": "Fossil Boneyard/Enemysanity/Catoblepas #1"
+                    },
+                    {
+                        "name": "Enemysanity - Caterpoker #2",
+                        "ref": "Fossil Boneyard/Enemysanity/Caterpoker #2"
+                    },
+                    {
+                        "name": "Enemysanity - Baby Dragon #4",
+                        "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #4"
+                    },
+                    {
+                        "name": "Enemysanity - Caterpoker #3",
+                        "ref": "Fossil Boneyard/Enemysanity/Caterpoker #3"
+                    },
+                    {
+                        "name": "Enemysanity - Caterpoker #4",
+                        "ref": "Fossil Boneyard/Enemysanity/Caterpoker #4"
+                    },
+                    {
+                        "name": "Enemysanity - Gnome #2",
+                        "ref": "Fossil Boneyard/Enemysanity/Gnome #2"
+                    },
+                    {
+                        "name": "Enemysanity - Caterpoker #6",
+                        "ref": "Fossil Boneyard/Enemysanity/Caterpoker #6"
+                    },
+                    {
+                        "name": "Enemysanity - Catoblepas #2",
+                        "ref": "Fossil Boneyard/Enemysanity/Catoblepas #2"
+                    },
+                    {
+                        "name": "Enemysanity - Caterpoker #7",
+                        "ref": "Fossil Boneyard/Enemysanity/Caterpoker #7"
+                    },
+                    {
+                        "name": "Enemysanity - Gnome #3",
+                        "ref": "Fossil Boneyard/Enemysanity/Gnome #3"
+                    },
+                    {
+                        "name": "Enemysanity - Caterpoker #8",
+                        "ref": "Fossil Boneyard/Enemysanity/Caterpoker #8"
+                    },
+                    {
+                        "name": "Enemysanity - Caterpoker #9",
+                        "ref": "Fossil Boneyard/Enemysanity/Caterpoker #9"
+                    },
+                    {
+                        "name": "Enemysanity - Gnome #4",
+                        "ref": "Fossil Boneyard/Enemysanity/Gnome #4"
+                    },
+                    {
+                        "name": "Enemysanity - Baby Dragon #5",
+                        "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #5"
+                    },
+                    {
+                        "name": "Enemysanity - Baby Dragon #6",
+                        "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #6"
+                    },
+                    {
+                        "name": "Enemysanity - Baby Dragon #7",
+                        "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #7"
+                    },
+                    {
+                        "name": "Enemysanity - Baby Dragon #8",
+                        "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #8"
+                    },
+                    {
+                        "name": "Enemysanity - Baby Dragon #9",
+                        "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #9"
+                    },
+                    {
+                        "name": "Enemysanity - Amber Dragon #1",
+                        "ref": "Fossil Boneyard/Enemysanity/Amber Dragon #1"
+                    },
+                    {
+                        "name": "Enemysanity - Gnome #5",
+                        "ref": "Fossil Boneyard/Enemysanity/Gnome #5"
+                    },
+                    {
+                        "name": "Enemysanity - Caterpoker #10",
+                        "ref": "Fossil Boneyard/Enemysanity/Caterpoker #10"
+                    },
+                    {
+                        "name": "Enemysanity - Gnome #6",
+                        "ref": "Fossil Boneyard/Enemysanity/Gnome #6"
+                    },
+                    {
+                        "name": "Enemysanity - Catoblepas #3",
+                        "ref": "Fossil Boneyard/Enemysanity/Catoblepas #3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2106,
+                        "y": 636,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Grenfoel Cathedral",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Four Statues Room - Hidden Chest 1",
+                        "ref": "Grenfoel Cathedral/Four Statues Room/Hidden Chest 1"
+                    },
+                    {
+                        "name": "Four Statues Room - Hidden Chest 2",
+                        "ref": "Grenfoel Cathedral/Four Statues Room/Hidden Chest 2"
+                    },
+                    {
+                        "name": "Four Statues Room - Hidden Chest 3",
+                        "ref": "Grenfoel Cathedral/Four Statues Room/Hidden Chest 3"
+                    },
+                    {
+                        "name": "Near Organ - Chest 1",
+                        "ref": "Grenfoel Cathedral/Near Organ/Chest 1"
+                    },
+                    {
+                        "name": "Near Organ - Chest 2",
+                        "ref": "Grenfoel Cathedral/Near Organ/Chest 2"
+                    },
+                    {
+                        "name": "Jewel of Alanjeh Reward - ",
+                        "ref": "Grenfoel Cathedral/Jewel of Alanjeh Reward/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2372,
+                        "y": 152,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Grenfoel Church",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Near Organ - Red Fairy",
+                        "ref": "Grenfoel Church/Near Organ/Red Fairy"
+                    },
+                    {
+                        "name": "Red Fairy Right Side - ",
+                        "ref": "Grenfoel Church/Red Fairy Right Side/"
+                    },
+                    {
+                        "name": "Four Statues Room - Red Fairy 1",
+                        "ref": "Grenfoel Church/Four Statues Room/Red Fairy 1"
+                    },
+                    {
+                        "name": "Four Statues Room - Red Fairy 2",
+                        "ref": "Grenfoel Church/Four Statues Room/Red Fairy 2"
+                    },
+                    {
+                        "name": "Red Fairy Library - ",
+                        "ref": "Grenfoel Church/Red Fairy Library/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1242,
+                        "y": 2146,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Gromtull Desert",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest by Backpack - ",
+                        "ref": "Gromtull Desert/Chest by Backpack/"
+                    },
+                    {
+                        "name": "Mummy Cave - Chest 1",
+                        "ref": "Gromtull Desert/Mummy Cave/Chest 1"
+                    },
+                    {
+                        "name": "Mummy Cave - Chest 2",
+                        "ref": "Gromtull Desert/Mummy Cave/Chest 2"
+                    },
+                    {
+                        "name": "Mummy Cave - Chest 3",
+                        "ref": "Gromtull Desert/Mummy Cave/Chest 3"
+                    },
+                    {
+                        "name": "Near Oil - Chest",
+                        "ref": "Gromtull Desert/Near Oil/Chest"
+                    },
+                    {
+                        "name": "Near Oil - Black Liquid Pickup",
+                        "ref": "Gromtull Desert/Near Oil/Black Liquid Pickup"
+                    },
+                    {
+                        "name": "Jarvi Cave - Chest 1",
+                        "ref": "Gromtull Desert/Jarvi Cave/Chest 1"
+                    },
+                    {
+                        "name": "Jarvi Cave - Chest 2",
+                        "ref": "Gromtull Desert/Jarvi Cave/Chest 2"
+                    },
+                    {
+                        "name": "Jarvi Cave - Red Fairy 1",
+                        "ref": "Gromtull Desert/Jarvi Cave/Red Fairy 1"
+                    },
+                    {
+                        "name": "Jarvi Cave - Red Fairy 2",
+                        "ref": "Gromtull Desert/Jarvi Cave/Red Fairy 2"
+                    },
+                    {
+                        "name": "Flight Chest - ",
+                        "ref": "Gromtull Desert/Flight Chest/"
+                    },
+                    {
+                        "name": "Red Fairy 1 - ",
+                        "ref": "Gromtull Desert/Red Fairy 1/"
+                    },
+                    {
+                        "name": "Red Fairy 2 - ",
+                        "ref": "Gromtull Desert/Red Fairy 2/"
+                    },
+                    {
+                        "name": "Red Fairy Jump - ",
+                        "ref": "Gromtull Desert/Red Fairy Jump/"
+                    },
+                    {
+                        "name": "Bottle Pickup - ",
+                        "ref": "Gromtull Desert/Bottle Pickup/"
+                    },
+                    {
+                        "name": "Stranger - ",
+                        "ref": "Gromtull Desert/Stranger/"
+                    },
+                    {
+                        "name": "Enemysanity - Lizardman #1",
+                        "ref": "Gromtull Desert/Enemysanity/Lizardman #1"
+                    },
+                    {
+                        "name": "Enemysanity - Lizardman #2",
+                        "ref": "Gromtull Desert/Enemysanity/Lizardman #2"
+                    },
+                    {
+                        "name": "Enemysanity - Lizardman #3",
+                        "ref": "Gromtull Desert/Enemysanity/Lizardman #3"
+                    },
+                    {
+                        "name": "Enemysanity - Elephant #1",
+                        "ref": "Gromtull Desert/Enemysanity/Elephant #1"
+                    },
+                    {
+                        "name": "Enemysanity - Lizardman #4",
+                        "ref": "Gromtull Desert/Enemysanity/Lizardman #4"
+                    },
+                    {
+                        "name": "Enemysanity - Lizardman #5",
+                        "ref": "Gromtull Desert/Enemysanity/Lizardman #5"
+                    },
+                    {
+                        "name": "Enemysanity - Elephant #2",
+                        "ref": "Gromtull Desert/Enemysanity/Elephant #2"
+                    },
+                    {
+                        "name": "Enemysanity - Elephant #3",
+                        "ref": "Gromtull Desert/Enemysanity/Elephant #3"
+                    },
+                    {
+                        "name": "Enemysanity - Mummy #1",
+                        "ref": "Gromtull Desert/Enemysanity/Mummy #1"
+                    },
+                    {
+                        "name": "Enemysanity - Mummy #2",
+                        "ref": "Gromtull Desert/Enemysanity/Mummy #2"
+                    },
+                    {
+                        "name": "Enemysanity - Mummy #3",
+                        "ref": "Gromtull Desert/Enemysanity/Mummy #3"
+                    },
+                    {
+                        "name": "Enemysanity - Mummy #4",
+                        "ref": "Gromtull Desert/Enemysanity/Mummy #4"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Beetle #1",
+                        "ref": "Gromtull Desert/Enemysanity/Sand Beetle #1"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Beetle #2",
+                        "ref": "Gromtull Desert/Enemysanity/Sand Beetle #2"
+                    },
+                    {
+                        "name": "Enemysanity - Mummy #5",
+                        "ref": "Gromtull Desert/Enemysanity/Mummy #5"
+                    },
+                    {
+                        "name": "Enemysanity - Lizardman #6",
+                        "ref": "Gromtull Desert/Enemysanity/Lizardman #6"
+                    },
+                    {
+                        "name": "Enemysanity - Elephant #4",
+                        "ref": "Gromtull Desert/Enemysanity/Elephant #4"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Beetle #3",
+                        "ref": "Gromtull Desert/Enemysanity/Sand Beetle #3"
+                    },
+                    {
+                        "name": "Enemysanity - Lizardman #7",
+                        "ref": "Gromtull Desert/Enemysanity/Lizardman #7"
+                    },
+                    {
+                        "name": "Enemysanity - Pixie #1",
+                        "ref": "Gromtull Desert/Enemysanity/Pixie #1"
+                    },
+                    {
+                        "name": "Enemysanity - Mummy #6",
+                        "ref": "Gromtull Desert/Enemysanity/Mummy #6"
+                    },
+                    {
+                        "name": "Enemysanity - Mummy #7",
+                        "ref": "Gromtull Desert/Enemysanity/Mummy #7"
+                    },
+                    {
+                        "name": "Enemysanity - Mummy #8",
+                        "ref": "Gromtull Desert/Enemysanity/Mummy #8"
+                    },
+                    {
+                        "name": "Enemysanity - Mummy #9",
+                        "ref": "Gromtull Desert/Enemysanity/Mummy #9"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Beetle #4",
+                        "ref": "Gromtull Desert/Enemysanity/Sand Beetle #4"
+                    },
+                    {
+                        "name": "Enemysanity - Elephant #5",
+                        "ref": "Gromtull Desert/Enemysanity/Elephant #5"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Beetle #5",
+                        "ref": "Gromtull Desert/Enemysanity/Sand Beetle #5"
+                    },
+                    {
+                        "name": "Enemysanity - Pixie #2",
+                        "ref": "Gromtull Desert/Enemysanity/Pixie #2"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Worm #1",
+                        "ref": "Gromtull Desert/Enemysanity/Sand Worm #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2464,
+                        "y": 1031,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Holzogh Town",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Holzogh Town/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Holzogh Town/Chest 2/"
+                    },
+                    {
+                        "name": "Chest 3 - ",
+                        "ref": "Holzogh Town/Chest 3/"
+                    },
+                    {
+                        "name": "Chest 4 - ",
+                        "ref": "Holzogh Town/Chest 4/"
+                    },
+                    {
+                        "name": "Chest 5 - ",
+                        "ref": "Holzogh Town/Chest 5/"
+                    },
+                    {
+                        "name": "Chest 6 - ",
+                        "ref": "Holzogh Town/Chest 6/"
+                    },
+                    {
+                        "name": "Chest 7 - ",
+                        "ref": "Holzogh Town/Chest 7/"
+                    },
+                    {
+                        "name": "Fountain Card - ",
+                        "ref": "Holzogh Town/Fountain Card/"
+                    },
+                    {
+                        "name": "Red Fairy Near Start - ",
+                        "ref": "Holzogh Town/Red Fairy Near Start/"
+                    },
+                    {
+                        "name": "Red Fairy Stairs - ",
+                        "ref": "Holzogh Town/Red Fairy Stairs/"
+                    },
+                    {
+                        "name": "Red Fairy Rubble - ",
+                        "ref": "Holzogh Town/Red Fairy Rubble/"
+                    },
+                    {
+                        "name": "Red Fairy Rubble 2 - ",
+                        "ref": "Holzogh Town/Red Fairy Rubble 2/"
+                    },
+                    {
+                        "name": "Corpse - ",
+                        "ref": "Holzogh Town/Corpse/"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #1",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #2",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #2"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #3",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #3"
+                    },
+                    {
+                        "name": "Enemysanity - Coal Treant #1",
+                        "ref": "Holzogh Town/Enemysanity/Coal Treant #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #4",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #4"
+                    },
+                    {
+                        "name": "Enemysanity - Coal Treant #2",
+                        "ref": "Holzogh Town/Enemysanity/Coal Treant #2"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #5",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #5"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #6",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #6"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #7",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #7"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #8",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #8"
+                    },
+                    {
+                        "name": "Enemysanity - TriBlaster #1",
+                        "ref": "Holzogh Town/Enemysanity/TriBlaster #1"
+                    },
+                    {
+                        "name": "Enemysanity - TriBlaster #2",
+                        "ref": "Holzogh Town/Enemysanity/TriBlaster #2"
+                    },
+                    {
+                        "name": "Enemysanity - LazerBug 39K #1",
+                        "ref": "Holzogh Town/Enemysanity/LazerBug 39K #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #9",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #9"
+                    },
+                    {
+                        "name": "Enemysanity - Super Scrubber #1",
+                        "ref": "Holzogh Town/Enemysanity/Super Scrubber #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #10",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #10"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #11",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #11"
+                    },
+                    {
+                        "name": "Enemysanity - Super Scrubber #2",
+                        "ref": "Holzogh Town/Enemysanity/Super Scrubber #2"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #12",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #12"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #13",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #13"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #14",
+                        "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #14"
+                    },
+                    {
+                        "name": "Enemysanity - TriBlaster #3",
+                        "ref": "Holzogh Town/Enemysanity/TriBlaster #3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1555,
+                        "y": 1450,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Isamat Urbur",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Treasure Room - Chest 1",
+                        "ref": "Isamat Urbur/Treasure Room/Chest 1"
+                    },
+                    {
+                        "name": "Treasure Room - Chest 2",
+                        "ref": "Isamat Urbur/Treasure Room/Chest 2"
+                    },
+                    {
+                        "name": "Treasure Room - Chest 3",
+                        "ref": "Isamat Urbur/Treasure Room/Chest 3"
+                    },
+                    {
+                        "name": "Treasure Room - Chest 4",
+                        "ref": "Isamat Urbur/Treasure Room/Chest 4"
+                    },
+                    {
+                        "name": "Treasure Room - Chest 5",
+                        "ref": "Isamat Urbur/Treasure Room/Chest 5"
+                    },
+                    {
+                        "name": "Treasure Room - Chest 6",
+                        "ref": "Isamat Urbur/Treasure Room/Chest 6"
+                    },
+                    {
+                        "name": "Red Fairy Near Start - ",
+                        "ref": "Isamat Urbur/Red Fairy Near Start/"
+                    },
+                    {
+                        "name": "Red Fairy East Room - ",
+                        "ref": "Isamat Urbur/Red Fairy East Room/"
+                    },
+                    {
+                        "name": "Red Fairy Northeast - ",
+                        "ref": "Isamat Urbur/Red Fairy Northeast/"
+                    },
+                    {
+                        "name": "Red Fairy Southwest - ",
+                        "ref": "Isamat Urbur/Red Fairy Southwest/"
+                    },
+                    {
+                        "name": "Stranger - ",
+                        "ref": "Isamat Urbur/Stranger/"
+                    },
+                    {
+                        "name": "Stone of Sealing - ",
+                        "ref": "Isamat Urbur/Stone of Sealing/"
+                    },
+                    {
+                        "name": "Enemysanity - Puppet Master #1",
+                        "ref": "Isamat Urbur/Enemysanity/Puppet Master #1"
+                    },
+                    {
+                        "name": "Enemysanity - Devata #1",
+                        "ref": "Isamat Urbur/Enemysanity/Devata #1"
+                    },
+                    {
+                        "name": "Enemysanity - Devata #2",
+                        "ref": "Isamat Urbur/Enemysanity/Devata #2"
+                    },
+                    {
+                        "name": "Enemysanity - Puppet Master #2",
+                        "ref": "Isamat Urbur/Enemysanity/Puppet Master #2"
+                    },
+                    {
+                        "name": "Enemysanity - Juggernaut #1",
+                        "ref": "Isamat Urbur/Enemysanity/Juggernaut #1"
+                    },
+                    {
+                        "name": "Enemysanity - Juggernaut #2",
+                        "ref": "Isamat Urbur/Enemysanity/Juggernaut #2"
+                    },
+                    {
+                        "name": "Enemysanity - Juggernaut #3",
+                        "ref": "Isamat Urbur/Enemysanity/Juggernaut #3"
+                    },
+                    {
+                        "name": "Enemysanity - Puppet Master #3",
+                        "ref": "Isamat Urbur/Enemysanity/Puppet Master #3"
+                    },
+                    {
+                        "name": "Enemysanity - Puppet Master #4",
+                        "ref": "Isamat Urbur/Enemysanity/Puppet Master #4"
+                    },
+                    {
+                        "name": "Enemysanity - Puppet Master #5",
+                        "ref": "Isamat Urbur/Enemysanity/Puppet Master #5"
+                    },
+                    {
+                        "name": "Enemysanity - Devata #3",
+                        "ref": "Isamat Urbur/Enemysanity/Devata #3"
+                    },
+                    {
+                        "name": "Enemysanity - Devata #4",
+                        "ref": "Isamat Urbur/Enemysanity/Devata #4"
+                    },
+                    {
+                        "name": "Enemysanity - Juggernaut #4",
+                        "ref": "Isamat Urbur/Enemysanity/Juggernaut #4"
+                    },
+                    {
+                        "name": "Enemysanity - Juggernaut #5",
+                        "ref": "Isamat Urbur/Enemysanity/Juggernaut #5"
+                    },
+                    {
+                        "name": "Enemysanity - Devata #5",
+                        "ref": "Isamat Urbur/Enemysanity/Devata #5"
+                    },
+                    {
+                        "name": "Enemysanity - Devata #6",
+                        "ref": "Isamat Urbur/Enemysanity/Devata #6"
+                    },
+                    {
+                        "name": "Enemysanity - Devata #7",
+                        "ref": "Isamat Urbur/Enemysanity/Devata #7"
+                    },
+                    {
+                        "name": "Enemysanity - Devata #8",
+                        "ref": "Isamat Urbur/Enemysanity/Devata #8"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1850,
+                        "y": 1613,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Kadishu",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest Outside Town Wall - ",
+                        "ref": "Kadishu/Chest Outside Town Wall/"
+                    },
+                    {
+                        "name": "Chest up Small Steps - ",
+                        "ref": "Kadishu/Chest up Small Steps/"
+                    },
+                    {
+                        "name": "Alleyway - Chest",
+                        "ref": "Kadishu/Alleyway/Chest"
+                    },
+                    {
+                        "name": "Alleyway - Red Fairy in Sacks",
+                        "ref": "Kadishu/Alleyway/Red Fairy in Sacks"
+                    },
+                    {
+                        "name": "Chest 4 - ",
+                        "ref": "Kadishu/Chest 4/"
+                    },
+                    {
+                        "name": "Near Dog - Chest",
+                        "ref": "Kadishu/Near Dog/Chest"
+                    },
+                    {
+                        "name": "Near Dog - Red Fairy",
+                        "ref": "Kadishu/Near Dog/Red Fairy"
+                    },
+                    {
+                        "name": "Chest Near Monument - ",
+                        "ref": "Kadishu/Chest Near Monument/"
+                    },
+                    {
+                        "name": "Garbage Can - Garbage Collection 1",
+                        "ref": "Kadishu/Garbage Can/Garbage Collection 1"
+                    },
+                    {
+                        "name": "Garbage Can - Garbage Collection 2",
+                        "ref": "Kadishu/Garbage Can/Garbage Collection 2"
+                    },
+                    {
+                        "name": "Garbage Can - Garbage Collection 3",
+                        "ref": "Kadishu/Garbage Can/Garbage Collection 3"
+                    },
+                    {
+                        "name": "Red Fairy on Bridge - ",
+                        "ref": "Kadishu/Red Fairy on Bridge/"
+                    },
+                    {
+                        "name": "Red Fairy in Well - ",
+                        "ref": "Kadishu/Red Fairy in Well/"
+                    },
+                    {
+                        "name": "Red Fairy by Fountain - ",
+                        "ref": "Kadishu/Red Fairy by Fountain/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 512,
+                        "y": 1002,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Kendarie Fortress",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Kendarie Fortress/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Kendarie Fortress/Chest 2/"
+                    },
+                    {
+                        "name": "Chest Behind Green Door - ",
+                        "ref": "Kendarie Fortress/Chest Behind Green Door/"
+                    },
+                    {
+                        "name": "Chest 4 - ",
+                        "ref": "Kendarie Fortress/Chest 4/"
+                    },
+                    {
+                        "name": "Chest 5 - ",
+                        "ref": "Kendarie Fortress/Chest 5/"
+                    },
+                    {
+                        "name": "Platform in Water - Flight Chest",
+                        "ref": "Kendarie Fortress/Platform in Water/Flight Chest"
+                    },
+                    {
+                        "name": "Platform in Water - Red Fairy",
+                        "ref": "Kendarie Fortress/Platform in Water/Red Fairy"
+                    },
+                    {
+                        "name": "Red Fairy at Start - ",
+                        "ref": "Kendarie Fortress/Red Fairy at Start/"
+                    },
+                    {
+                        "name": "Red Fairy Past Blue Gate - ",
+                        "ref": "Kendarie Fortress/Red Fairy Past Blue Gate/"
+                    },
+                    {
+                        "name": "Red Fairy Near Mechapult - ",
+                        "ref": "Kendarie Fortress/Red Fairy Near Mechapult/"
+                    },
+                    {
+                        "name": "Kendarie Soldier 1 - ",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 1/"
+                    },
+                    {
+                        "name": "Kendarie Soldier 2 - ",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 2/"
+                    },
+                    {
+                        "name": "Kendarie Soldier 3 - ",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 3/"
+                    },
+                    {
+                        "name": "Enemysanity - Mandragora #1",
+                        "ref": "Kendarie Fortress/Enemysanity/Mandragora #1"
+                    },
+                    {
+                        "name": "Enemysanity - Mandragora #2",
+                        "ref": "Kendarie Fortress/Enemysanity/Mandragora #2"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor GL2 #1",
+                        "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor GL2 #2",
+                        "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #2"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor GL2 #3",
+                        "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #3"
+                    },
+                    {
+                        "name": "Enemysanity - MechaPult #1",
+                        "ref": "Kendarie Fortress/Enemysanity/MechaPult #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor GL2 #4",
+                        "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #4"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor GL2 #5",
+                        "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #5"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor GL2 #6",
+                        "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #6"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor GL2 #7",
+                        "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #7"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor GL2 #8",
+                        "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #8"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2219,
+                        "y": 744,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Krasheen Mountains",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Krasheen Mountains/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Krasheen Mountains/Chest 2/"
+                    },
+                    {
+                        "name": "Chest 3 - ",
+                        "ref": "Krasheen Mountains/Chest 3/"
+                    },
+                    {
+                        "name": "Chest 4 - ",
+                        "ref": "Krasheen Mountains/Chest 4/"
+                    },
+                    {
+                        "name": "Chest 7 - ",
+                        "ref": "Krasheen Mountains/Chest 7/"
+                    },
+                    {
+                        "name": "Chest 5 - ",
+                        "ref": "Krasheen Mountains/Chest 5/"
+                    },
+                    {
+                        "name": "Chest 6 - ",
+                        "ref": "Krasheen Mountains/Chest 6/"
+                    },
+                    {
+                        "name": "Red Fairy Cave 1 - ",
+                        "ref": "Krasheen Mountains/Red Fairy Cave 1/"
+                    },
+                    {
+                        "name": "Red Fairy Bridge - ",
+                        "ref": "Krasheen Mountains/Red Fairy Bridge/"
+                    },
+                    {
+                        "name": "Red Fairy Broken Bridge - ",
+                        "ref": "Krasheen Mountains/Red Fairy Broken Bridge/"
+                    },
+                    {
+                        "name": "Red Fairy Broken Bridge 2 - ",
+                        "ref": "Krasheen Mountains/Red Fairy Broken Bridge 2/"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #1",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #1"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #1",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #1"
+                    },
+                    {
+                        "name": "Enemysanity - Gorgon #1",
+                        "ref": "Krasheen Mountains/Enemysanity/Gorgon #1"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #2",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #2"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #3",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #3"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #4",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #4"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #5",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #5"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #2",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #2"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #3",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #3"
+                    },
+                    {
+                        "name": "Enemysanity - Running Bird #1",
+                        "ref": "Krasheen Mountains/Enemysanity/Running Bird #1"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #6",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #6"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #4",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #4"
+                    },
+                    {
+                        "name": "Enemysanity - Gorgon #2",
+                        "ref": "Krasheen Mountains/Enemysanity/Gorgon #2"
+                    },
+                    {
+                        "name": "Enemysanity - Gorgon #3",
+                        "ref": "Krasheen Mountains/Enemysanity/Gorgon #3"
+                    },
+                    {
+                        "name": "Enemysanity - Gorgon #4",
+                        "ref": "Krasheen Mountains/Enemysanity/Gorgon #4"
+                    },
+                    {
+                        "name": "Enemysanity - Gorgon #5",
+                        "ref": "Krasheen Mountains/Enemysanity/Gorgon #5"
+                    },
+                    {
+                        "name": "Enemysanity - Running Bird #2",
+                        "ref": "Krasheen Mountains/Enemysanity/Running Bird #2"
+                    },
+                    {
+                        "name": "Enemysanity - Running Bird #3",
+                        "ref": "Krasheen Mountains/Enemysanity/Running Bird #3"
+                    },
+                    {
+                        "name": "Enemysanity - Gorgon #6",
+                        "ref": "Krasheen Mountains/Enemysanity/Gorgon #6"
+                    },
+                    {
+                        "name": "Enemysanity - Black Dragon #1",
+                        "ref": "Krasheen Mountains/Enemysanity/Black Dragon #1"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #5",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #5"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #7",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #7"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #8",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #8"
+                    },
+                    {
+                        "name": "Enemysanity - Running Bird #4",
+                        "ref": "Krasheen Mountains/Enemysanity/Running Bird #4"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #9",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #9"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #6",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #6"
+                    },
+                    {
+                        "name": "Enemysanity - Running Bird #5",
+                        "ref": "Krasheen Mountains/Enemysanity/Running Bird #5"
+                    },
+                    {
+                        "name": "Enemysanity - Gorgon #7",
+                        "ref": "Krasheen Mountains/Enemysanity/Gorgon #7"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #10",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #10"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #11",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #11"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #7",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #7"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #8",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #8"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #9",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #9"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #10",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #10"
+                    },
+                    {
+                        "name": "Enemysanity - Running Bird #6",
+                        "ref": "Krasheen Mountains/Enemysanity/Running Bird #6"
+                    },
+                    {
+                        "name": "Enemysanity - Gorgon #8",
+                        "ref": "Krasheen Mountains/Enemysanity/Gorgon #8"
+                    },
+                    {
+                        "name": "Enemysanity - Gorgon #9",
+                        "ref": "Krasheen Mountains/Enemysanity/Gorgon #9"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #11",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #11"
+                    },
+                    {
+                        "name": "Enemysanity - Horus #12",
+                        "ref": "Krasheen Mountains/Enemysanity/Horus #12"
+                    },
+                    {
+                        "name": "Enemysanity - Gargoyle #12",
+                        "ref": "Krasheen Mountains/Enemysanity/Gargoyle #12"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 716,
+                        "y": 2199,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Noblemans Residence",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Basement Chests - Chest 1",
+                        "ref": "Noblemans Residence/Basement Chests/Chest 1"
+                    },
+                    {
+                        "name": "Basement Chests - Chest 2",
+                        "ref": "Noblemans Residence/Basement Chests/Chest 2"
+                    },
+                    {
+                        "name": "Red Fairy Sculpture - ",
+                        "ref": "Noblemans Residence/Red Fairy Sculpture/"
+                    },
+                    {
+                        "name": "Red Fairy Central - ",
+                        "ref": "Noblemans Residence/Red Fairy Central/"
+                    },
+                    {
+                        "name": "Red Fairy Office - ",
+                        "ref": "Noblemans Residence/Red Fairy Office/"
+                    },
+                    {
+                        "name": "Stranger - ",
+                        "ref": "Noblemans Residence/Stranger/"
+                    },
+                    {
+                        "name": "Enemysanity - Beaker #1",
+                        "ref": "Noblemans Residence/Enemysanity/Beaker #1"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Raven #1",
+                        "ref": "Noblemans Residence/Enemysanity/Dark Raven #1"
+                    },
+                    {
+                        "name": "Enemysanity - Hell Hound #1",
+                        "ref": "Noblemans Residence/Enemysanity/Hell Hound #1"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Raven #2",
+                        "ref": "Noblemans Residence/Enemysanity/Dark Raven #2"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Raven #3",
+                        "ref": "Noblemans Residence/Enemysanity/Dark Raven #3"
+                    },
+                    {
+                        "name": "Enemysanity - Beaker #2",
+                        "ref": "Noblemans Residence/Enemysanity/Beaker #2"
+                    },
+                    {
+                        "name": "Enemysanity - Beaker #3",
+                        "ref": "Noblemans Residence/Enemysanity/Beaker #3"
+                    },
+                    {
+                        "name": "Enemysanity - Beaker #4",
+                        "ref": "Noblemans Residence/Enemysanity/Beaker #4"
+                    },
+                    {
+                        "name": "Enemysanity - Incubus #1",
+                        "ref": "Noblemans Residence/Enemysanity/Incubus #1"
+                    },
+                    {
+                        "name": "Enemysanity - Succubus #1",
+                        "ref": "Noblemans Residence/Enemysanity/Succubus #1"
+                    },
+                    {
+                        "name": "Enemysanity - Beaker #5",
+                        "ref": "Noblemans Residence/Enemysanity/Beaker #5"
+                    },
+                    {
+                        "name": "Enemysanity - Dark Raven #4",
+                        "ref": "Noblemans Residence/Enemysanity/Dark Raven #4"
+                    },
+                    {
+                        "name": "Enemysanity - Hell Hound #2",
+                        "ref": "Noblemans Residence/Enemysanity/Hell Hound #2"
+                    },
+                    {
+                        "name": "Enemysanity - Incubus #2",
+                        "ref": "Noblemans Residence/Enemysanity/Incubus #2"
+                    },
+                    {
+                        "name": "Enemysanity - Hell Hound #3",
+                        "ref": "Noblemans Residence/Enemysanity/Hell Hound #3"
+                    },
+                    {
+                        "name": "Enemysanity - Succubus #2",
+                        "ref": "Noblemans Residence/Enemysanity/Succubus #2"
+                    },
+                    {
+                        "name": "Enemysanity - Incubus #3",
+                        "ref": "Noblemans Residence/Enemysanity/Incubus #3"
+                    },
+                    {
+                        "name": "Enemysanity - Succubus #3",
+                        "ref": "Noblemans Residence/Enemysanity/Succubus #3"
+                    },
+                    {
+                        "name": "Enemysanity - Incubus #4",
+                        "ref": "Noblemans Residence/Enemysanity/Incubus #4"
+                    },
+                    {
+                        "name": "Enemysanity - Succubus #4",
+                        "ref": "Noblemans Residence/Enemysanity/Succubus #4"
+                    },
+                    {
+                        "name": "Enemysanity - Hell Hound #4",
+                        "ref": "Noblemans Residence/Enemysanity/Hell Hound #4"
+                    },
+                    {
+                        "name": "Enemysanity - Hell Hound #5",
+                        "ref": "Noblemans Residence/Enemysanity/Hell Hound #5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1604,
+                        "y": 2160,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Obenoix Gorge",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Obenoix Gorge/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Obenoix Gorge/Chest 2/"
+                    },
+                    {
+                        "name": "Island Near 2nd Sasquatch Battle - Flight Chest 1",
+                        "ref": "Obenoix Gorge/Island Near 2nd Sasquatch Battle/Flight Chest 1"
+                    },
+                    {
+                        "name": "Island Near 2nd Sasquatch Battle - Flight Chest 2",
+                        "ref": "Obenoix Gorge/Island Near 2nd Sasquatch Battle/Flight Chest 2"
+                    },
+                    {
+                        "name": "Chest 3 - ",
+                        "ref": "Obenoix Gorge/Chest 3/"
+                    },
+                    {
+                        "name": "Chest 4 - ",
+                        "ref": "Obenoix Gorge/Chest 4/"
+                    },
+                    {
+                        "name": "Chest Behind Ice - ",
+                        "ref": "Obenoix Gorge/Chest Behind Ice/"
+                    },
+                    {
+                        "name": "Flight Chest 3 - ",
+                        "ref": "Obenoix Gorge/Flight Chest 3/"
+                    },
+                    {
+                        "name": "Red Fairy Near Start - ",
+                        "ref": "Obenoix Gorge/Red Fairy Near Start/"
+                    },
+                    {
+                        "name": "Red Fairy in Tree - ",
+                        "ref": "Obenoix Gorge/Red Fairy in Tree/"
+                    },
+                    {
+                        "name": "Red Fairy Near Flight - ",
+                        "ref": "Obenoix Gorge/Red Fairy Near Flight/"
+                    },
+                    {
+                        "name": "Red Fairy in Tree 2 - ",
+                        "ref": "Obenoix Gorge/Red Fairy in Tree 2/"
+                    },
+                    {
+                        "name": "Red Fairy Near Ship - ",
+                        "ref": "Obenoix Gorge/Red Fairy Near Ship/"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #1",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #1"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #2",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #2"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #3",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #3"
+                    },
+                    {
+                        "name": "Enemysanity - Sasquatch #1",
+                        "ref": "Obenoix Gorge/Enemysanity/Sasquatch #1"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #4",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #4"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #5",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #5"
+                    },
+                    {
+                        "name": "Enemysanity - Sasquatch #2",
+                        "ref": "Obenoix Gorge/Enemysanity/Sasquatch #2"
+                    },
+                    {
+                        "name": "Enemysanity - Sasquatch #3",
+                        "ref": "Obenoix Gorge/Enemysanity/Sasquatch #3"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #9",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #9"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #10",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #10"
+                    },
+                    {
+                        "name": "Enemysanity - Baba Yaga #1",
+                        "ref": "Obenoix Gorge/Enemysanity/Baba Yaga #1"
+                    },
+                    {
+                        "name": "Enemysanity - Thanatos #1",
+                        "ref": "Obenoix Gorge/Enemysanity/Thanatos #1"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #6",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #6"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #7",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #7"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #8",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #8"
+                    },
+                    {
+                        "name": "Enemysanity - Water Elemental #1",
+                        "ref": "Obenoix Gorge/Enemysanity/Water Elemental #1"
+                    },
+                    {
+                        "name": "Enemysanity - Water Elemental #2",
+                        "ref": "Obenoix Gorge/Enemysanity/Water Elemental #2"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #11",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #11"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #12",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #12"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #13",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #13"
+                    },
+                    {
+                        "name": "Enemysanity - Baba Yaga #2",
+                        "ref": "Obenoix Gorge/Enemysanity/Baba Yaga #2"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #14",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #14"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #15",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #15"
+                    },
+                    {
+                        "name": "Enemysanity - Hydra #1",
+                        "ref": "Obenoix Gorge/Enemysanity/Hydra #1"
+                    },
+                    {
+                        "name": "Enemysanity - Vodianoi #16",
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #16"
+                    },
+                    {
+                        "name": "Enemysanity - Baba Yaga #3",
+                        "ref": "Obenoix Gorge/Enemysanity/Baba Yaga #3"
+                    },
+                    {
+                        "name": "Enemysanity - Baba Yaga #4",
+                        "ref": "Obenoix Gorge/Enemysanity/Baba Yaga #4"
+                    },
+                    {
+                        "name": "Enemysanity - Water Elemental #3",
+                        "ref": "Obenoix Gorge/Enemysanity/Water Elemental #3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1718,
+                        "y": 2049,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Plains of Rowahl",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Plains of Rowahl/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Plains of Rowahl/Chest 2/"
+                    },
+                    {
+                        "name": "Flight Chest - ",
+                        "ref": "Plains of Rowahl/Flight Chest/"
+                    },
+                    {
+                        "name": "Chest Under Scrap - ",
+                        "ref": "Plains of Rowahl/Chest Under Scrap/"
+                    },
+                    {
+                        "name": "Behind Stranger - Chest 4",
+                        "ref": "Plains of Rowahl/Behind Stranger/Chest 4"
+                    },
+                    {
+                        "name": "Behind Stranger - Chest 5",
+                        "ref": "Plains of Rowahl/Behind Stranger/Chest 5"
+                    },
+                    {
+                        "name": "Royal Vault - Chest 6",
+                        "ref": "Plains of Rowahl/Royal Vault/Chest 6"
+                    },
+                    {
+                        "name": "Royal Vault - Chest 7",
+                        "ref": "Plains of Rowahl/Royal Vault/Chest 7"
+                    },
+                    {
+                        "name": "Flight Chest 2 - ",
+                        "ref": "Plains of Rowahl/Flight Chest 2/"
+                    },
+                    {
+                        "name": "Red Fairy Near Start - ",
+                        "ref": "Plains of Rowahl/Red Fairy Near Start/"
+                    },
+                    {
+                        "name": "Red Fairy in Catapult - ",
+                        "ref": "Plains of Rowahl/Red Fairy in Catapult/"
+                    },
+                    {
+                        "name": "Red Fairy in Golem - ",
+                        "ref": "Plains of Rowahl/Red Fairy in Golem/"
+                    },
+                    {
+                        "name": "Red Fairy Past Gate - ",
+                        "ref": "Plains of Rowahl/Red Fairy Past Gate/"
+                    },
+                    {
+                        "name": "Stranger - ",
+                        "ref": "Plains of Rowahl/Stranger/"
+                    },
+                    {
+                        "name": "Kendarie Soldier - ",
+                        "ref": "Plains of Rowahl/Kendarie Soldier/"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #1",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #1"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #2",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #2"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #3",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #3"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Golem #1",
+                        "ref": "Plains of Rowahl/Enemysanity/Sand Golem #1"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #4",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #4"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Golem #2",
+                        "ref": "Plains of Rowahl/Enemysanity/Sand Golem #2"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Golem #3",
+                        "ref": "Plains of Rowahl/Enemysanity/Sand Golem #3"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Golem #4",
+                        "ref": "Plains of Rowahl/Enemysanity/Sand Golem #4"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #5",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #5"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #6",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #6"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Golem #5",
+                        "ref": "Plains of Rowahl/Enemysanity/Sand Golem #5"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #7",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #7"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Golem #6",
+                        "ref": "Plains of Rowahl/Enemysanity/Sand Golem #6"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #10",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #10"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #11",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #11"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #12",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #12"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Golem #7",
+                        "ref": "Plains of Rowahl/Enemysanity/Sand Golem #7"
+                    },
+                    {
+                        "name": "Enemysanity - Manticore #2",
+                        "ref": "Plains of Rowahl/Enemysanity/Manticore #2"
+                    },
+                    {
+                        "name": "Enemysanity - Manticore #3",
+                        "ref": "Plains of Rowahl/Enemysanity/Manticore #3"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Golem #8",
+                        "ref": "Plains of Rowahl/Enemysanity/Sand Golem #8"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Golem #9",
+                        "ref": "Plains of Rowahl/Enemysanity/Sand Golem #9"
+                    },
+                    {
+                        "name": "Enemysanity - Manticore #1",
+                        "ref": "Plains of Rowahl/Enemysanity/Manticore #1"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #8",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #8"
+                    },
+                    {
+                        "name": "Enemysanity - Devil Plant #9",
+                        "ref": "Plains of Rowahl/Enemysanity/Devil Plant #9"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Golem #10",
+                        "ref": "Plains of Rowahl/Enemysanity/Sand Golem #10"
+                    },
+                    {
+                        "name": "Enemysanity - Sand Golem #11",
+                        "ref": "Plains of Rowahl/Enemysanity/Sand Golem #11"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 161,
+                        "y": 979,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Royal Tower - Lower",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Royal Tower - Lower/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Royal Tower - Lower/Chest 2/"
+                    },
+                    {
+                        "name": "Chest 3 - ",
+                        "ref": "Royal Tower - Lower/Chest 3/"
+                    },
+                    {
+                        "name": "Flight Chest 1 - ",
+                        "ref": "Royal Tower - Lower/Flight Chest 1/"
+                    },
+                    {
+                        "name": "Flight Chest 2 - ",
+                        "ref": "Royal Tower - Lower/Flight Chest 2/"
+                    },
+                    {
+                        "name": "Jump Chest 1 - ",
+                        "ref": "Royal Tower - Lower/Jump Chest 1/"
+                    },
+                    {
+                        "name": "Jump Chest 2 - ",
+                        "ref": "Royal Tower - Lower/Jump Chest 2/"
+                    },
+                    {
+                        "name": "Red Fairy Start - ",
+                        "ref": "Royal Tower - Lower/Red Fairy Start/"
+                    },
+                    {
+                        "name": "Red Fairy up Elevator - ",
+                        "ref": "Royal Tower - Lower/Red Fairy up Elevator/"
+                    },
+                    {
+                        "name": "Red Fairy Over Pillar - ",
+                        "ref": "Royal Tower - Lower/Red Fairy Over Pillar/"
+                    },
+                    {
+                        "name": "Red Fairy Chandelier - ",
+                        "ref": "Royal Tower - Lower/Red Fairy Chandelier/"
+                    },
+                    {
+                        "name": "Red Fairy Outside - ",
+                        "ref": "Royal Tower - Lower/Red Fairy Outside/"
+                    },
+                    {
+                        "name": "Red Fairy Flight - ",
+                        "ref": "Royal Tower - Lower/Red Fairy Flight/"
+                    },
+                    {
+                        "name": "Enemysanity - LazerBug 39K #1",
+                        "ref": "Royal Tower - Lower/Enemysanity/LazerBug 39K #1"
+                    },
+                    {
+                        "name": "Enemysanity - LazerBug 39K #2",
+                        "ref": "Royal Tower - Lower/Enemysanity/LazerBug 39K #2"
+                    },
+                    {
+                        "name": "Enemysanity - LazerBug 39K #3",
+                        "ref": "Royal Tower - Lower/Enemysanity/LazerBug 39K #3"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #1",
+                        "ref": "Royal Tower - Lower/Enemysanity/Aggressor DX5 #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #2",
+                        "ref": "Royal Tower - Lower/Enemysanity/Aggressor DX5 #2"
+                    },
+                    {
+                        "name": "Enemysanity - LazerBug 39K #4",
+                        "ref": "Royal Tower - Lower/Enemysanity/LazerBug 39K #4"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #3",
+                        "ref": "Royal Tower - Lower/Enemysanity/Aggressor DX5 #3"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #4",
+                        "ref": "Royal Tower - Lower/Enemysanity/Aggressor DX5 #4"
+                    },
+                    {
+                        "name": "Enemysanity - LazerBug 39K #5",
+                        "ref": "Royal Tower - Lower/Enemysanity/LazerBug 39K #5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1256,
+                        "y": 888,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Royal Tower - Middle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Royal Tower - Middle/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Royal Tower - Middle/Chest 2/"
+                    },
+                    {
+                        "name": "Breakable Wall 1 - Chest",
+                        "ref": "Royal Tower - Middle/Breakable Wall 1/Chest"
+                    },
+                    {
+                        "name": "Breakable Wall 1 - Red Fairy",
+                        "ref": "Royal Tower - Middle/Breakable Wall 1/Red Fairy"
+                    },
+                    {
+                        "name": "Breakable Wall 2 - Chest",
+                        "ref": "Royal Tower - Middle/Breakable Wall 2/Chest"
+                    },
+                    {
+                        "name": "Breakable Wall 2 - Red Fairy",
+                        "ref": "Royal Tower - Middle/Breakable Wall 2/Red Fairy"
+                    },
+                    {
+                        "name": "Forcefield Chest 1 - ",
+                        "ref": "Royal Tower - Middle/Forcefield Chest 1/"
+                    },
+                    {
+                        "name": "Forcefield Chest 2 - ",
+                        "ref": "Royal Tower - Middle/Forcefield Chest 2/"
+                    },
+                    {
+                        "name": "Red Fairy Near Start - ",
+                        "ref": "Royal Tower - Middle/Red Fairy Near Start/"
+                    },
+                    {
+                        "name": "Red Fairy Hallway - ",
+                        "ref": "Royal Tower - Middle/Red Fairy Hallway/"
+                    },
+                    {
+                        "name": "Enemysanity - Ice Golem #1",
+                        "ref": "Royal Tower - Middle/Enemysanity/Ice Golem #1"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Fox #1",
+                        "ref": "Royal Tower - Middle/Enemysanity/Demon Fox #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #1",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #2",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #2"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #3",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #3"
+                    },
+                    {
+                        "name": "Enemysanity - Beelzebub #1",
+                        "ref": "Royal Tower - Middle/Enemysanity/Beelzebub #1"
+                    },
+                    {
+                        "name": "Enemysanity - Behemoth #1",
+                        "ref": "Royal Tower - Middle/Enemysanity/Behemoth #1"
+                    },
+                    {
+                        "name": "Enemysanity - Fenril #1",
+                        "ref": "Royal Tower - Middle/Enemysanity/Fenril #1"
+                    },
+                    {
+                        "name": "Enemysanity - Leod VIII #1",
+                        "ref": "Royal Tower - Middle/Enemysanity/Leod VIII #1"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #4",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #4"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #5",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #5"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #6",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #6"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #7",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #7"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #8",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #8"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #9",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #9"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #10",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #10"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #11",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #11"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #12",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #12"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #13",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #13"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #14",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #14"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #15",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #15"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #16",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #16"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #17",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #17"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #18",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #18"
+                    },
+                    {
+                        "name": "Enemysanity - Aggressor DX5 #19",
+                        "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #19"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2383,
+                        "y": 584,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Royal Tower - Upper",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Royal Tower - Upper/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Royal Tower - Upper/Chest 2/"
+                    },
+                    {
+                        "name": "Chest 3 - ",
+                        "ref": "Royal Tower - Upper/Chest 3/"
+                    },
+                    {
+                        "name": "Red Fairy Rubble - ",
+                        "ref": "Royal Tower - Upper/Red Fairy Rubble/"
+                    },
+                    {
+                        "name": "Red Fairy Sphinx - ",
+                        "ref": "Royal Tower - Upper/Red Fairy Sphinx/"
+                    },
+                    {
+                        "name": "Red Fairy Stairs 1 - ",
+                        "ref": "Royal Tower - Upper/Red Fairy Stairs 1/"
+                    },
+                    {
+                        "name": "Red Fairy Stairs 2 - ",
+                        "ref": "Royal Tower - Upper/Red Fairy Stairs 2/"
+                    },
+                    {
+                        "name": "Enemysanity - Sphinx #1",
+                        "ref": "Royal Tower - Upper/Enemysanity/Sphinx #1"
+                    },
+                    {
+                        "name": "Enemysanity - Tentacle #1",
+                        "ref": "Royal Tower - Upper/Enemysanity/Tentacle #1"
+                    },
+                    {
+                        "name": "Enemysanity - Tentacle #2",
+                        "ref": "Royal Tower - Upper/Enemysanity/Tentacle #2"
+                    },
+                    {
+                        "name": "Enemysanity - Wyvern #1",
+                        "ref": "Royal Tower - Upper/Enemysanity/Wyvern #1"
+                    },
+                    {
+                        "name": "Enemysanity - Tentacle #3",
+                        "ref": "Royal Tower - Upper/Enemysanity/Tentacle #3"
+                    },
+                    {
+                        "name": "Enemysanity - Wyvern #2",
+                        "ref": "Royal Tower - Upper/Enemysanity/Wyvern #2"
+                    },
+                    {
+                        "name": "Enemysanity - Wyvern #3",
+                        "ref": "Royal Tower - Upper/Enemysanity/Wyvern #3"
+                    },
+                    {
+                        "name": "Enemysanity - Tentacle #4",
+                        "ref": "Royal Tower - Upper/Enemysanity/Tentacle #4"
+                    },
+                    {
+                        "name": "Enemysanity - Tentacle #5",
+                        "ref": "Royal Tower - Upper/Enemysanity/Tentacle #5"
+                    },
+                    {
+                        "name": "Enemysanity - Tentacle #6",
+                        "ref": "Royal Tower - Upper/Enemysanity/Tentacle #6"
+                    },
+                    {
+                        "name": "Enemysanity - Tentacle #7",
+                        "ref": "Royal Tower - Upper/Enemysanity/Tentacle #7"
+                    },
+                    {
+                        "name": "Enemysanity - Tentacle #8",
+                        "ref": "Royal Tower - Upper/Enemysanity/Tentacle #8"
+                    },
+                    {
+                        "name": "Enemysanity - God of Harmony #1",
+                        "ref": "Royal Tower - Upper/Enemysanity/God of Harmony #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 108,
+                        "y": 1612,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Ruldo Forest",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Ruldo Forest/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Ruldo Forest/Chest 2/"
+                    },
+                    {
+                        "name": "Chest 3 - ",
+                        "ref": "Ruldo Forest/Chest 3/"
+                    },
+                    {
+                        "name": "Jump Chest - ",
+                        "ref": "Ruldo Forest/Jump Chest/"
+                    },
+                    {
+                        "name": "Flight or Jump Chest - ",
+                        "ref": "Ruldo Forest/Flight or Jump Chest/"
+                    },
+                    {
+                        "name": "Cockatrice Area - Chest 1",
+                        "ref": "Ruldo Forest/Cockatrice Area/Chest 1"
+                    },
+                    {
+                        "name": "Cockatrice Area - Chest 2",
+                        "ref": "Ruldo Forest/Cockatrice Area/Chest 2"
+                    },
+                    {
+                        "name": "Red Fairy at Start - ",
+                        "ref": "Ruldo Forest/Red Fairy at Start/"
+                    },
+                    {
+                        "name": "Red Fairy at Start 2 - ",
+                        "ref": "Ruldo Forest/Red Fairy at Start 2/"
+                    },
+                    {
+                        "name": "Red Fairy in Tree - ",
+                        "ref": "Ruldo Forest/Red Fairy in Tree/"
+                    },
+                    {
+                        "name": "Red Fairy Near Machine - ",
+                        "ref": "Ruldo Forest/Red Fairy Near Machine/"
+                    },
+                    {
+                        "name": "Red Fairy Past Cockatrice - ",
+                        "ref": "Ruldo Forest/Red Fairy Past Cockatrice/"
+                    },
+                    {
+                        "name": "Stranger - ",
+                        "ref": "Ruldo Forest/Stranger/"
+                    },
+                    {
+                        "name": "Magic Boosters Activation - ",
+                        "ref": "Ruldo Forest/Magic Boosters Activation/"
+                    },
+                    {
+                        "name": "Enemysanity - Elf #1",
+                        "ref": "Ruldo Forest/Enemysanity/Elf #1"
+                    },
+                    {
+                        "name": "Enemysanity - Elf #2",
+                        "ref": "Ruldo Forest/Enemysanity/Elf #2"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Hound #1",
+                        "ref": "Ruldo Forest/Enemysanity/Demon Hound #1"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Hound #2",
+                        "ref": "Ruldo Forest/Enemysanity/Demon Hound #2"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Hound #3",
+                        "ref": "Ruldo Forest/Enemysanity/Demon Hound #3"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Hound #4",
+                        "ref": "Ruldo Forest/Enemysanity/Demon Hound #4"
+                    },
+                    {
+                        "name": "Enemysanity - Elf #3",
+                        "ref": "Ruldo Forest/Enemysanity/Elf #3"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Hound #5",
+                        "ref": "Ruldo Forest/Enemysanity/Demon Hound #5"
+                    },
+                    {
+                        "name": "Enemysanity - Dryad #1",
+                        "ref": "Ruldo Forest/Enemysanity/Dryad #1"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Hound #6",
+                        "ref": "Ruldo Forest/Enemysanity/Demon Hound #6"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Hound #7",
+                        "ref": "Ruldo Forest/Enemysanity/Demon Hound #7"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Hound #8",
+                        "ref": "Ruldo Forest/Enemysanity/Demon Hound #8"
+                    },
+                    {
+                        "name": "Enemysanity - Elf #4",
+                        "ref": "Ruldo Forest/Enemysanity/Elf #4"
+                    },
+                    {
+                        "name": "Enemysanity - Elf #5",
+                        "ref": "Ruldo Forest/Enemysanity/Elf #5"
+                    },
+                    {
+                        "name": "Enemysanity - Myconid #1",
+                        "ref": "Ruldo Forest/Enemysanity/Myconid #1"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Hound #9",
+                        "ref": "Ruldo Forest/Enemysanity/Demon Hound #9"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Hound #10",
+                        "ref": "Ruldo Forest/Enemysanity/Demon Hound #10"
+                    },
+                    {
+                        "name": "Enemysanity - Cockatrice #1",
+                        "ref": "Ruldo Forest/Enemysanity/Cockatrice #1"
+                    },
+                    {
+                        "name": "Enemysanity - Cockatrice #2",
+                        "ref": "Ruldo Forest/Enemysanity/Cockatrice #2"
+                    },
+                    {
+                        "name": "Enemysanity - Cockatrice #3",
+                        "ref": "Ruldo Forest/Enemysanity/Cockatrice #3"
+                    },
+                    {
+                        "name": "Enemysanity - Mandra Dancer #1",
+                        "ref": "Ruldo Forest/Enemysanity/Mandra Dancer #1"
+                    },
+                    {
+                        "name": "Enemysanity - Mandra Dancer #2",
+                        "ref": "Ruldo Forest/Enemysanity/Mandra Dancer #2"
+                    },
+                    {
+                        "name": "Enemysanity - Demon Hound #11",
+                        "ref": "Ruldo Forest/Enemysanity/Demon Hound #11"
+                    },
+                    {
+                        "name": "Enemysanity - Dryad #2",
+                        "ref": "Ruldo Forest/Enemysanity/Dryad #2"
+                    },
+                    {
+                        "name": "Enemysanity - Elf #6",
+                        "ref": "Ruldo Forest/Enemysanity/Elf #6"
+                    },
+                    {
+                        "name": "Enemysanity - Myconid #2",
+                        "ref": "Ruldo Forest/Enemysanity/Myconid #2"
+                    },
+                    {
+                        "name": "Enemysanity - Myconid #3",
+                        "ref": "Ruldo Forest/Enemysanity/Myconid #3"
+                    },
+                    {
+                        "name": "Enemysanity - Myconid #4",
+                        "ref": "Ruldo Forest/Enemysanity/Myconid #4"
+                    },
+                    {
+                        "name": "Enemysanity - Mandra Dancer #3",
+                        "ref": "Ruldo Forest/Enemysanity/Mandra Dancer #3"
+                    },
+                    {
+                        "name": "Enemysanity - Elf #7",
+                        "ref": "Ruldo Forest/Enemysanity/Elf #7"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2414,
+                        "y": 1909,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Runestone Caverns - Lower Chambers",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Runestone Caverns - Lower Chambers/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Runestone Caverns - Lower Chambers/Chest 2/"
+                    },
+                    {
+                        "name": "Low Water Chest - ",
+                        "ref": "Runestone Caverns - Lower Chambers/Low Water Chest/"
+                    },
+                    {
+                        "name": "High Water Chest 1 - ",
+                        "ref": "Runestone Caverns - Lower Chambers/High Water Chest 1/"
+                    },
+                    {
+                        "name": "High Water Chest Flight - ",
+                        "ref": "Runestone Caverns - Lower Chambers/High Water Chest Flight/"
+                    },
+                    {
+                        "name": "Chest 6 - ",
+                        "ref": "Runestone Caverns - Lower Chambers/Chest 6/"
+                    },
+                    {
+                        "name": "Chest 7 - ",
+                        "ref": "Runestone Caverns - Lower Chambers/Chest 7/"
+                    },
+                    {
+                        "name": "Red Fairy Near Start - ",
+                        "ref": "Runestone Caverns - Lower Chambers/Red Fairy Near Start/"
+                    },
+                    {
+                        "name": "Red Fairy in Rubble - ",
+                        "ref": "Runestone Caverns - Lower Chambers/Red Fairy in Rubble/"
+                    },
+                    {
+                        "name": "Red Fairy Low Water - ",
+                        "ref": "Runestone Caverns - Lower Chambers/Red Fairy Low Water/"
+                    },
+                    {
+                        "name": "Red Fairy on Stairs - ",
+                        "ref": "Runestone Caverns - Lower Chambers/Red Fairy on Stairs/"
+                    },
+                    {
+                        "name": "Enemysanity - Water Reaper #1",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #1"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #1",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #1"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #2",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #2"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #1",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #1"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #2",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #2"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #3",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #3"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #4",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #4"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #3",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #3"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #4",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #4"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #5",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #5"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #6",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #6"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #5",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #5"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #6",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #6"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #7",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #7"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #8",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #8"
+                    },
+                    {
+                        "name": "Enemysanity - Body of the God #1",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Body of the God #1"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #9",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #9"
+                    },
+                    {
+                        "name": "Enemysanity - Water Reaper #2",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #2"
+                    },
+                    {
+                        "name": "Enemysanity - Water Reaper #3",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #3"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #7",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #7"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #8",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #8"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #10",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #10"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #11",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #11"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #9",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #9"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #10",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #10"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #11",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #11"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #12",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #12"
+                    },
+                    {
+                        "name": "Enemysanity - Water Reaper #4",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #4"
+                    },
+                    {
+                        "name": "Enemysanity - Water Reaper #5",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #5"
+                    },
+                    {
+                        "name": "Enemysanity - Water Reaper #6",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #6"
+                    },
+                    {
+                        "name": "Enemysanity - Water Reaper #7",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #7"
+                    },
+                    {
+                        "name": "Enemysanity - Yowie #13",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #13"
+                    },
+                    {
+                        "name": "Enemysanity - Flayer Spawn #12",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #12"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 773,
+                        "y": 496,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Runestone Caverns - Upper Chambers",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Runestone Caverns - Upper Chambers/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Runestone Caverns - Upper Chambers/Chest 2/"
+                    },
+                    {
+                        "name": "Sol - Talk to Sol",
+                        "ref": "Runestone Caverns - Upper Chambers/Sol/Talk to Sol"
+                    },
+                    {
+                        "name": "Sol - Red Fairy",
+                        "ref": "Runestone Caverns - Upper Chambers/Sol/Red Fairy"
+                    },
+                    {
+                        "name": "Lower Chest 1 - ",
+                        "ref": "Runestone Caverns - Upper Chambers/Lower Chest 1/"
+                    },
+                    {
+                        "name": "Lower Chest 2 - ",
+                        "ref": "Runestone Caverns - Upper Chambers/Lower Chest 2/"
+                    },
+                    {
+                        "name": "Chest Behind Ice 1 - ",
+                        "ref": "Runestone Caverns - Upper Chambers/Chest Behind Ice 1/"
+                    },
+                    {
+                        "name": "Chest Behind Ice 2 - ",
+                        "ref": "Runestone Caverns - Upper Chambers/Chest Behind Ice 2/"
+                    },
+                    {
+                        "name": "Near Dragon - Chest 1",
+                        "ref": "Runestone Caverns - Upper Chambers/Near Dragon/Chest 1"
+                    },
+                    {
+                        "name": "Near Dragon - Chest 2",
+                        "ref": "Runestone Caverns - Upper Chambers/Near Dragon/Chest 2"
+                    },
+                    {
+                        "name": "Near Dragon - Red Fairy",
+                        "ref": "Runestone Caverns - Upper Chambers/Near Dragon/Red Fairy"
+                    },
+                    {
+                        "name": "Red Fairy Near Start - ",
+                        "ref": "Runestone Caverns - Upper Chambers/Red Fairy Near Start/"
+                    },
+                    {
+                        "name": "Red Fairy Near Sluice Gate - ",
+                        "ref": "Runestone Caverns - Upper Chambers/Red Fairy Near Sluice Gate/"
+                    },
+                    {
+                        "name": "Red Fairy Near Golem - ",
+                        "ref": "Runestone Caverns - Upper Chambers/Red Fairy Near Golem/"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #1",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #1"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #2",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #2"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #3",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #3"
+                    },
+                    {
+                        "name": "Enemysanity - Crystal Rose #1",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #1"
+                    },
+                    {
+                        "name": "Enemysanity - Crystal Rose #2",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #2"
+                    },
+                    {
+                        "name": "Enemysanity - Crystal Rose #3",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #3"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #4",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #4"
+                    },
+                    {
+                        "name": "Enemysanity - Giant Crab #1",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #1"
+                    },
+                    {
+                        "name": "Enemysanity - Crystal Rose #4",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #4"
+                    },
+                    {
+                        "name": "Enemysanity - Crystal Rose #5",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #5"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #5",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #5"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #6",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #6"
+                    },
+                    {
+                        "name": "Enemysanity - Giant Crab #2",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #2"
+                    },
+                    {
+                        "name": "Enemysanity - Giant Crab #3",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #3"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #7",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #7"
+                    },
+                    {
+                        "name": "Enemysanity - Stone Golem #1",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Stone Golem #1"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #8",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #8"
+                    },
+                    {
+                        "name": "Enemysanity - Giant Crab #4",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #4"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #9",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #9"
+                    },
+                    {
+                        "name": "Enemysanity - Crystal Rose #6",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #6"
+                    },
+                    {
+                        "name": "Enemysanity - Giant Crab #5",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #5"
+                    },
+                    {
+                        "name": "Enemysanity - Crystal Rose #7",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #7"
+                    },
+                    {
+                        "name": "Enemysanity - Crystal Rose #8",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #8"
+                    },
+                    {
+                        "name": "Enemysanity - UberBomberBot #1",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/UberBomberBot #1"
+                    },
+                    {
+                        "name": "Enemysanity - UberBomberBot #2",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/UberBomberBot #2"
+                    },
+                    {
+                        "name": "Enemysanity - UberBomberBot #3",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/UberBomberBot #3"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #10",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #10"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #11",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #11"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #12",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #12"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #13",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #13"
+                    },
+                    {
+                        "name": "Enemysanity - Giant Crab #6",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #6"
+                    },
+                    {
+                        "name": "Enemysanity - Giant Crab #7",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #7"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #14",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #14"
+                    },
+                    {
+                        "name": "Enemysanity - Land Shark #15",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #15"
+                    },
+                    {
+                        "name": "Enemysanity - Brine Dragon #1",
+                        "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Brine Dragon #1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 102,
+                        "y": 1774,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sacred Battle Arena 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Defeat Lich - ",
+                        "ref": "Sacred Battle Arena 1/Defeat Lich/"
+                    },
+                    {
+                        "name": "Defeat Nueh - ",
+                        "ref": "Sacred Battle Arena 1/Defeat Nueh/"
+                    },
+                    {
+                        "name": "Defeat Gemini - ",
+                        "ref": "Sacred Battle Arena 1/Defeat Gemini/"
+                    },
+                    {
+                        "name": "Defeat Kraken - ",
+                        "ref": "Sacred Battle Arena 1/Defeat Kraken/"
+                    },
+                    {
+                        "name": "Red Fairy 1 - ",
+                        "ref": "Sacred Battle Arena 1/Red Fairy 1/"
+                    },
+                    {
+                        "name": "Red Fairy 2 - ",
+                        "ref": "Sacred Battle Arena 1/Red Fairy 2/"
+                    },
+                    {
+                        "name": "Red Fairy 3 - ",
+                        "ref": "Sacred Battle Arena 1/Red Fairy 3/"
+                    },
+                    {
+                        "name": "Gurd Reward - ",
+                        "ref": "Sacred Battle Arena 1/Gurd Reward/"
+                    },
+                    {
+                        "name": "Stranger - ",
+                        "ref": "Sacred Battle Arena 1/Stranger/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 792,
+                        "y": 971,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sacred Battle Arena 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Defeat Rabandos - ",
+                        "ref": "Sacred Battle Arena 2/Defeat Rabandos/"
+                    },
+                    {
+                        "name": "Defeat Helena - ",
+                        "ref": "Sacred Battle Arena 2/Defeat Helena/"
+                    },
+                    {
+                        "name": "Defeat AstroBot - ",
+                        "ref": "Sacred Battle Arena 2/Defeat AstroBot/"
+                    },
+                    {
+                        "name": "Defeat Leod - ",
+                        "ref": "Sacred Battle Arena 2/Defeat Leod/"
+                    },
+                    {
+                        "name": "Defeat Thalnos - ",
+                        "ref": "Sacred Battle Arena 2/Defeat Thalnos/"
+                    },
+                    {
+                        "name": "Defeat Katia - ",
+                        "ref": "Sacred Battle Arena 2/Defeat Katia/"
+                    },
+                    {
+                        "name": "Red Fairy Hallway - ",
+                        "ref": "Sacred Battle Arena 2/Red Fairy Hallway/"
+                    },
+                    {
+                        "name": "Red Fairy Machines - ",
+                        "ref": "Sacred Battle Arena 2/Red Fairy Machines/"
+                    },
+                    {
+                        "name": "Red Fairy Queen Katia - ",
+                        "ref": "Sacred Battle Arena 2/Red Fairy Queen Katia/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 715,
+                        "y": 1774,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Sarvan",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Jump Chest - ",
+                        "ref": "Sarvan/Jump Chest/"
+                    },
+                    {
+                        "name": "Down Stairs After First Gate - Chest 1",
+                        "ref": "Sarvan/Down Stairs After First Gate/Chest 1"
+                    },
+                    {
+                        "name": "Down Stairs After First Gate - Chest 2",
+                        "ref": "Sarvan/Down Stairs After First Gate/Chest 2"
+                    },
+                    {
+                        "name": "Down Stairs After First Gate - Chest 3",
+                        "ref": "Sarvan/Down Stairs After First Gate/Chest 3"
+                    },
+                    {
+                        "name": "Caged Chest 1 - ",
+                        "ref": "Sarvan/Caged Chest 1/"
+                    },
+                    {
+                        "name": "Chest 4 - ",
+                        "ref": "Sarvan/Chest 4/"
+                    },
+                    {
+                        "name": "Chest 5 - ",
+                        "ref": "Sarvan/Chest 5/"
+                    },
+                    {
+                        "name": "Caged Chest 2 - ",
+                        "ref": "Sarvan/Caged Chest 2/"
+                    },
+                    {
+                        "name": "Puzzle Chest - ",
+                        "ref": "Sarvan/Puzzle Chest/"
+                    },
+                    {
+                        "name": "Red Fairy Near Start - ",
+                        "ref": "Sarvan/Red Fairy Near Start/"
+                    },
+                    {
+                        "name": "Red Fairy Under Bridge - ",
+                        "ref": "Sarvan/Red Fairy Under Bridge/"
+                    },
+                    {
+                        "name": "Red Fairy Magic Circle - ",
+                        "ref": "Sarvan/Red Fairy Magic Circle/"
+                    },
+                    {
+                        "name": "Enemysanity - Evil Eye #1",
+                        "ref": "Sarvan/Enemysanity/Evil Eye #1"
+                    },
+                    {
+                        "name": "Enemysanity - Jade Giant #1",
+                        "ref": "Sarvan/Enemysanity/Jade Giant #1"
+                    },
+                    {
+                        "name": "Enemysanity - Jade Giant #2",
+                        "ref": "Sarvan/Enemysanity/Jade Giant #2"
+                    },
+                    {
+                        "name": "Enemysanity - Jade Giant #3",
+                        "ref": "Sarvan/Enemysanity/Jade Giant #3"
+                    },
+                    {
+                        "name": "Enemysanity - Siren #1",
+                        "ref": "Sarvan/Enemysanity/Siren #1"
+                    },
+                    {
+                        "name": "Enemysanity - Evil Eye #2",
+                        "ref": "Sarvan/Enemysanity/Evil Eye #2"
+                    },
+                    {
+                        "name": "Enemysanity - Jade Giant #4",
+                        "ref": "Sarvan/Enemysanity/Jade Giant #4"
+                    },
+                    {
+                        "name": "Enemysanity - Siren #2",
+                        "ref": "Sarvan/Enemysanity/Siren #2"
+                    },
+                    {
+                        "name": "Enemysanity - Evil Eye #3",
+                        "ref": "Sarvan/Enemysanity/Evil Eye #3"
+                    },
+                    {
+                        "name": "Enemysanity - Jade Giant #5",
+                        "ref": "Sarvan/Enemysanity/Jade Giant #5"
+                    },
+                    {
+                        "name": "Enemysanity - Siren #3",
+                        "ref": "Sarvan/Enemysanity/Siren #3"
+                    },
+                    {
+                        "name": "Enemysanity - Jade Giant #6",
+                        "ref": "Sarvan/Enemysanity/Jade Giant #6"
+                    },
+                    {
+                        "name": "Enemysanity - Gold Butterfly #1",
+                        "ref": "Sarvan/Enemysanity/Gold Butterfly #1"
+                    },
+                    {
+                        "name": "Enemysanity - Jade Giant #7",
+                        "ref": "Sarvan/Enemysanity/Jade Giant #7"
+                    },
+                    {
+                        "name": "Enemysanity - Evil Eye #4",
+                        "ref": "Sarvan/Enemysanity/Evil Eye #4"
+                    },
+                    {
+                        "name": "Enemysanity - Evil Eye #5",
+                        "ref": "Sarvan/Enemysanity/Evil Eye #5"
+                    },
+                    {
+                        "name": "Enemysanity - Gold Butterfly #2",
+                        "ref": "Sarvan/Enemysanity/Gold Butterfly #2"
+                    },
+                    {
+                        "name": "Enemysanity - Jade Giant #8",
+                        "ref": "Sarvan/Enemysanity/Jade Giant #8"
+                    },
+                    {
+                        "name": "Enemysanity - Jade Giant #9",
+                        "ref": "Sarvan/Enemysanity/Jade Giant #9"
+                    },
+                    {
+                        "name": "Enemysanity - Chimera #1",
+                        "ref": "Sarvan/Enemysanity/Chimera #1"
+                    },
+                    {
+                        "name": "Enemysanity - Jade Giant #10",
+                        "ref": "Sarvan/Enemysanity/Jade Giant #10"
+                    },
+                    {
+                        "name": "Enemysanity - Gold Butterfly #3",
+                        "ref": "Sarvan/Enemysanity/Gold Butterfly #3"
+                    },
+                    {
+                        "name": "Enemysanity - Siren #4",
+                        "ref": "Sarvan/Enemysanity/Siren #4"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 28,
+                        "y": 304,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Temple of Sharacia",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Flight Chest - ",
+                        "ref": "Temple of Sharacia/Flight Chest/"
+                    },
+                    {
+                        "name": "Chest 1 - ",
+                        "ref": "Temple of Sharacia/Chest 1/"
+                    },
+                    {
+                        "name": "Chest 2 - ",
+                        "ref": "Temple of Sharacia/Chest 2/"
+                    },
+                    {
+                        "name": "Chest 3 - ",
+                        "ref": "Temple of Sharacia/Chest 3/"
+                    },
+                    {
+                        "name": "Chest 4 - ",
+                        "ref": "Temple of Sharacia/Chest 4/"
+                    },
+                    {
+                        "name": "Chest 5 - ",
+                        "ref": "Temple of Sharacia/Chest 5/"
+                    },
+                    {
+                        "name": "Chest 6 - ",
+                        "ref": "Temple of Sharacia/Chest 6/"
+                    },
+                    {
+                        "name": "Help Valkyrie - ",
+                        "ref": "Temple of Sharacia/Help Valkyrie/"
+                    },
+                    {
+                        "name": "Help Ashura - ",
+                        "ref": "Temple of Sharacia/Help Ashura/"
+                    },
+                    {
+                        "name": "Red Fairy Near Start 1 - ",
+                        "ref": "Temple of Sharacia/Red Fairy Near Start 1/"
+                    },
+                    {
+                        "name": "Red Fairy Near Start 2 - ",
+                        "ref": "Temple of Sharacia/Red Fairy Near Start 2/"
+                    },
+                    {
+                        "name": "Red Fairy up Left Stairs - ",
+                        "ref": "Temple of Sharacia/Red Fairy up Left Stairs/"
+                    },
+                    {
+                        "name": "Red Fairy up Right Side - ",
+                        "ref": "Temple of Sharacia/Red Fairy up Right Side/"
+                    },
+                    {
+                        "name": "Red Fairy Rubble - ",
+                        "ref": "Temple of Sharacia/Red Fairy Rubble/"
+                    },
+                    {
+                        "name": "Red Fairy Valkyrie Side - ",
+                        "ref": "Temple of Sharacia/Red Fairy Valkyrie Side/"
+                    },
+                    {
+                        "name": "Enemysanity - Efreet #1",
+                        "ref": "Temple of Sharacia/Enemysanity/Efreet #1"
+                    },
+                    {
+                        "name": "Enemysanity - Efreet #2",
+                        "ref": "Temple of Sharacia/Enemysanity/Efreet #2"
+                    },
+                    {
+                        "name": "Enemysanity - Fire Gargoyle #1",
+                        "ref": "Temple of Sharacia/Enemysanity/Fire Gargoyle #1"
+                    },
+                    {
+                        "name": "Enemysanity - Fire Gargoyle #2",
+                        "ref": "Temple of Sharacia/Enemysanity/Fire Gargoyle #2"
+                    },
+                    {
+                        "name": "Enemysanity - Cerberus #1",
+                        "ref": "Temple of Sharacia/Enemysanity/Cerberus #1"
+                    },
+                    {
+                        "name": "Enemysanity - Cerberus #2",
+                        "ref": "Temple of Sharacia/Enemysanity/Cerberus #2"
+                    },
+                    {
+                        "name": "Enemysanity - Fire Elemental #1",
+                        "ref": "Temple of Sharacia/Enemysanity/Fire Elemental #1"
+                    },
+                    {
+                        "name": "Enemysanity - Efreet #3",
+                        "ref": "Temple of Sharacia/Enemysanity/Efreet #3"
+                    },
+                    {
+                        "name": "Enemysanity - Efreet #4",
+                        "ref": "Temple of Sharacia/Enemysanity/Efreet #4"
+                    },
+                    {
+                        "name": "Enemysanity - Red Dragon #1",
+                        "ref": "Temple of Sharacia/Enemysanity/Red Dragon #1"
+                    },
+                    {
+                        "name": "Enemysanity - Cerberus #3",
+                        "ref": "Temple of Sharacia/Enemysanity/Cerberus #3"
+                    },
+                    {
+                        "name": "Enemysanity - Efreet #5",
+                        "ref": "Temple of Sharacia/Enemysanity/Efreet #5"
+                    },
+                    {
+                        "name": "Enemysanity - Phoenix #1",
+                        "ref": "Temple of Sharacia/Enemysanity/Phoenix #1"
+                    },
+                    {
+                        "name": "Enemysanity - Cerberus #4",
+                        "ref": "Temple of Sharacia/Enemysanity/Cerberus #4"
+                    },
+                    {
+                        "name": "Enemysanity - Cerberus #5",
+                        "ref": "Temple of Sharacia/Enemysanity/Cerberus #5"
+                    },
+                    {
+                        "name": "Enemysanity - Efreet #6",
+                        "ref": "Temple of Sharacia/Enemysanity/Efreet #6"
+                    },
+                    {
+                        "name": "Enemysanity - Phoenix #2",
+                        "ref": "Temple of Sharacia/Enemysanity/Phoenix #2"
+                    },
+                    {
+                        "name": "Enemysanity - Ashura #1",
+                        "ref": "Temple of Sharacia/Enemysanity/Ashura #1"
+                    },
+                    {
+                        "name": "Enemysanity - Valkyrie #1",
+                        "ref": "Temple of Sharacia/Enemysanity/Valkyrie #1"
+                    },
+                    {
+                        "name": "Enemysanity - Efreet #7",
+                        "ref": "Temple of Sharacia/Enemysanity/Efreet #7"
+                    },
+                    {
+                        "name": "Enemysanity - Phoenix #3",
+                        "ref": "Temple of Sharacia/Enemysanity/Phoenix #3"
+                    },
+                    {
+                        "name": "Enemysanity - Cerberus #6",
+                        "ref": "Temple of Sharacia/Enemysanity/Cerberus #6"
+                    },
+                    {
+                        "name": "Enemysanity - Efreet #8",
+                        "ref": "Temple of Sharacia/Enemysanity/Efreet #8"
+                    },
+                    {
+                        "name": "Enemysanity - Efreet #9",
+                        "ref": "Temple of Sharacia/Enemysanity/Efreet #9"
+                    },
+                    {
+                        "name": "Enemysanity - Red Dragon #2",
+                        "ref": "Temple of Sharacia/Enemysanity/Red Dragon #2"
+                    },
+                    {
+                        "name": "Enemysanity - Cerberus #7",
+                        "ref": "Temple of Sharacia/Enemysanity/Cerberus #7"
+                    },
+                    {
+                        "name": "Enemysanity - Efreet #10",
+                        "ref": "Temple of Sharacia/Enemysanity/Efreet #10"
+                    },
+                    {
+                        "name": "Enemysanity - Cerberus #8",
+                        "ref": "Temple of Sharacia/Enemysanity/Cerberus #8"
+                    },
+                    {
+                        "name": "Enemysanity - Cerberus #9",
+                        "ref": "Temple of Sharacia/Enemysanity/Cerberus #9"
+                    },
+                    {
+                        "name": "Enemysanity - Fire Gargoyle #3",
+                        "ref": "Temple of Sharacia/Enemysanity/Fire Gargoyle #3"
+                    },
+                    {
+                        "name": "Enemysanity - Efreet #11",
+                        "ref": "Temple of Sharacia/Enemysanity/Efreet #11"
+                    },
+                    {
+                        "name": "Enemysanity - Cerberus #10",
+                        "ref": "Temple of Sharacia/Enemysanity/Cerberus #10"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2315,
+                        "y": 143,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]
