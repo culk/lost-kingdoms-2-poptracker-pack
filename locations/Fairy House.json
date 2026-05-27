@@ -71,14 +71,6 @@
                         "visibility_rules": [],
                         "item_count": 1
                     }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fairy House",
-                        "x": 629,
-                        "y": 89,
-                        "size": 6
-                    }
                 ]
             }
         ]
