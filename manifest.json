@@ -1,0 +1,22 @@
+{
+    "name": "Lost Kingdoms II Archipelago",
+    "game_name": "Lost Kingdoms II",
+    "package_version": "0.0.1",
+    "package_uid": "lost_kingdoms_2_ap",
+    "author": "culk",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "Items Only": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.31.0"
+}
