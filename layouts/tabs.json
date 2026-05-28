@@ -3,6 +3,15 @@
         "type": "tabbed",
         "tabs": [
             {
+                "title": "Overworld",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Overworld"
+                    ]
+                }
+            },
+            {
                 "title": "Noblemans Residence",
                 "content": {
                     "type": "map",
@@ -215,15 +224,6 @@
                     "type": "map",
                     "maps": [
                         "Temple of Sharacia"
-                    ]
-                }
-            },
-            {
-                "title": "Combo",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Combo"
                     ]
                 }
             }
