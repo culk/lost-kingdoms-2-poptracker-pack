@@ -14,23 +14,29 @@
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 1277,
-                        "y": 1870
+                        "x": 703,
+                        "y": 671
                     }
                 ]
             },
             {
-                "name": "Chest 2",
+                "name": "After 1st Sasquatch Battle",
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest 2"
+                    },
+                    {
+                        "name": "Red Fairy in Tree",
+                        "chest_unopened_img": "/images/items/fairy_close.png",
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": []
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 548,
-                        "y": 120
+                        "x": 647,
+                        "y": 675
                     }
                 ]
             },
@@ -50,38 +56,26 @@
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 1347,
-                        "y": 1028
+                        "x": 399,
+                        "y": 597
                     }
                 ]
             },
             {
-                "name": "Chest 3",
+                "name": "After 2nd Sasquatch Battle",
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest 3"
+                    },
+                    {
+                        "name": "Chest 4"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 1699,
-                        "y": 1279
-                    }
-                ]
-            },
-            {
-                "name": "Chest 4",
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Obenoix Gorge",
-                        "x": 1149,
-                        "y": 2143
+                        "x": 583,
+                        "y": 492
                     }
                 ]
             },
@@ -98,8 +92,8 @@
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 961,
-                        "y": 1837
+                        "x": 686,
+                        "y": 329
                     }
                 ]
             },
@@ -116,8 +110,8 @@
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 1800,
-                        "y": 92
+                        "x": 703,
+                        "y": 466
                     }
                 ]
             },
@@ -134,26 +128,8 @@
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 850,
-                        "y": 1851
-                    }
-                ]
-            },
-            {
-                "name": "Red Fairy in Tree",
-                "chest_unopened_img": "/images/items/fairy_close.png",
-                "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Obenoix Gorge",
-                        "x": 1824,
-                        "y": 1816
+                        "x": 698,
+                        "y": 750
                     }
                 ]
             },
@@ -170,8 +146,8 @@
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 279,
-                        "y": 1629
+                        "x": 488,
+                        "y": 595
                     }
                 ]
             },
@@ -188,8 +164,8 @@
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 1420,
-                        "y": 267
+                        "x": 521,
+                        "y": 462
                     }
                 ]
             },
@@ -206,8 +182,8 @@
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 1681,
-                        "y": 2036
+                        "x": 493,
+                        "y": 363
                     }
                 ]
             },
@@ -309,8 +285,8 @@
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 1301,
-                        "y": 35
+                        "x": 90,
+                        "y": 176
                     }
                 ]
             }

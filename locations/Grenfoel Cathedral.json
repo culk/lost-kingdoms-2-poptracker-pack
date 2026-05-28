@@ -19,19 +19,21 @@
                     {
                         "name": "Red Fairy 1",
                         "chest_unopened_img": "/images/items/fairy_close.png",
-                        "chest_opened_img": "/images/items/fairy_open.png"
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": []
                     },
                     {
                         "name": "Red Fairy 2",
                         "chest_unopened_img": "/images/items/fairy_close.png",
-                        "chest_opened_img": "/images/items/fairy_open.png"
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": []
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Grenfoel Cathedral",
-                        "x": 2425,
-                        "y": 989
+                        "x": 357,
+                        "y": 691
                     }
                 ]
             },
@@ -53,23 +55,29 @@
                 "map_locations": [
                     {
                         "map": "Grenfoel Cathedral",
-                        "x": 1221,
-                        "y": 2198
+                        "x": 330,
+                        "y": 513
                     }
                 ]
             },
             {
-                "name": "Jewel of Alanjeh Reward",
+                "name": "Library",
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Jewel of Alanjeh Reward"
+                    },
+                    {
+                        "name": "Red Fairy Library",
+                        "chest_unopened_img": "/images/items/fairy_close.png",
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": []
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Grenfoel Cathedral",
-                        "x": 697,
-                        "y": 417
+                        "x": 549,
+                        "y": 266
                     }
                 ]
             },
@@ -84,26 +92,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Grenfoel Church",
-                        "x": 2337,
-                        "y": 1830
-                    }
-                ]
-            },
-            {
-                "name": "Red Fairy Library",
-                "chest_unopened_img": "/images/items/fairy_close.png",
-                "chest_opened_img": "/images/items/fairy_open.png",
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Grenfoel Church",
-                        "x": 1269,
-                        "y": 1484
+                        "map": "Grenfoel Cathedral",
+                        "x": 668,
+                        "y": 512
                     }
                 ]
             }

@@ -14,8 +14,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 673,
-                        "y": 1373
+                        "x": 521,
+                        "y": 263
                     }
                 ]
             },
@@ -32,8 +32,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1551,
-                        "y": 1293
+                        "x": 406,
+                        "y": 436
                     }
                 ]
             },
@@ -50,8 +50,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1656,
-                        "y": 2482
+                        "x": 412,
+                        "y": 527
                     }
                 ]
             },
@@ -68,44 +68,29 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1683,
-                        "y": 537
+                        "x": 488,
+                        "y": 599
                     }
                 ]
             },
             {
-                "name": "Chest 5",
+                "name": "Near Wall With Hole",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest 5"
+                    },
+                    {
+                        "name": "Chest 6"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1963,
-                        "y": 205
-                    }
-                ]
-            },
-            {
-                "name": "Chest 6",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fossil Boneyard",
-                        "x": 1176,
-                        "y": 2295
+                        "x": 410,
+                        "y": 677
                     }
                 ]
             },
@@ -122,8 +107,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1608,
-                        "y": 928
+                        "x": 523,
+                        "y": 674
                     }
                 ]
             },
@@ -140,8 +125,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 546,
-                        "y": 2439
+                        "x": 624,
+                        "y": 714
                     }
                 ]
             },
@@ -158,8 +143,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1463,
-                        "y": 2062
+                        "x": 420,
+                        "y": 889
                     }
                 ]
             },
@@ -176,8 +161,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 664,
-                        "y": 2225
+                        "x": 522,
+                        "y": 456
                     }
                 ]
             },
@@ -194,8 +179,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 2062,
-                        "y": 361
+                        "x": 454,
+                        "y": 309
                     }
                 ]
             },
@@ -213,8 +198,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1668,
-                        "y": 191
+                        "x": 367,
+                        "y": 533
                     }
                 ]
             },
@@ -232,8 +217,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 300,
-                        "y": 1330
+                        "x": 355,
+                        "y": 829
                     }
                 ]
             },
@@ -252,8 +237,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 643,
-                        "y": 467
+                        "x": 340,
+                        "y": 601
                     }
                 ]
             },
@@ -272,8 +257,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 353,
-                        "y": 2492
+                        "x": 345,
+                        "y": 854
                     }
                 ]
             },
@@ -292,8 +277,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1863,
-                        "y": 1506
+                        "x": 459,
+                        "y": 608
                     }
                 ]
             },
@@ -312,8 +297,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1278,
-                        "y": 648
+                        "x": 654,
+                        "y": 866
                     }
                 ]
             },
@@ -332,8 +317,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 235,
-                        "y": 1292
+                        "x": 365,
+                        "y": 761
                     }
                 ]
             },
@@ -352,8 +337,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1207,
-                        "y": 2170
+                        "x": 348,
+                        "y": 482
                     }
                 ]
             },
@@ -372,8 +357,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 886,
-                        "y": 1618
+                        "x": 445,
+                        "y": 894
                     }
                 ]
             },
@@ -389,8 +374,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 243,
-                        "y": 110
+                        "x": 385,
+                        "y": 305
                     }
                 ]
             },
@@ -409,8 +394,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1147,
-                        "y": 1498
+                        "x": 376,
+                        "y": 656
                     }
                 ]
             },
@@ -427,8 +412,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 1460,
-                        "y": 1215
+                        "x": 358,
+                        "y": 425
                     }
                 ]
             },
@@ -549,8 +534,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 937,
-                        "y": 2450
+                        "x": 94,
+                        "y": 184
                     }
                 ]
             }

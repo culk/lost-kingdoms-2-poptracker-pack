@@ -195,8 +195,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 741,
-                        "y": 1669
+                        "x": 234,
+                        "y": 738
                     }
                 ]
             },
@@ -431,8 +431,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2453,
-                        "y": 531
+                        "x": 1109,
+                        "y": 860
                     }
                 ]
             },
@@ -575,8 +575,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 263,
-                        "y": 968
+                        "x": 1009,
+                        "y": 829
                     }
                 ]
             },
@@ -747,8 +747,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 754,
-                        "y": 283
+                        "x": 50,
+                        "y": 38
                     }
                 ]
             },
@@ -797,8 +797,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2420,
-                        "y": 533
+                        "x": 676,
+                        "y": 510
                     }
                 ]
             },
@@ -823,11 +823,11 @@
                     },
                     {
                         "name": "Chest 5",
-                        "ref": "Fossil Boneyard/Chest 5/"
+                        "ref": "Fossil Boneyard/Near Wall With Hole/Chest 5"
                     },
                     {
                         "name": "Chest 6",
-                        "ref": "Fossil Boneyard/Chest 6/"
+                        "ref": "Fossil Boneyard/Near Wall With Hole/Chest 6"
                     },
                     {
                         "name": "Chest 7",
@@ -1013,8 +1013,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2106,
-                        "y": 636
+                        "x": 806,
+                        "y": 241
                     }
                 ]
             },
@@ -1022,31 +1022,31 @@
                 "name": "Grenfoel Cathedral",
                 "sections": [
                     {
-                        "name": "Four Statues Room - Hidden Chest 1",
+                        "name": "Hidden Chest 1",
                         "ref": "Grenfoel Cathedral/Four Statues Room/Hidden Chest 1"
                     },
                     {
-                        "name": "Four Statues Room - Hidden Chest 2",
+                        "name": "Hidden Chest 2",
                         "ref": "Grenfoel Cathedral/Four Statues Room/Hidden Chest 2"
                     },
                     {
-                        "name": "Four Statues Room - Hidden Chest 3",
+                        "name": "Hidden Chest 3",
                         "ref": "Grenfoel Cathedral/Four Statues Room/Hidden Chest 3"
                     },
                     {
-                        "name": "Near Organ - Chest 1",
+                        "name": "Chest 1",
                         "ref": "Grenfoel Cathedral/Near Organ/Chest 1"
                     },
                     {
-                        "name": "Near Organ - Chest 2",
+                        "name": "Chest 2",
                         "ref": "Grenfoel Cathedral/Near Organ/Chest 2"
                     },
                     {
                         "name": "Jewel of Alanjeh Reward",
-                        "ref": "Grenfoel Cathedral/Jewel of Alanjeh Reward/"
+                        "ref": "Grenfoel Cathedral/Library/Jewel of Alanjeh Reward"
                     },
                     {
-                        "name": "Near Organ - Red Fairy",
+                        "name": "Red Fairy",
                         "ref": "Grenfoel Cathedral/Near Organ/Red Fairy"
                     },
                     {
@@ -1054,23 +1054,23 @@
                         "ref": "Grenfoel Cathedral/Red Fairy Right Side/"
                     },
                     {
-                        "name": "Four Statues Room - Red Fairy 1",
+                        "name": "Red Fairy 1",
                         "ref": "Grenfoel Cathedral/Four Statues Room/Red Fairy 1"
                     },
                     {
-                        "name": "Four Statues Room - Red Fairy 2",
+                        "name": "Red Fairy 2",
                         "ref": "Grenfoel Cathedral/Four Statues Room/Red Fairy 2"
                     },
                     {
                         "name": "Red Fairy Library",
-                        "ref": "Grenfoel Cathedral/Red Fairy Library/"
+                        "ref": "Grenfoel Cathedral/Library/Red Fairy Library"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2372,
-                        "y": 152
+                        "x": 201,
+                        "y": 194
                     }
                 ]
             },
@@ -1082,39 +1082,39 @@
                         "ref": "Gromtull Desert/Chest by Backpack/"
                     },
                     {
-                        "name": "Mummy Cave - Chest 1",
+                        "name": "Chest 1",
                         "ref": "Gromtull Desert/Mummy Cave/Chest 1"
                     },
                     {
-                        "name": "Mummy Cave - Chest 2",
+                        "name": "Chest 2",
                         "ref": "Gromtull Desert/Mummy Cave/Chest 2"
                     },
                     {
-                        "name": "Mummy Cave - Chest 3",
+                        "name": "Chest 3",
                         "ref": "Gromtull Desert/Mummy Cave/Chest 3"
                     },
                     {
-                        "name": "Near Oil - Chest",
+                        "name": "Chest by Oil",
                         "ref": "Gromtull Desert/Near Oil/Chest"
                     },
                     {
-                        "name": "Near Oil - Black Liquid Pickup",
+                        "name": "Black Liquid Pickup",
                         "ref": "Gromtull Desert/Near Oil/Black Liquid Pickup"
                     },
                     {
-                        "name": "Jarvi Cave - Chest 1",
+                        "name": "Jarvi Chest 1",
                         "ref": "Gromtull Desert/Jarvi Cave/Chest 1"
                     },
                     {
-                        "name": "Jarvi Cave - Chest 2",
+                        "name": "Jarvi Chest 2",
                         "ref": "Gromtull Desert/Jarvi Cave/Chest 2"
                     },
                     {
-                        "name": "Jarvi Cave - Red Fairy 1",
+                        "name": "Jarvi Red Fairy 1",
                         "ref": "Gromtull Desert/Jarvi Cave/Red Fairy 1"
                     },
                     {
-                        "name": "Jarvi Cave - Red Fairy 2",
+                        "name": "Jarvi Red Fairy 2",
                         "ref": "Gromtull Desert/Jarvi Cave/Red Fairy 2"
                     },
                     {
@@ -1261,8 +1261,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2464,
-                        "y": 1031
+                        "x": 1054,
+                        "y": 676
                     }
                 ]
             },
@@ -1413,8 +1413,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1555,
-                        "y": 1450
+                        "x": 429,
+                        "y": 732
                     }
                 ]
             },
@@ -1422,27 +1422,27 @@
                 "name": "Isamat Urbur",
                 "sections": [
                     {
-                        "name": "Treasure Room - Chest 1",
+                        "name": "Chest 1",
                         "ref": "Isamat Urbur/Treasure Room/Chest 1"
                     },
                     {
-                        "name": "Treasure Room - Chest 2",
+                        "name": "Chest 2",
                         "ref": "Isamat Urbur/Treasure Room/Chest 2"
                     },
                     {
-                        "name": "Treasure Room - Chest 3",
+                        "name": "Chest 3",
                         "ref": "Isamat Urbur/Treasure Room/Chest 3"
                     },
                     {
-                        "name": "Treasure Room - Chest 4",
+                        "name": "Chest 4",
                         "ref": "Isamat Urbur/Treasure Room/Chest 4"
                     },
                     {
-                        "name": "Treasure Room - Chest 5",
+                        "name": "Chest 5",
                         "ref": "Isamat Urbur/Treasure Room/Chest 5"
                     },
                     {
-                        "name": "Treasure Room - Chest 6",
+                        "name": "Chest 6",
                         "ref": "Isamat Urbur/Treasure Room/Chest 6"
                     },
                     {
@@ -1545,8 +1545,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1850,
-                        "y": 1613
+                        "x": 849,
+                        "y": 923
                     }
                 ]
             },
@@ -1562,11 +1562,11 @@
                         "ref": "Kadishu/Chest up Small Steps/"
                     },
                     {
-                        "name": "Alleyway - Chest",
+                        "name": "Alleyway Chest",
                         "ref": "Kadishu/Alleyway/Chest"
                     },
                     {
-                        "name": "Alleyway - Red Fairy in Sacks",
+                        "name": "Alleyway Red Fairy in Sacks",
                         "ref": "Kadishu/Alleyway/Red Fairy in Sacks"
                     },
                     {
@@ -1574,12 +1574,8 @@
                         "ref": "Kadishu/Chest 4/"
                     },
                     {
-                        "name": "Near Dog - Chest",
+                        "name": "Chest Near",
                         "ref": "Kadishu/Near Dog/Chest"
-                    },
-                    {
-                        "name": "Near Dog - Red Fairy",
-                        "ref": "Kadishu/Near Dog/Red Fairy"
                     },
                     {
                         "name": "Chest Near Monument",
@@ -1606,6 +1602,10 @@
                         "ref": "Kadishu/Red Fairy in Well/"
                     },
                     {
+                        "name": "Red Fairy Near Dog",
+                        "ref": "Kadishu/Near Dog/Red Fairy"
+                    },
+                    {
                         "name": "Red Fairy by Fountain",
                         "ref": "Kadishu/Red Fairy by Fountain/"
                     }
@@ -1613,8 +1613,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 512,
-                        "y": 1002
+                        "x": 735,
+                        "y": 750
                     }
                 ]
             },
@@ -1642,11 +1642,11 @@
                         "ref": "Kendarie Fortress/Chest 5/"
                     },
                     {
-                        "name": "Platform in Water - Flight Chest",
+                        "name": "Flight Chest",
                         "ref": "Kendarie Fortress/Platform in Water/Flight Chest"
                     },
                     {
-                        "name": "Platform in Water - Red Fairy",
+                        "name": "Red Fairy Fly Across",
                         "ref": "Kendarie Fortress/Platform in Water/Red Fairy"
                     },
                     {
@@ -1721,8 +1721,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2219,
-                        "y": 744
+                        "x": 814,
+                        "y": 678
                     }
                 ]
             },
@@ -1937,8 +1937,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 716,
-                        "y": 2199
+                        "x": 418,
+                        "y": 280
                     }
                 ]
             },
@@ -1946,11 +1946,11 @@
                 "name": "Noblemans Residence",
                 "sections": [
                     {
-                        "name": "Basement Chests - Chest 1",
+                        "name": "Basement Chest 1",
                         "ref": "Noblemans Residence/Basement Chests/Chest 1"
                     },
                     {
-                        "name": "Basement Chests - Chest 2",
+                        "name": "Basement Chest 2",
                         "ref": "Noblemans Residence/Basement Chests/Chest 2"
                     },
                     {
@@ -2061,8 +2061,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1604,
-                        "y": 2160
+                        "x": 776,
+                        "y": 865
                     }
                 ]
             },
@@ -2075,23 +2075,23 @@
                     },
                     {
                         "name": "Chest 2",
-                        "ref": "Obenoix Gorge/Chest 2/"
+                        "ref": "Obenoix Gorge/After 1st Sasquatch Battle/Chest 2"
                     },
                     {
-                        "name": "Island Near 2nd Sasquatch Battle - Flight Chest 1",
+                        "name": "Flight Chest 1",
                         "ref": "Obenoix Gorge/Island Near 2nd Sasquatch Battle/Flight Chest 1"
                     },
                     {
-                        "name": "Island Near 2nd Sasquatch Battle - Flight Chest 2",
+                        "name": "Flight Chest 2",
                         "ref": "Obenoix Gorge/Island Near 2nd Sasquatch Battle/Flight Chest 2"
                     },
                     {
                         "name": "Chest 3",
-                        "ref": "Obenoix Gorge/Chest 3/"
+                        "ref": "Obenoix Gorge/After 2nd Sasquatch Battle/Chest 3"
                     },
                     {
                         "name": "Chest 4",
-                        "ref": "Obenoix Gorge/Chest 4/"
+                        "ref": "Obenoix Gorge/After 2nd Sasquatch Battle/Chest 4"
                     },
                     {
                         "name": "Chest Behind Ice",
@@ -2107,7 +2107,7 @@
                     },
                     {
                         "name": "Red Fairy in Tree",
-                        "ref": "Obenoix Gorge/Red Fairy in Tree/"
+                        "ref": "Obenoix Gorge/After 1st Sasquatch Battle/Red Fairy in Tree"
                     },
                     {
                         "name": "Red Fairy Near Flight",
@@ -2237,8 +2237,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1718,
-                        "y": 2049
+                        "x": 509,
+                        "y": 900
                     }
                 ]
             },
@@ -2262,19 +2262,19 @@
                         "ref": "Plains of Rowahl/Chest Under Scrap/"
                     },
                     {
-                        "name": "Behind Stranger - Chest 4",
+                        "name": "Chest 4",
                         "ref": "Plains of Rowahl/Behind Stranger/Chest 4"
                     },
                     {
-                        "name": "Behind Stranger - Chest 5",
+                        "name": "Chest 5",
                         "ref": "Plains of Rowahl/Behind Stranger/Chest 5"
                     },
                     {
-                        "name": "Royal Vault - Chest 6",
+                        "name": "Chest 6",
                         "ref": "Plains of Rowahl/Royal Vault/Chest 6"
                     },
                     {
-                        "name": "Royal Vault - Chest 7",
+                        "name": "Chest 7",
                         "ref": "Plains of Rowahl/Royal Vault/Chest 7"
                     },
                     {
@@ -2413,8 +2413,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 161,
-                        "y": 979
+                        "x": 349,
+                        "y": 785
                     }
                 ]
             },
@@ -2513,8 +2513,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1256,
-                        "y": 888
+                        "x": 258,
+                        "y": 738
                     }
                 ]
             },
@@ -2530,19 +2530,19 @@
                         "ref": "Royal Tower - Middle/Chest 2/"
                     },
                     {
-                        "name": "Breakable Wall 1 - Chest",
+                        "name": "Breakable Wall Chest 1",
                         "ref": "Royal Tower - Middle/Breakable Wall 1/Chest"
                     },
                     {
-                        "name": "Breakable Wall 1 - Red Fairy",
+                        "name": "Red Fairy Breakable Wall 1",
                         "ref": "Royal Tower - Middle/Breakable Wall 1/Red Fairy"
                     },
                     {
-                        "name": "Breakable Wall 2 - Chest",
+                        "name": "Breakable Wall Chest 2",
                         "ref": "Royal Tower - Middle/Breakable Wall 2/Chest"
                     },
                     {
-                        "name": "Breakable Wall 2 - Red Fairy",
+                        "name": "Red Fairy Breakable Wall 2",
                         "ref": "Royal Tower - Middle/Breakable Wall 2/Red Fairy"
                     },
                     {
@@ -2665,8 +2665,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2383,
-                        "y": 584
+                        "x": 282,
+                        "y": 738
                     }
                 ]
             },
@@ -2757,8 +2757,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 108,
-                        "y": 1612
+                        "x": 306,
+                        "y": 738
                     }
                 ]
             },
@@ -2767,11 +2767,11 @@
                 "sections": [
                     {
                         "name": "Chest 1",
-                        "ref": "Ruldo Forest/Chest 1/"
+                        "ref": "Ruldo Forest/Dead End Near Start/Chest 1"
                     },
                     {
                         "name": "Chest 2",
-                        "ref": "Ruldo Forest/Chest 2/"
+                        "ref": "Ruldo Forest/Dead End Near Start/Chest 2"
                     },
                     {
                         "name": "Chest 3",
@@ -2786,11 +2786,11 @@
                         "ref": "Ruldo Forest/Flight or Jump Chest/"
                     },
                     {
-                        "name": "Cockatrice Area - Chest 1",
+                        "name": "Cockatrice Chest 1",
                         "ref": "Ruldo Forest/Cockatrice Area/Chest 1"
                     },
                     {
-                        "name": "Cockatrice Area - Chest 2",
+                        "name": "Cockatrice Chest 2",
                         "ref": "Ruldo Forest/Cockatrice Area/Chest 2"
                     },
                     {
@@ -2945,8 +2945,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2414,
-                        "y": 1909
+                        "x": 983,
+                        "y": 234
                     }
                 ]
             },
@@ -3133,8 +3133,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 773,
-                        "y": 496
+                        "x": 1120,
+                        "y": 224
                     }
                 ]
             },
@@ -3150,11 +3150,11 @@
                         "ref": "Runestone Caverns - Upper Chambers/Chest 2/"
                     },
                     {
-                        "name": "Sol - Talk to Sol",
+                        "name": "Talk to Sol",
                         "ref": "Runestone Caverns - Upper Chambers/Sol/Talk to Sol"
                     },
                     {
-                        "name": "Sol - Red Fairy",
+                        "name": "Red Fairy Near Sol",
                         "ref": "Runestone Caverns - Upper Chambers/Sol/Red Fairy"
                     },
                     {
@@ -3174,15 +3174,15 @@
                         "ref": "Runestone Caverns - Upper Chambers/Chest Behind Ice 2/"
                     },
                     {
-                        "name": "Near Dragon - Chest 1",
+                        "name": "Dragon Chest 1",
                         "ref": "Runestone Caverns - Upper Chambers/Near Dragon/Chest 1"
                     },
                     {
-                        "name": "Near Dragon - Chest 2",
+                        "name": "Dragon Chest 2",
                         "ref": "Runestone Caverns - Upper Chambers/Near Dragon/Chest 2"
                     },
                     {
-                        "name": "Near Dragon - Red Fairy",
+                        "name": "Red Fairy Near Dragon",
                         "ref": "Runestone Caverns - Upper Chambers/Near Dragon/Red Fairy"
                     },
                     {
@@ -3341,8 +3341,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 102,
-                        "y": 1774
+                        "x": 1093,
+                        "y": 224
                     }
                 ]
             },
@@ -3389,8 +3389,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 792,
-                        "y": 971
+                        "x": 872,
+                        "y": 151
                     }
                 ]
             },
@@ -3437,8 +3437,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 715,
-                        "y": 1774
+                        "x": 900,
+                        "y": 151
                     }
                 ]
             },
@@ -3450,15 +3450,15 @@
                         "ref": "Sarvan/Jump Chest/"
                     },
                     {
-                        "name": "Down Stairs After First Gate - Chest 1",
+                        "name": "Chest 1",
                         "ref": "Sarvan/Down Stairs After First Gate/Chest 1"
                     },
                     {
-                        "name": "Down Stairs After First Gate - Chest 2",
+                        "name": "Chest 2",
                         "ref": "Sarvan/Down Stairs After First Gate/Chest 2"
                     },
                     {
-                        "name": "Down Stairs After First Gate - Chest 3",
+                        "name": "Chest 3",
                         "ref": "Sarvan/Down Stairs After First Gate/Chest 3"
                     },
                     {
@@ -3589,8 +3589,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 28,
-                        "y": 304
+                        "x": 892,
+                        "y": 335
                     }
                 ]
             },
@@ -3619,11 +3619,11 @@
                     },
                     {
                         "name": "Chest 5",
-                        "ref": "Temple of Sharacia/Chest 5/"
+                        "ref": "Temple of Sharacia/Top of Stairs/Chest 5"
                     },
                     {
                         "name": "Chest 6",
-                        "ref": "Temple of Sharacia/Chest 6/"
+                        "ref": "Temple of Sharacia/Top of Stairs/Chest 6"
                     },
                     {
                         "name": "Help Valkyrie",
@@ -3789,8 +3789,8 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 2315,
-                        "y": 143
+                        "x": 135,
+                        "y": 453
                     }
                 ]
             }

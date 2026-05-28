@@ -5,32 +5,20 @@
         "chest_opened_img": "/images/items/chest_open.png",
         "children": [
             {
-                "name": "Chest 1",
+                "name": "Dead End Near Start",
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest 1"
+                    },
+                    {
+                        "name": "Chest 2"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 499,
-                        "y": 1225
-                    }
-                ]
-            },
-            {
-                "name": "Chest 2",
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ruldo Forest",
-                        "x": 762,
-                        "y": 1905
+                        "x": 679,
+                        "y": 559
                     }
                 ]
             },
@@ -44,8 +32,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 995,
-                        "y": 1995
+                        "x": 432,
+                        "y": 556
                     }
                 ]
             },
@@ -62,8 +50,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 2273,
-                        "y": 334
+                        "x": 624,
+                        "y": 865
                     }
                 ]
             },
@@ -80,8 +68,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 398,
-                        "y": 2407
+                        "x": 346,
+                        "y": 907
                     }
                 ]
             },
@@ -98,8 +86,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 2032,
-                        "y": 1657
+                        "x": 578,
+                        "y": 414
                     }
                 ]
             },
@@ -116,8 +104,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 21,
-                        "y": 184
+                        "x": 768,
+                        "y": 630
                     }
                 ]
             },
@@ -134,8 +122,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 48,
-                        "y": 852
+                        "x": 679,
+                        "y": 665
                     }
                 ]
             },
@@ -152,8 +140,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 1060,
-                        "y": 1301
+                        "x": 514,
+                        "y": 635
                     }
                 ]
             },
@@ -170,8 +158,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 1166,
-                        "y": 1034
+                        "x": 421,
+                        "y": 442
                     }
                 ]
             },
@@ -188,8 +176,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 860,
-                        "y": 2103
+                        "x": 567,
+                        "y": 314
                     }
                 ]
             },
@@ -203,8 +191,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 1591,
-                        "y": 892
+                        "x": 595,
+                        "y": 825
                     }
                 ]
             },
@@ -218,8 +206,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 632,
-                        "y": 1097
+                        "x": 428,
+                        "y": 610
                     }
                 ]
             },
@@ -321,8 +309,8 @@
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
-                        "x": 2097,
-                        "y": 366
+                        "x": 79,
+                        "y": 172
                     }
                 ]
             }

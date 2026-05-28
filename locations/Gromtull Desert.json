@@ -14,8 +14,8 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 505,
-                        "y": 133
+                        "x": 313,
+                        "y": 242
                     }
                 ]
             },
@@ -35,8 +35,8 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 1725,
-                        "y": 1005
+                        "x": 765,
+                        "y": 518
                     }
                 ]
             },
@@ -54,8 +54,8 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 1978,
-                        "y": 2101
+                        "x": 818,
+                        "y": 823
                     }
                 ]
             },
@@ -87,8 +87,8 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 88,
-                        "y": 103
+                        "x": 484,
+                        "y": 270
                     }
                 ]
             },
@@ -105,8 +105,8 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 1073,
-                        "y": 464
+                        "x": 236,
+                        "y": 304
                     }
                 ]
             },
@@ -123,8 +123,8 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 2379,
-                        "y": 1493
+                        "x": 588,
+                        "y": 677
                     }
                 ]
             },
@@ -141,8 +141,8 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 373,
-                        "y": 1095
+                        "x": 789,
+                        "y": 772
                     }
                 ]
             },
@@ -162,8 +162,8 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 874,
-                        "y": 1311
+                        "x": 743,
+                        "y": 309
                     }
                 ]
             },
@@ -177,8 +177,8 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 2092,
-                        "y": 851
+                        "x": 369,
+                        "y": 261
                     }
                 ]
             },
@@ -195,8 +195,8 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 150,
-                        "y": 2028
+                        "x": 773,
+                        "y": 204
                     }
                 ]
             },
@@ -300,8 +300,8 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 1555,
-                        "y": 1574
+                        "x": 106,
+                        "y": 191
                     }
                 ]
             }

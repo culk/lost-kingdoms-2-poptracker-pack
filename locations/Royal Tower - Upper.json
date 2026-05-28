@@ -14,8 +14,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Upper",
-                        "x": 423,
-                        "y": 608
+                        "x": 411,
+                        "y": 171
                     }
                 ]
             },
@@ -29,8 +29,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Upper",
-                        "x": 2086,
-                        "y": 474
+                        "x": 334,
+                        "y": 318
                     }
                 ]
             },
@@ -44,8 +44,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Upper",
-                        "x": 1591,
-                        "y": 1214
+                        "x": 690,
+                        "y": 402
                     }
                 ]
             },
@@ -62,8 +62,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Upper",
-                        "x": 278,
-                        "y": 1233
+                        "x": 454,
+                        "y": 231
                     }
                 ]
             },
@@ -80,8 +80,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Upper",
-                        "x": 711,
-                        "y": 1814
+                        "x": 381,
+                        "y": 552
                     }
                 ]
             },
@@ -98,8 +98,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Upper",
-                        "x": 1905,
-                        "y": 510
+                        "x": 230,
+                        "y": 230
                     }
                 ]
             },
@@ -116,8 +116,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Upper",
-                        "x": 1109,
-                        "y": 2323
+                        "x": 706,
+                        "y": 286
                     }
                 ]
             },
@@ -168,8 +168,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Upper",
-                        "x": 2190,
-                        "y": 1163
+                        "x": 85,
+                        "y": 170
                     }
                 ]
             }

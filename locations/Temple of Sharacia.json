@@ -17,8 +17,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 477,
-                        "y": 1973
+                        "x": 338,
+                        "y": 470
                     }
                 ]
             },
@@ -32,8 +32,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 1374,
-                        "y": 166
+                        "x": 455,
+                        "y": 602
                     }
                 ]
             },
@@ -47,8 +47,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 85,
-                        "y": 1255
+                        "x": 545,
+                        "y": 604
                     }
                 ]
             },
@@ -62,8 +62,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 80,
-                        "y": 1466
+                        "x": 581,
+                        "y": 298
                     }
                 ]
             },
@@ -77,38 +77,26 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 247,
-                        "y": 2374
+                        "x": 545,
+                        "y": 643
                     }
                 ]
             },
             {
-                "name": "Chest 5",
+                "name": "Top of Stairs",
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest 5"
+                    },
+                    {
+                        "name": "Chest 6"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 2291,
-                        "y": 1792
-                    }
-                ]
-            },
-            {
-                "name": "Chest 6",
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple of Sharacia",
-                        "x": 1786,
-                        "y": 1981
+                        "x": 500,
+                        "y": 176
                     }
                 ]
             },
@@ -122,8 +110,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 175,
-                        "y": 1453
+                        "x": 232,
+                        "y": 170
                     }
                 ]
             },
@@ -137,8 +125,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 2073,
-                        "y": 704
+                        "x": 772,
+                        "y": 170
                     }
                 ]
             },
@@ -155,8 +143,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 1149,
-                        "y": 863
+                        "x": 484,
+                        "y": 806
                     }
                 ]
             },
@@ -173,8 +161,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 1684,
-                        "y": 1253
+                        "x": 529,
+                        "y": 746
                     }
                 ]
             },
@@ -191,8 +179,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 866,
-                        "y": 820
+                        "x": 455,
+                        "y": 640
                     }
                 ]
             },
@@ -209,8 +197,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 535,
-                        "y": 1637
+                        "x": 569,
+                        "y": 370
                     }
                 ]
             },
@@ -227,8 +215,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 1856,
-                        "y": 2468
+                        "x": 682,
+                        "y": 170
                     }
                 ]
             },
@@ -245,8 +233,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 2049,
-                        "y": 690
+                        "x": 298,
+                        "y": 296
                     }
                 ]
             },
@@ -354,8 +342,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 1127,
-                        "y": 1666
+                        "x": 82,
+                        "y": 157
                     }
                 ]
             }
