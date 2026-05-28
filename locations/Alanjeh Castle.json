@@ -1,495 +1,283 @@
 [
     {
         "name": "Alanjeh Castle",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
+        "chest_unopened_img": "/images/items/chest_close.png",
+        "chest_opened_img": "/images/items/chest_open.png",
         "children": [
             {
                 "name": "Chest 1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Alanjeh Castle",
                         "x": 2103,
-                        "y": 1319,
-                        "size": 6
+                        "y": 1319
                     }
                 ]
             },
             {
-                "name": "Chest 2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
+                "name": "Behind Blue Seal Gate",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chest 2"
+                    },
+                    {
+                        "name": "Chest 3"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Alanjeh Castle",
                         "x": 1008,
-                        "y": 650,
-                        "size": 6
-                    }
-                ]
-            },
-            {
-                "name": "Chest 3",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "sections": [
-                    {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Alanjeh Castle",
-                        "x": 467,
-                        "y": 1823,
-                        "size": 6
+                        "y": 650
                     }
                 ]
             },
             {
                 "name": "Chest 4",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Alanjeh Castle",
                         "x": 2464,
-                        "y": 1073,
-                        "size": 6
+                        "y": 1073
                     }
                 ]
             },
             {
                 "name": "Chest 5",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Alanjeh Castle",
                         "x": 1259,
-                        "y": 2479,
-                        "size": 6
+                        "y": 2479
                     }
                 ]
             },
             {
                 "name": "Chest 6",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Alanjeh Castle",
                         "x": 641,
-                        "y": 2195,
-                        "size": 6
+                        "y": 2195
                     }
                 ]
             },
             {
                 "name": "Flight Chest",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Alanjeh Castle",
                         "x": 1735,
-                        "y": 1472,
-                        "size": 6
+                        "y": 1472
                     }
                 ]
             },
             {
                 "name": "Red Fairy Near Start",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Alanjeh Castle",
                         "x": 1853,
-                        "y": 748,
-                        "size": 6
+                        "y": 748
                     }
                 ]
             },
             {
                 "name": "Red Fairy Jump",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Alanjeh Castle",
                         "x": 921,
-                        "y": 1791,
-                        "size": 6
+                        "y": 1791
                     }
                 ]
             },
             {
                 "name": "Red Fairy End",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Alanjeh Castle",
                         "x": 572,
-                        "y": 1870,
-                        "size": 6
+                        "y": 1870
                     }
                 ]
             },
             {
                 "name": "Enemysanity",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "MechLance 5L #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #1"
                     },
                     {
-                        "name": "MechLance 5L #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #2"
                     },
                     {
-                        "name": "Gizmolizer #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Gizmolizer #1"
                     },
                     {
-                        "name": "MechLance 5L #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #3"
                     },
                     {
-                        "name": "MechLance 5L #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #4"
                     },
                     {
-                        "name": "Dark Treant #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Dark Treant #1"
                     },
                     {
-                        "name": "Gizmolizer #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Gizmolizer #2"
                     },
                     {
-                        "name": "Claws-R-Us #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Claws-R-Us #1"
                     },
                     {
-                        "name": "Chariobot #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chariobot #1"
                     },
                     {
-                        "name": "Claws-R-Us #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Claws-R-Us #2"
                     },
                     {
-                        "name": "Gizmolizer #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Gizmolizer #3"
                     },
                     {
-                        "name": "Claws-R-Us #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Claws-R-Us #3"
                     },
                     {
-                        "name": "Gizmolizer #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Gizmolizer #4"
                     },
                     {
-                        "name": "MechLance 5L #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #5"
                     },
                     {
-                        "name": "MechLance 5L #6",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #6"
                     },
                     {
-                        "name": "MechLance 5L #7",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #7"
                     },
                     {
-                        "name": "Chariobot #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chariobot #2"
                     },
                     {
-                        "name": "Chariobot #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chariobot #3"
                     },
                     {
-                        "name": "Chariobot #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chariobot #4"
                     },
                     {
-                        "name": "Chariobot #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chariobot #5"
                     },
                     {
-                        "name": "Barometz #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Barometz #1"
                     },
                     {
-                        "name": "Barometz #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Barometz #2"
                     },
                     {
-                        "name": "Dark Treant #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Dark Treant #2"
                     },
                     {
-                        "name": "MechLance 5L #8",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #8"
                     },
                     {
-                        "name": "MechLance 5L #9",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #9"
                     },
                     {
-                        "name": "Gizmolizer #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Gizmolizer #5"
                     },
                     {
-                        "name": "MechLance 5L #10",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #10"
                     },
                     {
-                        "name": "Claws-R-Us #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Claws-R-Us #4"
                     },
                     {
-                        "name": "Gizmolizer #6",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Gizmolizer #6"
                     },
                     {
-                        "name": "MechLance 5L #11",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #11"
                     },
                     {
-                        "name": "MechLance 5L #12",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #12"
                     },
                     {
-                        "name": "Dark Treant #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Dark Treant #3"
                     },
                     {
-                        "name": "AcidBot #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "AcidBot #1"
                     },
                     {
-                        "name": "MechLance 5L #13",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #13"
                     },
                     {
-                        "name": "Dark Treant #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Dark Treant #4"
                     },
                     {
-                        "name": "MechLance 5L #14",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "MechLance 5L #14"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Alanjeh Castle",
                         "x": 983,
-                        "y": 209,
-                        "size": 6
+                        "y": 209
                     }
                 ]
             }

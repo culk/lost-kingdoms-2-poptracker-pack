@@ -1,502 +1,304 @@
 [
     {
         "name": "Runestone Caverns - Lower Chambers",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
+        "chest_unopened_img": "/images/items/chest_close.png",
+        "chest_opened_img": "/images/items/chest_open.png",
         "children": [
             {
                 "name": "Chest 1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 1527,
-                        "y": 1535,
-                        "size": 6
+                        "y": 1535
                     }
                 ]
             },
             {
                 "name": "Chest 2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 1999,
-                        "y": 1873,
-                        "size": 6
+                        "y": 1873
                     }
                 ]
             },
             {
                 "name": "Low Water Chest",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 211,
-                        "y": 309,
-                        "size": 6
+                        "y": 309
                     }
                 ]
             },
             {
                 "name": "High Water Chest 1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 1001,
-                        "y": 1574,
-                        "size": 6
+                        "y": 1574
                     }
                 ]
             },
             {
                 "name": "High Water Chest Flight",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 900,
-                        "y": 523,
-                        "size": 6
+                        "y": 523
                     }
                 ]
             },
             {
                 "name": "Chest 6",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 1037,
-                        "y": 1776,
-                        "size": 6
+                        "y": 1776
                     }
                 ]
             },
             {
                 "name": "Chest 7",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 168,
-                        "y": 150,
-                        "size": 6
+                        "y": 150
                     }
                 ]
             },
             {
                 "name": "Red Fairy Near Start",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 2047,
-                        "y": 817,
-                        "size": 6
+                        "y": 817
                     }
                 ]
             },
             {
                 "name": "Red Fairy in Rubble",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 413,
-                        "y": 976,
-                        "size": 6
+                        "y": 976
                     }
                 ]
             },
             {
                 "name": "Red Fairy Low Water",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 1387,
-                        "y": 1557,
-                        "size": 6
+                        "y": 1557
                     }
                 ]
             },
             {
                 "name": "Red Fairy on Stairs",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 438,
-                        "y": 103,
-                        "size": 6
+                        "y": 103
                     }
                 ]
             },
             {
                 "name": "Enemysanity",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "Water Reaper #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Water Reaper #1"
                     },
                     {
-                        "name": "Flayer Spawn #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #1"
                     },
                     {
-                        "name": "Flayer Spawn #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #2"
                     },
                     {
-                        "name": "Yowie #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #1"
                     },
                     {
-                        "name": "Yowie #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #2"
                     },
                     {
-                        "name": "Yowie #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #3"
                     },
                     {
-                        "name": "Yowie #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #4"
                     },
                     {
-                        "name": "Flayer Spawn #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #3"
                     },
                     {
-                        "name": "Flayer Spawn #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #4"
                     },
                     {
-                        "name": "Yowie #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #5"
                     },
                     {
-                        "name": "Yowie #6",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #6"
                     },
                     {
-                        "name": "Flayer Spawn #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #5"
                     },
                     {
-                        "name": "Flayer Spawn #6",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #6"
                     },
                     {
-                        "name": "Flayer Spawn #7",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #7"
                     },
                     {
-                        "name": "Flayer Spawn #8",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #8"
                     },
                     {
-                        "name": "Body of the God #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Body of the God #1"
                     },
                     {
-                        "name": "Flayer Spawn #9",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #9"
                     },
                     {
-                        "name": "Water Reaper #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Water Reaper #2"
                     },
                     {
-                        "name": "Water Reaper #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Water Reaper #3"
                     },
                     {
-                        "name": "Yowie #7",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #7"
                     },
                     {
-                        "name": "Yowie #8",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #8"
                     },
                     {
-                        "name": "Flayer Spawn #10",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #10"
                     },
                     {
-                        "name": "Flayer Spawn #11",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #11"
                     },
                     {
-                        "name": "Yowie #9",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #9"
                     },
                     {
-                        "name": "Yowie #10",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #10"
                     },
                     {
-                        "name": "Yowie #11",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #11"
                     },
                     {
-                        "name": "Yowie #12",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #12"
                     },
                     {
-                        "name": "Water Reaper #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Water Reaper #4"
                     },
                     {
-                        "name": "Water Reaper #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Water Reaper #5"
                     },
                     {
-                        "name": "Water Reaper #6",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Water Reaper #6"
                     },
                     {
-                        "name": "Water Reaper #7",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Water Reaper #7"
                     },
                     {
-                        "name": "Yowie #13",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Yowie #13"
                     },
                     {
-                        "name": "Flayer Spawn #12",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Flayer Spawn #12"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
                         "x": 1262,
-                        "y": 1948,
-                        "size": 6
+                        "y": 1948
                     }
                 ]
             }

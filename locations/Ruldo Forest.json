@@ -1,540 +1,328 @@
 [
     {
         "name": "Ruldo Forest",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
+        "chest_unopened_img": "/images/items/chest_close.png",
+        "chest_opened_img": "/images/items/chest_open.png",
         "children": [
             {
                 "name": "Chest 1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 499,
-                        "y": 1225,
-                        "size": 6
+                        "y": 1225
                     }
                 ]
             },
             {
                 "name": "Chest 2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 762,
-                        "y": 1905,
-                        "size": 6
+                        "y": 1905
                     }
                 ]
             },
             {
                 "name": "Chest 3",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 995,
-                        "y": 1995,
-                        "size": 6
+                        "y": 1995
                     }
                 ]
             },
             {
                 "name": "Jump Chest",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 2273,
-                        "y": 334,
-                        "size": 6
+                        "y": 334
                     }
                 ]
             },
             {
                 "name": "Flight or Jump Chest",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 398,
-                        "y": 2407,
-                        "size": 6
+                        "y": 2407
                     }
                 ]
             },
             {
                 "name": "Cockatrice Area",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chest 1"
                     },
                     {
-                        "name": "Chest 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chest 2"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 2032,
-                        "y": 1657,
-                        "size": 6
+                        "y": 1657
                     }
                 ]
             },
             {
                 "name": "Red Fairy at Start",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 21,
-                        "y": 184,
-                        "size": 6
+                        "y": 184
                     }
                 ]
             },
             {
                 "name": "Red Fairy at Start 2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 48,
-                        "y": 852,
-                        "size": 6
+                        "y": 852
                     }
                 ]
             },
             {
                 "name": "Red Fairy in Tree",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 1060,
-                        "y": 1301,
-                        "size": 6
+                        "y": 1301
                     }
                 ]
             },
             {
                 "name": "Red Fairy Near Machine",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 1166,
-                        "y": 1034,
-                        "size": 6
+                        "y": 1034
                     }
                 ]
             },
             {
                 "name": "Red Fairy Past Cockatrice",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 860,
-                        "y": 2103,
-                        "size": 6
+                        "y": 2103
                     }
                 ]
             },
             {
                 "name": "Stranger",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 1591,
-                        "y": 892,
-                        "size": 6
+                        "y": 892
                     }
                 ]
             },
             {
                 "name": "Magic Boosters Activation",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 632,
-                        "y": 1097,
-                        "size": 6
+                        "y": 1097
                     }
                 ]
             },
             {
                 "name": "Enemysanity",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "Elf #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Elf #1"
                     },
                     {
-                        "name": "Elf #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Elf #2"
                     },
                     {
-                        "name": "Demon Hound #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Demon Hound #1"
                     },
                     {
-                        "name": "Demon Hound #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Demon Hound #2"
                     },
                     {
-                        "name": "Demon Hound #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Demon Hound #3"
                     },
                     {
-                        "name": "Demon Hound #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Demon Hound #4"
                     },
                     {
-                        "name": "Elf #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Elf #3"
                     },
                     {
-                        "name": "Demon Hound #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Demon Hound #5"
                     },
                     {
-                        "name": "Dryad #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Dryad #1"
                     },
                     {
-                        "name": "Demon Hound #6",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Demon Hound #6"
                     },
                     {
-                        "name": "Demon Hound #7",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Demon Hound #7"
                     },
                     {
-                        "name": "Demon Hound #8",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Demon Hound #8"
                     },
                     {
-                        "name": "Elf #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Elf #4"
                     },
                     {
-                        "name": "Elf #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Elf #5"
                     },
                     {
-                        "name": "Myconid #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Myconid #1"
                     },
                     {
-                        "name": "Demon Hound #9",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Demon Hound #9"
                     },
                     {
-                        "name": "Demon Hound #10",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Demon Hound #10"
                     },
                     {
-                        "name": "Cockatrice #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Cockatrice #1"
                     },
                     {
-                        "name": "Cockatrice #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Cockatrice #2"
                     },
                     {
-                        "name": "Cockatrice #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Cockatrice #3"
                     },
                     {
-                        "name": "Mandra Dancer #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mandra Dancer #1"
                     },
                     {
-                        "name": "Mandra Dancer #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mandra Dancer #2"
                     },
                     {
-                        "name": "Demon Hound #11",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Demon Hound #11"
                     },
                     {
-                        "name": "Dryad #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Dryad #2"
                     },
                     {
-                        "name": "Elf #6",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Elf #6"
                     },
                     {
-                        "name": "Myconid #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Myconid #2"
                     },
                     {
-                        "name": "Myconid #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Myconid #3"
                     },
                     {
-                        "name": "Myconid #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Myconid #4"
                     },
                     {
-                        "name": "Mandra Dancer #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mandra Dancer #3"
                     },
                     {
-                        "name": "Elf #7",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Elf #7"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Ruldo Forest",
                         "x": 2097,
-                        "y": 366,
-                        "size": 6
+                        "y": 366
                     }
                 ]
             }

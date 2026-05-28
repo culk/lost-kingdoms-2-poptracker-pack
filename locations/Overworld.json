@@ -1,60 +1,50 @@
 [
     {
         "name": "Overworld",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
+        "chest_unopened_img": "/images/items/chest_close.png",
+        "chest_opened_img": "/images/items/chest_open.png",
         "children": [
             {
                 "name": "Alanjeh Castle",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Alanjeh Castle/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
-                        "ref": "Alanjeh Castle/Chest 2/"
+                        "name": "Chest 2",
+                        "ref": "Alanjeh Castle/Behind Blue Seal Gate/Chest 2"
                     },
                     {
-                        "name": "Chest 3 - ",
-                        "ref": "Alanjeh Castle/Chest 3/"
+                        "name": "Chest 3",
+                        "ref": "Alanjeh Castle/Behind Blue Seal Gate/Chest 3"
                     },
                     {
-                        "name": "Chest 4 - ",
+                        "name": "Chest 4",
                         "ref": "Alanjeh Castle/Chest 4/"
                     },
                     {
-                        "name": "Chest 5 - ",
+                        "name": "Chest 5",
                         "ref": "Alanjeh Castle/Chest 5/"
                     },
                     {
-                        "name": "Chest 6 - ",
+                        "name": "Chest 6",
                         "ref": "Alanjeh Castle/Chest 6/"
                     },
                     {
-                        "name": "Flight Chest - ",
+                        "name": "Flight Chest",
                         "ref": "Alanjeh Castle/Flight Chest/"
                     },
                     {
-                        "name": "Red Fairy Near Start - ",
+                        "name": "Red Fairy Near Start",
                         "ref": "Alanjeh Castle/Red Fairy Near Start/"
                     },
                     {
-                        "name": "Red Fairy Jump - ",
+                        "name": "Red Fairy Jump",
                         "ref": "Alanjeh Castle/Red Fairy Jump/"
                     },
                     {
-                        "name": "Red Fairy End - ",
+                        "name": "Red Fairy End",
                         "ref": "Alanjeh Castle/Red Fairy End/"
                     },
                     {
@@ -206,86 +196,79 @@
                     {
                         "map": "Overworld",
                         "x": 741,
-                        "y": 1669,
-                        "size": 6
+                        "y": 1669
                     }
                 ]
             },
             {
                 "name": "Bhashea Castle",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Central Room Chest - ",
+                        "name": "Central Room Chest",
                         "ref": "Bhashea Castle/Central Room Chest/"
                     },
                     {
-                        "name": "West Room Chest - ",
+                        "name": "West Room Chest",
                         "ref": "Bhashea Castle/West Room Chest/"
                     },
                     {
-                        "name": "North Room Chest - ",
+                        "name": "North Room Chest",
                         "ref": "Bhashea Castle/North Room Chest/"
                     },
                     {
-                        "name": "Throne Chest - ",
+                        "name": "Throne Chest",
                         "ref": "Bhashea Castle/Throne Chest/"
                     },
                     {
-                        "name": "East Jump Chest - ",
+                        "name": "East Jump Chest",
                         "ref": "Bhashea Castle/East Jump Chest/"
                     },
                     {
-                        "name": "East Stairway Chest - ",
+                        "name": "East Stairway Chest",
                         "ref": "Bhashea Castle/East Stairway Chest/"
                     },
                     {
-                        "name": "Break Through Wall Chest - ",
+                        "name": "Break Through Wall Chest",
                         "ref": "Bhashea Castle/Break Through Wall Chest/"
                     },
                     {
-                        "name": "West Stairway Chest - ",
+                        "name": "West Stairway Chest",
                         "ref": "Bhashea Castle/West Stairway Chest/"
                     },
                     {
-                        "name": "Red Fairy Near Start - ",
+                        "name": "Red Fairy Near Start",
                         "ref": "Bhashea Castle/Red Fairy Near Start/"
                     },
                     {
-                        "name": "Red Fairy Central Room - ",
+                        "name": "Red Fairy Central Room",
                         "ref": "Bhashea Castle/Red Fairy Central Room/"
                     },
                     {
-                        "name": "Red Fairy Rubble - ",
+                        "name": "Red Fairy Rubble",
                         "ref": "Bhashea Castle/Red Fairy Rubble/"
                     },
                     {
-                        "name": "Red Fairy Throne - ",
+                        "name": "Red Fairy Throne",
                         "ref": "Bhashea Castle/Red Fairy Throne/"
                     },
                     {
-                        "name": "Red Fairy Wall Break Rubble - ",
+                        "name": "Red Fairy Wall Break Rubble",
                         "ref": "Bhashea Castle/Red Fairy Wall Break Rubble/"
                     },
                     {
-                        "name": "Blade of Skill Puzzle - ",
+                        "name": "Blade of Skill Puzzle",
                         "ref": "Bhashea Castle/Blade of Skill Puzzle/"
                     },
                     {
-                        "name": "Steel Skeleton Defeat - ",
+                        "name": "Steel Skeleton Defeat",
                         "ref": "Bhashea Castle/Steel Skeleton Defeat/"
                     },
                     {
-                        "name": "Blade of Wisdom Pickup - ",
+                        "name": "Blade of Wisdom Pickup",
                         "ref": "Bhashea Castle/Blade of Wisdom Pickup/"
                     },
                     {
-                        "name": "Blade of Time Pickup - ",
+                        "name": "Blade of Time Pickup",
                         "ref": "Bhashea Castle/Blade of Time Pickup/"
                     },
                     {
@@ -449,54 +432,47 @@
                     {
                         "map": "Overworld",
                         "x": 2453,
-                        "y": 531,
-                        "size": 6
+                        "y": 531
                     }
                 ]
             },
             {
                 "name": "Bhashea High Road",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest Near Horses - ",
+                        "name": "Chest Near Horses",
                         "ref": "Bhashea High Road/Chest Near Horses/"
                     },
                     {
-                        "name": "Card Throw Challenge - ",
+                        "name": "Card Throw Challenge",
                         "ref": "Bhashea High Road/Card Throw Challenge/"
                     },
                     {
-                        "name": "Chest Near Overlook - ",
+                        "name": "Chest Near Overlook",
                         "ref": "Bhashea High Road/Chest Near Overlook/"
                     },
                     {
-                        "name": "Chest Near Deck Point - ",
+                        "name": "Chest Near Deck Point",
                         "ref": "Bhashea High Road/Chest Near Deck Point/"
                     },
                     {
-                        "name": "Jump or Flight Chest - ",
+                        "name": "Jump or Flight Chest",
                         "ref": "Bhashea High Road/Jump or Flight Chest/"
                     },
                     {
-                        "name": "Flight Chest - ",
+                        "name": "Flight Chest",
                         "ref": "Bhashea High Road/Flight Chest/"
                     },
                     {
-                        "name": "Red Fairy Across Bridge - ",
+                        "name": "Red Fairy Across Bridge",
                         "ref": "Bhashea High Road/Red Fairy Across Bridge/"
                     },
                     {
-                        "name": "Red Fairy Across Bridge in Rubble - ",
+                        "name": "Red Fairy Across Bridge in Rubble",
                         "ref": "Bhashea High Road/Red Fairy Across Bridge in Rubble/"
                     },
                     {
-                        "name": "Red Fairy Chaos Knight - ",
+                        "name": "Red Fairy Chaos Knight",
                         "ref": "Bhashea High Road/Red Fairy Chaos Knight/"
                     },
                     {
@@ -600,178 +576,171 @@
                     {
                         "map": "Overworld",
                         "x": 263,
-                        "y": 968,
-                        "size": 6
+                        "y": 968
                     }
                 ]
             },
             {
                 "name": "Combo",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Triple Hagan - ",
+                        "name": "Triple Hagan",
                         "ref": "Combo/Triple Hagan/"
                     },
                     {
-                        "name": "Ultimate Pasta - ",
+                        "name": "Ultimate Pasta",
                         "ref": "Combo/Ultimate Pasta/"
                     },
                     {
-                        "name": "Rotary Death - ",
+                        "name": "Rotary Death",
                         "ref": "Combo/Rotary Death/"
                     },
                     {
-                        "name": "Lizard War - ",
+                        "name": "Lizard War",
                         "ref": "Combo/Lizard War/"
                     },
                     {
-                        "name": "Rocky Forecast - ",
+                        "name": "Rocky Forecast",
                         "ref": "Combo/Rocky Forecast/"
                     },
                     {
-                        "name": "Sir Spear-A-Lot - ",
+                        "name": "Sir Spear-A-Lot",
                         "ref": "Combo/Sir Spear-A-Lot/"
                     },
                     {
-                        "name": "Temper Tantrum - ",
+                        "name": "Temper Tantrum",
                         "ref": "Combo/Temper Tantrum/"
                     },
                     {
-                        "name": "Goblin Guts - ",
+                        "name": "Goblin Guts",
                         "ref": "Combo/Goblin Guts/"
                     },
                     {
-                        "name": "Lethal Orbit - ",
+                        "name": "Lethal Orbit",
                         "ref": "Combo/Lethal Orbit/"
                     },
                     {
-                        "name": "Crystal Rage - ",
+                        "name": "Crystal Rage",
                         "ref": "Combo/Crystal Rage/"
                     },
                     {
-                        "name": "Mandragora Mixer - ",
+                        "name": "Mandragora Mixer",
                         "ref": "Combo/Mandragora Mixer/"
                     },
                     {
-                        "name": "Rust and Roll! - ",
+                        "name": "Rust and Roll!",
                         "ref": "Combo/Rust and Roll!/"
                     },
                     {
-                        "name": "EconoMagic - ",
+                        "name": "EconoMagic",
                         "ref": "Combo/EconoMagic/"
                     },
                     {
-                        "name": "Just Visiting - ",
+                        "name": "Just Visiting",
                         "ref": "Combo/Just Visiting/"
                     },
                     {
-                        "name": "Djinn and Bear It - ",
+                        "name": "Djinn and Bear It",
                         "ref": "Combo/Djinn and Bear It/"
                     },
                     {
-                        "name": "Triple Kamikaze - ",
+                        "name": "Triple Kamikaze",
                         "ref": "Combo/Triple Kamikaze/"
                     },
                     {
-                        "name": "One Way Ticket - ",
+                        "name": "One Way Ticket",
                         "ref": "Combo/One Way Ticket/"
                     },
                     {
-                        "name": "The Masters Four - ",
+                        "name": "The Masters Four",
                         "ref": "Combo/The Masters Four/"
                     },
                     {
-                        "name": "The Big Save - ",
+                        "name": "The Big Save",
                         "ref": "Combo/The Big Save/"
                     },
                     {
-                        "name": "Brutal Nightmare - ",
+                        "name": "Brutal Nightmare",
                         "ref": "Combo/Brutal Nightmare/"
                     },
                     {
-                        "name": "Phantom BullDozer - ",
+                        "name": "Phantom BullDozer",
                         "ref": "Combo/Phantom BullDozer/"
                     },
                     {
-                        "name": "Living Large - ",
+                        "name": "Living Large",
                         "ref": "Combo/Living Large/"
                     },
                     {
-                        "name": "Elemental Victory - ",
+                        "name": "Elemental Victory",
                         "ref": "Combo/Elemental Victory/"
                     },
                     {
-                        "name": "Skullapalooza - ",
+                        "name": "Skullapalooza",
                         "ref": "Combo/Skullapalooza/"
                     },
                     {
-                        "name": "Stone Cold Sniper - ",
+                        "name": "Stone Cold Sniper",
                         "ref": "Combo/Stone Cold Sniper/"
                     },
                     {
-                        "name": "Mega Tremor - ",
+                        "name": "Mega Tremor",
                         "ref": "Combo/Mega Tremor/"
                     },
                     {
-                        "name": "Time Out! - ",
+                        "name": "Time Out!",
                         "ref": "Combo/Time Out!/"
                     },
                     {
-                        "name": "Hell Hole - ",
+                        "name": "Hell Hole",
                         "ref": "Combo/Hell Hole/"
                     },
                     {
-                        "name": "Spiritual Force - ",
+                        "name": "Spiritual Force",
                         "ref": "Combo/Spiritual Force/"
                     },
                     {
-                        "name": "Air Raid - ",
+                        "name": "Air Raid",
                         "ref": "Combo/Air Raid/"
                     },
                     {
-                        "name": "Tech Support! - ",
+                        "name": "Tech Support!",
                         "ref": "Combo/Tech Support!/"
                     },
                     {
-                        "name": "Song of Hades - ",
+                        "name": "Song of Hades",
                         "ref": "Combo/Song of Hades/"
                     },
                     {
-                        "name": "Hearing Aid - ",
+                        "name": "Hearing Aid",
                         "ref": "Combo/Hearing Aid/"
                     },
                     {
-                        "name": "Uber Vampire Root - ",
+                        "name": "Uber Vampire Root",
                         "ref": "Combo/Uber Vampire Root/"
                     },
                     {
-                        "name": "Mo Better Moray - ",
+                        "name": "Mo Better Moray",
                         "ref": "Combo/Mo Better Moray/"
                     },
                     {
-                        "name": "Prayer of the Wise - ",
+                        "name": "Prayer of the Wise",
                         "ref": "Combo/Prayer of the Wise/"
                     },
                     {
-                        "name": "Hawging the Action - ",
+                        "name": "Hawging the Action",
                         "ref": "Combo/Hawging the Action/"
                     },
                     {
-                        "name": "Stone All Around - ",
+                        "name": "Stone All Around",
                         "ref": "Combo/Stone All Around/"
                     },
                     {
-                        "name": "Tender Mercy - ",
+                        "name": "Tender Mercy",
                         "ref": "Combo/Tender Mercy/"
                     },
                     {
-                        "name": "Green Guardian - ",
+                        "name": "Green Guardian",
                         "ref": "Combo/Green Guardian/"
                     }
                 ],
@@ -779,19 +748,14 @@
                     {
                         "map": "Overworld",
                         "x": 754,
-                        "y": 283,
-                        "size": 6
+                        "y": 283
                     }
                 ]
             },
             {
                 "name": "Fairy House",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
                 "sections": [
                     {
                         "name": "Collect Red Fairies - 1 Fairy",
@@ -834,110 +798,103 @@
                     {
                         "map": "Overworld",
                         "x": 2420,
-                        "y": 533,
-                        "size": 6
+                        "y": 533
                     }
                 ]
             },
             {
                 "name": "Fossil Boneyard",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Fossil Boneyard/Chest 1/"
                     },
                     {
-                        "name": "Chest Behind Cultist - ",
+                        "name": "Chest Behind Cultist",
                         "ref": "Fossil Boneyard/Chest Behind Cultist/"
                     },
                     {
-                        "name": "Chest 3 - ",
+                        "name": "Chest 3",
                         "ref": "Fossil Boneyard/Chest 3/"
                     },
                     {
-                        "name": "Chest 4 - ",
+                        "name": "Chest 4",
                         "ref": "Fossil Boneyard/Chest 4/"
                     },
                     {
-                        "name": "Chest 5 - ",
+                        "name": "Chest 5",
                         "ref": "Fossil Boneyard/Chest 5/"
                     },
                     {
-                        "name": "Chest 6 - ",
+                        "name": "Chest 6",
                         "ref": "Fossil Boneyard/Chest 6/"
                     },
                     {
-                        "name": "Chest 7 - ",
+                        "name": "Chest 7",
                         "ref": "Fossil Boneyard/Chest 7/"
                     },
                     {
-                        "name": "Flight Chest 1 - ",
+                        "name": "Flight Chest 1",
                         "ref": "Fossil Boneyard/Flight Chest 1/"
                     },
                     {
-                        "name": "Flight Chest 2 - ",
+                        "name": "Flight Chest 2",
                         "ref": "Fossil Boneyard/Flight Chest 2/"
                     },
                     {
-                        "name": "Zombie Dragon Chest - ",
+                        "name": "Zombie Dragon Chest",
                         "ref": "Fossil Boneyard/Zombie Dragon Chest/"
                     },
                     {
-                        "name": "Red Fairy Near Start - ",
+                        "name": "Red Fairy Near Start",
                         "ref": "Fossil Boneyard/Red Fairy Near Start/"
                     },
                     {
-                        "name": "Red Fairy Near Booster - ",
+                        "name": "Red Fairy Near Booster",
                         "ref": "Fossil Boneyard/Red Fairy Near Booster/"
                     },
                     {
-                        "name": "Red Fairy Near up Ledges - ",
+                        "name": "Red Fairy Near up Ledges",
                         "ref": "Fossil Boneyard/Red Fairy Near up Ledges/"
                     },
                     {
-                        "name": "Fossil Head Pickup - ",
+                        "name": "Fossil Head Pickup",
                         "ref": "Fossil Boneyard/Fossil Head Pickup/"
                     },
                     {
-                        "name": "Fossil Torso Pickup - ",
+                        "name": "Fossil Torso Pickup",
                         "ref": "Fossil Boneyard/Fossil Torso Pickup/"
                     },
                     {
-                        "name": "Fossil Tail Pickup - ",
+                        "name": "Fossil Tail Pickup",
                         "ref": "Fossil Boneyard/Fossil Tail Pickup/"
                     },
                     {
-                        "name": "Fossil Right Wing Pickup - ",
+                        "name": "Fossil Right Wing Pickup",
                         "ref": "Fossil Boneyard/Fossil Right Wing Pickup/"
                     },
                     {
-                        "name": "Fossil Left Wing Pickup - ",
+                        "name": "Fossil Left Wing Pickup",
                         "ref": "Fossil Boneyard/Fossil Left Wing Pickup/"
                     },
                     {
-                        "name": "Fossil Right Arm Pickup - ",
+                        "name": "Fossil Right Arm Pickup",
                         "ref": "Fossil Boneyard/Fossil Right Arm Pickup/"
                     },
                     {
-                        "name": "Fossil Left Arm Pickup - ",
+                        "name": "Fossil Left Arm Pickup",
                         "ref": "Fossil Boneyard/Fossil Left Arm Pickup/"
                     },
                     {
-                        "name": "Fossil Right Leg Pickup - ",
+                        "name": "Fossil Right Leg Pickup",
                         "ref": "Fossil Boneyard/Fossil Right Leg Pickup/"
                     },
                     {
-                        "name": "Fossil Left Leg Pickup - ",
+                        "name": "Fossil Left Leg Pickup",
                         "ref": "Fossil Boneyard/Fossil Left Leg Pickup/"
                     },
                     {
-                        "name": "Stranger - ",
+                        "name": "Stranger",
                         "ref": "Fossil Boneyard/Stranger/"
                     },
                     {
@@ -1057,19 +1014,12 @@
                     {
                         "map": "Overworld",
                         "x": 2106,
-                        "y": 636,
-                        "size": 6
+                        "y": 636
                     }
                 ]
             },
             {
                 "name": "Grenfoel Cathedral",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
                         "name": "Four Statues Room - Hidden Chest 1",
@@ -1092,7 +1042,7 @@
                         "ref": "Grenfoel Cathedral/Near Organ/Chest 2"
                     },
                     {
-                        "name": "Jewel of Alanjeh Reward - ",
+                        "name": "Jewel of Alanjeh Reward",
                         "ref": "Grenfoel Cathedral/Jewel of Alanjeh Reward/"
                     },
                     {
@@ -1100,7 +1050,7 @@
                         "ref": "Grenfoel Cathedral/Near Organ/Red Fairy"
                     },
                     {
-                        "name": "Red Fairy Right Side - ",
+                        "name": "Red Fairy Right Side",
                         "ref": "Grenfoel Cathedral/Red Fairy Right Side/"
                     },
                     {
@@ -1112,7 +1062,7 @@
                         "ref": "Grenfoel Cathedral/Four Statues Room/Red Fairy 2"
                     },
                     {
-                        "name": "Red Fairy Library - ",
+                        "name": "Red Fairy Library",
                         "ref": "Grenfoel Cathedral/Red Fairy Library/"
                     }
                 ],
@@ -1120,22 +1070,15 @@
                     {
                         "map": "Overworld",
                         "x": 2372,
-                        "y": 152,
-                        "size": 6
+                        "y": 152
                     }
                 ]
             },
             {
                 "name": "Gromtull Desert",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest by Backpack - ",
+                        "name": "Chest by Backpack",
                         "ref": "Gromtull Desert/Chest by Backpack/"
                     },
                     {
@@ -1175,27 +1118,27 @@
                         "ref": "Gromtull Desert/Jarvi Cave/Red Fairy 2"
                     },
                     {
-                        "name": "Flight Chest - ",
+                        "name": "Flight Chest",
                         "ref": "Gromtull Desert/Flight Chest/"
                     },
                     {
-                        "name": "Red Fairy 1 - ",
+                        "name": "Red Fairy 1",
                         "ref": "Gromtull Desert/Red Fairy 1/"
                     },
                     {
-                        "name": "Red Fairy 2 - ",
+                        "name": "Red Fairy 2",
                         "ref": "Gromtull Desert/Red Fairy 2/"
                     },
                     {
-                        "name": "Red Fairy Jump - ",
+                        "name": "Red Fairy Jump",
                         "ref": "Gromtull Desert/Red Fairy Jump/"
                     },
                     {
-                        "name": "Bottle Pickup - ",
+                        "name": "Bottle Pickup",
                         "ref": "Gromtull Desert/Bottle Pickup/"
                     },
                     {
-                        "name": "Stranger - ",
+                        "name": "Stranger",
                         "ref": "Gromtull Desert/Stranger/"
                     },
                     {
@@ -1319,70 +1262,63 @@
                     {
                         "map": "Overworld",
                         "x": 2464,
-                        "y": 1031,
-                        "size": 6
+                        "y": 1031
                     }
                 ]
             },
             {
                 "name": "Holzogh Town",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Holzogh Town/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Holzogh Town/Chest 2/"
                     },
                     {
-                        "name": "Chest 3 - ",
+                        "name": "Chest 3",
                         "ref": "Holzogh Town/Chest 3/"
                     },
                     {
-                        "name": "Chest 4 - ",
+                        "name": "Chest 4",
                         "ref": "Holzogh Town/Chest 4/"
                     },
                     {
-                        "name": "Chest 5 - ",
+                        "name": "Chest 5",
                         "ref": "Holzogh Town/Chest 5/"
                     },
                     {
-                        "name": "Chest 6 - ",
+                        "name": "Chest 6",
                         "ref": "Holzogh Town/Chest 6/"
                     },
                     {
-                        "name": "Chest 7 - ",
+                        "name": "Chest 7",
                         "ref": "Holzogh Town/Chest 7/"
                     },
                     {
-                        "name": "Fountain Card - ",
+                        "name": "Fountain Card",
                         "ref": "Holzogh Town/Fountain Card/"
                     },
                     {
-                        "name": "Red Fairy Near Start - ",
+                        "name": "Red Fairy Near Start",
                         "ref": "Holzogh Town/Red Fairy Near Start/"
                     },
                     {
-                        "name": "Red Fairy Stairs - ",
+                        "name": "Red Fairy Stairs",
                         "ref": "Holzogh Town/Red Fairy Stairs/"
                     },
                     {
-                        "name": "Red Fairy Rubble - ",
+                        "name": "Red Fairy Rubble",
                         "ref": "Holzogh Town/Red Fairy Rubble/"
                     },
                     {
-                        "name": "Red Fairy Rubble 2 - ",
+                        "name": "Red Fairy Rubble 2",
                         "ref": "Holzogh Town/Red Fairy Rubble 2/"
                     },
                     {
-                        "name": "Corpse - ",
+                        "name": "Corpse",
                         "ref": "Holzogh Town/Corpse/"
                     },
                     {
@@ -1478,19 +1414,12 @@
                     {
                         "map": "Overworld",
                         "x": 1555,
-                        "y": 1450,
-                        "size": 6
+                        "y": 1450
                     }
                 ]
             },
             {
                 "name": "Isamat Urbur",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
                         "name": "Treasure Room - Chest 1",
@@ -1517,27 +1446,27 @@
                         "ref": "Isamat Urbur/Treasure Room/Chest 6"
                     },
                     {
-                        "name": "Red Fairy Near Start - ",
+                        "name": "Red Fairy Near Start",
                         "ref": "Isamat Urbur/Red Fairy Near Start/"
                     },
                     {
-                        "name": "Red Fairy East Room - ",
+                        "name": "Red Fairy East Room",
                         "ref": "Isamat Urbur/Red Fairy East Room/"
                     },
                     {
-                        "name": "Red Fairy Northeast - ",
+                        "name": "Red Fairy Northeast",
                         "ref": "Isamat Urbur/Red Fairy Northeast/"
                     },
                     {
-                        "name": "Red Fairy Southwest - ",
+                        "name": "Red Fairy Southwest",
                         "ref": "Isamat Urbur/Red Fairy Southwest/"
                     },
                     {
-                        "name": "Stranger - ",
+                        "name": "Stranger",
                         "ref": "Isamat Urbur/Stranger/"
                     },
                     {
-                        "name": "Stone of Sealing - ",
+                        "name": "Stone of Sealing",
                         "ref": "Isamat Urbur/Stone of Sealing/"
                     },
                     {
@@ -1617,26 +1546,19 @@
                     {
                         "map": "Overworld",
                         "x": 1850,
-                        "y": 1613,
-                        "size": 6
+                        "y": 1613
                     }
                 ]
             },
             {
                 "name": "Kadishu",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest Outside Town Wall - ",
+                        "name": "Chest Outside Town Wall",
                         "ref": "Kadishu/Chest Outside Town Wall/"
                     },
                     {
-                        "name": "Chest up Small Steps - ",
+                        "name": "Chest up Small Steps",
                         "ref": "Kadishu/Chest up Small Steps/"
                     },
                     {
@@ -1648,7 +1570,7 @@
                         "ref": "Kadishu/Alleyway/Red Fairy in Sacks"
                     },
                     {
-                        "name": "Chest 4 - ",
+                        "name": "Chest 4",
                         "ref": "Kadishu/Chest 4/"
                     },
                     {
@@ -1660,31 +1582,31 @@
                         "ref": "Kadishu/Near Dog/Red Fairy"
                     },
                     {
-                        "name": "Chest Near Monument - ",
+                        "name": "Chest Near Monument",
                         "ref": "Kadishu/Chest Near Monument/"
                     },
                     {
-                        "name": "Garbage Can - Garbage Collection 1",
+                        "name": "Garbage Collection 1",
                         "ref": "Kadishu/Garbage Can/Garbage Collection 1"
                     },
                     {
-                        "name": "Garbage Can - Garbage Collection 2",
+                        "name": "Garbage Collection 2",
                         "ref": "Kadishu/Garbage Can/Garbage Collection 2"
                     },
                     {
-                        "name": "Garbage Can - Garbage Collection 3",
+                        "name": "Garbage Collection 3",
                         "ref": "Kadishu/Garbage Can/Garbage Collection 3"
                     },
                     {
-                        "name": "Red Fairy on Bridge - ",
+                        "name": "Red Fairy on Bridge",
                         "ref": "Kadishu/Red Fairy on Bridge/"
                     },
                     {
-                        "name": "Red Fairy in Well - ",
+                        "name": "Red Fairy in Well",
                         "ref": "Kadishu/Red Fairy in Well/"
                     },
                     {
-                        "name": "Red Fairy by Fountain - ",
+                        "name": "Red Fairy by Fountain",
                         "ref": "Kadishu/Red Fairy by Fountain/"
                     }
                 ],
@@ -1692,38 +1614,31 @@
                     {
                         "map": "Overworld",
                         "x": 512,
-                        "y": 1002,
-                        "size": 6
+                        "y": 1002
                     }
                 ]
             },
             {
                 "name": "Kendarie Fortress",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Kendarie Fortress/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Kendarie Fortress/Chest 2/"
                     },
                     {
-                        "name": "Chest Behind Green Door - ",
+                        "name": "Chest Behind Green Door",
                         "ref": "Kendarie Fortress/Chest Behind Green Door/"
                     },
                     {
-                        "name": "Chest 4 - ",
+                        "name": "Chest 4",
                         "ref": "Kendarie Fortress/Chest 4/"
                     },
                     {
-                        "name": "Chest 5 - ",
+                        "name": "Chest 5",
                         "ref": "Kendarie Fortress/Chest 5/"
                     },
                     {
@@ -1735,27 +1650,27 @@
                         "ref": "Kendarie Fortress/Platform in Water/Red Fairy"
                     },
                     {
-                        "name": "Red Fairy at Start - ",
+                        "name": "Red Fairy at Start",
                         "ref": "Kendarie Fortress/Red Fairy at Start/"
                     },
                     {
-                        "name": "Red Fairy Past Blue Gate - ",
+                        "name": "Red Fairy Past Blue Gate",
                         "ref": "Kendarie Fortress/Red Fairy Past Blue Gate/"
                     },
                     {
-                        "name": "Red Fairy Near Mechapult - ",
+                        "name": "Red Fairy Near Mechapult",
                         "ref": "Kendarie Fortress/Red Fairy Near Mechapult/"
                     },
                     {
-                        "name": "Kendarie Soldier 1 - ",
+                        "name": "Kendarie Soldier 1",
                         "ref": "Kendarie Fortress/Kendarie Soldier 1/"
                     },
                     {
-                        "name": "Kendarie Soldier 2 - ",
+                        "name": "Kendarie Soldier 2",
                         "ref": "Kendarie Fortress/Kendarie Soldier 2/"
                     },
                     {
-                        "name": "Kendarie Soldier 3 - ",
+                        "name": "Kendarie Soldier 3",
                         "ref": "Kendarie Fortress/Kendarie Soldier 3/"
                     },
                     {
@@ -1807,62 +1722,55 @@
                     {
                         "map": "Overworld",
                         "x": 2219,
-                        "y": 744,
-                        "size": 6
+                        "y": 744
                     }
                 ]
             },
             {
                 "name": "Krasheen Mountains",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Krasheen Mountains/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Krasheen Mountains/Chest 2/"
                     },
                     {
-                        "name": "Chest 3 - ",
+                        "name": "Chest 3",
                         "ref": "Krasheen Mountains/Chest 3/"
                     },
                     {
-                        "name": "Chest 4 - ",
+                        "name": "Chest 4",
                         "ref": "Krasheen Mountains/Chest 4/"
                     },
                     {
-                        "name": "Chest 7 - ",
+                        "name": "Chest 7",
                         "ref": "Krasheen Mountains/Chest 7/"
                     },
                     {
-                        "name": "Chest 5 - ",
+                        "name": "Chest 5",
                         "ref": "Krasheen Mountains/Chest 5/"
                     },
                     {
-                        "name": "Chest 6 - ",
+                        "name": "Chest 6",
                         "ref": "Krasheen Mountains/Chest 6/"
                     },
                     {
-                        "name": "Red Fairy Cave 1 - ",
+                        "name": "Red Fairy Cave 1",
                         "ref": "Krasheen Mountains/Red Fairy Cave 1/"
                     },
                     {
-                        "name": "Red Fairy Bridge - ",
+                        "name": "Red Fairy Bridge",
                         "ref": "Krasheen Mountains/Red Fairy Bridge/"
                     },
                     {
-                        "name": "Red Fairy Broken Bridge - ",
+                        "name": "Red Fairy Broken Bridge",
                         "ref": "Krasheen Mountains/Red Fairy Broken Bridge/"
                     },
                     {
-                        "name": "Red Fairy Broken Bridge 2 - ",
+                        "name": "Red Fairy Broken Bridge 2",
                         "ref": "Krasheen Mountains/Red Fairy Broken Bridge 2/"
                     },
                     {
@@ -2030,19 +1938,12 @@
                     {
                         "map": "Overworld",
                         "x": 716,
-                        "y": 2199,
-                        "size": 6
+                        "y": 2199
                     }
                 ]
             },
             {
                 "name": "Noblemans Residence",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
                         "name": "Basement Chests - Chest 1",
@@ -2053,19 +1954,19 @@
                         "ref": "Noblemans Residence/Basement Chests/Chest 2"
                     },
                     {
-                        "name": "Red Fairy Sculpture - ",
+                        "name": "Red Fairy Sculpture",
                         "ref": "Noblemans Residence/Red Fairy Sculpture/"
                     },
                     {
-                        "name": "Red Fairy Central - ",
+                        "name": "Red Fairy Central",
                         "ref": "Noblemans Residence/Red Fairy Central/"
                     },
                     {
-                        "name": "Red Fairy Office - ",
+                        "name": "Red Fairy Office",
                         "ref": "Noblemans Residence/Red Fairy Office/"
                     },
                     {
-                        "name": "Stranger - ",
+                        "name": "Stranger",
                         "ref": "Noblemans Residence/Stranger/"
                     },
                     {
@@ -2161,26 +2062,19 @@
                     {
                         "map": "Overworld",
                         "x": 1604,
-                        "y": 2160,
-                        "size": 6
+                        "y": 2160
                     }
                 ]
             },
             {
                 "name": "Obenoix Gorge",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Obenoix Gorge/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Obenoix Gorge/Chest 2/"
                     },
                     {
@@ -2192,39 +2086,39 @@
                         "ref": "Obenoix Gorge/Island Near 2nd Sasquatch Battle/Flight Chest 2"
                     },
                     {
-                        "name": "Chest 3 - ",
+                        "name": "Chest 3",
                         "ref": "Obenoix Gorge/Chest 3/"
                     },
                     {
-                        "name": "Chest 4 - ",
+                        "name": "Chest 4",
                         "ref": "Obenoix Gorge/Chest 4/"
                     },
                     {
-                        "name": "Chest Behind Ice - ",
+                        "name": "Chest Behind Ice",
                         "ref": "Obenoix Gorge/Chest Behind Ice/"
                     },
                     {
-                        "name": "Flight Chest 3 - ",
+                        "name": "Flight Chest 3",
                         "ref": "Obenoix Gorge/Flight Chest 3/"
                     },
                     {
-                        "name": "Red Fairy Near Start - ",
+                        "name": "Red Fairy Near Start",
                         "ref": "Obenoix Gorge/Red Fairy Near Start/"
                     },
                     {
-                        "name": "Red Fairy in Tree - ",
+                        "name": "Red Fairy in Tree",
                         "ref": "Obenoix Gorge/Red Fairy in Tree/"
                     },
                     {
-                        "name": "Red Fairy Near Flight - ",
+                        "name": "Red Fairy Near Flight",
                         "ref": "Obenoix Gorge/Red Fairy Near Flight/"
                     },
                     {
-                        "name": "Red Fairy in Tree 2 - ",
+                        "name": "Red Fairy in Tree 2",
                         "ref": "Obenoix Gorge/Red Fairy in Tree 2/"
                     },
                     {
-                        "name": "Red Fairy Near Ship - ",
+                        "name": "Red Fairy Near Ship",
                         "ref": "Obenoix Gorge/Red Fairy Near Ship/"
                     },
                     {
@@ -2344,34 +2238,27 @@
                     {
                         "map": "Overworld",
                         "x": 1718,
-                        "y": 2049,
-                        "size": 6
+                        "y": 2049
                     }
                 ]
             },
             {
                 "name": "Plains of Rowahl",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Plains of Rowahl/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Plains of Rowahl/Chest 2/"
                     },
                     {
-                        "name": "Flight Chest - ",
+                        "name": "Flight Chest",
                         "ref": "Plains of Rowahl/Flight Chest/"
                     },
                     {
-                        "name": "Chest Under Scrap - ",
+                        "name": "Chest Under Scrap",
                         "ref": "Plains of Rowahl/Chest Under Scrap/"
                     },
                     {
@@ -2391,31 +2278,31 @@
                         "ref": "Plains of Rowahl/Royal Vault/Chest 7"
                     },
                     {
-                        "name": "Flight Chest 2 - ",
+                        "name": "Flight Chest 2",
                         "ref": "Plains of Rowahl/Flight Chest 2/"
                     },
                     {
-                        "name": "Red Fairy Near Start - ",
+                        "name": "Red Fairy Near Start",
                         "ref": "Plains of Rowahl/Red Fairy Near Start/"
                     },
                     {
-                        "name": "Red Fairy in Catapult - ",
+                        "name": "Red Fairy in Catapult",
                         "ref": "Plains of Rowahl/Red Fairy in Catapult/"
                     },
                     {
-                        "name": "Red Fairy in Golem - ",
+                        "name": "Red Fairy in Golem",
                         "ref": "Plains of Rowahl/Red Fairy in Golem/"
                     },
                     {
-                        "name": "Red Fairy Past Gate - ",
+                        "name": "Red Fairy Past Gate",
                         "ref": "Plains of Rowahl/Red Fairy Past Gate/"
                     },
                     {
-                        "name": "Stranger - ",
+                        "name": "Stranger",
                         "ref": "Plains of Rowahl/Stranger/"
                     },
                     {
-                        "name": "Kendarie Soldier - ",
+                        "name": "Kendarie Soldier",
                         "ref": "Plains of Rowahl/Kendarie Soldier/"
                     },
                     {
@@ -2527,70 +2414,63 @@
                     {
                         "map": "Overworld",
                         "x": 161,
-                        "y": 979,
-                        "size": 6
+                        "y": 979
                     }
                 ]
             },
             {
                 "name": "Royal Tower - Lower",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Royal Tower - Lower/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Royal Tower - Lower/Chest 2/"
                     },
                     {
-                        "name": "Chest 3 - ",
+                        "name": "Chest 3",
                         "ref": "Royal Tower - Lower/Chest 3/"
                     },
                     {
-                        "name": "Flight Chest 1 - ",
+                        "name": "Flight Chest 1",
                         "ref": "Royal Tower - Lower/Flight Chest 1/"
                     },
                     {
-                        "name": "Flight Chest 2 - ",
+                        "name": "Flight Chest 2",
                         "ref": "Royal Tower - Lower/Flight Chest 2/"
                     },
                     {
-                        "name": "Jump Chest 1 - ",
+                        "name": "Jump Chest 1",
                         "ref": "Royal Tower - Lower/Jump Chest 1/"
                     },
                     {
-                        "name": "Jump Chest 2 - ",
+                        "name": "Jump Chest 2",
                         "ref": "Royal Tower - Lower/Jump Chest 2/"
                     },
                     {
-                        "name": "Red Fairy Start - ",
+                        "name": "Red Fairy Start",
                         "ref": "Royal Tower - Lower/Red Fairy Start/"
                     },
                     {
-                        "name": "Red Fairy up Elevator - ",
+                        "name": "Red Fairy up Elevator",
                         "ref": "Royal Tower - Lower/Red Fairy up Elevator/"
                     },
                     {
-                        "name": "Red Fairy Over Pillar - ",
+                        "name": "Red Fairy Over Pillar",
                         "ref": "Royal Tower - Lower/Red Fairy Over Pillar/"
                     },
                     {
-                        "name": "Red Fairy Chandelier - ",
+                        "name": "Red Fairy Chandelier",
                         "ref": "Royal Tower - Lower/Red Fairy Chandelier/"
                     },
                     {
-                        "name": "Red Fairy Outside - ",
+                        "name": "Red Fairy Outside",
                         "ref": "Royal Tower - Lower/Red Fairy Outside/"
                     },
                     {
-                        "name": "Red Fairy Flight - ",
+                        "name": "Red Fairy Flight",
                         "ref": "Royal Tower - Lower/Red Fairy Flight/"
                     },
                     {
@@ -2634,26 +2514,19 @@
                     {
                         "map": "Overworld",
                         "x": 1256,
-                        "y": 888,
-                        "size": 6
+                        "y": 888
                     }
                 ]
             },
             {
                 "name": "Royal Tower - Middle",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Royal Tower - Middle/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Royal Tower - Middle/Chest 2/"
                     },
                     {
@@ -2673,19 +2546,19 @@
                         "ref": "Royal Tower - Middle/Breakable Wall 2/Red Fairy"
                     },
                     {
-                        "name": "Forcefield Chest 1 - ",
+                        "name": "Forcefield Chest 1",
                         "ref": "Royal Tower - Middle/Forcefield Chest 1/"
                     },
                     {
-                        "name": "Forcefield Chest 2 - ",
+                        "name": "Forcefield Chest 2",
                         "ref": "Royal Tower - Middle/Forcefield Chest 2/"
                     },
                     {
-                        "name": "Red Fairy Near Start - ",
+                        "name": "Red Fairy Near Start",
                         "ref": "Royal Tower - Middle/Red Fairy Near Start/"
                     },
                     {
-                        "name": "Red Fairy Hallway - ",
+                        "name": "Red Fairy Hallway",
                         "ref": "Royal Tower - Middle/Red Fairy Hallway/"
                     },
                     {
@@ -2793,46 +2666,39 @@
                     {
                         "map": "Overworld",
                         "x": 2383,
-                        "y": 584,
-                        "size": 6
+                        "y": 584
                     }
                 ]
             },
             {
                 "name": "Royal Tower - Upper",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Royal Tower - Upper/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Royal Tower - Upper/Chest 2/"
                     },
                     {
-                        "name": "Chest 3 - ",
+                        "name": "Chest 3",
                         "ref": "Royal Tower - Upper/Chest 3/"
                     },
                     {
-                        "name": "Red Fairy Rubble - ",
+                        "name": "Red Fairy Rubble",
                         "ref": "Royal Tower - Upper/Red Fairy Rubble/"
                     },
                     {
-                        "name": "Red Fairy Sphinx - ",
+                        "name": "Red Fairy Sphinx",
                         "ref": "Royal Tower - Upper/Red Fairy Sphinx/"
                     },
                     {
-                        "name": "Red Fairy Stairs 1 - ",
+                        "name": "Red Fairy Stairs 1",
                         "ref": "Royal Tower - Upper/Red Fairy Stairs 1/"
                     },
                     {
-                        "name": "Red Fairy Stairs 2 - ",
+                        "name": "Red Fairy Stairs 2",
                         "ref": "Royal Tower - Upper/Red Fairy Stairs 2/"
                     },
                     {
@@ -2892,38 +2758,31 @@
                     {
                         "map": "Overworld",
                         "x": 108,
-                        "y": 1612,
-                        "size": 6
+                        "y": 1612
                     }
                 ]
             },
             {
                 "name": "Ruldo Forest",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Ruldo Forest/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Ruldo Forest/Chest 2/"
                     },
                     {
-                        "name": "Chest 3 - ",
+                        "name": "Chest 3",
                         "ref": "Ruldo Forest/Chest 3/"
                     },
                     {
-                        "name": "Jump Chest - ",
+                        "name": "Jump Chest",
                         "ref": "Ruldo Forest/Jump Chest/"
                     },
                     {
-                        "name": "Flight or Jump Chest - ",
+                        "name": "Flight or Jump Chest",
                         "ref": "Ruldo Forest/Flight or Jump Chest/"
                     },
                     {
@@ -2935,31 +2794,31 @@
                         "ref": "Ruldo Forest/Cockatrice Area/Chest 2"
                     },
                     {
-                        "name": "Red Fairy at Start - ",
+                        "name": "Red Fairy at Start",
                         "ref": "Ruldo Forest/Red Fairy at Start/"
                     },
                     {
-                        "name": "Red Fairy at Start 2 - ",
+                        "name": "Red Fairy at Start 2",
                         "ref": "Ruldo Forest/Red Fairy at Start 2/"
                     },
                     {
-                        "name": "Red Fairy in Tree - ",
+                        "name": "Red Fairy in Tree",
                         "ref": "Ruldo Forest/Red Fairy in Tree/"
                     },
                     {
-                        "name": "Red Fairy Near Machine - ",
+                        "name": "Red Fairy Near Machine",
                         "ref": "Ruldo Forest/Red Fairy Near Machine/"
                     },
                     {
-                        "name": "Red Fairy Past Cockatrice - ",
+                        "name": "Red Fairy Past Cockatrice",
                         "ref": "Ruldo Forest/Red Fairy Past Cockatrice/"
                     },
                     {
-                        "name": "Stranger - ",
+                        "name": "Stranger",
                         "ref": "Ruldo Forest/Stranger/"
                     },
                     {
-                        "name": "Magic Boosters Activation - ",
+                        "name": "Magic Boosters Activation",
                         "ref": "Ruldo Forest/Magic Boosters Activation/"
                     },
                     {
@@ -3087,62 +2946,55 @@
                     {
                         "map": "Overworld",
                         "x": 2414,
-                        "y": 1909,
-                        "size": 6
+                        "y": 1909
                     }
                 ]
             },
             {
                 "name": "Runestone Caverns - Lower Chambers",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Runestone Caverns - Lower Chambers/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Runestone Caverns - Lower Chambers/Chest 2/"
                     },
                     {
-                        "name": "Low Water Chest - ",
+                        "name": "Low Water Chest",
                         "ref": "Runestone Caverns - Lower Chambers/Low Water Chest/"
                     },
                     {
-                        "name": "High Water Chest 1 - ",
+                        "name": "High Water Chest 1",
                         "ref": "Runestone Caverns - Lower Chambers/High Water Chest 1/"
                     },
                     {
-                        "name": "High Water Chest Flight - ",
+                        "name": "High Water Chest Flight",
                         "ref": "Runestone Caverns - Lower Chambers/High Water Chest Flight/"
                     },
                     {
-                        "name": "Chest 6 - ",
+                        "name": "Chest 6",
                         "ref": "Runestone Caverns - Lower Chambers/Chest 6/"
                     },
                     {
-                        "name": "Chest 7 - ",
+                        "name": "Chest 7",
                         "ref": "Runestone Caverns - Lower Chambers/Chest 7/"
                     },
                     {
-                        "name": "Red Fairy Near Start - ",
+                        "name": "Red Fairy Near Start",
                         "ref": "Runestone Caverns - Lower Chambers/Red Fairy Near Start/"
                     },
                     {
-                        "name": "Red Fairy in Rubble - ",
+                        "name": "Red Fairy in Rubble",
                         "ref": "Runestone Caverns - Lower Chambers/Red Fairy in Rubble/"
                     },
                     {
-                        "name": "Red Fairy Low Water - ",
+                        "name": "Red Fairy Low Water",
                         "ref": "Runestone Caverns - Lower Chambers/Red Fairy Low Water/"
                     },
                     {
-                        "name": "Red Fairy on Stairs - ",
+                        "name": "Red Fairy on Stairs",
                         "ref": "Runestone Caverns - Lower Chambers/Red Fairy on Stairs/"
                     },
                     {
@@ -3282,26 +3134,19 @@
                     {
                         "map": "Overworld",
                         "x": 773,
-                        "y": 496,
-                        "size": 6
+                        "y": 496
                     }
                 ]
             },
             {
                 "name": "Runestone Caverns - Upper Chambers",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Runestone Caverns - Upper Chambers/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Runestone Caverns - Upper Chambers/Chest 2/"
                     },
                     {
@@ -3313,19 +3158,19 @@
                         "ref": "Runestone Caverns - Upper Chambers/Sol/Red Fairy"
                     },
                     {
-                        "name": "Lower Chest 1 - ",
+                        "name": "Lower Chest 1",
                         "ref": "Runestone Caverns - Upper Chambers/Lower Chest 1/"
                     },
                     {
-                        "name": "Lower Chest 2 - ",
+                        "name": "Lower Chest 2",
                         "ref": "Runestone Caverns - Upper Chambers/Lower Chest 2/"
                     },
                     {
-                        "name": "Chest Behind Ice 1 - ",
+                        "name": "Chest Behind Ice 1",
                         "ref": "Runestone Caverns - Upper Chambers/Chest Behind Ice 1/"
                     },
                     {
-                        "name": "Chest Behind Ice 2 - ",
+                        "name": "Chest Behind Ice 2",
                         "ref": "Runestone Caverns - Upper Chambers/Chest Behind Ice 2/"
                     },
                     {
@@ -3341,15 +3186,15 @@
                         "ref": "Runestone Caverns - Upper Chambers/Near Dragon/Red Fairy"
                     },
                     {
-                        "name": "Red Fairy Near Start - ",
+                        "name": "Red Fairy Near Start",
                         "ref": "Runestone Caverns - Upper Chambers/Red Fairy Near Start/"
                     },
                     {
-                        "name": "Red Fairy Near Sluice Gate - ",
+                        "name": "Red Fairy Near Sluice Gate",
                         "ref": "Runestone Caverns - Upper Chambers/Red Fairy Near Sluice Gate/"
                     },
                     {
-                        "name": "Red Fairy Near Golem - ",
+                        "name": "Red Fairy Near Golem",
                         "ref": "Runestone Caverns - Upper Chambers/Red Fairy Near Golem/"
                     },
                     {
@@ -3497,54 +3342,47 @@
                     {
                         "map": "Overworld",
                         "x": 102,
-                        "y": 1774,
-                        "size": 6
+                        "y": 1774
                     }
                 ]
             },
             {
                 "name": "Sacred Battle Arena 1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Defeat Lich - ",
+                        "name": "Defeat Lich",
                         "ref": "Sacred Battle Arena 1/Defeat Lich/"
                     },
                     {
-                        "name": "Defeat Nueh - ",
+                        "name": "Defeat Nueh",
                         "ref": "Sacred Battle Arena 1/Defeat Nueh/"
                     },
                     {
-                        "name": "Defeat Gemini - ",
+                        "name": "Defeat Gemini",
                         "ref": "Sacred Battle Arena 1/Defeat Gemini/"
                     },
                     {
-                        "name": "Defeat Kraken - ",
+                        "name": "Defeat Kraken",
                         "ref": "Sacred Battle Arena 1/Defeat Kraken/"
                     },
                     {
-                        "name": "Red Fairy 1 - ",
+                        "name": "Red Fairy 1",
                         "ref": "Sacred Battle Arena 1/Red Fairy 1/"
                     },
                     {
-                        "name": "Red Fairy 2 - ",
+                        "name": "Red Fairy 2",
                         "ref": "Sacred Battle Arena 1/Red Fairy 2/"
                     },
                     {
-                        "name": "Red Fairy 3 - ",
+                        "name": "Red Fairy 3",
                         "ref": "Sacred Battle Arena 1/Red Fairy 3/"
                     },
                     {
-                        "name": "Gurd Reward - ",
+                        "name": "Gurd Reward",
                         "ref": "Sacred Battle Arena 1/Gurd Reward/"
                     },
                     {
-                        "name": "Stranger - ",
+                        "name": "Stranger",
                         "ref": "Sacred Battle Arena 1/Stranger/"
                     }
                 ],
@@ -3552,54 +3390,47 @@
                     {
                         "map": "Overworld",
                         "x": 792,
-                        "y": 971,
-                        "size": 6
+                        "y": 971
                     }
                 ]
             },
             {
                 "name": "Sacred Battle Arena 2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Defeat Rabandos - ",
+                        "name": "Defeat Rabandos",
                         "ref": "Sacred Battle Arena 2/Defeat Rabandos/"
                     },
                     {
-                        "name": "Defeat Helena - ",
+                        "name": "Defeat Helena",
                         "ref": "Sacred Battle Arena 2/Defeat Helena/"
                     },
                     {
-                        "name": "Defeat AstroBot - ",
+                        "name": "Defeat AstroBot",
                         "ref": "Sacred Battle Arena 2/Defeat AstroBot/"
                     },
                     {
-                        "name": "Defeat Leod - ",
+                        "name": "Defeat Leod",
                         "ref": "Sacred Battle Arena 2/Defeat Leod/"
                     },
                     {
-                        "name": "Defeat Thalnos - ",
+                        "name": "Defeat Thalnos",
                         "ref": "Sacred Battle Arena 2/Defeat Thalnos/"
                     },
                     {
-                        "name": "Defeat Katia - ",
+                        "name": "Defeat Katia",
                         "ref": "Sacred Battle Arena 2/Defeat Katia/"
                     },
                     {
-                        "name": "Red Fairy Hallway - ",
+                        "name": "Red Fairy Hallway",
                         "ref": "Sacred Battle Arena 2/Red Fairy Hallway/"
                     },
                     {
-                        "name": "Red Fairy Machines - ",
+                        "name": "Red Fairy Machines",
                         "ref": "Sacred Battle Arena 2/Red Fairy Machines/"
                     },
                     {
-                        "name": "Red Fairy Queen Katia - ",
+                        "name": "Red Fairy Queen Katia",
                         "ref": "Sacred Battle Arena 2/Red Fairy Queen Katia/"
                     }
                 ],
@@ -3607,22 +3438,15 @@
                     {
                         "map": "Overworld",
                         "x": 715,
-                        "y": 1774,
-                        "size": 6
+                        "y": 1774
                     }
                 ]
             },
             {
                 "name": "Sarvan",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Jump Chest - ",
+                        "name": "Jump Chest",
                         "ref": "Sarvan/Jump Chest/"
                     },
                     {
@@ -3638,35 +3462,35 @@
                         "ref": "Sarvan/Down Stairs After First Gate/Chest 3"
                     },
                     {
-                        "name": "Caged Chest 1 - ",
+                        "name": "Caged Chest 1",
                         "ref": "Sarvan/Caged Chest 1/"
                     },
                     {
-                        "name": "Chest 4 - ",
+                        "name": "Chest 4",
                         "ref": "Sarvan/Chest 4/"
                     },
                     {
-                        "name": "Chest 5 - ",
+                        "name": "Chest 5",
                         "ref": "Sarvan/Chest 5/"
                     },
                     {
-                        "name": "Caged Chest 2 - ",
+                        "name": "Caged Chest 2",
                         "ref": "Sarvan/Caged Chest 2/"
                     },
                     {
-                        "name": "Puzzle Chest - ",
+                        "name": "Puzzle Chest",
                         "ref": "Sarvan/Puzzle Chest/"
                     },
                     {
-                        "name": "Red Fairy Near Start - ",
+                        "name": "Red Fairy Near Start",
                         "ref": "Sarvan/Red Fairy Near Start/"
                     },
                     {
-                        "name": "Red Fairy Under Bridge - ",
+                        "name": "Red Fairy Under Bridge",
                         "ref": "Sarvan/Red Fairy Under Bridge/"
                     },
                     {
-                        "name": "Red Fairy Magic Circle - ",
+                        "name": "Red Fairy Magic Circle",
                         "ref": "Sarvan/Red Fairy Magic Circle/"
                     },
                     {
@@ -3766,78 +3590,71 @@
                     {
                         "map": "Overworld",
                         "x": 28,
-                        "y": 304,
-                        "size": 6
+                        "y": 304
                     }
                 ]
             },
             {
                 "name": "Temple of Sharacia",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Flight Chest - ",
+                        "name": "Flight Chest",
                         "ref": "Temple of Sharacia/Flight Chest/"
                     },
                     {
-                        "name": "Chest 1 - ",
+                        "name": "Chest 1",
                         "ref": "Temple of Sharacia/Chest 1/"
                     },
                     {
-                        "name": "Chest 2 - ",
+                        "name": "Chest 2",
                         "ref": "Temple of Sharacia/Chest 2/"
                     },
                     {
-                        "name": "Chest 3 - ",
+                        "name": "Chest 3",
                         "ref": "Temple of Sharacia/Chest 3/"
                     },
                     {
-                        "name": "Chest 4 - ",
+                        "name": "Chest 4",
                         "ref": "Temple of Sharacia/Chest 4/"
                     },
                     {
-                        "name": "Chest 5 - ",
+                        "name": "Chest 5",
                         "ref": "Temple of Sharacia/Chest 5/"
                     },
                     {
-                        "name": "Chest 6 - ",
+                        "name": "Chest 6",
                         "ref": "Temple of Sharacia/Chest 6/"
                     },
                     {
-                        "name": "Help Valkyrie - ",
+                        "name": "Help Valkyrie",
                         "ref": "Temple of Sharacia/Help Valkyrie/"
                     },
                     {
-                        "name": "Help Ashura - ",
+                        "name": "Help Ashura",
                         "ref": "Temple of Sharacia/Help Ashura/"
                     },
                     {
-                        "name": "Red Fairy Near Start 1 - ",
+                        "name": "Red Fairy Near Start 1",
                         "ref": "Temple of Sharacia/Red Fairy Near Start 1/"
                     },
                     {
-                        "name": "Red Fairy Near Start 2 - ",
+                        "name": "Red Fairy Near Start 2",
                         "ref": "Temple of Sharacia/Red Fairy Near Start 2/"
                     },
                     {
-                        "name": "Red Fairy up Left Stairs - ",
+                        "name": "Red Fairy up Left Stairs",
                         "ref": "Temple of Sharacia/Red Fairy up Left Stairs/"
                     },
                     {
-                        "name": "Red Fairy up Right Side - ",
+                        "name": "Red Fairy up Right Side",
                         "ref": "Temple of Sharacia/Red Fairy up Right Side/"
                     },
                     {
-                        "name": "Red Fairy Rubble - ",
+                        "name": "Red Fairy Rubble",
                         "ref": "Temple of Sharacia/Red Fairy Rubble/"
                     },
                     {
-                        "name": "Red Fairy Valkyrie Side - ",
+                        "name": "Red Fairy Valkyrie Side",
                         "ref": "Temple of Sharacia/Red Fairy Valkyrie Side/"
                     },
                     {
@@ -3973,8 +3790,7 @@
                     {
                         "map": "Overworld",
                         "x": 2315,
-                        "y": 143,
-                        "size": 6
+                        "y": 143
                     }
                 ]
             }

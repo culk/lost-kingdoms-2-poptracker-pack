@@ -1,235 +1,162 @@
 [
     {
         "name": "Sacred Battle Arena 2",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
+        "chest_unopened_img": "/images/items/chest_close.png",
+        "chest_opened_img": "/images/items/chest_open.png",
         "children": [
             {
                 "name": "Defeat Rabandos",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
                         "x": 1017,
-                        "y": 1569,
-                        "size": 6
+                        "y": 1569
                     }
                 ]
             },
             {
                 "name": "Defeat Helena",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
                         "x": 1284,
-                        "y": 649,
-                        "size": 6
+                        "y": 649
                     }
                 ]
             },
             {
                 "name": "Defeat AstroBot",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
                         "x": 2473,
-                        "y": 2220,
-                        "size": 6
+                        "y": 2220
                     }
                 ]
             },
             {
                 "name": "Defeat Leod",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
                         "x": 1796,
-                        "y": 961,
-                        "size": 6
+                        "y": 961
                     }
                 ]
             },
             {
                 "name": "Defeat Thalnos",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
                         "x": 1472,
-                        "y": 2202,
-                        "size": 6
+                        "y": 2202
                     }
                 ]
             },
             {
                 "name": "Defeat Katia",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
                         "x": 1639,
-                        "y": 542,
-                        "size": 6
+                        "y": 542
                     }
                 ]
             },
             {
                 "name": "Red Fairy Hallway",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
                         "x": 2475,
-                        "y": 2298,
-                        "size": 6
+                        "y": 2298
                     }
                 ]
             },
             {
                 "name": "Red Fairy Machines",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
                         "x": 1062,
-                        "y": 1964,
-                        "size": 6
+                        "y": 1964
                     }
                 ]
             },
             {
                 "name": "Red Fairy Queen Katia",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
                         "x": 1375,
-                        "y": 911,
-                        "size": 6
+                        "y": 911
                     }
                 ]
             }

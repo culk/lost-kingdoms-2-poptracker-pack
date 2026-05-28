@@ -1,489 +1,307 @@
 [
     {
         "name": "Gromtull Desert",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
+        "chest_unopened_img": "/images/items/chest_close.png",
+        "chest_opened_img": "/images/items/chest_open.png",
         "children": [
             {
                 "name": "Chest by Backpack",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
                         "x": 505,
-                        "y": 133,
-                        "size": 6
+                        "y": 133
                     }
                 ]
             },
             {
                 "name": "Mummy Cave",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chest 1"
                     },
                     {
-                        "name": "Chest 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chest 2"
                     },
                     {
-                        "name": "Chest 3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chest 3"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
                         "x": 1725,
-                        "y": 1005,
-                        "size": 6
+                        "y": 1005
                     }
                 ]
             },
             {
                 "name": "Near Oil",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "Chest",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chest"
                     },
                     {
                         "name": "Black Liquid Pickup",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "access_rules": []
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
                         "x": 1978,
-                        "y": 2101,
-                        "size": 6
+                        "y": 2101
                     }
                 ]
             },
             {
                 "name": "Jarvi Cave",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "Chest 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chest 1"
                     },
                     {
-                        "name": "Chest 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Chest 2"
                     },
                     {
                         "name": "Red Fairy 1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "chest_unopened_img": "/images/items/fairy_close.png",
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": []
                     },
                     {
                         "name": "Red Fairy 2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "chest_unopened_img": "/images/items/fairy_close.png",
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": []
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
                         "x": 88,
-                        "y": 103,
-                        "size": 6
+                        "y": 103
                     }
                 ]
             },
             {
                 "name": "Flight Chest",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
                         "x": 1073,
-                        "y": 464,
-                        "size": 6
+                        "y": 464
                     }
                 ]
             },
             {
                 "name": "Red Fairy 1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
                         "x": 2379,
-                        "y": 1493,
-                        "size": 6
+                        "y": 1493
                     }
                 ]
             },
             {
                 "name": "Red Fairy 2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
                         "x": 373,
-                        "y": 1095,
-                        "size": 6
+                        "y": 1095
                     }
                 ]
             },
             {
                 "name": "Red Fairy Jump",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
                 "access_rules": [
                     " "
                 ],
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
                         "x": 874,
-                        "y": 1311,
-                        "size": 6
+                        "y": 1311
                     }
                 ]
             },
             {
                 "name": "Bottle Pickup",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
                         "x": 2092,
-                        "y": 851,
-                        "size": 6
+                        "y": 851
                     }
                 ]
             },
             {
                 "name": "Stranger",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
                 "access_rules": [
                     " "
                 ],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
                         "x": 150,
-                        "y": 2028,
-                        "size": 6
+                        "y": 2028
                     }
                 ]
             },
             {
                 "name": "Enemysanity",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "visibility_rules": [],
                 "sections": [
                     {
-                        "name": "Lizardman #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Lizardman #1"
                     },
                     {
-                        "name": "Lizardman #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Lizardman #2"
                     },
                     {
-                        "name": "Lizardman #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Lizardman #3"
                     },
                     {
-                        "name": "Elephant #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Elephant #1"
                     },
                     {
-                        "name": "Lizardman #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Lizardman #4"
                     },
                     {
-                        "name": "Lizardman #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Lizardman #5"
                     },
                     {
-                        "name": "Elephant #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Elephant #2"
                     },
                     {
-                        "name": "Elephant #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Elephant #3"
                     },
                     {
-                        "name": "Mummy #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mummy #1"
                     },
                     {
-                        "name": "Mummy #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mummy #2"
                     },
                     {
-                        "name": "Mummy #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mummy #3"
                     },
                     {
-                        "name": "Mummy #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mummy #4"
                     },
                     {
-                        "name": "Sand Beetle #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Sand Beetle #1"
                     },
                     {
-                        "name": "Sand Beetle #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Sand Beetle #2"
                     },
                     {
-                        "name": "Mummy #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mummy #5"
                     },
                     {
-                        "name": "Lizardman #6",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Lizardman #6"
                     },
                     {
-                        "name": "Elephant #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Elephant #4"
                     },
                     {
-                        "name": "Sand Beetle #3",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Sand Beetle #3"
                     },
                     {
-                        "name": "Lizardman #7",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Lizardman #7"
                     },
                     {
-                        "name": "Pixie #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Pixie #1"
                     },
                     {
-                        "name": "Mummy #6",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mummy #6"
                     },
                     {
-                        "name": "Mummy #7",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mummy #7"
                     },
                     {
-                        "name": "Mummy #8",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mummy #8"
                     },
                     {
-                        "name": "Mummy #9",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": "Mummy #9"
                     },
                     {
                         "name": "Sand Beetle #4",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "access_rules": []
                     },
                     {
                         "name": "Elephant #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "access_rules": []
                     },
                     {
                         "name": "Sand Beetle #5",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "access_rules": []
                     },
                     {
                         "name": "Pixie #2",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "access_rules": []
                     },
                     {
                         "name": "Sand Worm #1",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "access_rules": []
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
                         "x": 1555,
-                        "y": 1574,
-                        "size": 6
+                        "y": 1574
                     }
                 ]
             }
