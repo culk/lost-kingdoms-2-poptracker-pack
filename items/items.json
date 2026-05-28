@@ -26,7 +26,7 @@
     {
         "name": "Fossil Head",
         "type": "toggle",
-        "img": "images/items/fossil_head.png",
+        "img": "images/items/fossils.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fossil_head"
@@ -34,7 +34,7 @@
     {
         "name": "Fossil Torso",
         "type": "toggle",
-        "img": "images/items/fossil_torso.png",
+        "img": "images/items/fossils.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fossil_torso"
@@ -42,7 +42,7 @@
     {
         "name": "Fossil Tail",
         "type": "toggle",
-        "img": "images/items/fossil_tail.png",
+        "img": "images/items/fossils.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fossil_tail"
@@ -50,7 +50,7 @@
     {
         "name": "Fossil Right Wing",
         "type": "toggle",
-        "img": "images/items/fossil_right_wing.png",
+        "img": "images/items/fossils.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fossil_right_wing"
@@ -58,7 +58,7 @@
     {
         "name": "Fossil Left Wing",
         "type": "toggle",
-        "img": "images/items/fossil_left_wing.png",
+        "img": "images/items/fossils.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fossil_left_wing"
@@ -66,7 +66,7 @@
     {
         "name": "Fossil Right Arm",
         "type": "toggle",
-        "img": "images/items/fossil_right_arm.png",
+        "img": "images/items/fossils.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fossil_right_arm"
@@ -74,7 +74,7 @@
     {
         "name": "Fossil Left Arm",
         "type": "toggle",
-        "img": "images/items/fossil_left_arm.png",
+        "img": "images/items/fossils.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fossil_left_arm"
@@ -82,7 +82,7 @@
     {
         "name": "Fossil Right Leg",
         "type": "toggle",
-        "img": "images/items/fossil_right_leg.png",
+        "img": "images/items/fossils.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fossil_right_leg"
@@ -90,7 +90,7 @@
     {
         "name": "Fossil Left Leg",
         "type": "toggle",
-        "img": "images/items/fossil_left_leg.png",
+        "img": "images/items/fossils.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "fossil_left_leg"
@@ -122,7 +122,7 @@
     {
         "name": "Blade of Skill",
         "type": "toggle",
-        "img": "images/items/blade_of_skill.png",
+        "img": "images/items/blades.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "blade_of_skill"
@@ -130,7 +130,7 @@
     {
         "name": "Blade of Power",
         "type": "toggle",
-        "img": "images/items/blade_of_power.png",
+        "img": "images/items/blades.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "blade_of_power"
@@ -138,7 +138,7 @@
     {
         "name": "Blade of Wisdom",
         "type": "toggle",
-        "img": "images/items/blade_of_wisdom.png",
+        "img": "images/items/blades.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "blade_of_wisdom"
@@ -146,7 +146,7 @@
     {
         "name": "Blade of Time",
         "type": "toggle",
-        "img": "images/items/blade_of_time.png",
+        "img": "images/items/blades.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "blade_of_time"
@@ -162,7 +162,7 @@
     {
         "name": "Eno Runestone",
         "type": "toggle",
-        "img": "images/items/runestone_eno.png",
+        "img": "images/items/runestones.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "runestone_eno"
@@ -170,7 +170,7 @@
     {
         "name": "Oht Runestone",
         "type": "toggle",
-        "img": "images/items/runestone_oht.png",
+        "img": "images/items/runestones.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "runestone_oht"
@@ -178,7 +178,7 @@
     {
         "name": "Elise Runestone",
         "type": "toggle",
-        "img": "images/items/runestone_elise.png",
+        "img": "images/items/runestones.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "runestone_elise"
@@ -186,7 +186,7 @@
     {
         "name": "Olf Runestone",
         "type": "toggle",
-        "img": "images/items/runestone_olf.png",
+        "img": "images/items/runestones.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "runestone_olf"
@@ -194,7 +194,7 @@
     {
         "name": "Ebin Runestone",
         "type": "toggle",
-        "img": "images/items/runestone_ebin.png",
+        "img": "images/items/runestones.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "runestone_ebin"
@@ -202,7 +202,7 @@
     {
         "name": "Keil Runestone",
         "type": "toggle",
-        "img": "images/items/runestone_keil.png",
+        "img": "images/items/runestones.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "runestone_keil"
@@ -210,7 +210,7 @@
     {
         "name": "Nebeth Runestone",
         "type": "toggle",
-        "img": "images/items/runestone_nebeth.png",
+        "img": "images/items/runestones.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "runestone_nebeth"
@@ -250,7 +250,7 @@
     {
         "name": "red_fairy",
         "type": "consumable",
-        "img": "images/items/red_fairy.png",
+        "img": "images/items/fairy_open.png",
         "min_quantity": 0,
         "max_quantity": 100,
         "increment": 1,
