@@ -46,157 +46,169 @@
                     {
                         "name": "Red Fairy End",
                         "ref": "Alanjeh Castle/Red Fairy End/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Enemysanity - MechLance 5L #1",
+                        "map": "Overworld",
+                        "x": 215,
+                        "y": 738
+                    }
+                ]
+            },
+            {
+                "name": "Alanjeh Castle - Enemysanity",
+                "sections": [
+                    {
+                        "name": "MechLance 5L #1",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #1"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #2",
+                        "name": "MechLance 5L #2",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #2"
                     },
                     {
-                        "name": "Enemysanity - Gizmolizer #1",
+                        "name": "Gizmolizer #1",
                         "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #1"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #3",
+                        "name": "MechLance 5L #3",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #3"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #4",
+                        "name": "MechLance 5L #4",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #4"
                     },
                     {
-                        "name": "Enemysanity - Dark Treant #1",
+                        "name": "Dark Treant #1",
                         "ref": "Alanjeh Castle/Enemysanity/Dark Treant #1"
                     },
                     {
-                        "name": "Enemysanity - Gizmolizer #2",
+                        "name": "Gizmolizer #2",
                         "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #2"
                     },
                     {
-                        "name": "Enemysanity - Claws-R-Us #1",
+                        "name": "Claws-R-Us #1",
                         "ref": "Alanjeh Castle/Enemysanity/Claws-R-Us #1"
                     },
                     {
-                        "name": "Enemysanity - Chariobot #1",
+                        "name": "Chariobot #1",
                         "ref": "Alanjeh Castle/Enemysanity/Chariobot #1"
                     },
                     {
-                        "name": "Enemysanity - Claws-R-Us #2",
+                        "name": "Claws-R-Us #2",
                         "ref": "Alanjeh Castle/Enemysanity/Claws-R-Us #2"
                     },
                     {
-                        "name": "Enemysanity - Gizmolizer #3",
+                        "name": "Gizmolizer #3",
                         "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #3"
                     },
                     {
-                        "name": "Enemysanity - Claws-R-Us #3",
+                        "name": "Claws-R-Us #3",
                         "ref": "Alanjeh Castle/Enemysanity/Claws-R-Us #3"
                     },
                     {
-                        "name": "Enemysanity - Gizmolizer #4",
+                        "name": "Gizmolizer #4",
                         "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #4"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #5",
+                        "name": "MechLance 5L #5",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #5"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #6",
+                        "name": "MechLance 5L #6",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #6"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #7",
+                        "name": "MechLance 5L #7",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #7"
                     },
                     {
-                        "name": "Enemysanity - Chariobot #2",
+                        "name": "Chariobot #2",
                         "ref": "Alanjeh Castle/Enemysanity/Chariobot #2"
                     },
                     {
-                        "name": "Enemysanity - Chariobot #3",
+                        "name": "Chariobot #3",
                         "ref": "Alanjeh Castle/Enemysanity/Chariobot #3"
                     },
                     {
-                        "name": "Enemysanity - Chariobot #4",
+                        "name": "Chariobot #4",
                         "ref": "Alanjeh Castle/Enemysanity/Chariobot #4"
                     },
                     {
-                        "name": "Enemysanity - Chariobot #5",
+                        "name": "Chariobot #5",
                         "ref": "Alanjeh Castle/Enemysanity/Chariobot #5"
                     },
                     {
-                        "name": "Enemysanity - Barometz #1",
+                        "name": "Barometz #1",
                         "ref": "Alanjeh Castle/Enemysanity/Barometz #1"
                     },
                     {
-                        "name": "Enemysanity - Barometz #2",
+                        "name": "Barometz #2",
                         "ref": "Alanjeh Castle/Enemysanity/Barometz #2"
                     },
                     {
-                        "name": "Enemysanity - Dark Treant #2",
+                        "name": "Dark Treant #2",
                         "ref": "Alanjeh Castle/Enemysanity/Dark Treant #2"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #8",
+                        "name": "MechLance 5L #8",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #8"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #9",
+                        "name": "MechLance 5L #9",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #9"
                     },
                     {
-                        "name": "Enemysanity - Gizmolizer #5",
+                        "name": "Gizmolizer #5",
                         "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #5"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #10",
+                        "name": "MechLance 5L #10",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #10"
                     },
                     {
-                        "name": "Enemysanity - Claws-R-Us #4",
+                        "name": "Claws-R-Us #4",
                         "ref": "Alanjeh Castle/Enemysanity/Claws-R-Us #4"
                     },
                     {
-                        "name": "Enemysanity - Gizmolizer #6",
+                        "name": "Gizmolizer #6",
                         "ref": "Alanjeh Castle/Enemysanity/Gizmolizer #6"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #11",
+                        "name": "MechLance 5L #11",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #11"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #12",
+                        "name": "MechLance 5L #12",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #12"
                     },
                     {
-                        "name": "Enemysanity - Dark Treant #3",
+                        "name": "Dark Treant #3",
                         "ref": "Alanjeh Castle/Enemysanity/Dark Treant #3"
                     },
                     {
-                        "name": "Enemysanity - AcidBot #1",
+                        "name": "AcidBot #1",
                         "ref": "Alanjeh Castle/Enemysanity/AcidBot #1"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #13",
+                        "name": "MechLance 5L #13",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #13"
                     },
                     {
-                        "name": "Enemysanity - Dark Treant #4",
+                        "name": "Dark Treant #4",
                         "ref": "Alanjeh Castle/Enemysanity/Dark Treant #4"
                     },
                     {
-                        "name": "Enemysanity - MechLance 5L #14",
+                        "name": "MechLance 5L #14",
                         "ref": "Alanjeh Castle/Enemysanity/MechLance 5L #14"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 234,
-                        "y": 738
+                        "x": 215,
+                        "y": 763
                     }
                 ]
             },
@@ -236,6 +248,22 @@
                         "ref": "Bhashea Castle/West Stairway Chest/"
                     },
                     {
+                        "name": "Blade of Skill Puzzle",
+                        "ref": "Bhashea Castle/Blade of Skill Puzzle/"
+                    },
+                    {
+                        "name": "Steel Skeleton Defeat",
+                        "ref": "Bhashea Castle/Steel Skeleton Defeat/"
+                    },
+                    {
+                        "name": "Blade of Wisdom Pickup",
+                        "ref": "Bhashea Castle/Blade of Wisdom Pickup/"
+                    },
+                    {
+                        "name": "Blade of Time Pickup",
+                        "ref": "Bhashea Castle/Blade of Time Pickup/"
+                    },
+                    {
                         "name": "Red Fairy Near Start",
                         "ref": "Bhashea Castle/Red Fairy Near Start/"
                     },
@@ -254,184 +282,180 @@
                     {
                         "name": "Red Fairy Wall Break Rubble",
                         "ref": "Bhashea Castle/Red Fairy Wall Break Rubble/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Blade of Skill Puzzle",
-                        "ref": "Bhashea Castle/Blade of Skill Puzzle/"
-                    },
+                        "map": "Overworld",
+                        "x": 1097,
+                        "y": 860
+                    }
+                ]
+            },
+            {
+                "name": "Bhashea Castle - Enemysanity",
+                "sections": [
                     {
-                        "name": "Steel Skeleton Defeat",
-                        "ref": "Bhashea Castle/Steel Skeleton Defeat/"
-                    },
-                    {
-                        "name": "Blade of Wisdom Pickup",
-                        "ref": "Bhashea Castle/Blade of Wisdom Pickup/"
-                    },
-                    {
-                        "name": "Blade of Time Pickup",
-                        "ref": "Bhashea Castle/Blade of Time Pickup/"
-                    },
-                    {
-                        "name": "Enemysanity - Death #1",
+                        "name": "Death #1",
                         "ref": "Bhashea Castle/Enemysanity/Death #1"
                     },
                     {
-                        "name": "Enemysanity - Stone Head #1",
+                        "name": "Stone Head #1",
                         "ref": "Bhashea Castle/Enemysanity/Stone Head #1"
                     },
                     {
-                        "name": "Enemysanity - Kitty Trap #1",
+                        "name": "Kitty Trap #1",
                         "ref": "Bhashea Castle/Enemysanity/Kitty Trap #1"
                     },
                     {
-                        "name": "Enemysanity - Kitty Trap #2",
+                        "name": "Kitty Trap #2",
                         "ref": "Bhashea Castle/Enemysanity/Kitty Trap #2"
                     },
                     {
-                        "name": "Enemysanity - Birdman #1",
+                        "name": "Birdman #1",
                         "ref": "Bhashea Castle/Enemysanity/Birdman #1"
                     },
                     {
-                        "name": "Enemysanity - Stone Head #2",
+                        "name": "Stone Head #2",
                         "ref": "Bhashea Castle/Enemysanity/Stone Head #2"
                     },
                     {
-                        "name": "Enemysanity - Death #2",
+                        "name": "Death #2",
                         "ref": "Bhashea Castle/Enemysanity/Death #2"
                     },
                     {
-                        "name": "Enemysanity - Death #3",
+                        "name": "Death #3",
                         "ref": "Bhashea Castle/Enemysanity/Death #3"
                     },
                     {
-                        "name": "Enemysanity - Death #4",
+                        "name": "Death #4",
                         "ref": "Bhashea Castle/Enemysanity/Death #4"
                     },
                     {
-                        "name": "Enemysanity - Death #5",
+                        "name": "Death #5",
                         "ref": "Bhashea Castle/Enemysanity/Death #5"
                     },
                     {
-                        "name": "Enemysanity - Dark Elf #1",
+                        "name": "Dark Elf #1",
                         "ref": "Bhashea Castle/Enemysanity/Dark Elf #1"
                     },
                     {
-                        "name": "Enemysanity - Dark Elf #2",
+                        "name": "Dark Elf #2",
                         "ref": "Bhashea Castle/Enemysanity/Dark Elf #2"
                     },
                     {
-                        "name": "Enemysanity - Death #6",
+                        "name": "Death #6",
                         "ref": "Bhashea Castle/Enemysanity/Death #6"
                     },
                     {
-                        "name": "Enemysanity - Birdman #2",
+                        "name": "Birdman #2",
                         "ref": "Bhashea Castle/Enemysanity/Birdman #2"
                     },
                     {
-                        "name": "Enemysanity - Stone Head #3",
+                        "name": "Stone Head #3",
                         "ref": "Bhashea Castle/Enemysanity/Stone Head #3"
                     },
                     {
-                        "name": "Enemysanity - Stone Head #4",
+                        "name": "Stone Head #4",
                         "ref": "Bhashea Castle/Enemysanity/Stone Head #4"
                     },
                     {
-                        "name": "Enemysanity - Stone Head #5",
+                        "name": "Stone Head #5",
                         "ref": "Bhashea Castle/Enemysanity/Stone Head #5"
                     },
                     {
-                        "name": "Enemysanity - Stone Head #6",
+                        "name": "Stone Head #6",
                         "ref": "Bhashea Castle/Enemysanity/Stone Head #6"
                     },
                     {
-                        "name": "Enemysanity - Death #7",
+                        "name": "Death #7",
                         "ref": "Bhashea Castle/Enemysanity/Death #7"
                     },
                     {
-                        "name": "Enemysanity - Dark Elf #3",
+                        "name": "Dark Elf #3",
                         "ref": "Bhashea Castle/Enemysanity/Dark Elf #3"
                     },
                     {
-                        "name": "Enemysanity - Dark Elf #4",
+                        "name": "Dark Elf #4",
                         "ref": "Bhashea Castle/Enemysanity/Dark Elf #4"
                     },
                     {
-                        "name": "Enemysanity - Death #8",
+                        "name": "Death #8",
                         "ref": "Bhashea Castle/Enemysanity/Death #8"
                     },
                     {
-                        "name": "Enemysanity - Death #9",
+                        "name": "Death #9",
                         "ref": "Bhashea Castle/Enemysanity/Death #9"
                     },
                     {
-                        "name": "Enemysanity - Kitty Trap #3",
+                        "name": "Kitty Trap #3",
                         "ref": "Bhashea Castle/Enemysanity/Kitty Trap #3"
                     },
                     {
-                        "name": "Enemysanity - Kitty Trap #4",
+                        "name": "Kitty Trap #4",
                         "ref": "Bhashea Castle/Enemysanity/Kitty Trap #4"
                     },
                     {
-                        "name": "Enemysanity - Birdman #3",
+                        "name": "Birdman #3",
                         "ref": "Bhashea Castle/Enemysanity/Birdman #3"
                     },
                     {
-                        "name": "Enemysanity - Stone Head #7",
+                        "name": "Stone Head #7",
                         "ref": "Bhashea Castle/Enemysanity/Stone Head #7"
                     },
                     {
-                        "name": "Enemysanity - Birdman #4",
+                        "name": "Birdman #4",
                         "ref": "Bhashea Castle/Enemysanity/Birdman #4"
                     },
                     {
-                        "name": "Enemysanity - Dark Elf #5",
+                        "name": "Dark Elf #5",
                         "ref": "Bhashea Castle/Enemysanity/Dark Elf #5"
                     },
                     {
-                        "name": "Enemysanity - Dark Elf #6",
+                        "name": "Dark Elf #6",
                         "ref": "Bhashea Castle/Enemysanity/Dark Elf #6"
                     },
                     {
-                        "name": "Enemysanity - Dark Elf #7",
+                        "name": "Dark Elf #7",
                         "ref": "Bhashea Castle/Enemysanity/Dark Elf #7"
                     },
                     {
-                        "name": "Enemysanity - Stone Head #8",
+                        "name": "Stone Head #8",
                         "ref": "Bhashea Castle/Enemysanity/Stone Head #8"
                     },
                     {
-                        "name": "Enemysanity - Dark Elf #8",
+                        "name": "Dark Elf #8",
                         "ref": "Bhashea Castle/Enemysanity/Dark Elf #8"
                     },
                     {
-                        "name": "Enemysanity - Dark Elf #9",
+                        "name": "Dark Elf #9",
                         "ref": "Bhashea Castle/Enemysanity/Dark Elf #9"
                     },
                     {
-                        "name": "Enemysanity - Death #10",
+                        "name": "Death #10",
                         "ref": "Bhashea Castle/Enemysanity/Death #10"
                     },
                     {
-                        "name": "Enemysanity - Death #11",
+                        "name": "Death #11",
                         "ref": "Bhashea Castle/Enemysanity/Death #11"
                     },
                     {
-                        "name": "Enemysanity - Demon Swordsman #1",
+                        "name": "Demon Swordsman #1",
                         "ref": "Bhashea Castle/Enemysanity/Demon Swordsman #1"
                     },
                     {
-                        "name": "Enemysanity - Birdman #5",
+                        "name": "Birdman #5",
                         "ref": "Bhashea Castle/Enemysanity/Birdman #5"
                     },
                     {
-                        "name": "Enemysanity - Birdman #6",
+                        "name": "Birdman #6",
                         "ref": "Bhashea Castle/Enemysanity/Birdman #6"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1109,
+                        "x": 1122,
                         "y": 860
                     }
                 ]
@@ -474,109 +498,121 @@
                     {
                         "name": "Red Fairy Chaos Knight",
                         "ref": "Bhashea High Road/Red Fairy Chaos Knight/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Enemysanity - Porcupig #1",
+                        "map": "Overworld",
+                        "x": 1011,
+                        "y": 841
+                    }
+                ]
+            },
+            {
+                "name": "Bhashea High Road - Enemysanity",
+                "sections": [
+                    {
+                        "name": "Porcupig #1",
                         "ref": "Bhashea High Road/Enemysanity/Porcupig #1"
                     },
                     {
-                        "name": "Enemysanity - Porcupig #2",
+                        "name": "Porcupig #2",
                         "ref": "Bhashea High Road/Enemysanity/Porcupig #2"
                     },
                     {
-                        "name": "Enemysanity - Porcupig #3",
+                        "name": "Porcupig #3",
                         "ref": "Bhashea High Road/Enemysanity/Porcupig #3"
                     },
                     {
-                        "name": "Enemysanity - Man Trap #1",
+                        "name": "Man Trap #1",
                         "ref": "Bhashea High Road/Enemysanity/Man Trap #1"
                     },
                     {
-                        "name": "Enemysanity - Man Trap #2",
+                        "name": "Man Trap #2",
                         "ref": "Bhashea High Road/Enemysanity/Man Trap #2"
                     },
                     {
-                        "name": "Enemysanity - Porcupig #4",
+                        "name": "Porcupig #4",
                         "ref": "Bhashea High Road/Enemysanity/Porcupig #4"
                     },
                     {
-                        "name": "Enemysanity - Man Trap #3",
+                        "name": "Man Trap #3",
                         "ref": "Bhashea High Road/Enemysanity/Man Trap #3"
                     },
                     {
-                        "name": "Enemysanity - Porcupig #5",
+                        "name": "Porcupig #5",
                         "ref": "Bhashea High Road/Enemysanity/Porcupig #5"
                     },
                     {
-                        "name": "Enemysanity - Storm Hagan #1",
+                        "name": "Storm Hagan #1",
                         "ref": "Bhashea High Road/Enemysanity/Storm Hagan #1"
                     },
                     {
-                        "name": "Enemysanity - Storm Hagan #2",
+                        "name": "Storm Hagan #2",
                         "ref": "Bhashea High Road/Enemysanity/Storm Hagan #2"
                     },
                     {
-                        "name": "Enemysanity - Man Trap #4",
+                        "name": "Man Trap #4",
                         "ref": "Bhashea High Road/Enemysanity/Man Trap #4"
                     },
                     {
-                        "name": "Enemysanity - Porcupig #6",
+                        "name": "Porcupig #6",
                         "ref": "Bhashea High Road/Enemysanity/Porcupig #6"
                     },
                     {
-                        "name": "Enemysanity - Kendarie Soldier #1",
+                        "name": "Kendarie Soldier #1",
                         "ref": "Bhashea High Road/Enemysanity/Kendarie Soldier #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor GL2 #1",
+                        "name": "Aggressor GL2 #1",
                         "ref": "Bhashea High Road/Enemysanity/Aggressor GL2 #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor GL2 #2",
+                        "name": "Aggressor GL2 #2",
                         "ref": "Bhashea High Road/Enemysanity/Aggressor GL2 #2"
                     },
                     {
-                        "name": "Enemysanity - Porcupig #7",
+                        "name": "Porcupig #7",
                         "ref": "Bhashea High Road/Enemysanity/Porcupig #7"
                     },
                     {
-                        "name": "Enemysanity - Kendarie Soldier #2",
+                        "name": "Kendarie Soldier #2",
                         "ref": "Bhashea High Road/Enemysanity/Kendarie Soldier #2"
                     },
                     {
-                        "name": "Enemysanity - Kendarie Soldier #3",
+                        "name": "Kendarie Soldier #3",
                         "ref": "Bhashea High Road/Enemysanity/Kendarie Soldier #3"
                     },
                     {
-                        "name": "Enemysanity - Aggressor GL2 #3",
+                        "name": "Aggressor GL2 #3",
                         "ref": "Bhashea High Road/Enemysanity/Aggressor GL2 #3"
                     },
                     {
-                        "name": "Enemysanity - Man Trap #5",
+                        "name": "Man Trap #5",
                         "ref": "Bhashea High Road/Enemysanity/Man Trap #5"
                     },
                     {
-                        "name": "Enemysanity - Storm Hagan #3",
+                        "name": "Storm Hagan #3",
                         "ref": "Bhashea High Road/Enemysanity/Storm Hagan #3"
                     },
                     {
-                        "name": "Enemysanity - Chaos Knight #1",
+                        "name": "Chaos Knight #1",
                         "ref": "Bhashea High Road/Enemysanity/Chaos Knight #1"
                     },
                     {
-                        "name": "Enemysanity - Man Trap #6",
+                        "name": "Man Trap #6",
                         "ref": "Bhashea High Road/Enemysanity/Man Trap #6"
                     },
                     {
-                        "name": "Enemysanity - Storm Hagan #4",
+                        "name": "Storm Hagan #4",
                         "ref": "Bhashea High Road/Enemysanity/Storm Hagan #4"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1009,
-                        "y": 829
+                        "x": 1036,
+                        "y": 841
                     }
                 ]
             },
@@ -759,47 +795,47 @@
                 "chest_opened_img": "/images/items/fairy_open.png",
                 "sections": [
                     {
-                        "name": "Collect Red Fairies - 1 Fairy",
+                        "name": "Collect 1 Fairy",
                         "ref": "Fairy House/Collect Red Fairies/1 Fairy"
                     },
                     {
-                        "name": "Collect Red Fairies - 10 Fairies",
+                        "name": "Collect 10 Fairies",
                         "ref": "Fairy House/Collect Red Fairies/10 Fairies"
                     },
                     {
-                        "name": "Collect Red Fairies - 20 Fairies",
+                        "name": "Collect 20 Fairies",
                         "ref": "Fairy House/Collect Red Fairies/20 Fairies"
                     },
                     {
-                        "name": "Collect Red Fairies - 30 Fairies",
+                        "name": "Collect 30 Fairies",
                         "ref": "Fairy House/Collect Red Fairies/30 Fairies"
                     },
                     {
-                        "name": "Collect Red Fairies - 50 Fairies",
+                        "name": "Collect 50 Fairies",
                         "ref": "Fairy House/Collect Red Fairies/50 Fairies"
                     },
                     {
-                        "name": "Collect Red Fairies - 70 Fairies",
+                        "name": "Collect 70 Fairies",
                         "ref": "Fairy House/Collect Red Fairies/70 Fairies"
                     },
                     {
-                        "name": "Collect Red Fairies - 80 Fairies",
+                        "name": "Collect 80 Fairies",
                         "ref": "Fairy House/Collect Red Fairies/80 Fairies"
                     },
                     {
-                        "name": "Collect Red Fairies - 90 Fairies",
+                        "name": "Collect 90 Fairies",
                         "ref": "Fairy House/Collect Red Fairies/90 Fairies"
                     },
                     {
-                        "name": "Collect Red Fairies - 100 Fairies",
+                        "name": "Collect 100 Fairies",
                         "ref": "Fairy House/Collect Red Fairies/100 Fairies"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 676,
-                        "y": 510
+                        "x": 748,
+                        "y": 750
                     }
                 ]
             },
@@ -841,6 +877,10 @@
                     {
                         "name": "Flight Chest 2",
                         "ref": "Fossil Boneyard/Flight Chest 2/"
+                    },
+                    {
+                        "name": "Stranger",
+                        "ref": "Fossil Boneyard/Stranger/"
                     },
                     {
                         "name": "Zombie Dragon Chest",
@@ -893,128 +933,136 @@
                     {
                         "name": "Fossil Left Leg Pickup",
                         "ref": "Fossil Boneyard/Fossil Left Leg Pickup/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Stranger",
-                        "ref": "Fossil Boneyard/Stranger/"
-                    },
+                        "map": "Overworld",
+                        "x": 794,
+                        "y": 241
+                    }
+                ]
+            },
+            {
+                "name": "Fossil Boneyard - Enemysanity",
+                "sections": [
                     {
-                        "name": "Enemysanity - Baby Dragon #1",
+                        "name": "Baby Dragon #1",
                         "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #1"
                     },
                     {
-                        "name": "Enemysanity - Caterpoker #1",
+                        "name": "Caterpoker #1",
                         "ref": "Fossil Boneyard/Enemysanity/Caterpoker #1"
                     },
                     {
-                        "name": "Enemysanity - Gnome #1",
+                        "name": "Gnome #1",
                         "ref": "Fossil Boneyard/Enemysanity/Gnome #1"
                     },
                     {
-                        "name": "Enemysanity - Baby Dragon #2",
+                        "name": "Baby Dragon #2",
                         "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #2"
                     },
                     {
-                        "name": "Enemysanity - Baby Dragon #3",
+                        "name": "Baby Dragon #3",
                         "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #3"
                     },
                     {
-                        "name": "Enemysanity - Catoblepas #1",
+                        "name": "Catoblepas #1",
                         "ref": "Fossil Boneyard/Enemysanity/Catoblepas #1"
                     },
                     {
-                        "name": "Enemysanity - Caterpoker #2",
+                        "name": "Caterpoker #2",
                         "ref": "Fossil Boneyard/Enemysanity/Caterpoker #2"
                     },
                     {
-                        "name": "Enemysanity - Baby Dragon #4",
+                        "name": "Baby Dragon #4",
                         "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #4"
                     },
                     {
-                        "name": "Enemysanity - Caterpoker #3",
+                        "name": "Caterpoker #3",
                         "ref": "Fossil Boneyard/Enemysanity/Caterpoker #3"
                     },
                     {
-                        "name": "Enemysanity - Caterpoker #4",
+                        "name": "Caterpoker #4",
                         "ref": "Fossil Boneyard/Enemysanity/Caterpoker #4"
                     },
                     {
-                        "name": "Enemysanity - Gnome #2",
+                        "name": "Gnome #2",
                         "ref": "Fossil Boneyard/Enemysanity/Gnome #2"
                     },
                     {
-                        "name": "Enemysanity - Caterpoker #6",
+                        "name": "Caterpoker #6",
                         "ref": "Fossil Boneyard/Enemysanity/Caterpoker #6"
                     },
                     {
-                        "name": "Enemysanity - Catoblepas #2",
+                        "name": "Catoblepas #2",
                         "ref": "Fossil Boneyard/Enemysanity/Catoblepas #2"
                     },
                     {
-                        "name": "Enemysanity - Caterpoker #7",
+                        "name": "Caterpoker #7",
                         "ref": "Fossil Boneyard/Enemysanity/Caterpoker #7"
                     },
                     {
-                        "name": "Enemysanity - Gnome #3",
+                        "name": "Gnome #3",
                         "ref": "Fossil Boneyard/Enemysanity/Gnome #3"
                     },
                     {
-                        "name": "Enemysanity - Caterpoker #8",
+                        "name": "Caterpoker #8",
                         "ref": "Fossil Boneyard/Enemysanity/Caterpoker #8"
                     },
                     {
-                        "name": "Enemysanity - Caterpoker #9",
+                        "name": "Caterpoker #9",
                         "ref": "Fossil Boneyard/Enemysanity/Caterpoker #9"
                     },
                     {
-                        "name": "Enemysanity - Gnome #4",
+                        "name": "Gnome #4",
                         "ref": "Fossil Boneyard/Enemysanity/Gnome #4"
                     },
                     {
-                        "name": "Enemysanity - Baby Dragon #5",
+                        "name": "Baby Dragon #5",
                         "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #5"
                     },
                     {
-                        "name": "Enemysanity - Baby Dragon #6",
+                        "name": "Baby Dragon #6",
                         "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #6"
                     },
                     {
-                        "name": "Enemysanity - Baby Dragon #7",
+                        "name": "Baby Dragon #7",
                         "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #7"
                     },
                     {
-                        "name": "Enemysanity - Baby Dragon #8",
+                        "name": "Baby Dragon #8",
                         "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #8"
                     },
                     {
-                        "name": "Enemysanity - Baby Dragon #9",
+                        "name": "Baby Dragon #9",
                         "ref": "Fossil Boneyard/Enemysanity/Baby Dragon #9"
                     },
                     {
-                        "name": "Enemysanity - Amber Dragon #1",
+                        "name": "Amber Dragon #1",
                         "ref": "Fossil Boneyard/Enemysanity/Amber Dragon #1"
                     },
                     {
-                        "name": "Enemysanity - Gnome #5",
+                        "name": "Gnome #5",
                         "ref": "Fossil Boneyard/Enemysanity/Gnome #5"
                     },
                     {
-                        "name": "Enemysanity - Caterpoker #10",
+                        "name": "Caterpoker #10",
                         "ref": "Fossil Boneyard/Enemysanity/Caterpoker #10"
                     },
                     {
-                        "name": "Enemysanity - Gnome #6",
+                        "name": "Gnome #6",
                         "ref": "Fossil Boneyard/Enemysanity/Gnome #6"
                     },
                     {
-                        "name": "Enemysanity - Catoblepas #3",
+                        "name": "Catoblepas #3",
                         "ref": "Fossil Boneyard/Enemysanity/Catoblepas #3"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 806,
+                        "x": 818,
                         "y": 241
                     }
                 ]
@@ -1047,7 +1095,7 @@
                         "ref": "Grenfoel Cathedral/Library/Jewel of Alanjeh Reward"
                     },
                     {
-                        "name": "Red Fairy",
+                        "name": "Red Fairy Near Organ",
                         "ref": "Grenfoel Cathedral/Near Organ/Red Fairy"
                     },
                     {
@@ -1055,11 +1103,11 @@
                         "ref": "Grenfoel Cathedral/Red Fairy Right Side/"
                     },
                     {
-                        "name": "Red Fairy 1",
+                        "name": "Red Fairy Hidden 1",
                         "ref": "Grenfoel Cathedral/Four Statues Room/Red Fairy 1"
                     },
                     {
-                        "name": "Red Fairy 2",
+                        "name": "Red Fairy Hidden 2",
                         "ref": "Grenfoel Cathedral/Four Statues Room/Red Fairy 2"
                     },
                     {
@@ -1078,6 +1126,10 @@
             {
                 "name": "Gromtull Desert",
                 "sections": [
+                    {
+                        "name": "Bottle Pickup",
+                        "ref": "Gromtull Desert/Bottle Pickup/"
+                    },
                     {
                         "name": "Chest by Backpack",
                         "ref": "Gromtull Desert/Chest by Backpack/"
@@ -1103,6 +1155,10 @@
                         "ref": "Gromtull Desert/Near Oil/Black Liquid Pickup"
                     },
                     {
+                        "name": "Flight Chest",
+                        "ref": "Gromtull Desert/Flight Chest/"
+                    },
+                    {
                         "name": "Jarvi Chest 1",
                         "ref": "Gromtull Desert/Jarvi Cave/Chest 1"
                     },
@@ -1111,16 +1167,8 @@
                         "ref": "Gromtull Desert/Jarvi Cave/Chest 2"
                     },
                     {
-                        "name": "Jarvi Red Fairy 1",
-                        "ref": "Gromtull Desert/Jarvi Cave/Red Fairy 1"
-                    },
-                    {
-                        "name": "Jarvi Red Fairy 2",
-                        "ref": "Gromtull Desert/Jarvi Cave/Red Fairy 2"
-                    },
-                    {
-                        "name": "Flight Chest",
-                        "ref": "Gromtull Desert/Flight Chest/"
+                        "name": "Stranger",
+                        "ref": "Gromtull Desert/Stranger/"
                     },
                     {
                         "name": "Red Fairy 1",
@@ -1135,134 +1183,146 @@
                         "ref": "Gromtull Desert/Red Fairy Jump/"
                     },
                     {
-                        "name": "Bottle Pickup",
-                        "ref": "Gromtull Desert/Bottle Pickup/"
+                        "name": "Jarvi Red Fairy 1",
+                        "ref": "Gromtull Desert/Jarvi Cave/Red Fairy 1"
                     },
                     {
-                        "name": "Stranger",
-                        "ref": "Gromtull Desert/Stranger/"
-                    },
+                        "name": "Jarvi Red Fairy 2",
+                        "ref": "Gromtull Desert/Jarvi Cave/Red Fairy 2"
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Enemysanity - Lizardman #1",
+                        "map": "Overworld",
+                        "x": 1042,
+                        "y": 676
+                    }
+                ]
+            },
+            {
+                "name": "Gromtull Desert - Enemysanity",
+                "sections": [
+                    {
+                        "name": "Lizardman #1",
                         "ref": "Gromtull Desert/Enemysanity/Lizardman #1"
                     },
                     {
-                        "name": "Enemysanity - Lizardman #2",
+                        "name": "Lizardman #2",
                         "ref": "Gromtull Desert/Enemysanity/Lizardman #2"
                     },
                     {
-                        "name": "Enemysanity - Lizardman #3",
+                        "name": "Lizardman #3",
                         "ref": "Gromtull Desert/Enemysanity/Lizardman #3"
                     },
                     {
-                        "name": "Enemysanity - Elephant #1",
+                        "name": "Elephant #1",
                         "ref": "Gromtull Desert/Enemysanity/Elephant #1"
                     },
                     {
-                        "name": "Enemysanity - Lizardman #4",
+                        "name": "Lizardman #4",
                         "ref": "Gromtull Desert/Enemysanity/Lizardman #4"
                     },
                     {
-                        "name": "Enemysanity - Lizardman #5",
+                        "name": "Lizardman #5",
                         "ref": "Gromtull Desert/Enemysanity/Lizardman #5"
                     },
                     {
-                        "name": "Enemysanity - Elephant #2",
+                        "name": "Elephant #2",
                         "ref": "Gromtull Desert/Enemysanity/Elephant #2"
                     },
                     {
-                        "name": "Enemysanity - Elephant #3",
+                        "name": "Elephant #3",
                         "ref": "Gromtull Desert/Enemysanity/Elephant #3"
                     },
                     {
-                        "name": "Enemysanity - Mummy #1",
+                        "name": "Mummy #1",
                         "ref": "Gromtull Desert/Enemysanity/Mummy #1"
                     },
                     {
-                        "name": "Enemysanity - Mummy #2",
+                        "name": "Mummy #2",
                         "ref": "Gromtull Desert/Enemysanity/Mummy #2"
                     },
                     {
-                        "name": "Enemysanity - Mummy #3",
+                        "name": "Mummy #3",
                         "ref": "Gromtull Desert/Enemysanity/Mummy #3"
                     },
                     {
-                        "name": "Enemysanity - Mummy #4",
+                        "name": "Mummy #4",
                         "ref": "Gromtull Desert/Enemysanity/Mummy #4"
                     },
                     {
-                        "name": "Enemysanity - Sand Beetle #1",
+                        "name": "Sand Beetle #1",
                         "ref": "Gromtull Desert/Enemysanity/Sand Beetle #1"
                     },
                     {
-                        "name": "Enemysanity - Sand Beetle #2",
+                        "name": "Sand Beetle #2",
                         "ref": "Gromtull Desert/Enemysanity/Sand Beetle #2"
                     },
                     {
-                        "name": "Enemysanity - Mummy #5",
+                        "name": "Mummy #5",
                         "ref": "Gromtull Desert/Enemysanity/Mummy #5"
                     },
                     {
-                        "name": "Enemysanity - Lizardman #6",
+                        "name": "Lizardman #6",
                         "ref": "Gromtull Desert/Enemysanity/Lizardman #6"
                     },
                     {
-                        "name": "Enemysanity - Elephant #4",
+                        "name": "Elephant #4",
                         "ref": "Gromtull Desert/Enemysanity/Elephant #4"
                     },
                     {
-                        "name": "Enemysanity - Sand Beetle #3",
+                        "name": "Sand Beetle #3",
                         "ref": "Gromtull Desert/Enemysanity/Sand Beetle #3"
                     },
                     {
-                        "name": "Enemysanity - Lizardman #7",
+                        "name": "Lizardman #7",
                         "ref": "Gromtull Desert/Enemysanity/Lizardman #7"
                     },
                     {
-                        "name": "Enemysanity - Pixie #1",
+                        "name": "Pixie #1",
                         "ref": "Gromtull Desert/Enemysanity/Pixie #1"
                     },
                     {
-                        "name": "Enemysanity - Mummy #6",
+                        "name": "Mummy #6",
                         "ref": "Gromtull Desert/Enemysanity/Mummy #6"
                     },
                     {
-                        "name": "Enemysanity - Mummy #7",
+                        "name": "Mummy #7",
                         "ref": "Gromtull Desert/Enemysanity/Mummy #7"
                     },
                     {
-                        "name": "Enemysanity - Mummy #8",
+                        "name": "Mummy #8",
                         "ref": "Gromtull Desert/Enemysanity/Mummy #8"
                     },
                     {
-                        "name": "Enemysanity - Mummy #9",
+                        "name": "Mummy #9",
                         "ref": "Gromtull Desert/Enemysanity/Mummy #9"
                     },
                     {
-                        "name": "Enemysanity - Sand Beetle #4",
+                        "name": "Sand Beetle #4",
                         "ref": "Gromtull Desert/Enemysanity/Sand Beetle #4"
                     },
                     {
-                        "name": "Enemysanity - Elephant #5",
+                        "name": "Elephant #5",
                         "ref": "Gromtull Desert/Enemysanity/Elephant #5"
                     },
                     {
-                        "name": "Enemysanity - Sand Beetle #5",
+                        "name": "Sand Beetle #5",
                         "ref": "Gromtull Desert/Enemysanity/Sand Beetle #5"
                     },
                     {
-                        "name": "Enemysanity - Pixie #2",
+                        "name": "Pixie #2",
                         "ref": "Gromtull Desert/Enemysanity/Pixie #2"
                     },
                     {
-                        "name": "Enemysanity - Sand Worm #1",
+                        "name": "Sand Worm #1",
                         "ref": "Gromtull Desert/Enemysanity/Sand Worm #1"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1054,
+                        "x": 1067,
                         "y": 676
                     }
                 ]
@@ -1299,6 +1359,10 @@
                         "ref": "Holzogh Town/Chest 7/"
                     },
                     {
+                        "name": "Corpse",
+                        "ref": "Holzogh Town/Corpse/"
+                    },
+                    {
                         "name": "Fountain Card",
                         "ref": "Holzogh Town/Fountain Card/"
                     },
@@ -1317,105 +1381,113 @@
                     {
                         "name": "Red Fairy Rubble 2",
                         "ref": "Holzogh Town/Red Fairy Rubble 2/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Corpse",
-                        "ref": "Holzogh Town/Corpse/"
-                    },
+                        "map": "Overworld",
+                        "x": 417,
+                        "y": 731
+                    }
+                ]
+            },
+            {
+                "name": "Holzogh Town - Enemysanity",
+                "sections": [
                     {
-                        "name": "Enemysanity - Aggressor DX5 #1",
+                        "name": "Aggressor DX5 #1",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #2",
+                        "name": "Aggressor DX5 #2",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #2"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #3",
+                        "name": "Aggressor DX5 #3",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #3"
                     },
                     {
-                        "name": "Enemysanity - Coal Treant #1",
+                        "name": "Coal Treant #1",
                         "ref": "Holzogh Town/Enemysanity/Coal Treant #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #4",
+                        "name": "Aggressor DX5 #4",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #4"
                     },
                     {
-                        "name": "Enemysanity - Coal Treant #2",
+                        "name": "Coal Treant #2",
                         "ref": "Holzogh Town/Enemysanity/Coal Treant #2"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #5",
+                        "name": "Aggressor DX5 #5",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #5"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #6",
+                        "name": "Aggressor DX5 #6",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #6"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #7",
+                        "name": "Aggressor DX5 #7",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #7"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #8",
+                        "name": "Aggressor DX5 #8",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #8"
                     },
                     {
-                        "name": "Enemysanity - TriBlaster #1",
+                        "name": "TriBlaster #1",
                         "ref": "Holzogh Town/Enemysanity/TriBlaster #1"
                     },
                     {
-                        "name": "Enemysanity - TriBlaster #2",
+                        "name": "TriBlaster #2",
                         "ref": "Holzogh Town/Enemysanity/TriBlaster #2"
                     },
                     {
-                        "name": "Enemysanity - LazerBug 39K #1",
+                        "name": "LazerBug 39K #1",
                         "ref": "Holzogh Town/Enemysanity/LazerBug 39K #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #9",
+                        "name": "Aggressor DX5 #9",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #9"
                     },
                     {
-                        "name": "Enemysanity - Super Scrubber #1",
+                        "name": "Super Scrubber #1",
                         "ref": "Holzogh Town/Enemysanity/Super Scrubber #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #10",
+                        "name": "Aggressor DX5 #10",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #10"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #11",
+                        "name": "Aggressor DX5 #11",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #11"
                     },
                     {
-                        "name": "Enemysanity - Super Scrubber #2",
+                        "name": "Super Scrubber #2",
                         "ref": "Holzogh Town/Enemysanity/Super Scrubber #2"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #12",
+                        "name": "Aggressor DX5 #12",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #12"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #13",
+                        "name": "Aggressor DX5 #13",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #13"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #14",
+                        "name": "Aggressor DX5 #14",
                         "ref": "Holzogh Town/Enemysanity/Aggressor DX5 #14"
                     },
                     {
-                        "name": "Enemysanity - TriBlaster #3",
+                        "name": "TriBlaster #3",
                         "ref": "Holzogh Town/Enemysanity/TriBlaster #3"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 429,
-                        "y": 732
+                        "x": 442,
+                        "y": 731
                     }
                 ]
             },
@@ -1447,6 +1519,14 @@
                         "ref": "Isamat Urbur/Treasure Room/Chest 6"
                     },
                     {
+                        "name": "Stranger",
+                        "ref": "Isamat Urbur/Stranger/"
+                    },
+                    {
+                        "name": "Stone of Sealing",
+                        "ref": "Isamat Urbur/Stone of Sealing/"
+                    },
+                    {
                         "name": "Red Fairy Near Start",
                         "ref": "Isamat Urbur/Red Fairy Near Start/"
                     },
@@ -1461,93 +1541,97 @@
                     {
                         "name": "Red Fairy Southwest",
                         "ref": "Isamat Urbur/Red Fairy Southwest/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Stranger",
-                        "ref": "Isamat Urbur/Stranger/"
-                    },
+                        "map": "Overworld",
+                        "x": 836,
+                        "y": 924
+                    }
+                ]
+            },
+            {
+                "name": "Isamat Urbur - Enemysanity",
+                "sections": [
                     {
-                        "name": "Stone of Sealing",
-                        "ref": "Isamat Urbur/Stone of Sealing/"
-                    },
-                    {
-                        "name": "Enemysanity - Puppet Master #1",
+                        "name": "Puppet Master #1",
                         "ref": "Isamat Urbur/Enemysanity/Puppet Master #1"
                     },
                     {
-                        "name": "Enemysanity - Devata #1",
+                        "name": "Devata #1",
                         "ref": "Isamat Urbur/Enemysanity/Devata #1"
                     },
                     {
-                        "name": "Enemysanity - Devata #2",
+                        "name": "Devata #2",
                         "ref": "Isamat Urbur/Enemysanity/Devata #2"
                     },
                     {
-                        "name": "Enemysanity - Puppet Master #2",
+                        "name": "Puppet Master #2",
                         "ref": "Isamat Urbur/Enemysanity/Puppet Master #2"
                     },
                     {
-                        "name": "Enemysanity - Juggernaut #1",
+                        "name": "Juggernaut #1",
                         "ref": "Isamat Urbur/Enemysanity/Juggernaut #1"
                     },
                     {
-                        "name": "Enemysanity - Juggernaut #2",
+                        "name": "Juggernaut #2",
                         "ref": "Isamat Urbur/Enemysanity/Juggernaut #2"
                     },
                     {
-                        "name": "Enemysanity - Juggernaut #3",
+                        "name": "Juggernaut #3",
                         "ref": "Isamat Urbur/Enemysanity/Juggernaut #3"
                     },
                     {
-                        "name": "Enemysanity - Puppet Master #3",
+                        "name": "Puppet Master #3",
                         "ref": "Isamat Urbur/Enemysanity/Puppet Master #3"
                     },
                     {
-                        "name": "Enemysanity - Puppet Master #4",
+                        "name": "Puppet Master #4",
                         "ref": "Isamat Urbur/Enemysanity/Puppet Master #4"
                     },
                     {
-                        "name": "Enemysanity - Puppet Master #5",
+                        "name": "Puppet Master #5",
                         "ref": "Isamat Urbur/Enemysanity/Puppet Master #5"
                     },
                     {
-                        "name": "Enemysanity - Devata #3",
+                        "name": "Devata #3",
                         "ref": "Isamat Urbur/Enemysanity/Devata #3"
                     },
                     {
-                        "name": "Enemysanity - Devata #4",
+                        "name": "Devata #4",
                         "ref": "Isamat Urbur/Enemysanity/Devata #4"
                     },
                     {
-                        "name": "Enemysanity - Juggernaut #4",
+                        "name": "Juggernaut #4",
                         "ref": "Isamat Urbur/Enemysanity/Juggernaut #4"
                     },
                     {
-                        "name": "Enemysanity - Juggernaut #5",
+                        "name": "Juggernaut #5",
                         "ref": "Isamat Urbur/Enemysanity/Juggernaut #5"
                     },
                     {
-                        "name": "Enemysanity - Devata #5",
+                        "name": "Devata #5",
                         "ref": "Isamat Urbur/Enemysanity/Devata #5"
                     },
                     {
-                        "name": "Enemysanity - Devata #6",
+                        "name": "Devata #6",
                         "ref": "Isamat Urbur/Enemysanity/Devata #6"
                     },
                     {
-                        "name": "Enemysanity - Devata #7",
+                        "name": "Devata #7",
                         "ref": "Isamat Urbur/Enemysanity/Devata #7"
                     },
                     {
-                        "name": "Enemysanity - Devata #8",
+                        "name": "Devata #8",
                         "ref": "Isamat Urbur/Enemysanity/Devata #8"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 849,
-                        "y": 923
+                        "x": 861,
+                        "y": 924
                     }
                 ]
             },
@@ -1565,10 +1649,6 @@
                     {
                         "name": "Alleyway Chest",
                         "ref": "Kadishu/Alleyway/Chest"
-                    },
-                    {
-                        "name": "Alleyway Red Fairy in Sacks",
-                        "ref": "Kadishu/Alleyway/Red Fairy in Sacks"
                     },
                     {
                         "name": "Chest 4",
@@ -1595,6 +1675,10 @@
                         "ref": "Kadishu/Garbage Can/Garbage Collection 3"
                     },
                     {
+                        "name": "Red Fairy in Alleyway",
+                        "ref": "Kadishu/Alleyway/Red Fairy in Sacks"
+                    },
+                    {
                         "name": "Red Fairy on Bridge",
                         "ref": "Kadishu/Red Fairy on Bridge/"
                     },
@@ -1614,7 +1698,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 735,
+                        "x": 723,
                         "y": 750
                     }
                 ]
@@ -1647,6 +1731,18 @@
                         "ref": "Kendarie Fortress/Platform in Water/Flight Chest"
                     },
                     {
+                        "name": "Kendarie Soldier 1",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 1/"
+                    },
+                    {
+                        "name": "Kendarie Soldier 2",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 2/"
+                    },
+                    {
+                        "name": "Kendarie Soldier 3",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 3/"
+                    },
+                    {
                         "name": "Red Fairy Fly Across",
                         "ref": "Kendarie Fortress/Platform in Water/Red Fairy"
                     },
@@ -1661,68 +1757,68 @@
                     {
                         "name": "Red Fairy Near Mechapult",
                         "ref": "Kendarie Fortress/Red Fairy Near Mechapult/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Kendarie Soldier 1",
-                        "ref": "Kendarie Fortress/Kendarie Soldier 1/"
-                    },
+                        "map": "Overworld",
+                        "x": 801,
+                        "y": 678
+                    }
+                ]
+            },
+            {
+                "name": "Kendarie Fortress - Enemysanity",
+                "sections": [
                     {
-                        "name": "Kendarie Soldier 2",
-                        "ref": "Kendarie Fortress/Kendarie Soldier 2/"
-                    },
-                    {
-                        "name": "Kendarie Soldier 3",
-                        "ref": "Kendarie Fortress/Kendarie Soldier 3/"
-                    },
-                    {
-                        "name": "Enemysanity - Mandragora #1",
+                        "name": "Mandragora #1",
                         "ref": "Kendarie Fortress/Enemysanity/Mandragora #1"
                     },
                     {
-                        "name": "Enemysanity - Mandragora #2",
+                        "name": "Mandragora #2",
                         "ref": "Kendarie Fortress/Enemysanity/Mandragora #2"
                     },
                     {
-                        "name": "Enemysanity - Aggressor GL2 #1",
+                        "name": "Aggressor GL2 #1",
                         "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor GL2 #2",
+                        "name": "Aggressor GL2 #2",
                         "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #2"
                     },
                     {
-                        "name": "Enemysanity - Aggressor GL2 #3",
+                        "name": "Aggressor GL2 #3",
                         "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #3"
                     },
                     {
-                        "name": "Enemysanity - MechaPult #1",
+                        "name": "MechaPult #1",
                         "ref": "Kendarie Fortress/Enemysanity/MechaPult #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor GL2 #4",
+                        "name": "Aggressor GL2 #4",
                         "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #4"
                     },
                     {
-                        "name": "Enemysanity - Aggressor GL2 #5",
+                        "name": "Aggressor GL2 #5",
                         "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #5"
                     },
                     {
-                        "name": "Enemysanity - Aggressor GL2 #6",
+                        "name": "Aggressor GL2 #6",
                         "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #6"
                     },
                     {
-                        "name": "Enemysanity - Aggressor GL2 #7",
+                        "name": "Aggressor GL2 #7",
                         "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #7"
                     },
                     {
-                        "name": "Enemysanity - Aggressor GL2 #8",
+                        "name": "Aggressor GL2 #8",
                         "ref": "Kendarie Fortress/Enemysanity/Aggressor GL2 #8"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 814,
+                        "x": 826,
                         "y": 678
                     }
                 ]
@@ -1747,16 +1843,16 @@
                         "ref": "Krasheen Mountains/Chest 4/"
                     },
                     {
-                        "name": "Chest 7",
-                        "ref": "Krasheen Mountains/Chest 7/"
-                    },
-                    {
                         "name": "Chest 5",
                         "ref": "Krasheen Mountains/Chest 5/"
                     },
                     {
                         "name": "Chest 6",
                         "ref": "Krasheen Mountains/Chest 6/"
+                    },
+                    {
+                        "name": "Chest 7",
+                        "ref": "Krasheen Mountains/Chest 7/"
                     },
                     {
                         "name": "Red Fairy Cave 1",
@@ -1773,172 +1869,184 @@
                     {
                         "name": "Red Fairy Broken Bridge 2",
                         "ref": "Krasheen Mountains/Red Fairy Broken Bridge 2/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Enemysanity - Gargoyle #1",
+                        "map": "Overworld",
+                        "x": 405,
+                        "y": 280
+                    }
+                ]
+            },
+            {
+                "name": "Krasheen Mountains - Enemysanity",
+                "sections": [
+                    {
+                        "name": "Gargoyle #1",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #1"
                     },
                     {
-                        "name": "Enemysanity - Horus #1",
+                        "name": "Horus #1",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #1"
                     },
                     {
-                        "name": "Enemysanity - Gorgon #1",
+                        "name": "Gorgon #1",
                         "ref": "Krasheen Mountains/Enemysanity/Gorgon #1"
                     },
                     {
-                        "name": "Enemysanity - Gargoyle #2",
+                        "name": "Gargoyle #2",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #2"
                     },
                     {
-                        "name": "Enemysanity - Gargoyle #3",
+                        "name": "Gargoyle #3",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #3"
                     },
                     {
-                        "name": "Enemysanity - Gargoyle #4",
+                        "name": "Gargoyle #4",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #4"
                     },
                     {
-                        "name": "Enemysanity - Gargoyle #5",
+                        "name": "Gargoyle #5",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #5"
                     },
                     {
-                        "name": "Enemysanity - Horus #2",
+                        "name": "Horus #2",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #2"
                     },
                     {
-                        "name": "Enemysanity - Horus #3",
+                        "name": "Horus #3",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #3"
                     },
                     {
-                        "name": "Enemysanity - Running Bird #1",
+                        "name": "Running Bird #1",
                         "ref": "Krasheen Mountains/Enemysanity/Running Bird #1"
                     },
                     {
-                        "name": "Enemysanity - Gargoyle #6",
+                        "name": "Gargoyle #6",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #6"
                     },
                     {
-                        "name": "Enemysanity - Horus #4",
+                        "name": "Horus #4",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #4"
                     },
                     {
-                        "name": "Enemysanity - Gorgon #2",
+                        "name": "Gorgon #2",
                         "ref": "Krasheen Mountains/Enemysanity/Gorgon #2"
                     },
                     {
-                        "name": "Enemysanity - Gorgon #3",
+                        "name": "Gorgon #3",
                         "ref": "Krasheen Mountains/Enemysanity/Gorgon #3"
                     },
                     {
-                        "name": "Enemysanity - Gorgon #4",
+                        "name": "Gorgon #4",
                         "ref": "Krasheen Mountains/Enemysanity/Gorgon #4"
                     },
                     {
-                        "name": "Enemysanity - Gorgon #5",
+                        "name": "Gorgon #5",
                         "ref": "Krasheen Mountains/Enemysanity/Gorgon #5"
                     },
                     {
-                        "name": "Enemysanity - Running Bird #2",
+                        "name": "Running Bird #2",
                         "ref": "Krasheen Mountains/Enemysanity/Running Bird #2"
                     },
                     {
-                        "name": "Enemysanity - Running Bird #3",
+                        "name": "Running Bird #3",
                         "ref": "Krasheen Mountains/Enemysanity/Running Bird #3"
                     },
                     {
-                        "name": "Enemysanity - Gorgon #6",
+                        "name": "Gorgon #6",
                         "ref": "Krasheen Mountains/Enemysanity/Gorgon #6"
                     },
                     {
-                        "name": "Enemysanity - Black Dragon #1",
+                        "name": "Black Dragon #1",
                         "ref": "Krasheen Mountains/Enemysanity/Black Dragon #1"
                     },
                     {
-                        "name": "Enemysanity - Horus #5",
+                        "name": "Horus #5",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #5"
                     },
                     {
-                        "name": "Enemysanity - Gargoyle #7",
+                        "name": "Gargoyle #7",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #7"
                     },
                     {
-                        "name": "Enemysanity - Gargoyle #8",
+                        "name": "Gargoyle #8",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #8"
                     },
                     {
-                        "name": "Enemysanity - Running Bird #4",
+                        "name": "Running Bird #4",
                         "ref": "Krasheen Mountains/Enemysanity/Running Bird #4"
                     },
                     {
-                        "name": "Enemysanity - Gargoyle #9",
+                        "name": "Gargoyle #9",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #9"
                     },
                     {
-                        "name": "Enemysanity - Horus #6",
+                        "name": "Horus #6",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #6"
                     },
                     {
-                        "name": "Enemysanity - Running Bird #5",
+                        "name": "Running Bird #5",
                         "ref": "Krasheen Mountains/Enemysanity/Running Bird #5"
                     },
                     {
-                        "name": "Enemysanity - Gorgon #7",
+                        "name": "Gorgon #7",
                         "ref": "Krasheen Mountains/Enemysanity/Gorgon #7"
                     },
                     {
-                        "name": "Enemysanity - Gargoyle #10",
+                        "name": "Gargoyle #10",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #10"
                     },
                     {
-                        "name": "Enemysanity - Gargoyle #11",
+                        "name": "Gargoyle #11",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #11"
                     },
                     {
-                        "name": "Enemysanity - Horus #7",
+                        "name": "Horus #7",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #7"
                     },
                     {
-                        "name": "Enemysanity - Horus #8",
+                        "name": "Horus #8",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #8"
                     },
                     {
-                        "name": "Enemysanity - Horus #9",
+                        "name": "Horus #9",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #9"
                     },
                     {
-                        "name": "Enemysanity - Horus #10",
+                        "name": "Horus #10",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #10"
                     },
                     {
-                        "name": "Enemysanity - Running Bird #6",
+                        "name": "Running Bird #6",
                         "ref": "Krasheen Mountains/Enemysanity/Running Bird #6"
                     },
                     {
-                        "name": "Enemysanity - Gorgon #8",
+                        "name": "Gorgon #8",
                         "ref": "Krasheen Mountains/Enemysanity/Gorgon #8"
                     },
                     {
-                        "name": "Enemysanity - Gorgon #9",
+                        "name": "Gorgon #9",
                         "ref": "Krasheen Mountains/Enemysanity/Gorgon #9"
                     },
                     {
-                        "name": "Enemysanity - Horus #11",
+                        "name": "Horus #11",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #11"
                     },
                     {
-                        "name": "Enemysanity - Horus #12",
+                        "name": "Horus #12",
                         "ref": "Krasheen Mountains/Enemysanity/Horus #12"
                     },
                     {
-                        "name": "Enemysanity - Gargoyle #12",
+                        "name": "Gargoyle #12",
                         "ref": "Krasheen Mountains/Enemysanity/Gargoyle #12"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 418,
+                        "x": 431,
                         "y": 280
                     }
                 ]
@@ -1955,6 +2063,10 @@
                         "ref": "Noblemans Residence/Basement Chests/Chest 2"
                     },
                     {
+                        "name": "Stranger",
+                        "ref": "Noblemans Residence/Stranger/"
+                    },
+                    {
                         "name": "Red Fairy Sculpture",
                         "ref": "Noblemans Residence/Red Fairy Sculpture/"
                     },
@@ -1965,105 +2077,113 @@
                     {
                         "name": "Red Fairy Office",
                         "ref": "Noblemans Residence/Red Fairy Office/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Stranger",
-                        "ref": "Noblemans Residence/Stranger/"
-                    },
+                        "map": "Overworld",
+                        "x": 756,
+                        "y": 866
+                    }
+                ]
+            },
+            {
+                "name": "Noblemans Residence - Enemysanity",
+                "sections": [
                     {
-                        "name": "Enemysanity - Beaker #1",
+                        "name": "Beaker #1",
                         "ref": "Noblemans Residence/Enemysanity/Beaker #1"
                     },
                     {
-                        "name": "Enemysanity - Dark Raven #1",
+                        "name": "Dark Raven #1",
                         "ref": "Noblemans Residence/Enemysanity/Dark Raven #1"
                     },
                     {
-                        "name": "Enemysanity - Hell Hound #1",
+                        "name": "Hell Hound #1",
                         "ref": "Noblemans Residence/Enemysanity/Hell Hound #1"
                     },
                     {
-                        "name": "Enemysanity - Dark Raven #2",
+                        "name": "Dark Raven #2",
                         "ref": "Noblemans Residence/Enemysanity/Dark Raven #2"
                     },
                     {
-                        "name": "Enemysanity - Dark Raven #3",
+                        "name": "Dark Raven #3",
                         "ref": "Noblemans Residence/Enemysanity/Dark Raven #3"
                     },
                     {
-                        "name": "Enemysanity - Beaker #2",
+                        "name": "Beaker #2",
                         "ref": "Noblemans Residence/Enemysanity/Beaker #2"
                     },
                     {
-                        "name": "Enemysanity - Beaker #3",
+                        "name": "Beaker #3",
                         "ref": "Noblemans Residence/Enemysanity/Beaker #3"
                     },
                     {
-                        "name": "Enemysanity - Beaker #4",
+                        "name": "Beaker #4",
                         "ref": "Noblemans Residence/Enemysanity/Beaker #4"
                     },
                     {
-                        "name": "Enemysanity - Incubus #1",
+                        "name": "Incubus #1",
                         "ref": "Noblemans Residence/Enemysanity/Incubus #1"
                     },
                     {
-                        "name": "Enemysanity - Succubus #1",
+                        "name": "Succubus #1",
                         "ref": "Noblemans Residence/Enemysanity/Succubus #1"
                     },
                     {
-                        "name": "Enemysanity - Beaker #5",
+                        "name": "Beaker #5",
                         "ref": "Noblemans Residence/Enemysanity/Beaker #5"
                     },
                     {
-                        "name": "Enemysanity - Dark Raven #4",
+                        "name": "Dark Raven #4",
                         "ref": "Noblemans Residence/Enemysanity/Dark Raven #4"
                     },
                     {
-                        "name": "Enemysanity - Hell Hound #2",
+                        "name": "Hell Hound #2",
                         "ref": "Noblemans Residence/Enemysanity/Hell Hound #2"
                     },
                     {
-                        "name": "Enemysanity - Incubus #2",
+                        "name": "Incubus #2",
                         "ref": "Noblemans Residence/Enemysanity/Incubus #2"
                     },
                     {
-                        "name": "Enemysanity - Hell Hound #3",
+                        "name": "Hell Hound #3",
                         "ref": "Noblemans Residence/Enemysanity/Hell Hound #3"
                     },
                     {
-                        "name": "Enemysanity - Succubus #2",
+                        "name": "Succubus #2",
                         "ref": "Noblemans Residence/Enemysanity/Succubus #2"
                     },
                     {
-                        "name": "Enemysanity - Incubus #3",
+                        "name": "Incubus #3",
                         "ref": "Noblemans Residence/Enemysanity/Incubus #3"
                     },
                     {
-                        "name": "Enemysanity - Succubus #3",
+                        "name": "Succubus #3",
                         "ref": "Noblemans Residence/Enemysanity/Succubus #3"
                     },
                     {
-                        "name": "Enemysanity - Incubus #4",
+                        "name": "Incubus #4",
                         "ref": "Noblemans Residence/Enemysanity/Incubus #4"
                     },
                     {
-                        "name": "Enemysanity - Succubus #4",
+                        "name": "Succubus #4",
                         "ref": "Noblemans Residence/Enemysanity/Succubus #4"
                     },
                     {
-                        "name": "Enemysanity - Hell Hound #4",
+                        "name": "Hell Hound #4",
                         "ref": "Noblemans Residence/Enemysanity/Hell Hound #4"
                     },
                     {
-                        "name": "Enemysanity - Hell Hound #5",
+                        "name": "Hell Hound #5",
                         "ref": "Noblemans Residence/Enemysanity/Hell Hound #5"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 776,
-                        "y": 865
+                        "x": 780,
+                        "y": 866
                     }
                 ]
             },
@@ -2121,125 +2241,137 @@
                     {
                         "name": "Red Fairy Near Ship",
                         "ref": "Obenoix Gorge/Red Fairy Near Ship/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Enemysanity - Vodianoi #1",
+                        "map": "Overworld",
+                        "x": 496,
+                        "y": 902
+                    }
+                ]
+            },
+            {
+                "name": "Obenoix Gorge - Enemysanity",
+                "sections": [
+                    {
+                        "name": "Vodianoi #1",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #1"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #2",
+                        "name": "Vodianoi #2",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #2"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #3",
+                        "name": "Vodianoi #3",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #3"
                     },
                     {
-                        "name": "Enemysanity - Sasquatch #1",
+                        "name": "Sasquatch #1",
                         "ref": "Obenoix Gorge/Enemysanity/Sasquatch #1"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #4",
+                        "name": "Vodianoi #4",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #4"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #5",
+                        "name": "Vodianoi #5",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #5"
                     },
                     {
-                        "name": "Enemysanity - Sasquatch #2",
+                        "name": "Sasquatch #2",
                         "ref": "Obenoix Gorge/Enemysanity/Sasquatch #2"
                     },
                     {
-                        "name": "Enemysanity - Sasquatch #3",
+                        "name": "Sasquatch #3",
                         "ref": "Obenoix Gorge/Enemysanity/Sasquatch #3"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #9",
+                        "name": "Vodianoi #9",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #9"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #10",
+                        "name": "Vodianoi #10",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #10"
                     },
                     {
-                        "name": "Enemysanity - Baba Yaga #1",
+                        "name": "Baba Yaga #1",
                         "ref": "Obenoix Gorge/Enemysanity/Baba Yaga #1"
                     },
                     {
-                        "name": "Enemysanity - Thanatos #1",
+                        "name": "Thanatos #1",
                         "ref": "Obenoix Gorge/Enemysanity/Thanatos #1"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #6",
+                        "name": "Vodianoi #6",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #6"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #7",
+                        "name": "Vodianoi #7",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #7"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #8",
+                        "name": "Vodianoi #8",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #8"
                     },
                     {
-                        "name": "Enemysanity - Water Elemental #1",
+                        "name": "Water Elemental #1",
                         "ref": "Obenoix Gorge/Enemysanity/Water Elemental #1"
                     },
                     {
-                        "name": "Enemysanity - Water Elemental #2",
+                        "name": "Water Elemental #2",
                         "ref": "Obenoix Gorge/Enemysanity/Water Elemental #2"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #11",
+                        "name": "Vodianoi #11",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #11"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #12",
+                        "name": "Vodianoi #12",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #12"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #13",
+                        "name": "Vodianoi #13",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #13"
                     },
                     {
-                        "name": "Enemysanity - Baba Yaga #2",
+                        "name": "Baba Yaga #2",
                         "ref": "Obenoix Gorge/Enemysanity/Baba Yaga #2"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #14",
+                        "name": "Vodianoi #14",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #14"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #15",
+                        "name": "Vodianoi #15",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #15"
                     },
                     {
-                        "name": "Enemysanity - Hydra #1",
+                        "name": "Hydra #1",
                         "ref": "Obenoix Gorge/Enemysanity/Hydra #1"
                     },
                     {
-                        "name": "Enemysanity - Vodianoi #16",
+                        "name": "Vodianoi #16",
                         "ref": "Obenoix Gorge/Enemysanity/Vodianoi #16"
                     },
                     {
-                        "name": "Enemysanity - Baba Yaga #3",
+                        "name": "Baba Yaga #3",
                         "ref": "Obenoix Gorge/Enemysanity/Baba Yaga #3"
                     },
                     {
-                        "name": "Enemysanity - Baba Yaga #4",
+                        "name": "Baba Yaga #4",
                         "ref": "Obenoix Gorge/Enemysanity/Baba Yaga #4"
                     },
                     {
-                        "name": "Enemysanity - Water Elemental #3",
+                        "name": "Water Elemental #3",
                         "ref": "Obenoix Gorge/Enemysanity/Water Elemental #3"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 509,
-                        "y": 900
+                        "x": 521,
+                        "y": 902
                     }
                 ]
             },
@@ -2283,6 +2415,14 @@
                         "ref": "Plains of Rowahl/Flight Chest 2/"
                     },
                     {
+                        "name": "Kendarie Soldier",
+                        "ref": "Plains of Rowahl/Kendarie Soldier/"
+                    },
+                    {
+                        "name": "Stranger",
+                        "ref": "Plains of Rowahl/Stranger/"
+                    },
+                    {
                         "name": "Red Fairy Near Start",
                         "ref": "Plains of Rowahl/Red Fairy Near Start/"
                     },
@@ -2297,125 +2437,129 @@
                     {
                         "name": "Red Fairy Past Gate",
                         "ref": "Plains of Rowahl/Red Fairy Past Gate/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Stranger",
-                        "ref": "Plains of Rowahl/Stranger/"
-                    },
+                        "map": "Overworld",
+                        "x": 343,
+                        "y": 783
+                    }
+                ]
+            },
+            {
+                "name": "Plains of Rowahl - Enemysanity",
+                "sections": [
                     {
-                        "name": "Kendarie Soldier",
-                        "ref": "Plains of Rowahl/Kendarie Soldier/"
-                    },
-                    {
-                        "name": "Enemysanity - Devil Plant #1",
+                        "name": "Devil Plant #1",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #1"
                     },
                     {
-                        "name": "Enemysanity - Devil Plant #2",
+                        "name": "Devil Plant #2",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #2"
                     },
                     {
-                        "name": "Enemysanity - Devil Plant #3",
+                        "name": "Devil Plant #3",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #3"
                     },
                     {
-                        "name": "Enemysanity - Sand Golem #1",
+                        "name": "Sand Golem #1",
                         "ref": "Plains of Rowahl/Enemysanity/Sand Golem #1"
                     },
                     {
-                        "name": "Enemysanity - Devil Plant #4",
+                        "name": "Devil Plant #4",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #4"
                     },
                     {
-                        "name": "Enemysanity - Sand Golem #2",
+                        "name": "Sand Golem #2",
                         "ref": "Plains of Rowahl/Enemysanity/Sand Golem #2"
                     },
                     {
-                        "name": "Enemysanity - Sand Golem #3",
+                        "name": "Sand Golem #3",
                         "ref": "Plains of Rowahl/Enemysanity/Sand Golem #3"
                     },
                     {
-                        "name": "Enemysanity - Sand Golem #4",
+                        "name": "Sand Golem #4",
                         "ref": "Plains of Rowahl/Enemysanity/Sand Golem #4"
                     },
                     {
-                        "name": "Enemysanity - Devil Plant #5",
+                        "name": "Devil Plant #5",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #5"
                     },
                     {
-                        "name": "Enemysanity - Devil Plant #6",
+                        "name": "Devil Plant #6",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #6"
                     },
                     {
-                        "name": "Enemysanity - Sand Golem #5",
+                        "name": "Sand Golem #5",
                         "ref": "Plains of Rowahl/Enemysanity/Sand Golem #5"
                     },
                     {
-                        "name": "Enemysanity - Devil Plant #7",
+                        "name": "Devil Plant #7",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #7"
                     },
                     {
-                        "name": "Enemysanity - Sand Golem #6",
+                        "name": "Sand Golem #6",
                         "ref": "Plains of Rowahl/Enemysanity/Sand Golem #6"
                     },
                     {
-                        "name": "Enemysanity - Devil Plant #10",
+                        "name": "Devil Plant #10",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #10"
                     },
                     {
-                        "name": "Enemysanity - Devil Plant #11",
+                        "name": "Devil Plant #11",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #11"
                     },
                     {
-                        "name": "Enemysanity - Devil Plant #12",
+                        "name": "Devil Plant #12",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #12"
                     },
                     {
-                        "name": "Enemysanity - Sand Golem #7",
+                        "name": "Sand Golem #7",
                         "ref": "Plains of Rowahl/Enemysanity/Sand Golem #7"
                     },
                     {
-                        "name": "Enemysanity - Manticore #2",
+                        "name": "Manticore #2",
                         "ref": "Plains of Rowahl/Enemysanity/Manticore #2"
                     },
                     {
-                        "name": "Enemysanity - Manticore #3",
+                        "name": "Manticore #3",
                         "ref": "Plains of Rowahl/Enemysanity/Manticore #3"
                     },
                     {
-                        "name": "Enemysanity - Sand Golem #8",
+                        "name": "Sand Golem #8",
                         "ref": "Plains of Rowahl/Enemysanity/Sand Golem #8"
                     },
                     {
-                        "name": "Enemysanity - Sand Golem #9",
+                        "name": "Sand Golem #9",
                         "ref": "Plains of Rowahl/Enemysanity/Sand Golem #9"
                     },
                     {
-                        "name": "Enemysanity - Manticore #1",
+                        "name": "Manticore #1",
                         "ref": "Plains of Rowahl/Enemysanity/Manticore #1"
                     },
                     {
-                        "name": "Enemysanity - Devil Plant #8",
+                        "name": "Devil Plant #8",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #8"
                     },
                     {
-                        "name": "Enemysanity - Devil Plant #9",
+                        "name": "Devil Plant #9",
                         "ref": "Plains of Rowahl/Enemysanity/Devil Plant #9"
                     },
                     {
-                        "name": "Enemysanity - Sand Golem #10",
+                        "name": "Sand Golem #10",
                         "ref": "Plains of Rowahl/Enemysanity/Sand Golem #10"
                     },
                     {
-                        "name": "Enemysanity - Sand Golem #11",
+                        "name": "Sand Golem #11",
                         "ref": "Plains of Rowahl/Enemysanity/Sand Golem #11"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 349,
-                        "y": 785
+                        "x": 368,
+                        "y": 783
                     }
                 ]
             },
@@ -2473,49 +2617,61 @@
                     {
                         "name": "Red Fairy Flight",
                         "ref": "Royal Tower - Lower/Red Fairy Flight/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Enemysanity - LazerBug 39K #1",
+                        "map": "Overworld",
+                        "x": 240,
+                        "y": 738
+                    }
+                ]
+            },
+            {
+                "name": "Royal Tower - Lower - Enemysanity",
+                "sections": [
+                    {
+                        "name": "LazerBug 39K #1",
                         "ref": "Royal Tower - Lower/Enemysanity/LazerBug 39K #1"
                     },
                     {
-                        "name": "Enemysanity - LazerBug 39K #2",
+                        "name": "LazerBug 39K #2",
                         "ref": "Royal Tower - Lower/Enemysanity/LazerBug 39K #2"
                     },
                     {
-                        "name": "Enemysanity - LazerBug 39K #3",
+                        "name": "LazerBug 39K #3",
                         "ref": "Royal Tower - Lower/Enemysanity/LazerBug 39K #3"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #1",
+                        "name": "Aggressor DX5 #1",
                         "ref": "Royal Tower - Lower/Enemysanity/Aggressor DX5 #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #2",
+                        "name": "Aggressor DX5 #2",
                         "ref": "Royal Tower - Lower/Enemysanity/Aggressor DX5 #2"
                     },
                     {
-                        "name": "Enemysanity - LazerBug 39K #4",
+                        "name": "LazerBug 39K #4",
                         "ref": "Royal Tower - Lower/Enemysanity/LazerBug 39K #4"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #3",
+                        "name": "Aggressor DX5 #3",
                         "ref": "Royal Tower - Lower/Enemysanity/Aggressor DX5 #3"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #4",
+                        "name": "Aggressor DX5 #4",
                         "ref": "Royal Tower - Lower/Enemysanity/Aggressor DX5 #4"
                     },
                     {
-                        "name": "Enemysanity - LazerBug 39K #5",
+                        "name": "LazerBug 39K #5",
                         "ref": "Royal Tower - Lower/Enemysanity/LazerBug 39K #5"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 258,
-                        "y": 738
+                        "x": 240,
+                        "y": 763
                     }
                 ]
             },
@@ -2535,16 +2691,8 @@
                         "ref": "Royal Tower - Middle/Breakable Wall 1/Chest"
                     },
                     {
-                        "name": "Red Fairy Breakable Wall 1",
-                        "ref": "Royal Tower - Middle/Breakable Wall 1/Red Fairy"
-                    },
-                    {
                         "name": "Breakable Wall Chest 2",
                         "ref": "Royal Tower - Middle/Breakable Wall 2/Chest"
-                    },
-                    {
-                        "name": "Red Fairy Breakable Wall 2",
-                        "ref": "Royal Tower - Middle/Breakable Wall 2/Red Fairy"
                     },
                     {
                         "name": "Forcefield Chest 1",
@@ -2563,111 +2711,131 @@
                         "ref": "Royal Tower - Middle/Red Fairy Hallway/"
                     },
                     {
-                        "name": "Enemysanity - Ice Golem #1",
+                        "name": "Red Fairy Breakable Wall 1",
+                        "ref": "Royal Tower - Middle/Breakable Wall 1/Red Fairy"
+                    },
+                    {
+                        "name": "Red Fairy Breakable Wall 2",
+                        "ref": "Royal Tower - Middle/Breakable Wall 2/Red Fairy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 265,
+                        "y": 738
+                    }
+                ]
+            },
+            {
+                "name": "Royal Tower - Middle - Enemysanity",
+                "sections": [
+                    {
+                        "name": "Ice Golem #1",
                         "ref": "Royal Tower - Middle/Enemysanity/Ice Golem #1"
                     },
                     {
-                        "name": "Enemysanity - Demon Fox #1",
+                        "name": "Demon Fox #1",
                         "ref": "Royal Tower - Middle/Enemysanity/Demon Fox #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #1",
+                        "name": "Aggressor DX5 #1",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #2",
+                        "name": "Aggressor DX5 #2",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #2"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #3",
+                        "name": "Aggressor DX5 #3",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #3"
                     },
                     {
-                        "name": "Enemysanity - Beelzebub #1",
+                        "name": "Beelzebub #1",
                         "ref": "Royal Tower - Middle/Enemysanity/Beelzebub #1"
                     },
                     {
-                        "name": "Enemysanity - Behemoth #1",
+                        "name": "Behemoth #1",
                         "ref": "Royal Tower - Middle/Enemysanity/Behemoth #1"
                     },
                     {
-                        "name": "Enemysanity - Fenril #1",
+                        "name": "Fenril #1",
                         "ref": "Royal Tower - Middle/Enemysanity/Fenril #1"
                     },
                     {
-                        "name": "Enemysanity - Leod VIII #1",
+                        "name": "Leod VIII #1",
                         "ref": "Royal Tower - Middle/Enemysanity/Leod VIII #1"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #4",
+                        "name": "Aggressor DX5 #4",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #4"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #5",
+                        "name": "Aggressor DX5 #5",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #5"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #6",
+                        "name": "Aggressor DX5 #6",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #6"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #7",
+                        "name": "Aggressor DX5 #7",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #7"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #8",
+                        "name": "Aggressor DX5 #8",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #8"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #9",
+                        "name": "Aggressor DX5 #9",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #9"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #10",
+                        "name": "Aggressor DX5 #10",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #10"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #11",
+                        "name": "Aggressor DX5 #11",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #11"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #12",
+                        "name": "Aggressor DX5 #12",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #12"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #13",
+                        "name": "Aggressor DX5 #13",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #13"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #14",
+                        "name": "Aggressor DX5 #14",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #14"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #15",
+                        "name": "Aggressor DX5 #15",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #15"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #16",
+                        "name": "Aggressor DX5 #16",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #16"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #17",
+                        "name": "Aggressor DX5 #17",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #17"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #18",
+                        "name": "Aggressor DX5 #18",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #18"
                     },
                     {
-                        "name": "Enemysanity - Aggressor DX5 #19",
+                        "name": "Aggressor DX5 #19",
                         "ref": "Royal Tower - Middle/Enemysanity/Aggressor DX5 #19"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 282,
-                        "y": 738
+                        "x": 265,
+                        "y": 763
                     }
                 ]
             },
@@ -2701,65 +2869,77 @@
                     {
                         "name": "Red Fairy Stairs 2",
                         "ref": "Royal Tower - Upper/Red Fairy Stairs 2/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Enemysanity - Sphinx #1",
+                        "map": "Overworld",
+                        "x": 290,
+                        "y": 738
+                    }
+                ]
+            },
+            {
+                "name": "Royal Tower - Upper - Enemysanity",
+                "sections": [
+                    {
+                        "name": "Sphinx #1",
                         "ref": "Royal Tower - Upper/Enemysanity/Sphinx #1"
                     },
                     {
-                        "name": "Enemysanity - Tentacle #1",
+                        "name": "Tentacle #1",
                         "ref": "Royal Tower - Upper/Enemysanity/Tentacle #1"
                     },
                     {
-                        "name": "Enemysanity - Tentacle #2",
+                        "name": "Tentacle #2",
                         "ref": "Royal Tower - Upper/Enemysanity/Tentacle #2"
                     },
                     {
-                        "name": "Enemysanity - Wyvern #1",
+                        "name": "Wyvern #1",
                         "ref": "Royal Tower - Upper/Enemysanity/Wyvern #1"
                     },
                     {
-                        "name": "Enemysanity - Tentacle #3",
+                        "name": "Tentacle #3",
                         "ref": "Royal Tower - Upper/Enemysanity/Tentacle #3"
                     },
                     {
-                        "name": "Enemysanity - Wyvern #2",
+                        "name": "Wyvern #2",
                         "ref": "Royal Tower - Upper/Enemysanity/Wyvern #2"
                     },
                     {
-                        "name": "Enemysanity - Wyvern #3",
+                        "name": "Wyvern #3",
                         "ref": "Royal Tower - Upper/Enemysanity/Wyvern #3"
                     },
                     {
-                        "name": "Enemysanity - Tentacle #4",
+                        "name": "Tentacle #4",
                         "ref": "Royal Tower - Upper/Enemysanity/Tentacle #4"
                     },
                     {
-                        "name": "Enemysanity - Tentacle #5",
+                        "name": "Tentacle #5",
                         "ref": "Royal Tower - Upper/Enemysanity/Tentacle #5"
                     },
                     {
-                        "name": "Enemysanity - Tentacle #6",
+                        "name": "Tentacle #6",
                         "ref": "Royal Tower - Upper/Enemysanity/Tentacle #6"
                     },
                     {
-                        "name": "Enemysanity - Tentacle #7",
+                        "name": "Tentacle #7",
                         "ref": "Royal Tower - Upper/Enemysanity/Tentacle #7"
                     },
                     {
-                        "name": "Enemysanity - Tentacle #8",
+                        "name": "Tentacle #8",
                         "ref": "Royal Tower - Upper/Enemysanity/Tentacle #8"
                     },
                     {
-                        "name": "Enemysanity - God of Harmony #1",
+                        "name": "God of Harmony #1",
                         "ref": "Royal Tower - Upper/Enemysanity/God of Harmony #1"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 306,
-                        "y": 738
+                        "x": 290,
+                        "y": 763
                     }
                 ]
             },
@@ -2779,12 +2959,20 @@
                         "ref": "Ruldo Forest/Chest 3/"
                     },
                     {
-                        "name": "Jump Chest",
-                        "ref": "Ruldo Forest/Jump Chest/"
+                        "name": "Magic Boosters Activation",
+                        "ref": "Ruldo Forest/Magic Boosters Activation/"
                     },
                     {
                         "name": "Flight or Jump Chest",
                         "ref": "Ruldo Forest/Flight or Jump Chest/"
+                    },
+                    {
+                        "name": "Jump Chest",
+                        "ref": "Ruldo Forest/Jump Chest/"
+                    },
+                    {
+                        "name": "Stranger",
+                        "ref": "Ruldo Forest/Stranger/"
                     },
                     {
                         "name": "Cockatrice Chest 1",
@@ -2813,140 +3001,144 @@
                     {
                         "name": "Red Fairy Past Cockatrice",
                         "ref": "Ruldo Forest/Red Fairy Past Cockatrice/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Stranger",
-                        "ref": "Ruldo Forest/Stranger/"
-                    },
+                        "map": "Overworld",
+                        "x": 969,
+                        "y": 234
+                    }
+                ]
+            },
+            {
+                "name": "Ruldo Forest - Enemysanity",
+                "sections": [
                     {
-                        "name": "Magic Boosters Activation",
-                        "ref": "Ruldo Forest/Magic Boosters Activation/"
-                    },
-                    {
-                        "name": "Enemysanity - Elf #1",
+                        "name": "Elf #1",
                         "ref": "Ruldo Forest/Enemysanity/Elf #1"
                     },
                     {
-                        "name": "Enemysanity - Elf #2",
+                        "name": "Elf #2",
                         "ref": "Ruldo Forest/Enemysanity/Elf #2"
                     },
                     {
-                        "name": "Enemysanity - Demon Hound #1",
+                        "name": "Demon Hound #1",
                         "ref": "Ruldo Forest/Enemysanity/Demon Hound #1"
                     },
                     {
-                        "name": "Enemysanity - Demon Hound #2",
+                        "name": "Demon Hound #2",
                         "ref": "Ruldo Forest/Enemysanity/Demon Hound #2"
                     },
                     {
-                        "name": "Enemysanity - Demon Hound #3",
+                        "name": "Demon Hound #3",
                         "ref": "Ruldo Forest/Enemysanity/Demon Hound #3"
                     },
                     {
-                        "name": "Enemysanity - Demon Hound #4",
+                        "name": "Demon Hound #4",
                         "ref": "Ruldo Forest/Enemysanity/Demon Hound #4"
                     },
                     {
-                        "name": "Enemysanity - Elf #3",
+                        "name": "Elf #3",
                         "ref": "Ruldo Forest/Enemysanity/Elf #3"
                     },
                     {
-                        "name": "Enemysanity - Demon Hound #5",
+                        "name": "Demon Hound #5",
                         "ref": "Ruldo Forest/Enemysanity/Demon Hound #5"
                     },
                     {
-                        "name": "Enemysanity - Dryad #1",
+                        "name": "Dryad #1",
                         "ref": "Ruldo Forest/Enemysanity/Dryad #1"
                     },
                     {
-                        "name": "Enemysanity - Demon Hound #6",
+                        "name": "Demon Hound #6",
                         "ref": "Ruldo Forest/Enemysanity/Demon Hound #6"
                     },
                     {
-                        "name": "Enemysanity - Demon Hound #7",
+                        "name": "Demon Hound #7",
                         "ref": "Ruldo Forest/Enemysanity/Demon Hound #7"
                     },
                     {
-                        "name": "Enemysanity - Demon Hound #8",
+                        "name": "Demon Hound #8",
                         "ref": "Ruldo Forest/Enemysanity/Demon Hound #8"
                     },
                     {
-                        "name": "Enemysanity - Elf #4",
+                        "name": "Elf #4",
                         "ref": "Ruldo Forest/Enemysanity/Elf #4"
                     },
                     {
-                        "name": "Enemysanity - Elf #5",
+                        "name": "Elf #5",
                         "ref": "Ruldo Forest/Enemysanity/Elf #5"
                     },
                     {
-                        "name": "Enemysanity - Myconid #1",
+                        "name": "Myconid #1",
                         "ref": "Ruldo Forest/Enemysanity/Myconid #1"
                     },
                     {
-                        "name": "Enemysanity - Demon Hound #9",
+                        "name": "Demon Hound #9",
                         "ref": "Ruldo Forest/Enemysanity/Demon Hound #9"
                     },
                     {
-                        "name": "Enemysanity - Demon Hound #10",
+                        "name": "Demon Hound #10",
                         "ref": "Ruldo Forest/Enemysanity/Demon Hound #10"
                     },
                     {
-                        "name": "Enemysanity - Cockatrice #1",
+                        "name": "Cockatrice #1",
                         "ref": "Ruldo Forest/Enemysanity/Cockatrice #1"
                     },
                     {
-                        "name": "Enemysanity - Cockatrice #2",
+                        "name": "Cockatrice #2",
                         "ref": "Ruldo Forest/Enemysanity/Cockatrice #2"
                     },
                     {
-                        "name": "Enemysanity - Cockatrice #3",
+                        "name": "Cockatrice #3",
                         "ref": "Ruldo Forest/Enemysanity/Cockatrice #3"
                     },
                     {
-                        "name": "Enemysanity - Mandra Dancer #1",
+                        "name": "Mandra Dancer #1",
                         "ref": "Ruldo Forest/Enemysanity/Mandra Dancer #1"
                     },
                     {
-                        "name": "Enemysanity - Mandra Dancer #2",
+                        "name": "Mandra Dancer #2",
                         "ref": "Ruldo Forest/Enemysanity/Mandra Dancer #2"
                     },
                     {
-                        "name": "Enemysanity - Demon Hound #11",
+                        "name": "Demon Hound #11",
                         "ref": "Ruldo Forest/Enemysanity/Demon Hound #11"
                     },
                     {
-                        "name": "Enemysanity - Dryad #2",
+                        "name": "Dryad #2",
                         "ref": "Ruldo Forest/Enemysanity/Dryad #2"
                     },
                     {
-                        "name": "Enemysanity - Elf #6",
+                        "name": "Elf #6",
                         "ref": "Ruldo Forest/Enemysanity/Elf #6"
                     },
                     {
-                        "name": "Enemysanity - Myconid #2",
+                        "name": "Myconid #2",
                         "ref": "Ruldo Forest/Enemysanity/Myconid #2"
                     },
                     {
-                        "name": "Enemysanity - Myconid #3",
+                        "name": "Myconid #3",
                         "ref": "Ruldo Forest/Enemysanity/Myconid #3"
                     },
                     {
-                        "name": "Enemysanity - Myconid #4",
+                        "name": "Myconid #4",
                         "ref": "Ruldo Forest/Enemysanity/Myconid #4"
                     },
                     {
-                        "name": "Enemysanity - Mandra Dancer #3",
+                        "name": "Mandra Dancer #3",
                         "ref": "Ruldo Forest/Enemysanity/Mandra Dancer #3"
                     },
                     {
-                        "name": "Enemysanity - Elf #7",
+                        "name": "Elf #7",
                         "ref": "Ruldo Forest/Enemysanity/Elf #7"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 983,
+                        "x": 994,
                         "y": 234
                     }
                 ]
@@ -2997,145 +3189,157 @@
                     {
                         "name": "Red Fairy on Stairs",
                         "ref": "Runestone Caverns - Lower Chambers/Red Fairy on Stairs/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Enemysanity - Water Reaper #1",
+                        "map": "Overworld",
+                        "x": 1093,
+                        "y": 227
+                    }
+                ]
+            },
+            {
+                "name": "Runestone Caverns - Lower Chambers - Enemysanity",
+                "sections": [
+                    {
+                        "name": "Water Reaper #1",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #1"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #1",
+                        "name": "Flayer Spawn #1",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #1"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #2",
+                        "name": "Flayer Spawn #2",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #2"
                     },
                     {
-                        "name": "Enemysanity - Yowie #1",
+                        "name": "Yowie #1",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #1"
                     },
                     {
-                        "name": "Enemysanity - Yowie #2",
+                        "name": "Yowie #2",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #2"
                     },
                     {
-                        "name": "Enemysanity - Yowie #3",
+                        "name": "Yowie #3",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #3"
                     },
                     {
-                        "name": "Enemysanity - Yowie #4",
+                        "name": "Yowie #4",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #4"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #3",
+                        "name": "Flayer Spawn #3",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #3"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #4",
+                        "name": "Flayer Spawn #4",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #4"
                     },
                     {
-                        "name": "Enemysanity - Yowie #5",
+                        "name": "Yowie #5",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #5"
                     },
                     {
-                        "name": "Enemysanity - Yowie #6",
+                        "name": "Yowie #6",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #6"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #5",
+                        "name": "Flayer Spawn #5",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #5"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #6",
+                        "name": "Flayer Spawn #6",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #6"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #7",
+                        "name": "Flayer Spawn #7",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #7"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #8",
+                        "name": "Flayer Spawn #8",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #8"
                     },
                     {
-                        "name": "Enemysanity - Body of the God #1",
+                        "name": "Body of the God #1",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Body of the God #1"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #9",
+                        "name": "Flayer Spawn #9",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #9"
                     },
                     {
-                        "name": "Enemysanity - Water Reaper #2",
+                        "name": "Water Reaper #2",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #2"
                     },
                     {
-                        "name": "Enemysanity - Water Reaper #3",
+                        "name": "Water Reaper #3",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #3"
                     },
                     {
-                        "name": "Enemysanity - Yowie #7",
+                        "name": "Yowie #7",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #7"
                     },
                     {
-                        "name": "Enemysanity - Yowie #8",
+                        "name": "Yowie #8",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #8"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #10",
+                        "name": "Flayer Spawn #10",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #10"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #11",
+                        "name": "Flayer Spawn #11",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #11"
                     },
                     {
-                        "name": "Enemysanity - Yowie #9",
+                        "name": "Yowie #9",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #9"
                     },
                     {
-                        "name": "Enemysanity - Yowie #10",
+                        "name": "Yowie #10",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #10"
                     },
                     {
-                        "name": "Enemysanity - Yowie #11",
+                        "name": "Yowie #11",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #11"
                     },
                     {
-                        "name": "Enemysanity - Yowie #12",
+                        "name": "Yowie #12",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #12"
                     },
                     {
-                        "name": "Enemysanity - Water Reaper #4",
+                        "name": "Water Reaper #4",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #4"
                     },
                     {
-                        "name": "Enemysanity - Water Reaper #5",
+                        "name": "Water Reaper #5",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #5"
                     },
                     {
-                        "name": "Enemysanity - Water Reaper #6",
+                        "name": "Water Reaper #6",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #6"
                     },
                     {
-                        "name": "Enemysanity - Water Reaper #7",
+                        "name": "Water Reaper #7",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Water Reaper #7"
                     },
                     {
-                        "name": "Enemysanity - Yowie #13",
+                        "name": "Yowie #13",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Yowie #13"
                     },
                     {
-                        "name": "Enemysanity - Flayer Spawn #12",
+                        "name": "Flayer Spawn #12",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Flayer Spawn #12"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1120,
-                        "y": 224
+                        "x": 1093,
+                        "y": 252
                     }
                 ]
             },
@@ -3153,10 +3357,6 @@
                     {
                         "name": "Talk to Sol",
                         "ref": "Runestone Caverns - Upper Chambers/Sol/Talk to Sol"
-                    },
-                    {
-                        "name": "Red Fairy Near Sol",
-                        "ref": "Runestone Caverns - Upper Chambers/Sol/Red Fairy"
                     },
                     {
                         "name": "Lower Chest 1",
@@ -3199,151 +3399,167 @@
                         "ref": "Runestone Caverns - Upper Chambers/Red Fairy Near Golem/"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #1",
+                        "name": "Red Fairy Near Sol",
+                        "ref": "Runestone Caverns - Upper Chambers/Sol/Red Fairy"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1118,
+                        "y": 227
+                    }
+                ]
+            },
+            {
+                "name": "Runestone Caverns - Upper Chambers - Enemysanity",
+                "sections": [
+                    {
+                        "name": "Land Shark #1",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #1"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #2",
+                        "name": "Land Shark #2",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #2"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #3",
+                        "name": "Land Shark #3",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #3"
                     },
                     {
-                        "name": "Enemysanity - Crystal Rose #1",
+                        "name": "Crystal Rose #1",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #1"
                     },
                     {
-                        "name": "Enemysanity - Crystal Rose #2",
+                        "name": "Crystal Rose #2",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #2"
                     },
                     {
-                        "name": "Enemysanity - Crystal Rose #3",
+                        "name": "Crystal Rose #3",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #3"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #4",
+                        "name": "Land Shark #4",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #4"
                     },
                     {
-                        "name": "Enemysanity - Giant Crab #1",
+                        "name": "Giant Crab #1",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #1"
                     },
                     {
-                        "name": "Enemysanity - Crystal Rose #4",
+                        "name": "Crystal Rose #4",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #4"
                     },
                     {
-                        "name": "Enemysanity - Crystal Rose #5",
+                        "name": "Crystal Rose #5",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #5"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #5",
+                        "name": "Land Shark #5",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #5"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #6",
+                        "name": "Land Shark #6",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #6"
                     },
                     {
-                        "name": "Enemysanity - Giant Crab #2",
+                        "name": "Giant Crab #2",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #2"
                     },
                     {
-                        "name": "Enemysanity - Giant Crab #3",
+                        "name": "Giant Crab #3",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #3"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #7",
+                        "name": "Land Shark #7",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #7"
                     },
                     {
-                        "name": "Enemysanity - Stone Golem #1",
+                        "name": "Stone Golem #1",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Stone Golem #1"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #8",
+                        "name": "Land Shark #8",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #8"
                     },
                     {
-                        "name": "Enemysanity - Giant Crab #4",
+                        "name": "Giant Crab #4",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #4"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #9",
+                        "name": "Land Shark #9",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #9"
                     },
                     {
-                        "name": "Enemysanity - Crystal Rose #6",
+                        "name": "Crystal Rose #6",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #6"
                     },
                     {
-                        "name": "Enemysanity - Giant Crab #5",
+                        "name": "Giant Crab #5",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #5"
                     },
                     {
-                        "name": "Enemysanity - Crystal Rose #7",
+                        "name": "Crystal Rose #7",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #7"
                     },
                     {
-                        "name": "Enemysanity - Crystal Rose #8",
+                        "name": "Crystal Rose #8",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Crystal Rose #8"
                     },
                     {
-                        "name": "Enemysanity - UberBomberBot #1",
+                        "name": "UberBomberBot #1",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/UberBomberBot #1"
                     },
                     {
-                        "name": "Enemysanity - UberBomberBot #2",
+                        "name": "UberBomberBot #2",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/UberBomberBot #2"
                     },
                     {
-                        "name": "Enemysanity - UberBomberBot #3",
+                        "name": "UberBomberBot #3",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/UberBomberBot #3"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #10",
+                        "name": "Land Shark #10",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #10"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #11",
+                        "name": "Land Shark #11",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #11"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #12",
+                        "name": "Land Shark #12",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #12"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #13",
+                        "name": "Land Shark #13",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #13"
                     },
                     {
-                        "name": "Enemysanity - Giant Crab #6",
+                        "name": "Giant Crab #6",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #6"
                     },
                     {
-                        "name": "Enemysanity - Giant Crab #7",
+                        "name": "Giant Crab #7",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Giant Crab #7"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #14",
+                        "name": "Land Shark #14",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #14"
                     },
                     {
-                        "name": "Enemysanity - Land Shark #15",
+                        "name": "Land Shark #15",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Land Shark #15"
                     },
                     {
-                        "name": "Enemysanity - Brine Dragon #1",
+                        "name": "Brine Dragon #1",
                         "ref": "Runestone Caverns - Upper Chambers/Enemysanity/Brine Dragon #1"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1093,
-                        "y": 224
+                        "x": 1118,
+                        "y": 252
                     }
                 ]
             },
@@ -3367,6 +3583,14 @@
                         "ref": "Sacred Battle Arena 1/Defeat Kraken/"
                     },
                     {
+                        "name": "Stranger",
+                        "ref": "Sacred Battle Arena 1/Stranger/"
+                    },
+                    {
+                        "name": "Gurd Reward",
+                        "ref": "Sacred Battle Arena 1/Gurd Reward/"
+                    },
+                    {
                         "name": "Red Fairy 1",
                         "ref": "Sacred Battle Arena 1/Red Fairy 1/"
                     },
@@ -3377,20 +3601,12 @@
                     {
                         "name": "Red Fairy 3",
                         "ref": "Sacred Battle Arena 1/Red Fairy 3/"
-                    },
-                    {
-                        "name": "Gurd Reward",
-                        "ref": "Sacred Battle Arena 1/Gurd Reward/"
-                    },
-                    {
-                        "name": "Stranger",
-                        "ref": "Sacred Battle Arena 1/Stranger/"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 872,
+                        "x": 875,
                         "y": 151
                     }
                 ]
@@ -3493,104 +3709,116 @@
                     {
                         "name": "Red Fairy Magic Circle",
                         "ref": "Sarvan/Red Fairy Magic Circle/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Enemysanity - Evil Eye #1",
+                        "map": "Overworld",
+                        "x": 880,
+                        "y": 335
+                    }
+                ]
+            },
+            {
+                "name": "Sarvan - Enemysanity",
+                "sections": [
+                    {
+                        "name": "Evil Eye #1",
                         "ref": "Sarvan/Enemysanity/Evil Eye #1"
                     },
                     {
-                        "name": "Enemysanity - Jade Giant #1",
+                        "name": "Jade Giant #1",
                         "ref": "Sarvan/Enemysanity/Jade Giant #1"
                     },
                     {
-                        "name": "Enemysanity - Jade Giant #2",
+                        "name": "Jade Giant #2",
                         "ref": "Sarvan/Enemysanity/Jade Giant #2"
                     },
                     {
-                        "name": "Enemysanity - Jade Giant #3",
+                        "name": "Jade Giant #3",
                         "ref": "Sarvan/Enemysanity/Jade Giant #3"
                     },
                     {
-                        "name": "Enemysanity - Siren #1",
+                        "name": "Siren #1",
                         "ref": "Sarvan/Enemysanity/Siren #1"
                     },
                     {
-                        "name": "Enemysanity - Evil Eye #2",
+                        "name": "Evil Eye #2",
                         "ref": "Sarvan/Enemysanity/Evil Eye #2"
                     },
                     {
-                        "name": "Enemysanity - Jade Giant #4",
+                        "name": "Jade Giant #4",
                         "ref": "Sarvan/Enemysanity/Jade Giant #4"
                     },
                     {
-                        "name": "Enemysanity - Siren #2",
+                        "name": "Siren #2",
                         "ref": "Sarvan/Enemysanity/Siren #2"
                     },
                     {
-                        "name": "Enemysanity - Evil Eye #3",
+                        "name": "Evil Eye #3",
                         "ref": "Sarvan/Enemysanity/Evil Eye #3"
                     },
                     {
-                        "name": "Enemysanity - Jade Giant #5",
+                        "name": "Jade Giant #5",
                         "ref": "Sarvan/Enemysanity/Jade Giant #5"
                     },
                     {
-                        "name": "Enemysanity - Siren #3",
+                        "name": "Siren #3",
                         "ref": "Sarvan/Enemysanity/Siren #3"
                     },
                     {
-                        "name": "Enemysanity - Jade Giant #6",
+                        "name": "Jade Giant #6",
                         "ref": "Sarvan/Enemysanity/Jade Giant #6"
                     },
                     {
-                        "name": "Enemysanity - Gold Butterfly #1",
+                        "name": "Gold Butterfly #1",
                         "ref": "Sarvan/Enemysanity/Gold Butterfly #1"
                     },
                     {
-                        "name": "Enemysanity - Jade Giant #7",
+                        "name": "Jade Giant #7",
                         "ref": "Sarvan/Enemysanity/Jade Giant #7"
                     },
                     {
-                        "name": "Enemysanity - Evil Eye #4",
+                        "name": "Evil Eye #4",
                         "ref": "Sarvan/Enemysanity/Evil Eye #4"
                     },
                     {
-                        "name": "Enemysanity - Evil Eye #5",
+                        "name": "Evil Eye #5",
                         "ref": "Sarvan/Enemysanity/Evil Eye #5"
                     },
                     {
-                        "name": "Enemysanity - Gold Butterfly #2",
+                        "name": "Gold Butterfly #2",
                         "ref": "Sarvan/Enemysanity/Gold Butterfly #2"
                     },
                     {
-                        "name": "Enemysanity - Jade Giant #8",
+                        "name": "Jade Giant #8",
                         "ref": "Sarvan/Enemysanity/Jade Giant #8"
                     },
                     {
-                        "name": "Enemysanity - Jade Giant #9",
+                        "name": "Jade Giant #9",
                         "ref": "Sarvan/Enemysanity/Jade Giant #9"
                     },
                     {
-                        "name": "Enemysanity - Chimera #1",
+                        "name": "Chimera #1",
                         "ref": "Sarvan/Enemysanity/Chimera #1"
                     },
                     {
-                        "name": "Enemysanity - Jade Giant #10",
+                        "name": "Jade Giant #10",
                         "ref": "Sarvan/Enemysanity/Jade Giant #10"
                     },
                     {
-                        "name": "Enemysanity - Gold Butterfly #3",
+                        "name": "Gold Butterfly #3",
                         "ref": "Sarvan/Enemysanity/Gold Butterfly #3"
                     },
                     {
-                        "name": "Enemysanity - Siren #4",
+                        "name": "Siren #4",
                         "ref": "Sarvan/Enemysanity/Siren #4"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 892,
+                        "x": 905,
                         "y": 335
                     }
                 ]
@@ -3657,140 +3885,152 @@
                     {
                         "name": "Red Fairy Valkyrie Side",
                         "ref": "Temple of Sharacia/Red Fairy Valkyrie Side/"
-                    },
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Enemysanity - Efreet #1",
+                        "map": "Overworld",
+                        "x": 123,
+                        "y": 453
+                    }
+                ]
+            },
+            {
+                "name": "Temple of Sharacia - Enemysanity",
+                "sections": [
+                    {
+                        "name": "Efreet #1",
                         "ref": "Temple of Sharacia/Enemysanity/Efreet #1"
                     },
                     {
-                        "name": "Enemysanity - Efreet #2",
+                        "name": "Efreet #2",
                         "ref": "Temple of Sharacia/Enemysanity/Efreet #2"
                     },
                     {
-                        "name": "Enemysanity - Fire Gargoyle #1",
+                        "name": "Fire Gargoyle #1",
                         "ref": "Temple of Sharacia/Enemysanity/Fire Gargoyle #1"
                     },
                     {
-                        "name": "Enemysanity - Fire Gargoyle #2",
+                        "name": "Fire Gargoyle #2",
                         "ref": "Temple of Sharacia/Enemysanity/Fire Gargoyle #2"
                     },
                     {
-                        "name": "Enemysanity - Cerberus #1",
+                        "name": "Cerberus #1",
                         "ref": "Temple of Sharacia/Enemysanity/Cerberus #1"
                     },
                     {
-                        "name": "Enemysanity - Cerberus #2",
+                        "name": "Cerberus #2",
                         "ref": "Temple of Sharacia/Enemysanity/Cerberus #2"
                     },
                     {
-                        "name": "Enemysanity - Fire Elemental #1",
+                        "name": "Fire Elemental #1",
                         "ref": "Temple of Sharacia/Enemysanity/Fire Elemental #1"
                     },
                     {
-                        "name": "Enemysanity - Efreet #3",
+                        "name": "Efreet #3",
                         "ref": "Temple of Sharacia/Enemysanity/Efreet #3"
                     },
                     {
-                        "name": "Enemysanity - Efreet #4",
+                        "name": "Efreet #4",
                         "ref": "Temple of Sharacia/Enemysanity/Efreet #4"
                     },
                     {
-                        "name": "Enemysanity - Red Dragon #1",
+                        "name": "Red Dragon #1",
                         "ref": "Temple of Sharacia/Enemysanity/Red Dragon #1"
                     },
                     {
-                        "name": "Enemysanity - Cerberus #3",
+                        "name": "Cerberus #3",
                         "ref": "Temple of Sharacia/Enemysanity/Cerberus #3"
                     },
                     {
-                        "name": "Enemysanity - Efreet #5",
+                        "name": "Efreet #5",
                         "ref": "Temple of Sharacia/Enemysanity/Efreet #5"
                     },
                     {
-                        "name": "Enemysanity - Phoenix #1",
+                        "name": "Phoenix #1",
                         "ref": "Temple of Sharacia/Enemysanity/Phoenix #1"
                     },
                     {
-                        "name": "Enemysanity - Cerberus #4",
+                        "name": "Cerberus #4",
                         "ref": "Temple of Sharacia/Enemysanity/Cerberus #4"
                     },
                     {
-                        "name": "Enemysanity - Cerberus #5",
+                        "name": "Cerberus #5",
                         "ref": "Temple of Sharacia/Enemysanity/Cerberus #5"
                     },
                     {
-                        "name": "Enemysanity - Efreet #6",
+                        "name": "Efreet #6",
                         "ref": "Temple of Sharacia/Enemysanity/Efreet #6"
                     },
                     {
-                        "name": "Enemysanity - Phoenix #2",
+                        "name": "Phoenix #2",
                         "ref": "Temple of Sharacia/Enemysanity/Phoenix #2"
                     },
                     {
-                        "name": "Enemysanity - Ashura #1",
+                        "name": "Ashura #1",
                         "ref": "Temple of Sharacia/Enemysanity/Ashura #1"
                     },
                     {
-                        "name": "Enemysanity - Valkyrie #1",
+                        "name": "Valkyrie #1",
                         "ref": "Temple of Sharacia/Enemysanity/Valkyrie #1"
                     },
                     {
-                        "name": "Enemysanity - Efreet #7",
+                        "name": "Efreet #7",
                         "ref": "Temple of Sharacia/Enemysanity/Efreet #7"
                     },
                     {
-                        "name": "Enemysanity - Phoenix #3",
+                        "name": "Phoenix #3",
                         "ref": "Temple of Sharacia/Enemysanity/Phoenix #3"
                     },
                     {
-                        "name": "Enemysanity - Cerberus #6",
+                        "name": "Cerberus #6",
                         "ref": "Temple of Sharacia/Enemysanity/Cerberus #6"
                     },
                     {
-                        "name": "Enemysanity - Efreet #8",
+                        "name": "Efreet #8",
                         "ref": "Temple of Sharacia/Enemysanity/Efreet #8"
                     },
                     {
-                        "name": "Enemysanity - Efreet #9",
+                        "name": "Efreet #9",
                         "ref": "Temple of Sharacia/Enemysanity/Efreet #9"
                     },
                     {
-                        "name": "Enemysanity - Red Dragon #2",
+                        "name": "Red Dragon #2",
                         "ref": "Temple of Sharacia/Enemysanity/Red Dragon #2"
                     },
                     {
-                        "name": "Enemysanity - Cerberus #7",
+                        "name": "Cerberus #7",
                         "ref": "Temple of Sharacia/Enemysanity/Cerberus #7"
                     },
                     {
-                        "name": "Enemysanity - Efreet #10",
+                        "name": "Efreet #10",
                         "ref": "Temple of Sharacia/Enemysanity/Efreet #10"
                     },
                     {
-                        "name": "Enemysanity - Cerberus #8",
+                        "name": "Cerberus #8",
                         "ref": "Temple of Sharacia/Enemysanity/Cerberus #8"
                     },
                     {
-                        "name": "Enemysanity - Cerberus #9",
+                        "name": "Cerberus #9",
                         "ref": "Temple of Sharacia/Enemysanity/Cerberus #9"
                     },
                     {
-                        "name": "Enemysanity - Fire Gargoyle #3",
+                        "name": "Fire Gargoyle #3",
                         "ref": "Temple of Sharacia/Enemysanity/Fire Gargoyle #3"
                     },
                     {
-                        "name": "Enemysanity - Efreet #11",
+                        "name": "Efreet #11",
                         "ref": "Temple of Sharacia/Enemysanity/Efreet #11"
                     },
                     {
-                        "name": "Enemysanity - Cerberus #10",
+                        "name": "Cerberus #10",
                         "ref": "Temple of Sharacia/Enemysanity/Cerberus #10"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 135,
+                        "x": 148,
                         "y": 453
                     }
                 ]
