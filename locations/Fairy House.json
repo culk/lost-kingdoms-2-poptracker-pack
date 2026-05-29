@@ -3,45 +3,46 @@
         "name": "Fairy House",
         "chest_unopened_img": "/images/items/fairy_close.png",
         "chest_opened_img": "/images/items/fairy_open.png",
+        "access_rules": ["^$can_enter_fairy_house"],
         "children": [
             {
                 "name": "Collect Red Fairies",
                 "sections": [
                     {
                         "name": "1 Fairy",
-                        "access_rules": []
+                        "access_rules": ["red_fairy:1"]
                     },
                     {
                         "name": "10 Fairies",
-                        "access_rules": []
+                        "access_rules": ["red_fairy:10"]
                     },
                     {
                         "name": "20 Fairies",
-                        "access_rules": []
+                        "access_rules": ["red_fairy:20"]
                     },
                     {
                         "name": "30 Fairies",
-                        "access_rules": []
+                        "access_rules": ["red_fairy:30"]
                     },
                     {
                         "name": "50 Fairies",
-                        "access_rules": []
+                        "access_rules": ["red_fairy:50"]
                     },
                     {
                         "name": "70 Fairies",
-                        "access_rules": []
+                        "access_rules": ["red_fairy:70"]
                     },
                     {
                         "name": "80 Fairies",
-                        "access_rules": []
+                        "access_rules": ["red_fairy:80"]
                     },
                     {
                         "name": "90 Fairies",
-                        "access_rules": []
+                        "access_rules": ["red_fairy:90"]
                     },
                     {
                         "name": "100 Fairies",
-                        "access_rules": []
+                        "access_rules": ["red_fairy:100"]
                     }
                 ]
             }

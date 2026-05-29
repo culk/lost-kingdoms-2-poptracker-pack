@@ -3,12 +3,11 @@
         "name": "Sacred Battle Arena 1",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_sacred_battle_arena_1"],
         "children": [
             {
                 "name": "Defeat Lich",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["$has_attribute|earth:6"],
                 "sections": [
                     {
                         "name": ""
@@ -24,9 +23,7 @@
             },
             {
                 "name": "Defeat Nueh",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["$has_attribute|wood:6"],
                 "sections": [
                     {
                         "name": ""
@@ -42,6 +39,7 @@
             },
             {
                 "name": "Defeat Gemini",
+                "access_rules": ["$has_attribute|fire:6"],
                 "sections": [
                     {
                         "name": ""
@@ -57,6 +55,7 @@
             },
             {
                 "name": "Defeat Kraken",
+                "access_rules": ["$has_attribute|water:6"],
                 "sections": [
                     {
                         "name": ""
@@ -74,7 +73,7 @@
                 "name": "Red Fairy 1",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -92,7 +91,7 @@
                 "name": "Red Fairy 2",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -110,7 +109,7 @@
                 "name": "Red Fairy 3",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""

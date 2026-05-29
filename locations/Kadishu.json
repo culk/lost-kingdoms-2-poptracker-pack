@@ -44,7 +44,7 @@
                         "name": "Red Fairy in Sacks",
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": []
+                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [
@@ -80,7 +80,7 @@
                         "name": "Red Fairy",
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": []
+                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [
@@ -114,11 +114,11 @@
                     },
                     {
                         "name": "Garbage Collection 2",
-                        "access_rules": []
+                        "access_rules": ["^$can_enter_ruldo_forest"]
                     },
                     {
                         "name": "Garbage Collection 3",
-                        "access_rules": []
+                        "access_rules": ["^$can_enter_royal_tower_lower"]
                     }
                 ],
                 "map_locations": [
@@ -133,7 +133,7 @@
                 "name": "Red Fairy on Bridge",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -151,7 +151,7 @@
                 "name": "Red Fairy in Well",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -169,7 +169,7 @@
                 "name": "Red Fairy by Fountain",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""

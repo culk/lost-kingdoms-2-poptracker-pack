@@ -3,6 +3,7 @@
         "name": "Ruldo Forest",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_ruldo_forest"],
         "children": [
             {
                 "name": "Dead End Near Start",
@@ -39,9 +40,7 @@
             },
             {
                 "name": "Jump Chest",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -58,7 +57,8 @@
             {
                 "name": "Flight or Jump Chest",
                 "access_rules": [
-                    " "
+                    "^$can_fly",
+                    "^$can_jump"
                 ],
                 "sections": [
                     {
@@ -95,7 +95,7 @@
                 "name": "Red Fairy at Start",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -113,7 +113,7 @@
                 "name": "Red Fairy at Start 2",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -131,7 +131,7 @@
                 "name": "Red Fairy in Tree",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -149,7 +149,7 @@
                 "name": "Red Fairy Near Machine",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -167,7 +167,7 @@
                 "name": "Red Fairy Past Cockatrice",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -213,7 +213,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "Elf #1"

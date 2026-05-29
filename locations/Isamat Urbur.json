@@ -3,6 +3,7 @@
         "name": "Isamat Urbur",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_isamat_urbur"],
         "children": [
             {
                 "name": "Treasure Room",
@@ -38,7 +39,7 @@
                 "name": "Red Fairy Near Start",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -56,7 +57,7 @@
                 "name": "Red Fairy East Room",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -74,7 +75,7 @@
                 "name": "Red Fairy Northeast",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -92,7 +93,7 @@
                 "name": "Red Fairy Southwest",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -123,9 +124,7 @@
             },
             {
                 "name": "Stone of Sealing",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["runestone:7"],
                 "sections": [
                     {
                         "name": ""
@@ -141,7 +140,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "Puppet Master #1"
@@ -154,63 +153,63 @@
                     },
                     {
                         "name": "Puppet Master #2",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Juggernaut #1",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Juggernaut #2",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Juggernaut #3",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Puppet Master #3",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Puppet Master #4",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Puppet Master #5",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Devata #3",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Devata #4",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Juggernaut #4",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Juggernaut #5",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Devata #5",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Devata #6",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Devata #7",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     },
                     {
                         "name": "Devata #8",
-                        "access_rules": []
+                        "access_rules": ["runestone:7"]
                     }
                 ],
                 "map_locations": [

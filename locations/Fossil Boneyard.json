@@ -3,6 +3,7 @@
         "name": "Fossil Boneyard",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_fossil_boneyard"],
         "children": [
             {
                 "name": "Chest 1",
@@ -21,9 +22,7 @@
             },
             {
                 "name": "Chest Behind Cultist",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -39,9 +38,7 @@
             },
             {
                 "name": "Chest 3",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -57,9 +54,7 @@
             },
             {
                 "name": "Chest 4",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -75,9 +70,7 @@
             },
             {
                 "name": "Near Wall With Hole",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": "Chest 5"
@@ -96,9 +89,7 @@
             },
             {
                 "name": "Chest 7",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -114,9 +105,7 @@
             },
             {
                 "name": "Flight Chest 1",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump, ^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -132,9 +121,7 @@
             },
             {
                 "name": "Flight Chest 2",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump, ^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -150,9 +137,7 @@
             },
             {
                 "name": "Zombie Dragon Chest",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["fossil:9"],
                 "sections": [
                     {
                         "name": ""
@@ -170,7 +155,7 @@
                 "name": "Red Fairy Near Start",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -188,8 +173,8 @@
                 "name": "Red Fairy Near Booster",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [],
-                "visibility_rules": [],
+                "access_rules": ["^$can_booster_jump"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -207,8 +192,8 @@
                 "name": "Red Fairy Near up Ledges",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [],
-                "visibility_rules": [],
+                "access_rules": ["^$can_booster_jump, ^$can_high_jump"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -224,11 +209,9 @@
             },
             {
                 "name": "Fossil Head Pickup",
-                "chest_unopened_img": "/images/items/fossils.png",
-                "chest_opened_img": "/images/items/fossils_open.png",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fossil.png",
+                "chest_opened_img": "/images/items/fossil_open.png",
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -244,11 +227,9 @@
             },
             {
                 "name": "Fossil Torso Pickup",
-                "chest_unopened_img": "/images/items/fossils.png",
-                "chest_opened_img": "/images/items/fossils_open.png",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fossil.png",
+                "chest_opened_img": "/images/items/fossil_open.png",
+                "access_rules": ["^$can_booster_jump, ^$can_high_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -264,11 +245,9 @@
             },
             {
                 "name": "Fossil Tail Pickup",
-                "chest_unopened_img": "/images/items/fossils.png",
-                "chest_opened_img": "/images/items/fossils_open.png",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fossil.png",
+                "chest_opened_img": "/images/items/fossil_open.png",
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -284,11 +263,9 @@
             },
             {
                 "name": "Fossil Right Wing Pickup",
-                "chest_unopened_img": "/images/items/fossils.png",
-                "chest_opened_img": "/images/items/fossils_open.png",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fossil.png",
+                "chest_opened_img": "/images/items/fossil_open.png",
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -304,11 +281,9 @@
             },
             {
                 "name": "Fossil Left Wing Pickup",
-                "chest_unopened_img": "/images/items/fossils.png",
-                "chest_opened_img": "/images/items/fossils_open.png",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fossil.png",
+                "chest_opened_img": "/images/items/fossil_open.png",
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -324,11 +299,9 @@
             },
             {
                 "name": "Fossil Right Arm Pickup",
-                "chest_unopened_img": "/images/items/fossils.png",
-                "chest_opened_img": "/images/items/fossils_open.png",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fossil.png",
+                "chest_opened_img": "/images/items/fossil_open.png",
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -344,11 +317,9 @@
             },
             {
                 "name": "Fossil Left Arm Pickup",
-                "chest_unopened_img": "/images/items/fossils.png",
-                "chest_opened_img": "/images/items/fossils_open.png",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fossil.png",
+                "chest_opened_img": "/images/items/fossil_open.png",
+                "access_rules": ["^$can_booster_jump, ^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -364,8 +335,8 @@
             },
             {
                 "name": "Fossil Right Leg Pickup",
-                "chest_unopened_img": "/images/items/fossils.png",
-                "chest_opened_img": "/images/items/fossils_open.png",
+                "chest_unopened_img": "/images/items/fossil.png",
+                "chest_opened_img": "/images/items/fossil_open.png",
                 "sections": [
                     {
                         "name": ""
@@ -381,11 +352,9 @@
             },
             {
                 "name": "Fossil Left Leg Pickup",
-                "chest_unopened_img": "/images/items/fossils.png",
-                "chest_opened_img": "/images/items/fossils_open.png",
-                "access_rules": [
-                    " "
-                ],
+                "chest_unopened_img": "/images/items/fossil.png",
+                "chest_opened_img": "/images/items/fossil_open.png",
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -401,9 +370,7 @@
             },
             {
                 "name": "Stranger",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -419,7 +386,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "Baby Dragon #1"
@@ -432,103 +399,103 @@
                     },
                     {
                         "name": "Baby Dragon #2",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Baby Dragon #3",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Catoblepas #1",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Caterpoker #2",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Baby Dragon #4",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Caterpoker #3",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Caterpoker #4",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Gnome #2",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Caterpoker #6",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Catoblepas #2",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Caterpoker #7",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Gnome #3",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Caterpoker #8",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Caterpoker #9",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Gnome #4",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Baby Dragon #5",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Baby Dragon #6",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Baby Dragon #7",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Baby Dragon #8",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Baby Dragon #9",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Amber Dragon #1",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Gnome #5",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump"]
                     },
                     {
                         "name": "Caterpoker #10",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump, ^$can_fly"]
                     },
                     {
                         "name": "Gnome #6",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump, ^$can_high_jump"]
                     },
                     {
                         "name": "Catoblepas #3",
-                        "access_rules": []
+                        "access_rules": ["^$can_booster_jump, ^$can_high_jump"]
                     }
                 ],
                 "map_locations": [

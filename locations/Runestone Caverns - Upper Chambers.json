@@ -3,6 +3,7 @@
         "name": "Runestone Caverns - Upper Chambers",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_runestone_caverns_upper"],
         "children": [
             {
                 "name": "Chest 1",
@@ -44,7 +45,7 @@
                         "name": "Red Fairy",
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": []
+                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [
@@ -88,7 +89,8 @@
             {
                 "name": "Chest Behind Ice 1",
                 "access_rules": [
-                    " "
+                    "^$can_ice_break",
+                    "^$can_high_jump, [^$can_ice_break]"
                 ],
                 "sections": [
                     {
@@ -105,9 +107,7 @@
             },
             {
                 "name": "Chest Behind Ice 2",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_ice_break"],
                 "sections": [
                     {
                         "name": ""
@@ -124,7 +124,8 @@
             {
                 "name": "Near Dragon",
                 "access_rules": [
-                    " "
+                    "^$can_fly",
+                    "^$can_jump"
                 ],
                 "sections": [
                     {
@@ -137,7 +138,7 @@
                         "name": "Red Fairy",
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": []
+                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [
@@ -152,7 +153,7 @@
                 "name": "Red Fairy Near Start",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -170,7 +171,7 @@
                 "name": "Red Fairy Near Sluice Gate",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -188,7 +189,7 @@
                 "name": "Red Fairy Near Golem",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -204,7 +205,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "Land Shark #1"
@@ -277,51 +278,51 @@
                     },
                     {
                         "name": "UberBomberBot #1",
-                        "access_rules": []
+                        "access_rules": ["stone_golem"]
                     },
                     {
                         "name": "UberBomberBot #2",
-                        "access_rules": []
+                        "access_rules": ["stone_golem"]
                     },
                     {
                         "name": "UberBomberBot #3",
-                        "access_rules": []
+                        "access_rules": ["stone_golem"]
                     },
                     {
                         "name": "Land Shark #10",
-                        "access_rules": []
+                        "access_rules": ["stone_golem"]
                     },
                     {
                         "name": "Land Shark #11",
-                        "access_rules": []
+                        "access_rules": ["stone_golem"]
                     },
                     {
                         "name": "Land Shark #12",
-                        "access_rules": []
+                        "access_rules": ["stone_golem"]
                     },
                     {
                         "name": "Land Shark #13",
-                        "access_rules": []
+                        "access_rules": ["stone_golem"]
                     },
                     {
                         "name": "Giant Crab #6",
-                        "access_rules": []
+                        "access_rules": ["stone_golem"]
                     },
                     {
                         "name": "Giant Crab #7",
-                        "access_rules": []
+                        "access_rules": ["stone_golem"]
                     },
                     {
                         "name": "Land Shark #14",
-                        "access_rules": []
+                        "access_rules": ["stone_golem"]
                     },
                     {
                         "name": "Land Shark #15",
-                        "access_rules": []
+                        "access_rules": ["stone_golem"]
                     },
                     {
                         "name": "Brine Dragon #1",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     }
                 ],
                 "map_locations": [

@@ -26,8 +26,8 @@
                 "name": "Red Fairy Sculpture",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [],
-                "visibility_rules": [],
+                "access_rules": ["mysterious_key"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -45,8 +45,8 @@
                 "name": "Red Fairy Central",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [],
-                "visibility_rules": [],
+                "access_rules": ["mysterious_key"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -64,8 +64,8 @@
                 "name": "Red Fairy Office",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [],
-                "visibility_rules": [],
+                "access_rules": ["mysterious_key"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -81,9 +81,7 @@
             },
             {
                 "name": "Stranger",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["mysterious_key"],
                 "sections": [
                     {
                         "name": ""
@@ -99,7 +97,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "Beaker #1"
@@ -139,43 +137,43 @@
                     },
                     {
                         "name": "Hell Hound #2",
-                        "access_rules": []
+                        "access_rules": ["mysterious_key"]
                     },
                     {
                         "name": "Incubus #2",
-                        "access_rules": []
+                        "access_rules": ["mysterious_key"]
                     },
                     {
                         "name": "Hell Hound #3",
-                        "access_rules": []
+                        "access_rules": ["mysterious_key"]
                     },
                     {
                         "name": "Succubus #2",
-                        "access_rules": []
+                        "access_rules": ["mysterious_key"]
                     },
                     {
                         "name": "Incubus #3",
-                        "access_rules": []
+                        "access_rules": ["mysterious_key"]
                     },
                     {
                         "name": "Succubus #3",
-                        "access_rules": []
+                        "access_rules": ["mysterious_key"]
                     },
                     {
                         "name": "Incubus #4",
-                        "access_rules": []
+                        "access_rules": ["mysterious_key"]
                     },
                     {
                         "name": "Succubus #4",
-                        "access_rules": []
+                        "access_rules": ["mysterious_key"]
                     },
                     {
                         "name": "Hell Hound #4",
-                        "access_rules": []
+                        "access_rules": ["mysterious_key"]
                     },
                     {
                         "name": "Hell Hound #5",
-                        "access_rules": []
+                        "access_rules": ["mysterious_key"]
                     }
                 ],
                 "map_locations": [

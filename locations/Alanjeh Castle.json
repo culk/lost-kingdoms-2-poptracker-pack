@@ -3,6 +3,7 @@
         "name": "Alanjeh Castle",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_alanjeh_castle"],
         "children": [
             {
                 "name": "Chest 1",
@@ -21,9 +22,7 @@
             },
             {
                 "name": "Behind Blue Seal Gate",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["[^$can_high_jump]"],
                 "sections": [
                     {
                         "name": "Chest 2"
@@ -87,9 +86,7 @@
             },
             {
                 "name": "Flight Chest",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -107,7 +104,7 @@
                 "name": "Red Fairy Near Start",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -125,10 +122,8 @@
                 "name": "Red Fairy Jump",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [
-                    " "
-                ],
-                "visibility_rules": [],
+                "access_rules": ["^$can_high_jump"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -146,7 +141,7 @@
                 "name": "Red Fairy End",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -162,7 +157,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "MechLance 5L #1"

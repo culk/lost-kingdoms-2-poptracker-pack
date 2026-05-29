@@ -3,6 +3,7 @@
         "name": "Royal Tower - Middle",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_royal_tower_middle"],
         "children": [
             {
                 "name": "Chest 1",
@@ -36,9 +37,7 @@
             },
             {
                 "name": "Breakable Wall 1",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_wall_break"],
                 "sections": [
                     {
                         "name": "Chest"
@@ -47,7 +46,7 @@
                         "name": "Red Fairy",
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": []
+                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [
@@ -60,9 +59,7 @@
             },
             {
                 "name": "Breakable Wall 2",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_wall_break"],
                 "sections": [
                     {
                         "name": "Chest"
@@ -71,7 +68,7 @@
                         "name": "Red Fairy",
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": []
+                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [
@@ -116,7 +113,7 @@
                 "name": "Red Fairy Near Start",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -134,7 +131,7 @@
                 "name": "Red Fairy Hallway",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -150,7 +147,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "Ice Golem #1"

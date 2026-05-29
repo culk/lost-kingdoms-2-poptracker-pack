@@ -3,12 +3,11 @@
         "name": "Krasheen Mountains",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_krasheen_mountains"],
         "children": [
             {
                 "name": "Chest 1",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -24,9 +23,7 @@
             },
             {
                 "name": "Chest 2",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -42,9 +39,7 @@
             },
             {
                 "name": "Chest 3",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -60,9 +55,7 @@
             },
             {
                 "name": "Chest 4",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -93,9 +86,7 @@
             },
             {
                 "name": "Chest 5",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -111,9 +102,7 @@
             },
             {
                 "name": "Chest 6",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -131,10 +120,8 @@
                 "name": "Red Fairy Cave 1",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [
-                    " "
-                ],
-                "visibility_rules": [],
+                "access_rules": ["^$can_fly"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -152,7 +139,7 @@
                 "name": "Red Fairy Bridge",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -170,10 +157,8 @@
                 "name": "Red Fairy Broken Bridge",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [
-                    " "
-                ],
-                "visibility_rules": [],
+                "access_rules": ["^$can_fly"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -191,10 +176,8 @@
                 "name": "Red Fairy Broken Bridge 2",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [
-                    " "
-                ],
-                "visibility_rules": [],
+                "access_rules": ["^$can_fly"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -210,7 +193,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "Gargoyle #1"
@@ -241,127 +224,133 @@
                     },
                     {
                         "name": "Running Bird #1",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gargoyle #6",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Horus #4",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gorgon #2",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gorgon #3",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gorgon #4",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gorgon #5",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Running Bird #2",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Running Bird #3",
-                        "access_rules": []
+                        "access_rules": [
+                            "^$can_fly",
+                            "^$can_jump"
+                        ]
                     },
                     {
                         "name": "Gorgon #6",
-                        "access_rules": []
+                        "access_rules": [
+                            "^$can_fly",
+                            "^$can_jump"
+                        ]
                     },
                     {
                         "name": "Black Dragon #1",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Horus #5",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gargoyle #7",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gargoyle #8",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Running Bird #4",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gargoyle #9",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Horus #6",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Running Bird #5",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gorgon #7",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gargoyle #10",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gargoyle #11",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Horus #7",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Horus #8",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Horus #9",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Horus #10",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Running Bird #6",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gorgon #8",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gorgon #9",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Horus #11",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Horus #12",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Gargoyle #12",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     }
                 ],
                 "map_locations": [

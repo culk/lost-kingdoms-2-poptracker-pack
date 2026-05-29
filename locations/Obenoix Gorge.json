@@ -3,6 +3,7 @@
         "name": "Obenoix Gorge",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_obenoix_gorge"],
         "children": [
             {
                 "name": "Chest 1",
@@ -29,7 +30,7 @@
                         "name": "Red Fairy in Tree",
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": []
+                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [
@@ -42,9 +43,7 @@
             },
             {
                 "name": "Island Near 2nd Sasquatch Battle",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_fly"],
                 "sections": [
                     {
                         "name": "Flight Chest 1"
@@ -81,9 +80,7 @@
             },
             {
                 "name": "Chest Behind Ice",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_ice_break"],
                 "sections": [
                     {
                         "name": ""
@@ -99,9 +96,7 @@
             },
             {
                 "name": "Flight Chest 3",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -119,7 +114,7 @@
                 "name": "Red Fairy Near Start",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -137,7 +132,7 @@
                 "name": "Red Fairy Near Flight",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -155,7 +150,7 @@
                 "name": "Red Fairy in Tree 2",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -173,7 +168,7 @@
                 "name": "Red Fairy Near Ship",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -189,7 +184,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "Vodianoi #1"
@@ -229,23 +224,23 @@
                     },
                     {
                         "name": "Vodianoi #6",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Vodianoi #7",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Vodianoi #8",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Water Elemental #1",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Water Elemental #2",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     },
                     {
                         "name": "Vodianoi #11"
@@ -279,7 +274,7 @@
                     },
                     {
                         "name": "Water Elemental #3",
-                        "access_rules": []
+                        "access_rules": ["^$can_fly"]
                     }
                 ],
                 "map_locations": [

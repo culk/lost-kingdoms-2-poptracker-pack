@@ -3,23 +3,14 @@
         "name": "Combo",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
+        "visibility_rules": ["combosanity"],
         "children": [
             {
                 "name": "Triple Hagan",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["rock_hagan, bum_hagan, storm_hagan"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -32,16 +23,10 @@
             },
             {
                 "name": "Ultimate Pasta",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["red_dragon, brine_dragon, green_dragon, amber_dragon"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -54,16 +39,10 @@
             },
             {
                 "name": "Rotary Death",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["carbuncle, decoy_pillar"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -76,16 +55,10 @@
             },
             {
                 "name": "Lizard War",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["red_lizard, venom_lizard, lizard_man, basilisk"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -98,16 +71,10 @@
             },
             {
                 "name": "Rocky Forecast",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["stone_head, $can_shop"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -120,16 +87,10 @@
             },
             {
                 "name": "Sir Spear-A-Lot",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["ghost_armor, chaos_knight"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -142,16 +103,10 @@
             },
             {
                 "name": "Temper Tantrum",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["fire_golem, ice_golem"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -164,16 +119,10 @@
             },
             {
                 "name": "Goblin Guts",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["hobgoblin, goblin_lord"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -186,16 +135,10 @@
             },
             {
                 "name": "Lethal Orbit",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["carbuncle, juggernaut, whip_worm"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -208,16 +151,10 @@
             },
             {
                 "name": "Crystal Rage",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["dragon_knight, crystal_rose, $can_shop"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -230,16 +167,10 @@
             },
             {
                 "name": "Mandragora Mixer",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["mandragora, mandra_dancer, king_mandragora"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -252,16 +183,10 @@
             },
             {
                 "name": "Rust and Roll!",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["acid_dragon, pixie"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -274,16 +199,10 @@
             },
             {
                 "name": "EconoMagic",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["panther_mage, tiger_mage"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -296,16 +215,10 @@
             },
             {
                 "name": "Just Visiting",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["doppelganger, god_of_destruction, $can_shop"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -318,16 +231,10 @@
             },
             {
                 "name": "Djinn and Bear It",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["efreet, dao, marid"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -340,16 +247,10 @@
             },
             {
                 "name": "Triple Kamikaze",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["flying_ray, dark_raven, $can_shop"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -362,16 +263,10 @@
             },
             {
                 "name": "One Way Ticket",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["valkyrie, thanatos"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -384,16 +279,10 @@
             },
             {
                 "name": "The Masters Four",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["fenril, behemoth, demon fox, ice golem"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -406,16 +295,10 @@
             },
             {
                 "name": "The Big Save",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["white_tiger, golden_phoenix, great_turtle, blue_dragon"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -428,16 +311,10 @@
             },
             {
                 "name": "Brutal Nightmare",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["succubus, incubus"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -450,16 +327,10 @@
             },
             {
                 "name": "Phantom BullDozer",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["wraith, lich, sekmet"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -472,16 +343,10 @@
             },
             {
                 "name": "Living Large",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["phoenix, golden_phoenix"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -494,16 +359,10 @@
             },
             {
                 "name": "Elemental Victory",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["dryad, gnome, salamander, undine"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -516,16 +375,10 @@
             },
             {
                 "name": "Skullapalooza",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["ice_skeleton, demon_skeleton, steel_skeleton, skeleton"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -538,16 +391,10 @@
             },
             {
                 "name": "Stone Cold Sniper",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["stone_golem, archer_tree, $can_shop"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -560,16 +407,10 @@
             },
             {
                 "name": "Mega Tremor",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["elephant, elephant_king"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -582,16 +423,10 @@
             },
             {
                 "name": "Time Out!",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["running_bird, gold_butterfly"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -604,16 +439,10 @@
             },
             {
                 "name": "Hell Hole",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["gravity_pillar, doppelganger"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -626,16 +455,10 @@
             },
             {
                 "name": "Spiritual Force",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["earth_elemental, fire_elemental, water_elemental, wood_elemental"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -648,16 +471,10 @@
             },
             {
                 "name": "Air Raid",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["treant, dark_raven, $can_shop"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -670,16 +487,10 @@
             },
             {
                 "name": "Tech Support!",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["acid_cloud, gold_butterfly"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -692,16 +503,10 @@
             },
             {
                 "name": "Song of Hades",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["mermaid, siren"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -714,16 +519,10 @@
             },
             {
                 "name": "Hearing Aid",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["sphinx, mummy, $can_shop"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -736,16 +535,10 @@
             },
             {
                 "name": "Uber Vampire Root",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["vampire_bush, $can_shop"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -758,16 +551,10 @@
             },
             {
                 "name": "Mo Better Moray",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["fire_moray, water_moray, earth_moray"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -780,16 +567,10 @@
             },
             {
                 "name": "Prayer of the Wise",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["sea_monk, mind_flayer"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -802,16 +583,10 @@
             },
             {
                 "name": "Hawging the Action",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["orc, $can_shop"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -824,16 +599,10 @@
             },
             {
                 "name": "Stone All Around",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["cockatrice, $can_shop"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -846,16 +615,10 @@
             },
             {
                 "name": "Tender Mercy",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["fairy, rheebus"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -868,16 +631,10 @@
             },
             {
                 "name": "Green Guardian",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["elf, elf_lord, dark_elf"],
                 "sections": [
                     {
-                        "name": "",
-                        "access_rules": [],
-                        "visibility_rules": [],
-                        "item_count": 1
+                        "name": ""
                     }
                 ],
                 "map_locations": [

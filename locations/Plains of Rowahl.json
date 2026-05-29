@@ -3,6 +3,7 @@
         "name": "Plains of Rowahl",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_plains_of_rowahl"],
         "children": [
             {
                 "name": "Chest 1",
@@ -36,9 +37,7 @@
             },
             {
                 "name": "Flight Chest",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -69,9 +68,7 @@
             },
             {
                 "name": "Behind Stranger",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["castle_gate_key"],
                 "sections": [
                     {
                         "name": "Chest 4"
@@ -90,9 +87,7 @@
             },
             {
                 "name": "Royal Vault",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["castle_gate_key, jewel_of_alanjeh"],
                 "sections": [
                     {
                         "name": "Chest 6"
@@ -111,9 +106,7 @@
             },
             {
                 "name": "Flight Chest 2",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -131,7 +124,7 @@
                 "name": "Red Fairy Near Start",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -149,7 +142,7 @@
                 "name": "Red Fairy in Catapult",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -167,7 +160,7 @@
                 "name": "Red Fairy in Golem",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -185,10 +178,8 @@
                 "name": "Red Fairy Past Gate",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [
-                    " "
-                ],
-                "visibility_rules": [],
+                "access_rules": ["castle_gate_key"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -204,9 +195,7 @@
             },
             {
                 "name": "Stranger",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["castle_gate_key"],
                 "sections": [
                     {
                         "name": ""
@@ -237,7 +226,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "Devil Plant #1"
@@ -286,47 +275,47 @@
                     },
                     {
                         "name": "Devil Plant #12",
-                        "access_rules": []
+                        "access_rules": ["castle_gate_key"]
                     },
                     {
                         "name": "Sand Golem #7",
-                        "access_rules": []
+                        "access_rules": ["castle_gate_key"]
                     },
                     {
                         "name": "Manticore #2",
-                        "access_rules": []
+                        "access_rules": ["castle_gate_key"]
                     },
                     {
                         "name": "Manticore #3",
-                        "access_rules": []
+                        "access_rules": ["castle_gate_key"]
                     },
                     {
                         "name": "Sand Golem #8",
-                        "access_rules": []
+                        "access_rules": ["castle_gate_key"]
                     },
                     {
                         "name": "Sand Golem #9",
-                        "access_rules": []
+                        "access_rules": ["castle_gate_key"]
                     },
                     {
                         "name": "Manticore #1",
-                        "access_rules": []
+                        "access_rules": ["castle_gate_key"]
                     },
                     {
                         "name": "Devil Plant #8",
-                        "access_rules": []
+                        "access_rules": ["castle_gate_key"]
                     },
                     {
                         "name": "Devil Plant #9",
-                        "access_rules": []
+                        "access_rules": ["castle_gate_key"]
                     },
                     {
                         "name": "Sand Golem #10",
-                        "access_rules": []
+                        "access_rules": ["castle_gate_key, jewel_of_alanjeh"]
                     },
                     {
                         "name": "Sand Golem #11",
-                        "access_rules": []
+                        "access_rules": ["castle_gate_key, jewel_of_alanjeh"]
                     }
                 ],
                 "map_locations": [

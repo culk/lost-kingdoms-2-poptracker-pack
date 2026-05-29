@@ -582,6 +582,7 @@
             },
             {
                 "name": "Combo",
+                "visibility_rules": ["combosanity"],
                 "sections": [
                     {
                         "name": "Triple Hagan",

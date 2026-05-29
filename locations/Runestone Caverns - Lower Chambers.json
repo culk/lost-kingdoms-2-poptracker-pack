@@ -3,6 +3,7 @@
         "name": "Runestone Caverns - Lower Chambers",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_runestone_caverns_lower"],
         "children": [
             {
                 "name": "Chest 1",
@@ -36,9 +37,7 @@
             },
             {
                 "name": "Low Water Chest",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_enter_runestone_caverns_upper"],
                 "sections": [
                     {
                         "name": ""
@@ -69,9 +68,7 @@
             },
             {
                 "name": "High Water Chest Flight",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -119,7 +116,7 @@
                 "name": "Red Fairy Near Start",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -137,7 +134,7 @@
                 "name": "Red Fairy in Rubble",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -155,10 +152,8 @@
                 "name": "Red Fairy Low Water",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [
-                    " "
-                ],
-                "visibility_rules": [],
+                "access_rules": ["^$can_enter_runestone_caverns_upper"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -176,7 +171,7 @@
                 "name": "Red Fairy on Stairs",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -192,7 +187,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "Water Reaper #1"

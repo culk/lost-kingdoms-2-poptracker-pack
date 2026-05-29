@@ -3,6 +3,7 @@
         "name": "Grenfoel Cathedral",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_grenfoel_cathedral"],
         "children": [
             {
                 "name": "Four Statues Room",
@@ -20,13 +21,13 @@
                         "name": "Red Fairy 1",
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": []
+                        "visibility_rules": ["fairysanity"]
                     },
                     {
                         "name": "Red Fairy 2",
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": []
+                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [
@@ -70,7 +71,7 @@
                         "name": "Red Fairy Library",
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": []
+                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [

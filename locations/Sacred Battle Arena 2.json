@@ -3,9 +3,11 @@
         "name": "Sacred Battle Arena 2",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_sacred_battle_arena_2"],
         "children": [
             {
                 "name": "Defeat Rabandos",
+                "access_rules": ["$has_attribute|neutral:6"],
                 "sections": [
                     {
                         "name": ""
@@ -21,6 +23,7 @@
             },
             {
                 "name": "Defeat Helena",
+                "access_rules": ["$has_attribute|neutral:6"],
                 "sections": [
                     {
                         "name": ""
@@ -36,6 +39,7 @@
             },
             {
                 "name": "Defeat AstroBot",
+                "access_rules": ["$has_attribute|mech:6"],
                 "sections": [
                     {
                         "name": ""
@@ -51,9 +55,7 @@
             },
             {
                 "name": "Defeat Leod",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_enter_royal_tower_upper, $has_attribute|mech:6"],
                 "sections": [
                     {
                         "name": ""
@@ -69,9 +71,7 @@
             },
             {
                 "name": "Defeat Thalnos",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_enter_royal_tower_upper, $has_attribute|mech:6, $has_attribute|neutral:6"],
                 "sections": [
                     {
                         "name": ""
@@ -87,9 +87,7 @@
             },
             {
                 "name": "Defeat Katia",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["^$can_enter_royal_tower_upper, $has_attribute|mech:6, $has_attribute|neutral:6"],
                 "sections": [
                     {
                         "name": ""
@@ -107,7 +105,7 @@
                 "name": "Red Fairy Hallway",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -125,7 +123,8 @@
                 "name": "Red Fairy Machines",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "access_rules": ["$has_attribute|mech:6"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -143,10 +142,8 @@
                 "name": "Red Fairy Queen Katia",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [
-                    " "
-                ],
-                "visibility_rules": [],
+                "access_rules": ["^$can_enter_royal_tower_upper, $has_attribute|mech:6, $has_attribute|neutral:6"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""

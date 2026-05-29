@@ -3,6 +3,7 @@
         "name": "Royal Tower - Lower",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_royal_tower_lower"],
         "children": [
             {
                 "name": "Chest 1",
@@ -51,9 +52,7 @@
             },
             {
                 "name": "Flight Chest 1",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["god_of_destruction, ^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -69,9 +68,7 @@
             },
             {
                 "name": "Flight Chest 2",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["god_of_destruction, ^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -87,9 +84,7 @@
             },
             {
                 "name": "Jump Chest 1",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["god_of_destruction, ^$can_high_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -105,9 +100,7 @@
             },
             {
                 "name": "Jump Chest 2",
-                "access_rules": [
-                    " "
-                ],
+                "access_rules": ["god_of_destruction, ^$can_high_jump"],
                 "sections": [
                     {
                         "name": ""
@@ -125,7 +118,7 @@
                 "name": "Red Fairy Start",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -143,7 +136,7 @@
                 "name": "Red Fairy up Elevator",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -161,7 +154,7 @@
                 "name": "Red Fairy Over Pillar",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -179,7 +172,7 @@
                 "name": "Red Fairy Chandelier",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -197,7 +190,7 @@
                 "name": "Red Fairy Outside",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": [],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -215,10 +208,8 @@
                 "name": "Red Fairy Flight",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [
-                    " "
-                ],
-                "visibility_rules": [],
+                "access_rules": ["god_of_destruction, ^$can_fly"],
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
                         "name": ""
@@ -234,7 +225,7 @@
             },
             {
                 "name": "Enemysanity",
-                "visibility_rules": [],
+                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {
                         "name": "LazerBug 39K #1"
