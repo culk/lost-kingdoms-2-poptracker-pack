@@ -29,34 +29,13 @@
                                 "castle_gate_key",
                                 "jewel_of_alanjeh",
                                 "stone_of_sealing",
-                                "magic_boosters",
-                                "red_fairy"
+                                "magic_boosters"
                             ],
                             [
-                                "fossil_left_leg",
-                                "fossil_tail",
-                                "fossil_right_leg",
-                                "fossil_head",
-                                "fossil_left_wing",
-                                "fossil_right_arm",
-                                "fossil_torso",
-                                "fossil_right_wing",
-                                "fossil_left_arm"
-                            ],
-                            [
-                                "blade_of_time",
-                                "blade_of_power",
-                                "blade_of_skill",
-                                "blade_of_wisdom"
-                            ],
-                            [
-                                "runestone_eno",
-                                "runestone_oht",
-                                "runestone_olf",
-                                "runestone_nebeth",
-                                "runestone_elise",
-                                "runestone_keil",
-                                "runestone_ebin"
+                                "red_fairy",
+                                "fossil",
+                                "blade",
+                                "runestone"
                             ],
                             [
                                 "baba_yaga",
@@ -68,7 +47,9 @@
                                 "cerberus",
                                 "centaur",
                                 "stone_golem",
-                                "god_of_destruction"
+                                "god_of_destruction",
+                                "unicorn",
+                                "chariobot"
                             ],
                             [
                                 "progressive_player_level",
@@ -154,7 +135,9 @@
                                 "cerberus",
                                 "centaur",
                                 "stone_golem",
-                                "god_of_destruction"
+                                "god_of_destruction",
+                                "unicorn",
+                                "chariobot"
                             ],
                             [
                                 "progressive_player_level",

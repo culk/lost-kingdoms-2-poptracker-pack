@@ -24,75 +24,93 @@
         "codes": "green_key"
     },
     {
+        "name": "Fossils",
+        "type": "consumable",
+        "img": "images/items/fossil.png",
+        "max_quantity": 9,
+        "overlay_font_size": 20,
+        "overlay_background": "#000000",
+        "codes": "fossil"
+    },
+    {
+        "name": "Runestones",
+        "type": "consumable",
+        "img": "images/items/runestone.png",
+        "max_quantity": 7,
+        "overlay_font_size": 20,
+        "overlay_background": "#000000",
+        "codes": "runestone"
+    },
+    {
+        "name": "Blades",
+        "type": "consumable",
+        "img": "images/items/blade.png",
+        "max_quantity": 4,
+        "overlay_font_size": 20,
+        "overlay_background": "#000000",
+        "codes": "blade"
+    },
+    {
         "name": "Fossil Head",
         "type": "toggle",
-        "img": "images/items/fossils.png",
+        "img": "images/items/fossil.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "fossil_head"
     },
     {
         "name": "Fossil Torso",
         "type": "toggle",
-        "img": "images/items/fossils.png",
+        "img": "images/items/fossil.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "fossil_torso"
     },
     {
         "name": "Fossil Tail",
         "type": "toggle",
-        "img": "images/items/fossils.png",
+        "img": "images/items/fossil.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "fossil_tail"
     },
     {
         "name": "Fossil Right Wing",
         "type": "toggle",
-        "img": "images/items/fossils.png",
+        "img": "images/items/fossil.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "fossil_right_wing"
     },
     {
         "name": "Fossil Left Wing",
         "type": "toggle",
-        "img": "images/items/fossils.png",
+        "img": "images/items/fossil.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "fossil_left_wing"
     },
     {
         "name": "Fossil Right Arm",
         "type": "toggle",
-        "img": "images/items/fossils.png",
+        "img": "images/items/fossil.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "fossil_right_arm"
     },
     {
         "name": "Fossil Left Arm",
         "type": "toggle",
-        "img": "images/items/fossils.png",
+        "img": "images/items/fossil.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "fossil_left_arm"
     },
     {
         "name": "Fossil Right Leg",
         "type": "toggle",
-        "img": "images/items/fossils.png",
+        "img": "images/items/fossil.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "fossil_right_leg"
     },
     {
         "name": "Fossil Left Leg",
         "type": "toggle",
-        "img": "images/items/fossils.png",
+        "img": "images/items/fossil.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "fossil_left_leg"
     },
     {
@@ -100,7 +118,6 @@
         "type": "toggle",
         "img": "images/items/bottle.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "bottle"
     },
     {
@@ -108,7 +125,6 @@
         "type": "toggle",
         "img": "images/items/black_liquid.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "black_liquid"
     },
     {
@@ -116,39 +132,34 @@
         "type": "toggle",
         "img": "images/items/mysterious_key.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "mysterious_key"
     },
     {
         "name": "Blade of Skill",
         "type": "toggle",
-        "img": "images/items/blades.png",
+        "img": "images/items/blade.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "blade_of_skill"
     },
     {
         "name": "Blade of Power",
         "type": "toggle",
-        "img": "images/items/blades.png",
+        "img": "images/items/blade.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "blade_of_power"
     },
     {
         "name": "Blade of Wisdom",
         "type": "toggle",
-        "img": "images/items/blades.png",
+        "img": "images/items/blade.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "blade_of_wisdom"
     },
     {
         "name": "Blade of Time",
         "type": "toggle",
-        "img": "images/items/blades.png",
+        "img": "images/items/blade.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "blade_of_time"
     },
     {
@@ -156,63 +167,55 @@
         "type": "toggle",
         "img": "images/items/jewel_of_alanjeh.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "jewel_of_alanjeh"
     },
     {
         "name": "Eno Runestone",
         "type": "toggle",
-        "img": "images/items/runestones.png",
+        "img": "images/items/runestone.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "runestone_eno"
     },
     {
         "name": "Oht Runestone",
         "type": "toggle",
-        "img": "images/items/runestones.png",
+        "img": "images/items/runestone.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "runestone_oht"
     },
     {
         "name": "Elise Runestone",
         "type": "toggle",
-        "img": "images/items/runestones.png",
+        "img": "images/items/runestone.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "runestone_elise"
     },
     {
         "name": "Olf Runestone",
         "type": "toggle",
-        "img": "images/items/runestones.png",
+        "img": "images/items/runestone.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "runestone_olf"
     },
     {
         "name": "Ebin Runestone",
         "type": "toggle",
-        "img": "images/items/runestones.png",
+        "img": "images/items/runestone.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "runestone_ebin"
     },
     {
         "name": "Keil Runestone",
         "type": "toggle",
-        "img": "images/items/runestones.png",
+        "img": "images/items/runestone.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "runestone_keil"
     },
     {
         "name": "Nebeth Runestone",
         "type": "toggle",
-        "img": "images/items/runestones.png",
+        "img": "images/items/runestone.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "runestone_nebeth"
     },
     {
@@ -220,7 +223,6 @@
         "type": "toggle",
         "img": "images/items/stone_of_sealing.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "stone_of_sealing"
     },
     {
@@ -228,7 +230,6 @@
         "type": "toggle",
         "img": "images/items/castle_gate_key.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "castle_gate_key"
     },
     {
@@ -236,7 +237,6 @@
         "type": "toggle",
         "img": "images/items/fountain_key.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "fountain_key"
     },
     {
@@ -244,20 +244,14 @@
         "type": "toggle",
         "img": "images/items/magic_boosters.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "magic_boosters"
     },
     {
-        "name": "red_fairy",
+        "name": "Red Fairies",
         "type": "consumable",
         "img": "images/items/fairy_open.png",
-        "min_quantity": 0,
         "max_quantity": 100,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
+        "overlay_font_size": 20,
         "overlay_background": "#000000",
         "codes": "red_fairy"
     },
@@ -267,7 +261,6 @@
         "type": "toggle",
         "img": "images/items/cards/baba_yaga.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "baba_yaga"
     },
     {
@@ -275,7 +268,6 @@
         "type": "toggle",
         "img": "images/items/cards/birdman.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "birdman"
     },
     {
@@ -283,7 +275,6 @@
         "type": "toggle",
         "img": "images/items/cards/garuda.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "garuda"
     },
     {
@@ -291,7 +282,6 @@
         "type": "toggle",
         "img": "images/items/cards/wyvern.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "wyvern"
     },
     {
@@ -299,7 +289,6 @@
         "type": "toggle",
         "img": "images/items/cards/pazuzu.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "pazuzu"
     },
     {
@@ -307,7 +296,6 @@
         "type": "toggle",
         "img": "images/items/cards/hell_hound.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "hell_hound"
     },
     {
@@ -315,7 +303,6 @@
         "type": "toggle",
         "img": "images/items/cards/cerberus.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "cerberus"
     },
     {
@@ -323,7 +310,6 @@
         "type": "toggle",
         "img": "images/items/cards/centaur.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "centaur"
     },
     {
@@ -331,7 +317,6 @@
         "type": "toggle",
         "img": "images/items/cards/stone_golem.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "stone_golem"
     },
     {
@@ -339,8 +324,21 @@
         "type": "toggle",
         "img": "images/items/cards/god_of_destruction.png",
         "initial_active_state": false,
-        "overlay_align": "right",
         "codes": "god_of_destruction"
+    },
+    {
+        "name": "unicorn",
+        "type": "toggle",
+        "img": "images/items/cards/unicorn.png",
+        "initial_active_state": false,
+        "codes": "unicorn"
+    },
+    {
+        "name": "chariobot",
+        "type": "toggle",
+        "img": "images/items/cards/chariobot.png",
+        "initial_active_state": false,
+        "codes": "chariobot"
     },
 
     {
@@ -349,11 +347,7 @@
         "img": "images/items/progressive_player_level.png",
         "min_quantity": 1,
         "max_quantity": 20,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
+        "overlay_font_size": 20,
         "overlay_background": "#000000",
         "codes": "progressive_player_level"
     },
@@ -363,11 +357,7 @@
         "img": "images/items/progressive_attribute_proficiency_fire.png",
         "min_quantity": 3,
         "max_quantity": 8,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
+        "overlay_font_size": 20,
         "overlay_background": "#000000",
         "codes": "progressive_attribute_proficiency_fire"
     },
@@ -377,11 +367,7 @@
         "img": "images/items/progressive_attribute_proficiency_water.png",
         "min_quantity": 3,
         "max_quantity": 8,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
+        "overlay_font_size": 20,
         "overlay_background": "#000000",
         "codes": "progressive_attribute_proficiency_water"
     },
@@ -391,11 +377,7 @@
         "img": "images/items/progressive_attribute_proficiency_earth.png",
         "min_quantity": 3,
         "max_quantity": 8,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
+        "overlay_font_size": 20,
         "overlay_background": "#000000",
         "codes": "progressive_attribute_proficiency_earth"
     },
@@ -405,11 +387,7 @@
         "img": "images/items/progressive_attribute_proficiency_wood.png",
         "min_quantity": 3,
         "max_quantity": 8,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
+        "overlay_font_size": 20,
         "overlay_background": "#000000",
         "codes": "progressive_attribute_proficiency_wood"
     },
@@ -419,11 +397,7 @@
         "img": "images/items/progressive_attribute_proficiency_neutral.png",
         "min_quantity": 1,
         "max_quantity": 8,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
+        "overlay_font_size": 20,
         "overlay_background": "#000000",
         "codes": "progressive_attribute_proficiency_neutral"
     },
@@ -433,11 +407,7 @@
         "img": "images/items/progressive_attribute_proficiency_mech.png",
         "min_quantity": 1,
         "max_quantity": 8,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
+        "overlay_font_size": 20,
         "overlay_background": "#000000",
         "codes": "progressive_attribute_proficiency_mech"
     },
@@ -1603,14 +1573,6 @@
         "codes": "berserker"
     },
     {
-        "name": "chariobot",
-        "type": "toggle",
-        "img": "images/items/cards/chariobot.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "chariobot"
-    },
-    {
         "name": "rabandos",
         "type": "toggle",
         "img": "images/items/cards/rabandos.png",
@@ -2073,14 +2035,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "mad_reverser"
-    },
-    {
-        "name": "unicorn",
-        "type": "toggle",
-        "img": "images/items/cards/unicorn.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "unicorn"
     },
     {
         "name": "phoenix",
