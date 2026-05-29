@@ -7,11 +7,11 @@
                 "background":  "#000000",
                 "h_alignment": "left",
                 "item_margin": "2,2",
-                "item_size": "32,32",
+                "item_size": "64,64",
                 "rows": [
                     ["goal", "red_fairies_goal_amount"],
                     ["fairysanity", "combosanity", "enemysanity"],
-                    ["progressive_leveling", "progressive_attribute_proficiencies"]
+                    ["randomize_levels", "progressive_leveling", "progressive_attribute_proficiencies"]
                 ]
             }
         ]

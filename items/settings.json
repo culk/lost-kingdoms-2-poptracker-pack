@@ -31,6 +31,7 @@
         "min_quantity": 1,
         "max_quantity": 97,
         "initial_quantity": 50,
+        "overlay_font_size": 20,
         "overlay_background": "#000000",
         "img": "images/settings/red_fairies.png",
         "codes": "red_fairies_goal_amount"
@@ -52,6 +53,12 @@
         "type": "toggle",
         "img": "images/settings/enemysanity.png",
         "codes": "enemysanity"
+    },
+    {
+        "name": "Randomize Levels",
+        "type": "toggle",
+        "img": "images/settings/randomize_levels.png",
+        "codes": "randomize_levels"
     },
     {
         "name": "Progressive Leveling",

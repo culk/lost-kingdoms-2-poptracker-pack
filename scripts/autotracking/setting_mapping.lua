@@ -31,6 +31,13 @@ SETTING_MAPPING = {
             [1] = true,
         },
     },
+    randomize_levels = {
+        code = "randomize_levels",
+        mapping = {
+            [0] = false,
+            [1] = true,
+        },
+    },
     progressive_leveling = {
         code = "progressive_leveling",
         mapping = {
