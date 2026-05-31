@@ -166,7 +166,6 @@ function onItem(index, item_id, item_name, player_number)
     CUR_INDEX = index;
     local item = ITEM_MAPPING[item_id]
     if not item or not item[1] then
-        --print(string.format("onItem: could not find item mapping for id %s", item_id))
         return
     end
     for _, item_pair in pairs(item) do
@@ -175,20 +174,16 @@ function onItem(index, item_id, item_name, player_number)
         local item_obj = Tracker:FindObjectForCode(item_code)
         if item_obj then
             if item_obj.Type == "toggle" then
-                -- print("toggle")
                 item_obj.Active = true
             elseif item_obj.Type == "progressive" then
-                -- print("progressive")
                 if item_obj.Active == true then
                     item_obj.CurrentStage = item_obj.CurrentStage + 1
                 else
                     item_obj.Active = true
                 end
             elseif item_obj.Type == "consumable" then
-                -- print("consumable")
                 item_obj.AcquiredCount = item_obj.AcquiredCount + item_obj.Increment * (tonumber(item_pair[3]) or 1)
             elseif item_obj.Type == "progressive_toggle" then
-                -- print("progressive_toggle")
                 if item_obj.Active then
                     item_obj.CurrentStage = item_obj.CurrentStage + 1
                 else
@@ -211,7 +206,6 @@ function onLocation(location_id, location_name)
 
     for _, location in pairs(location_array) do
         local location_obj = Tracker:FindObjectForCode(location)
-        -- print(location, location_obj)
         if location_obj then
             if location:sub(1, 1) == "@" then
                 location_obj.AvailableChestCount = location_obj.AvailableChestCount - 1
@@ -225,7 +219,6 @@ function onLocation(location_id, location_name)
 end
 
 function OnNotify(key, value, old_value)
-    print("OnNotify", key, value, old_value)
     if value ~= old_value and key == HINTS_ID then
         for _, hint in ipairs(value) do
             if hint.finding_player == Archipelago.PlayerNumber then
@@ -255,7 +248,6 @@ end
 
 function UpdateHints(locationID, status) -->
     if Highlight then
-        -- print(locationID, status)
         local location_table = LOCATION_MAPPING[locationID]
         for _, location in ipairs(location_table) do
             if location:sub(1, 1) == "@" then
@@ -264,7 +256,7 @@ function UpdateHints(locationID, status) -->
                 if obj then
                     obj.Highlight = HIGHLIGHT_LEVEL[status]
                 else
-                    print(string.format("No object found for code: %s", location))
+                    print(string.format("UpdateHints: No object found for code: %s", location))
                 end
             end
         end
