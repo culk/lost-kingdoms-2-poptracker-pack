@@ -25,3 +25,7 @@ Download the most recent .zip file from the **Releases** and either drag it to t
 | AP World Version | PopTracker Pack Version |
 |------------------|-------------------------|
 | v0.1.07          | v0.1.0+                 |
+
+## Credits
+
+- Pack created with the help of [pack builder](https://github.com/StripesOO7/poptracker-pack-builder).
