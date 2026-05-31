@@ -6,12 +6,20 @@
                 "type": "itemgrid",
                 "background":  "#000000",
                 "h_alignment": "left",
-                "item_margin": "2,2",
-                "item_size": "64,64",
+                "item_margin": "12,2",
+                "item_size": "480,48",
                 "rows": [
-                    ["goal", "red_fairies_goal_amount"],
-                    ["fairysanity", "combosanity", "enemysanity"],
-                    ["randomize_levels", "progressive_leveling", "progressive_attribute_proficiencies"]
+                    ["header_settings"],
+                    ["randomize_levels"],
+                    ["progressive_leveling"],
+                    ["progressive_attribute_proficiencies"],
+                    ["header_goal"],
+                    ["goal"],
+                    ["red_fairies_goal_amount"],
+                    ["header_locations"],
+                    ["fairysanity"],
+                    ["combosanity"],
+                    ["enemysanity"]
                 ]
             }
         ]
