@@ -15,8 +15,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 36,
-                        "item_width": 36,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                             [
                                 "bottle",
@@ -24,32 +24,20 @@
                                 "red_key",
                                 "blue_key",
                                 "green_key",
+                                "magic_boosters"
+                            ],
+                            [
                                 "mysterious_key",
                                 "fountain_key",
                                 "castle_gate_key",
                                 "jewel_of_alanjeh",
-                                "stone_of_sealing",
-                                "magic_boosters"
+                                "stone_of_sealing"
                             ],
                             [
                                 "red_fairy",
                                 "fossil",
                                 "blade",
                                 "runestone"
-                            ],
-                            [
-                                "baba_yaga",
-                                "birdman",
-                                "garuda",
-                                "wyvern",
-                                "pazuzu",
-                                "hell_hound",
-                                "cerberus",
-                                "centaur",
-                                "stone_golem",
-                                "god_of_destruction",
-                                "unicorn",
-                                "chariobot"
                             ],
                             [
                                 "progressive_player_level",
@@ -59,6 +47,36 @@
                                 "progressive_attribute_proficiency_wood",
                                 "progressive_attribute_proficiency_neutral",
                                 "progressive_attribute_proficiency_mech"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 76,
+                        "item_width": 56,
+                        "rows": [
+                            [
+                                "baba_yaga",
+                                "birdman",
+                                "garuda",
+                                "wyvern",
+                                "pazuzu"
+                            ],
+                            [
+                                "hell_hound",
+                                "cerberus",
+                                "centaur",
+                                "unicorn"
+                            ],
+                            [
+                                "stone_golem",
+                                "chariobot",
+                                "talos",
+                                "god_of_destruction"
                             ]
                         ]
                     }
@@ -82,8 +100,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 36,
-                        "item_width": 36,
+                        "item_height": 48,
+                        "item_width": 48,
                         "rows": [
                             [
                                 "bottle",
@@ -91,53 +109,20 @@
                                 "red_key",
                                 "blue_key",
                                 "green_key",
+                                "magic_boosters"
+                            ],
+                            [
                                 "mysterious_key",
                                 "fountain_key",
                                 "castle_gate_key",
                                 "jewel_of_alanjeh",
-                                "stone_of_sealing",
-                                "magic_boosters",
-                                "red_fairy"
+                                "stone_of_sealing"
                             ],
                             [
-                                "fossil_left_leg",
-                                "fossil_tail",
-                                "fossil_right_leg",
-                                "fossil_head",
-                                "fossil_left_wing",
-                                "fossil_right_arm",
-                                "fossil_torso",
-                                "fossil_right_wing",
-                                "fossil_left_arm"
-                            ],
-                            [
-                                "blade_of_time",
-                                "blade_of_power",
-                                "blade_of_skill",
-                                "blade_of_wisdom"
-                            ],
-                            [
-                                "runestone_eno",
-                                "runestone_oht",
-                                "runestone_olf",
-                                "runestone_nebeth",
-                                "runestone_elise",
-                                "runestone_keil",
-                                "runestone_ebin"
-                            ],
-                            [
-                                "baba_yaga",
-                                "birdman",
-                                "garuda",
-                                "wyvern",
-                                "pazuzu",
-                                "hell_hound",
-                                "cerberus",
-                                "centaur",
-                                "stone_golem",
-                                "god_of_destruction",
-                                "unicorn",
-                                "chariobot"
+                                "red_fairy",
+                                "fossil",
+                                "blade",
+                                "runestone"
                             ],
                             [
                                 "progressive_player_level",
@@ -147,6 +132,36 @@
                                 "progressive_attribute_proficiency_wood",
                                 "progressive_attribute_proficiency_neutral",
                                 "progressive_attribute_proficiency_mech"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 76,
+                        "item_width": 56,
+                        "rows": [
+                            [
+                                "baba_yaga",
+                                "birdman",
+                                "garuda",
+                                "wyvern",
+                                "pazuzu"
+                            ],
+                            [
+                                "hell_hound",
+                                "cerberus",
+                                "centaur",
+                                "unicorn"
+                            ],
+                            [
+                                "stone_golem",
+                                "chariobot",
+                                "talos",
+                                "god_of_destruction"
                             ]
                         ]
                     }

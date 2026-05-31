@@ -299,6 +299,13 @@
         "codes": "hell_hound"
     },
     {
+        "name": "unicorn",
+        "type": "toggle",
+        "img": "images/items/cards/unicorn.png",
+        "initial_active_state": false,
+        "codes": "unicorn"
+    },
+    {
         "name": "Cerberus",
         "type": "toggle",
         "img": "images/items/cards/cerberus.png",
@@ -320,25 +327,26 @@
         "codes": "stone_golem"
     },
     {
-        "name": "God of Destruction",
-        "type": "toggle",
-        "img": "images/items/cards/god_of_destruction.png",
-        "initial_active_state": false,
-        "codes": "god_of_destruction"
-    },
-    {
-        "name": "unicorn",
-        "type": "toggle",
-        "img": "images/items/cards/unicorn.png",
-        "initial_active_state": false,
-        "codes": "unicorn"
-    },
-    {
         "name": "chariobot",
         "type": "toggle",
         "img": "images/items/cards/chariobot.png",
         "initial_active_state": false,
         "codes": "chariobot"
+    },
+    {
+        "name": "talos",
+        "type": "toggle",
+        "img": "images/items/cards/talos.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "talos"
+    },
+    {
+        "name": "God of Destruction",
+        "type": "toggle",
+        "img": "images/items/cards/god_of_destruction.png",
+        "initial_active_state": false,
+        "codes": "god_of_destruction"
     },
 
     {
@@ -1443,14 +1451,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "chameleus"
-    },
-    {
-        "name": "talos",
-        "type": "toggle",
-        "img": "images/items/cards/talos.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "talos"
     },
     {
         "name": "vodianoi",
