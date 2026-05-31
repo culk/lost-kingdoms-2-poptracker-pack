@@ -790,7 +790,7 @@
                 ]
             },
             {
-                "name": "Fairy House",
+                "name": "Jarvi's House",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
                 "sections": [
@@ -848,7 +848,7 @@
                     },
                     {
                         "name": "Chest Behind Cultist",
-                        "ref": "Fossil Boneyard/Chest Behind Cultist/"
+                        "ref": "Fossil Boneyard/Ledge With Stranger/Chest Behind Cultist"
                     },
                     {
                         "name": "Chest 3",
@@ -880,7 +880,7 @@
                     },
                     {
                         "name": "Stranger",
-                        "ref": "Fossil Boneyard/Stranger/"
+                        "ref": "Fossil Boneyard/Ledge With Stranger/Stranger"
                     },
                     {
                         "name": "Zombie Dragon Chest",
@@ -1071,6 +1071,10 @@
                 "name": "Grenfoel Cathedral",
                 "sections": [
                     {
+                        "name": "Jewel of Alanjeh Reward",
+                        "ref": "Grenfoel Cathedral/Jewel of Alanjeh Reward/"
+                    },
+                    {
                         "name": "Hidden Chest 1",
                         "ref": "Grenfoel Cathedral/Four Statues Room/Hidden Chest 1"
                     },
@@ -1091,10 +1095,6 @@
                         "ref": "Grenfoel Cathedral/Near Organ/Chest 2"
                     },
                     {
-                        "name": "Jewel of Alanjeh Reward",
-                        "ref": "Grenfoel Cathedral/Library/Jewel of Alanjeh Reward"
-                    },
-                    {
                         "name": "Red Fairy Near Organ",
                         "ref": "Grenfoel Cathedral/Near Organ/Red Fairy"
                     },
@@ -1112,7 +1112,7 @@
                     },
                     {
                         "name": "Red Fairy Library",
-                        "ref": "Grenfoel Cathedral/Library/Red Fairy Library"
+                        "ref": "Grenfoel Cathedral/Red Fairy Library/"
                     }
                 ],
                 "map_locations": [
@@ -1148,11 +1148,11 @@
                     },
                     {
                         "name": "Chest by Oil",
-                        "ref": "Gromtull Desert/Near Oil/Chest"
+                        "ref": "Gromtull Desert/Chest by Oil/"
                     },
                     {
                         "name": "Black Liquid Pickup",
-                        "ref": "Gromtull Desert/Near Oil/Black Liquid Pickup"
+                        "ref": "Gromtull Desert/Black Liquid Pickup/"
                     },
                     {
                         "name": "Flight Chest",
@@ -1348,11 +1348,11 @@
                     },
                     {
                         "name": "Chest 5",
-                        "ref": "Holzogh Town/Chest 5/"
+                        "ref": "Holzogh Town/Eastern Wall/Chest 5"
                     },
                     {
                         "name": "Chest 6",
-                        "ref": "Holzogh Town/Chest 6/"
+                        "ref": "Holzogh Town/Eastern Wall/Chest 6"
                     },
                     {
                         "name": "Chest 7",
@@ -2568,15 +2568,15 @@
                 "sections": [
                     {
                         "name": "Chest 1",
-                        "ref": "Royal Tower - Lower/Chest 1/"
+                        "ref": "Royal Tower - Lower/First Visit Only/Chest 1"
                     },
                     {
                         "name": "Chest 2",
-                        "ref": "Royal Tower - Lower/Chest 2/"
+                        "ref": "Royal Tower - Lower/First Visit Only/Chest 2"
                     },
                     {
                         "name": "Chest 3",
-                        "ref": "Royal Tower - Lower/Chest 3/"
+                        "ref": "Royal Tower - Lower/Near Pillar/Chest 3"
                     },
                     {
                         "name": "Flight Chest 1",
@@ -2596,15 +2596,15 @@
                     },
                     {
                         "name": "Red Fairy Start",
-                        "ref": "Royal Tower - Lower/Red Fairy Start/"
+                        "ref": "Royal Tower - Lower/First Visit Only/Red Fairy Start"
                     },
                     {
                         "name": "Red Fairy up Elevator",
-                        "ref": "Royal Tower - Lower/Red Fairy up Elevator/"
+                        "ref": "Royal Tower - Lower/First Visit Only/Red Fairy up Elevator"
                     },
                     {
                         "name": "Red Fairy Over Pillar",
-                        "ref": "Royal Tower - Lower/Red Fairy Over Pillar/"
+                        "ref": "Royal Tower - Lower/Near Pillar/Red Fairy Over Pillar"
                     },
                     {
                         "name": "Red Fairy Chandelier",
@@ -3168,11 +3168,11 @@
                     },
                     {
                         "name": "Chest 6",
-                        "ref": "Runestone Caverns - Lower Chambers/Chest 6/"
+                        "ref": "Runestone Caverns - Lower Chambers/Runestone Room/Chest 6"
                     },
                     {
                         "name": "Chest 7",
-                        "ref": "Runestone Caverns - Lower Chambers/Chest 7/"
+                        "ref": "Runestone Caverns - Lower Chambers/Runestone Room/Chest 7"
                     },
                     {
                         "name": "Red Fairy Near Start",
@@ -3396,11 +3396,11 @@
                     },
                     {
                         "name": "Red Fairy Near Golem",
-                        "ref": "Runestone Caverns - Upper Chambers/Red Fairy Near Golem/"
+                        "ref": "Runestone Caverns - Upper Chambers/Sol/Red Fairy Near Golem/"
                     },
                     {
                         "name": "Red Fairy Near Sol",
-                        "ref": "Runestone Caverns - Upper Chambers/Sol/Red Fairy"
+                        "ref": "Runestone Caverns - Upper Chambers/Sol/Red Fairy Near Sol"
                     }
                 ],
                 "map_locations": [
@@ -3844,7 +3844,7 @@
                     },
                     {
                         "name": "Chest 4",
-                        "ref": "Temple of Sharacia/Chest 4/"
+                        "ref": "Temple of Sharacia/Top of Stairs/Chest 4"
                     },
                     {
                         "name": "Chest 5",
@@ -3852,7 +3852,7 @@
                     },
                     {
                         "name": "Chest 6",
-                        "ref": "Temple of Sharacia/Top of Stairs/Chest 6"
+                        "ref": "Temple of Sharacia/Chest 6/"
                     },
                     {
                         "name": "Help Valkyrie",
@@ -3879,8 +3879,8 @@
                         "ref": "Temple of Sharacia/Red Fairy up Right Side/"
                     },
                     {
-                        "name": "Red Fairy Rubble",
-                        "ref": "Temple of Sharacia/Red Fairy Rubble/"
+                        "name": "Red Fairy in Rubble",
+                        "ref": "Temple of Sharacia/Red Fairy in Rubble/"
                     },
                     {
                         "name": "Red Fairy Valkyrie Side",

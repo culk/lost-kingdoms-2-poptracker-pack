@@ -6,6 +6,21 @@
         "access_rules": ["^$can_enter_grenfoel_cathedral"],
         "children": [
             {
+                "name": "Jewel of Alanjeh Reward",
+                "sections": [
+                    {
+                        "name": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Grenfoel Cathedral",
+                        "x": 502,
+                        "y": 754
+                    }
+                ]
+            },
+            {
                 "name": "Four Statues Room",
                 "sections": [
                     {
@@ -62,23 +77,20 @@
                 ]
             },
             {
-                "name": "Library",
+                "name": "Red Fairy Library",
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
-                        "name": "Jewel of Alanjeh Reward"
-                    },
-                    {
-                        "name": "Red Fairy Library",
-                        "chest_unopened_img": "/images/items/fairy_close.png",
-                        "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": ["fairysanity"]
+                        "name": ""
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Grenfoel Cathedral",
                         "x": 549,
-                        "y": 266
+                        "y": 226
                     }
                 ]
             },

@@ -31,7 +31,7 @@
                     {
                         "map": "Kendarie Fortress",
                         "x": 336,
-                        "y": 298
+                        "y": 301
                     }
                 ]
             },
@@ -46,7 +46,7 @@
                 "map_locations": [
                     {
                         "map": "Kendarie Fortress",
-                        "x": 199,
+                        "x": 201,
                         "y": 480
                     }
                 ]
@@ -63,7 +63,7 @@
                     {
                         "map": "Kendarie Fortress",
                         "x": 578,
-                        "y": 479
+                        "y": 478
                     }
                 ]
             },
@@ -78,8 +78,8 @@
                 "map_locations": [
                     {
                         "map": "Kendarie Fortress",
-                        "x": 506,
-                        "y": 390
+                        "x": 507,
+                        "y": 392
                     }
                 ]
             },
@@ -163,27 +163,12 @@
                     {
                         "map": "Kendarie Fortress",
                         "x": 237,
-                        "y": 622
+                        "y": 605
                     }
                 ]
             },
             {
                 "name": "Kendarie Soldier 1",
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Kendarie Fortress",
-                        "x": 435,
-                        "y": 435
-                    }
-                ]
-            },
-            {
-                "name": "Kendarie Soldier 2",
                 "access_rules": ["blue_key"],
                 "sections": [
                     {
@@ -193,8 +178,24 @@
                 "map_locations": [
                     {
                         "map": "Kendarie Fortress",
-                        "x": 630,
-                        "y": 636
+                        "x": 635,
+                        "y": 333
+                    }
+                ]
+            },
+            {
+                "name": "Kendarie Soldier 2",
+                "access_rules": ["[blue_key]"],
+                "sections": [
+                    {
+                        "name": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kendarie Fortress",
+                        "x": 450,
+                        "y": 548
                     }
                 ]
             },
@@ -209,8 +210,8 @@
                 "map_locations": [
                     {
                         "map": "Kendarie Fortress",
-                        "x": 635,
-                        "y": 333
+                        "x": 630,
+                        "y": 636
                     }
                 ]
             },
@@ -272,8 +273,8 @@
                 "map_locations": [
                     {
                         "map": "Kendarie Fortress",
-                        "x": 105,
-                        "y": 196
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

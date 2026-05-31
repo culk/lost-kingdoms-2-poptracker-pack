@@ -31,8 +31,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 455,
-                        "y": 602
+                        "x": 456,
+                        "y": 605
                     }
                 ]
             },
@@ -46,13 +46,46 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 545,
-                        "y": 604
+                        "x": 547,
+                        "y": 605
                     }
                 ]
             },
             {
                 "name": "Chest 3",
+                "sections": [
+                    {
+                        "name": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Temple of Sharacia",
+                        "x": 398,
+                        "y": 355
+                    }
+                ]
+            },
+            {
+                "name": "Top of Stairs",
+                "sections": [
+                    {
+                        "name": "Chest 4"
+                    },
+                    {
+                        "name": "Chest 5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Temple of Sharacia",
+                        "x": 503,
+                        "y": 176
+                    }
+                ]
+            },
+            {
+                "name": "Chest 6",
                 "sections": [
                     {
                         "name": ""
@@ -67,39 +100,6 @@
                 ]
             },
             {
-                "name": "Chest 4",
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple of Sharacia",
-                        "x": 545,
-                        "y": 643
-                    }
-                ]
-            },
-            {
-                "name": "Top of Stairs",
-                "sections": [
-                    {
-                        "name": "Chest 5"
-                    },
-                    {
-                        "name": "Chest 6"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple of Sharacia",
-                        "x": 500,
-                        "y": 176
-                    }
-                ]
-            },
-            {
                 "name": "Help Valkyrie",
                 "sections": [
                     {
@@ -110,7 +110,7 @@
                     {
                         "map": "Temple of Sharacia",
                         "x": 232,
-                        "y": 170
+                        "y": 172
                     }
                 ]
             },
@@ -125,7 +125,7 @@
                     {
                         "map": "Temple of Sharacia",
                         "x": 772,
-                        "y": 170
+                        "y": 172
                     }
                 ]
             },
@@ -143,7 +143,7 @@
                     {
                         "map": "Temple of Sharacia",
                         "x": 484,
-                        "y": 806
+                        "y": 836
                     }
                 ]
             },
@@ -178,8 +178,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 455,
-                        "y": 640
+                        "x": 425,
+                        "y": 643
                     }
                 ]
             },
@@ -196,13 +196,13 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 569,
-                        "y": 370
+                        "x": 601,
+                        "y": 355
                     }
                 ]
             },
             {
-                "name": "Red Fairy Rubble",
+                "name": "Red Fairy in Rubble",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
                 "visibility_rules": ["fairysanity"],
@@ -214,8 +214,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 682,
-                        "y": 170
+                        "x": 612,
+                        "y": 172
                     }
                 ]
             },
@@ -341,8 +341,8 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 82,
-                        "y": 157
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

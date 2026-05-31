@@ -83,25 +83,13 @@
                 ]
             },
             {
-                "name": "Chest 6",
+                "name": "Runestone Room",
                 "sections": [
                     {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
+                        "name": "Chest 6"
+                    },
                     {
-                        "map": "Runestone Caverns - Lower Chambers",
-                        "x": 781,
-                        "y": 436
-                    }
-                ]
-            },
-            {
-                "name": "Chest 7",
-                "sections": [
-                    {
-                        "name": ""
+                        "name": "Chest 7"
                     }
                 ],
                 "map_locations": [
@@ -292,8 +280,8 @@
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Lower Chambers",
-                        "x": 103,
-                        "y": 189
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

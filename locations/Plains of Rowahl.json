@@ -15,8 +15,8 @@
                 "map_locations": [
                     {
                         "map": "Plains of Rowahl",
-                        "x": 625,
-                        "y": 692
+                        "x": 610,
+                        "y": 743
                     }
                 ]
             },
@@ -30,8 +30,8 @@
                 "map_locations": [
                     {
                         "map": "Plains of Rowahl",
-                        "x": 586,
-                        "y": 756
+                        "x": 558,
+                        "y": 750
                     }
                 ]
             },
@@ -61,8 +61,8 @@
                 "map_locations": [
                     {
                         "map": "Plains of Rowahl",
-                        "x": 357,
-                        "y": 536
+                        "x": 337,
+                        "y": 518
                     }
                 ]
             },
@@ -133,8 +133,8 @@
                 "map_locations": [
                     {
                         "map": "Plains of Rowahl",
-                        "x": 728,
-                        "y": 545
+                        "x": 618,
+                        "y": 565
                     }
                 ]
             },
@@ -152,7 +152,7 @@
                     {
                         "map": "Plains of Rowahl",
                         "x": 572,
-                        "y": 643
+                        "y": 603
                     }
                 ]
             },
@@ -170,7 +170,7 @@
                     {
                         "map": "Plains of Rowahl",
                         "x": 450,
-                        "y": 553
+                        "y": 543
                     }
                 ]
             },
@@ -219,8 +219,8 @@
                 "map_locations": [
                     {
                         "map": "Plains of Rowahl",
-                        "x": 491,
-                        "y": 708
+                        "x": 420,
+                        "y": 690
                     }
                 ]
             },
@@ -321,8 +321,8 @@
                 "map_locations": [
                     {
                         "map": "Plains of Rowahl",
-                        "x": 101,
-                        "y": 200
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

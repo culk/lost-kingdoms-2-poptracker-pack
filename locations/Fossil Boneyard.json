@@ -15,24 +15,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 521,
-                        "y": 263
-                    }
-                ]
-            },
-            {
-                "name": "Chest Behind Cultist",
-                "access_rules": ["^$can_booster_jump"],
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Fossil Boneyard",
-                        "x": 406,
-                        "y": 436
+                        "x": 518,
+                        "y": 260
                     }
                 ]
             },
@@ -63,8 +47,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 488,
-                        "y": 599
+                        "x": 458,
+                        "y": 592
                     }
                 ]
             },
@@ -82,8 +66,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 410,
-                        "y": 677
+                        "x": 412,
+                        "y": 684
                     }
                 ]
             },
@@ -114,14 +98,17 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 624,
-                        "y": 714
+                        "x": 600,
+                        "y": 688
                     }
                 ]
             },
             {
                 "name": "Flight Chest 2",
-                "access_rules": ["^$can_booster_jump, ^$can_fly"],
+                "access_rules": [
+                    "^$can_booster_jump, ^$can_fly",
+                    "^$can_booster_jump, ^$can_long_jump"
+                ],
                 "sections": [
                     {
                         "name": ""
@@ -165,7 +152,7 @@
                     {
                         "map": "Fossil Boneyard",
                         "x": 454,
-                        "y": 309
+                        "y": 300
                     }
                 ]
             },
@@ -220,8 +207,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 340,
-                        "y": 601
+                        "x": 375,
+                        "y": 603
                     }
                 ]
             },
@@ -256,8 +243,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 459,
-                        "y": 608
+                        "x": 498,
+                        "y": 603
                     }
                 ]
             },
@@ -274,7 +261,7 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 654,
+                        "x": 616,
                         "y": 866
                     }
                 ]
@@ -292,8 +279,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 365,
-                        "y": 761
+                        "x": 360,
+                        "y": 726
                     }
                 ]
             },
@@ -328,8 +315,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 445,
-                        "y": 894
+                        "x": 625,
+                        "y": 713
                     }
                 ]
             },
@@ -345,8 +332,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 385,
-                        "y": 305
+                        "x": 512,
+                        "y": 297
                     }
                 ]
             },
@@ -363,24 +350,27 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 376,
+                        "x": 406,
                         "y": 656
                     }
                 ]
             },
             {
-                "name": "Stranger",
+                "name": "Ledge With Stranger",
                 "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Stranger"
+                    },
+                    {
+                        "name": "Chest Behind Cultist"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 358,
-                        "y": 425
+                        "x": 600,
+                        "y": 350
                     }
                 ]
             },
@@ -501,8 +491,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 94,
-                        "y": 184
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

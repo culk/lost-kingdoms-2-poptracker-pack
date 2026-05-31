@@ -16,8 +16,8 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
-                        "x": 608,
-                        "y": 599
+                        "x": 394,
+                        "y": 515
                     }
                 ]
             },
@@ -32,8 +32,8 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
-                        "x": 763,
-                        "y": 595
+                        "x": 243,
+                        "y": 515
                     }
                 ]
             },
@@ -48,8 +48,8 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
-                        "x": 393,
-                        "y": 515
+                        "x": 609,
+                        "y": 598
                     }
                 ]
             },
@@ -64,8 +64,8 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
-                        "x": 242,
-                        "y": 508
+                        "x": 766,
+                        "y": 598
                     }
                 ]
             },
@@ -80,7 +80,7 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
-                        "x": 502,
+                        "x": 500,
                         "y": 388
                     }
                 ]
@@ -114,8 +114,8 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
-                        "x": 560,
-                        "y": 700
+                        "x": 500,
+                        "y": 600
                     }
                 ]
             },
@@ -133,8 +133,8 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 2",
-                        "x": 438,
-                        "y": 616
+                        "x": 671,
+                        "y": 598
                     }
                 ]
             },

@@ -7,39 +7,7 @@
         "children": [
             {
                 "name": "Chest 1",
-                "access_rules": ["^$can_booster_jump"],
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Krasheen Mountains",
-                        "x": 691,
-                        "y": 530
-                    }
-                ]
-            },
-            {
-                "name": "Chest 2",
-                "access_rules": ["^$can_booster_jump"],
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Krasheen Mountains",
-                        "x": 703,
-                        "y": 410
-                    }
-                ]
-            },
-            {
-                "name": "Chest 3",
-                "access_rules": ["^$can_booster_jump"],
+                "access_rules": ["^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -54,8 +22,62 @@
                 ]
             },
             {
+                "name": "Chest 2",
+                "access_rules": [
+                    "^$can_fly",
+                    "^$can_long_jump"
+                ],
+                "sections": [
+                    {
+                        "name": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Krasheen Mountains",
+                        "x": 691,
+                        "y": 530
+                    }
+                ]
+            },
+            {
+                "name": "Chest 3",
+                "access_rules": [
+                    "^$can_fly",
+                    "^$can_long_jump"
+                ],
+                "sections": [
+                    {
+                        "name": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Krasheen Mountains",
+                        "x": 600,
+                        "y": 534
+                    }
+                ]
+            },
+            {
                 "name": "Chest 4",
-                "access_rules": ["^$can_booster_jump"],
+                "access_rules": ["^$can_fly"],
+                "sections": [
+                    {
+                        "name": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Krasheen Mountains",
+                        "x": 444,
+                        "y": 531
+                    }
+                ]
+            },
+            {
+                "name": "Chest 5",
+                "access_rules": ["^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -70,39 +92,8 @@
                 ]
             },
             {
-                "name": "Chest 7",
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Krasheen Mountains",
-                        "x": 610,
-                        "y": 534
-                    }
-                ]
-            },
-            {
-                "name": "Chest 5",
-                "access_rules": ["^$can_booster_jump"],
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Krasheen Mountains",
-                        "x": 301,
-                        "y": 330
-                    }
-                ]
-            },
-            {
                 "name": "Chest 6",
-                "access_rules": ["^$can_booster_jump"],
+                "access_rules": ["^$can_fly"],
                 "sections": [
                     {
                         "name": ""
@@ -113,6 +104,22 @@
                         "map": "Krasheen Mountains",
                         "x": 241,
                         "y": 673
+                    }
+                ]
+            },
+            {
+                "name": "Chest 7",
+                "access_rules": ["^$can_fly"],
+                "sections": [
+                    {
+                        "name": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Krasheen Mountains",
+                        "x": 175,
+                        "y": 504
                     }
                 ]
             },
@@ -356,8 +363,8 @@
                 "map_locations": [
                     {
                         "map": "Krasheen Mountains",
-                        "x": 96,
-                        "y": 187
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

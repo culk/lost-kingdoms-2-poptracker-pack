@@ -7,7 +7,7 @@
         "children": [
             {
                 "name": "Jump Chest",
-                "access_rules": ["^$can_booster_jump"],
+                "access_rules": ["hell_hound"],
                 "sections": [
                     {
                         "name": ""
@@ -37,7 +37,7 @@
                 "map_locations": [
                     {
                         "map": "Sarvan",
-                        "x": 325,
+                        "x": 327,
                         "y": 639
                     }
                 ]
@@ -68,8 +68,8 @@
                 "map_locations": [
                     {
                         "map": "Sarvan",
-                        "x": 401,
-                        "y": 558
+                        "x": 404,
+                        "y": 529
                     }
                 ]
             },
@@ -83,8 +83,8 @@
                 "map_locations": [
                     {
                         "map": "Sarvan",
-                        "x": 402,
-                        "y": 529
+                        "x": 404,
+                        "y": 564
                     }
                 ]
             },
@@ -132,7 +132,7 @@
                     {
                         "map": "Sarvan",
                         "x": 187,
-                        "y": 593
+                        "y": 613
                     }
                 ]
             },
@@ -149,8 +149,8 @@
                 "map_locations": [
                     {
                         "map": "Sarvan",
-                        "x": 353,
-                        "y": 570
+                        "x": 356,
+                        "y": 516
                     }
                 ]
             },
@@ -167,8 +167,8 @@
                 "map_locations": [
                     {
                         "map": "Sarvan",
-                        "x": 523,
-                        "y": 442
+                        "x": 525,
+                        "y": 443
                     }
                 ]
             },
@@ -249,8 +249,8 @@
                 "map_locations": [
                     {
                         "map": "Sarvan",
-                        "x": 84,
-                        "y": 165
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

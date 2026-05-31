@@ -34,8 +34,12 @@ function can_high_jump()
     return ANY("hell_hound", unicorn_out_of_logic)
 end
 
+function can_long_jump()
+    return ANY("cerberus", "centaur")
+end
+
 function can_jump()
-    return ANY(can_high_jump(), "cerberus", "centaur")
+    return ANY(can_high_jump(), can_long_jump())
 end
 
 function can_booster_jump()

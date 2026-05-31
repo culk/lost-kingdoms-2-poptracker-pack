@@ -6,47 +6,53 @@
         "access_rules": ["^$can_enter_royal_tower_lower"],
         "children": [
             {
-                "name": "Chest 1",
+                "name": "First Visit Only",
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest 1"
+                    },
+                    {
+                        "name": "Chest 2"
+                    },
+                    {
+                        "name": "Red Fairy Start",
+                        "chest_unopened_img": "/images/items/fairy_close.png",
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": ["fairysanity"]
+                    },
+                    {
+                        "name": "Red Fairy up Elevator",
+                        "chest_unopened_img": "/images/items/fairy_close.png",
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Royal Tower - Lower",
-                        "x": 157,
-                        "y": 329
+                        "x": 198,
+                        "y": 728
                     }
                 ]
             },
             {
-                "name": "Chest 2",
+                "name": "Near Pillar",
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest 3"
+                    },
+                    {
+                        "name": "Red Fairy Over Pillar",
+                        "chest_unopened_img": "/images/items/fairy_close.png",
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Royal Tower - Lower",
-                        "x": 258,
-                        "y": 367
-                    }
-                ]
-            },
-            {
-                "name": "Chest 3",
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Royal Tower - Lower",
-                        "x": 258,
-                        "y": 402
+                        "x": 154,
+                        "y": 354
                     }
                 ]
             },
@@ -62,7 +68,7 @@
                     {
                         "map": "Royal Tower - Lower",
                         "x": 328,
-                        "y": 416
+                        "y": 419
                     }
                 ]
             },
@@ -77,8 +83,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Lower",
-                        "x": 327,
-                        "y": 325
+                        "x": 328,
+                        "y": 327
                     }
                 ]
             },
@@ -93,8 +99,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Lower",
-                        "x": 867,
-                        "y": 393
+                        "x": 868,
+                        "y": 390
                     }
                 ]
             },
@@ -109,62 +115,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Lower",
-                        "x": 890,
-                        "y": 573
-                    }
-                ]
-            },
-            {
-                "name": "Red Fairy Start",
-                "chest_unopened_img": "/images/items/fairy_close.png",
-                "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": ["fairysanity"],
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Royal Tower - Lower",
-                        "x": 118,
-                        "y": 388
-                    }
-                ]
-            },
-            {
-                "name": "Red Fairy up Elevator",
-                "chest_unopened_img": "/images/items/fairy_close.png",
-                "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": ["fairysanity"],
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Royal Tower - Lower",
-                        "x": 614,
-                        "y": 371
-                    }
-                ]
-            },
-            {
-                "name": "Red Fairy Over Pillar",
-                "chest_unopened_img": "/images/items/fairy_close.png",
-                "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": ["fairysanity"],
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Royal Tower - Lower",
-                        "x": 102,
-                        "y": 334
+                        "x": 892,
+                        "y": 576
                     }
                 ]
             },
@@ -182,7 +134,7 @@
                     {
                         "map": "Royal Tower - Lower",
                         "x": 378,
-                        "y": 485
+                        "y": 486
                     }
                 ]
             },
@@ -258,8 +210,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Lower",
-                        "x": 89,
-                        "y": 170
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

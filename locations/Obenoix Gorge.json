@@ -43,7 +43,10 @@
             },
             {
                 "name": "Island Near 2nd Sasquatch Battle",
-                "access_rules": ["^$can_fly"],
+                "access_rules": [
+                    "^$can_fly",
+                    "[^$can_long_jump]"
+                ],
                 "sections": [
                     {
                         "name": "Flight Chest 1"
@@ -123,8 +126,8 @@
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 698,
-                        "y": 750
+                        "x": 721,
+                        "y": 788
                     }
                 ]
             },
@@ -280,8 +283,8 @@
                 "map_locations": [
                     {
                         "map": "Obenoix Gorge",
-                        "x": 90,
-                        "y": 176
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

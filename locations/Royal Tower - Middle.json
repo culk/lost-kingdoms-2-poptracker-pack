@@ -16,7 +16,7 @@
                     {
                         "map": "Royal Tower - Middle",
                         "x": 419,
-                        "y": 433
+                        "y": 437
                     }
                 ]
             },
@@ -30,8 +30,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Middle",
-                        "x": 442,
-                        "y": 433
+                        "x": 444,
+                        "y": 437
                     }
                 ]
             },
@@ -52,14 +52,17 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Middle",
-                        "x": 358,
-                        "y": 832
+                        "x": 651,
+                        "y": 174
                     }
                 ]
             },
             {
                 "name": "Breakable Wall 2",
-                "access_rules": ["^$can_wall_break"],
+                "access_rules": [
+                    "^$can_wall_break",
+                    "magic_boosters, talos, [stone_golem]"
+                ],
                 "sections": [
                     {
                         "name": "Chest"
@@ -74,8 +77,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Middle",
-                        "x": 648,
-                        "y": 174
+                        "x": 358,
+                        "y": 835
                     }
                 ]
             },
@@ -89,8 +92,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Middle",
-                        "x": 622,
-                        "y": 695
+                        "x": 623,
+                        "y": 568
                     }
                 ]
             },
@@ -104,8 +107,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Middle",
-                        "x": 622,
-                        "y": 567
+                        "x": 623,
+                        "y": 696
                     }
                 ]
             },
@@ -122,7 +125,7 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Middle",
-                        "x": 436,
+                        "x": 438,
                         "y": 609
                     }
                 ]
@@ -228,8 +231,8 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Middle",
-                        "x": 107,
-                        "y": 189
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

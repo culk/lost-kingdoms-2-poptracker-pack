@@ -30,8 +30,8 @@
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Upper Chambers",
-                        "x": 633,
-                        "y": 470
+                        "x": 726,
+                        "y": 543
                     }
                 ]
             },
@@ -42,7 +42,13 @@
                         "name": "Talk to Sol"
                     },
                     {
-                        "name": "Red Fairy",
+                        "name": "Red Fairy Near Sol",
+                        "chest_unopened_img": "/images/items/fairy_close.png",
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": ["fairysanity"]
+                    },
+                    {
+                        "name": "Red Fairy Near Golem",
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
                         "visibility_rules": ["fairysanity"]
@@ -66,8 +72,8 @@
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Upper Chambers",
-                        "x": 478,
-                        "y": 408
+                        "x": 636,
+                        "y": 457
                     }
                 ]
             },
@@ -81,8 +87,8 @@
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Upper Chambers",
-                        "x": 349,
-                        "y": 535
+                        "x": 458,
+                        "y": 408
                     }
                 ]
             },
@@ -182,24 +188,6 @@
                         "map": "Runestone Caverns - Upper Chambers",
                         "x": 402,
                         "y": 498
-                    }
-                ]
-            },
-            {
-                "name": "Red Fairy Near Golem",
-                "chest_unopened_img": "/images/items/fairy_close.png",
-                "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": ["fairysanity"],
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Runestone Caverns - Upper Chambers",
-                        "x": 588,
-                        "y": 309
                     }
                 ]
             },
@@ -328,8 +316,8 @@
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Upper Chambers",
-                        "x": 95,
-                        "y": 187
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

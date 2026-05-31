@@ -76,8 +76,8 @@
                 "map_locations": [
                     {
                         "map": "Bhashea Castle",
-                        "x": 542,
-                        "y": 329
+                        "x": 538,
+                        "y": 340
                     }
                 ]
             },
@@ -91,8 +91,8 @@
                 "map_locations": [
                     {
                         "map": "Bhashea Castle",
-                        "x": 848,
-                        "y": 644
+                        "x": 833,
+                        "y": 638
                     }
                 ]
             },
@@ -122,8 +122,8 @@
                 "map_locations": [
                     {
                         "map": "Bhashea Castle",
-                        "x": 671,
-                        "y": 587
+                        "x": 614,
+                        "y": 586
                     }
                 ]
             },
@@ -158,8 +158,8 @@
                 "map_locations": [
                     {
                         "map": "Bhashea Castle",
-                        "x": 841,
-                        "y": 424
+                        "x": 856,
+                        "y": 450
                     }
                 ]
             },
@@ -176,8 +176,8 @@
                 "map_locations": [
                     {
                         "map": "Bhashea Castle",
-                        "x": 146,
-                        "y": 320
+                        "x": 407,
+                        "y": 338
                     }
                 ]
             },
@@ -408,8 +408,8 @@
                 "map_locations": [
                     {
                         "map": "Bhashea Castle",
-                        "x": 91,
-                        "y": 178
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }

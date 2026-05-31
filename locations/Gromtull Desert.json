@@ -36,19 +36,30 @@
                     {
                         "map": "Gromtull Desert",
                         "x": 765,
-                        "y": 518
+                        "y": 503
                     }
                 ]
             },
             {
-                "name": "Near Oil",
+                "name": "Chest by Oil",
                 "sections": [
                     {
-                        "name": "Chest"
-                    },
+                        "name": ""
+                    }
+                ],
+                "map_locations": [
                     {
-                        "name": "Black Liquid Pickup",
-                        "access_rules": ["bottle"]
+                        "map": "Gromtull Desert",
+                        "x": 812,
+                        "y": 790
+                    }
+                ]
+            },
+            {
+                "name": "Black Liquid Pickup",
+                "sections": [
+                    {
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -137,7 +148,7 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 789,
+                        "x": 765,
                         "y": 772
                     }
                 ]
@@ -292,7 +303,7 @@
                 "map_locations": [
                     {
                         "map": "Gromtull Desert",
-                        "x": 106,
+                        "x": 102,
                         "y": 191
                     }
                 ]

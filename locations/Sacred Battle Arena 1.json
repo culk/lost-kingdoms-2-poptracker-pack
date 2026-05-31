@@ -16,8 +16,8 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 1",
-                        "x": 322,
-                        "y": 813
+                        "x": 323,
+                        "y": 815
                     }
                 ]
             },
@@ -32,8 +32,8 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 1",
-                        "x": 322,
-                        "y": 458
+                        "x": 323,
+                        "y": 461
                     }
                 ]
             },
@@ -49,7 +49,7 @@
                     {
                         "map": "Sacred Battle Arena 1",
                         "x": 677,
-                        "y": 457
+                        "y": 461
                     }
                 ]
             },
@@ -64,8 +64,8 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 1",
-                        "x": 678,
-                        "y": 813
+                        "x": 677,
+                        "y": 815
                     }
                 ]
             },
@@ -82,7 +82,7 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 1",
-                        "x": 498,
+                        "x": 500,
                         "y": 737
                     }
                 ]
@@ -100,7 +100,7 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 1",
-                        "x": 497,
+                        "x": 500,
                         "y": 476
                     }
                 ]
@@ -118,7 +118,7 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 1",
-                        "x": 499,
+                        "x": 500,
                         "y": 252
                     }
                 ]
@@ -133,7 +133,7 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 1",
-                        "x": 499,
+                        "x": 500,
                         "y": 638
                     }
                 ]
@@ -148,8 +148,8 @@
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 1",
-                        "x": 499,
-                        "y": 386
+                        "x": 500,
+                        "y": 366
                     }
                 ]
             }

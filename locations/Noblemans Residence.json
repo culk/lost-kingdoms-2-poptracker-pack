@@ -37,7 +37,7 @@
                     {
                         "map": "Noblemans Residence",
                         "x": 659,
-                        "y": 552
+                        "y": 562
                     }
                 ]
             },
@@ -56,7 +56,7 @@
                     {
                         "map": "Noblemans Residence",
                         "x": 501,
-                        "y": 585
+                        "y": 635
                     }
                 ]
             },
@@ -90,7 +90,7 @@
                 "map_locations": [
                     {
                         "map": "Noblemans Residence",
-                        "x": 762,
+                        "x": 764,
                         "y": 295
                     }
                 ]
@@ -179,8 +179,8 @@
                 "map_locations": [
                     {
                         "map": "Noblemans Residence",
-                        "x": 86,
-                        "y": 178
+                        "x": 102,
+                        "y": 191
                     }
                 ]
             }
