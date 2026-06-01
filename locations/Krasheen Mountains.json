@@ -44,7 +44,7 @@
                 "name": "Chest 3",
                 "access_rules": [
                     "^$can_fly",
-                    "^$can_long_jump"
+                    "^$can_jump, [^$can_long_jump]"
                 ],
                 "sections": [
                     {
