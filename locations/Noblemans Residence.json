@@ -179,8 +179,9 @@
                 "map_locations": [
                     {
                         "map": "Noblemans Residence",
-                        "x": 102,
-                        "y": 191
+                        "x": 208,
+                        "y": 961,
+                        "size": 28
                     }
                 ]
             }

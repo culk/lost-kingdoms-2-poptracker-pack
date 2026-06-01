@@ -19,19 +19,31 @@
                         "chest_unopened_img": "/images/items/fairy_close.png",
                         "chest_opened_img": "/images/items/fairy_open.png",
                         "visibility_rules": ["fairysanity"]
-                    },
-                    {
-                        "name": "Red Fairy up Elevator",
-                        "chest_unopened_img": "/images/items/fairy_close.png",
-                        "chest_opened_img": "/images/items/fairy_open.png",
-                        "visibility_rules": ["fairysanity"]
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Royal Tower - Lower",
-                        "x": 198,
-                        "y": 728
+                        "x": 275,
+                        "y": 639
+                    }
+                ]
+            },
+            {
+                "name": "First Visit Only up Elevator",
+                "chest_unopened_img": "/images/items/fairy_close.png",
+                "chest_opened_img": "/images/items/fairy_open.png",
+                "visibility_rules": ["fairysanity"],
+                "sections": [
+                    {
+                        "name": "Red Fairy up Elevator"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Royal Tower - Lower",
+                        "x": 115,
+                        "y": 629
                     }
                 ]
             },
@@ -210,8 +222,9 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Lower",
-                        "x": 102,
-                        "y": 191
+                        "x": 208,
+                        "y": 961,
+                        "size": 28
                     }
                 ]
             }
