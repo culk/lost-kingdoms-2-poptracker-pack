@@ -21,26 +21,26 @@
                             [
                                 "bottle",
                                 "black_liquid",
-                                "red_key",
                                 "blue_key",
+                                "red_key",
                                 "green_key",
                                 "magic_boosters"
                             ],
                             [
                                 "mysterious_key",
-                                "fountain_key",
                                 "castle_gate_key",
+                                "fountain_key",
                                 "jewel_of_alanjeh",
                                 "stone_of_sealing"
                             ],
                             [
                                 "red_fairy",
-                                "fossil",
+                                "runestone",
                                 "blade",
-                                "runestone"
+                                "fossil",
+                                "progressive_player_level"
                             ],
                             [
-                                "progressive_player_level",
                                 "progressive_attribute_proficiency_fire",
                                 "progressive_attribute_proficiency_water",
                                 "progressive_attribute_proficiency_earth",
@@ -56,8 +56,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 76,
-                        "item_width": 56,
+                        "item_height": 77,
+                        "item_width": 57,
                         "rows": [
                             [
                                 "baba_yaga",
@@ -106,26 +106,26 @@
                             [
                                 "bottle",
                                 "black_liquid",
-                                "red_key",
                                 "blue_key",
+                                "red_key",
                                 "green_key",
                                 "magic_boosters"
                             ],
                             [
                                 "mysterious_key",
-                                "fountain_key",
                                 "castle_gate_key",
+                                "fountain_key",
                                 "jewel_of_alanjeh",
                                 "stone_of_sealing"
                             ],
                             [
                                 "red_fairy",
-                                "fossil",
+                                "runestone",
                                 "blade",
-                                "runestone"
+                                "fossil",
+                                "progressive_player_level"
                             ],
                             [
-                                "progressive_player_level",
                                 "progressive_attribute_proficiency_fire",
                                 "progressive_attribute_proficiency_water",
                                 "progressive_attribute_proficiency_earth",
@@ -141,8 +141,8 @@
                         "h_alignment": "left",
                         "item_h_alignment": "center",
                         "item_v_alignment": "center",
-                        "item_height": 76,
-                        "item_width": 56,
+                        "item_height": 77,
+                        "item_width": 57,
                         "rows": [
                             [
                                 "baba_yaga",

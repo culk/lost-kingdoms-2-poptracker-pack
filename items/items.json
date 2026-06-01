@@ -249,7 +249,7 @@
     {
         "name": "Red Fairies",
         "type": "consumable",
-        "img": "images/items/fairy_open.png",
+        "img": "images/items/fairy_close.png",
         "max_quantity": 100,
         "overlay_font_size": 20,
         "overlay_background": "#000000",
