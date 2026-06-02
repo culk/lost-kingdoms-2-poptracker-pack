@@ -12,6 +12,15 @@
                 }
             },
             {
+                "title": "Combo",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Combo"
+                    ]
+                }
+            },
+            {
                 "title": "Nobleman's Residence",
                 "content": {
                     "type": "map",

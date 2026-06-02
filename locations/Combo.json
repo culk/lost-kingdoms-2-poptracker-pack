@@ -10,14 +10,14 @@
                 "access_rules": ["rock_hagan, bum_hagan, storm_hagan"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Rock Hagan, Bum Hagan, Storm Hagan"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1354,
-                        "y": 2062
+                        "x": 304,
+                        "y": 58
                     }
                 ]
             },
@@ -26,14 +26,14 @@
                 "access_rules": ["red_dragon, brine_dragon, green_dragon, amber_dragon"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Red Dragon, Brine Dragon, Green Dragon, Amber Dragon"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1897,
-                        "y": 1966
+                        "x": 304,
+                        "y": 146
                     }
                 ]
             },
@@ -42,14 +42,14 @@
                 "access_rules": ["carbuncle, decoy_pillar"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Carbuncle, Decoy Pillar"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1418,
-                        "y": 565
+                        "x": 304,
+                        "y": 234
                     }
                 ]
             },
@@ -58,14 +58,14 @@
                 "access_rules": ["red_lizard, venom_lizard, lizard_man, basilisk"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Red Lizard, Venom Lizard, Lizard Man, Basilisk"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 52,
-                        "y": 1832
+                        "x": 304,
+                        "y": 322
                     }
                 ]
             },
@@ -74,14 +74,14 @@
                 "access_rules": ["stone_head, $can_shop"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Stone Head x 3"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 243,
-                        "y": 854
+                        "x": 304,
+                        "y": 410
                     }
                 ]
             },
@@ -90,14 +90,14 @@
                 "access_rules": ["ghost_armor, chaos_knight"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Ghost Armor, Chaos Knight"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 868,
-                        "y": 175
+                        "x": 304,
+                        "y": 498
                     }
                 ]
             },
@@ -106,14 +106,14 @@
                 "access_rules": ["fire_golem, ice_golem"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Fire Golem, Ice Golem"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 2041,
-                        "y": 1166
+                        "x": 304,
+                        "y": 586
                     }
                 ]
             },
@@ -122,14 +122,14 @@
                 "access_rules": ["hobgoblin, goblin_lord"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Hobgoblin, Goblin Lord"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1028,
-                        "y": 2335
+                        "x": 304,
+                        "y": 674
                     }
                 ]
             },
@@ -138,14 +138,14 @@
                 "access_rules": ["carbuncle, juggernaut, whip_worm"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Carbuncle, Juggernaut, Whip Worm"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 353,
-                        "y": 599
+                        "x": 304,
+                        "y": 762
                     }
                 ]
             },
@@ -154,14 +154,14 @@
                 "access_rules": ["dragon_knight, crystal_rose, $can_shop"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Dragon Knight x 2, Crystal Rose"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 2369,
-                        "y": 950
+                        "x": 304,
+                        "y": 850
                     }
                 ]
             },
@@ -170,14 +170,14 @@
                 "access_rules": ["mandragora, mandra_dancer, king_mandragora"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Mandragora, Mandra Dancer, King Mandragora"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 2087,
-                        "y": 1768
+                        "x": 636,
+                        "y": 58
                     }
                 ]
             },
@@ -186,14 +186,14 @@
                 "access_rules": ["acid_dragon, pixie"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Acid Dragon, Pixie"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 2030,
-                        "y": 902
+                        "x": 636,
+                        "y": 146
                     }
                 ]
             },
@@ -202,14 +202,14 @@
                 "access_rules": ["panther_mage, tiger_mage"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Panther Mage, Tiger Mage"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 606,
-                        "y": 824
+                        "x": 636,
+                        "y": 234
                     }
                 ]
             },
@@ -218,14 +218,14 @@
                 "access_rules": ["doppelganger, god_of_destruction, $can_shop"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Doppelganger x 2, God of Destruction"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 2297,
-                        "y": 1779
+                        "x": 636,
+                        "y": 322
                     }
                 ]
             },
@@ -234,14 +234,14 @@
                 "access_rules": ["efreet, dao, marid"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Efreet, Dao, Marid"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 2164,
-                        "y": 2459
+                        "x": 636,
+                        "y": 410
                     }
                 ]
             },
@@ -250,14 +250,14 @@
                 "access_rules": ["flying_ray, dark_raven, $can_shop"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Flying Ray, Dark Raven x 2"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1015,
-                        "y": 342
+                        "x": 636,
+                        "y": 498
                     }
                 ]
             },
@@ -266,14 +266,14 @@
                 "access_rules": ["valkyrie, thanatos"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Valkyrie, Thanatos"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 289,
-                        "y": 2065
+                        "x": 636,
+                        "y": 586
                     }
                 ]
             },
@@ -282,14 +282,14 @@
                 "access_rules": ["fenril, behemoth, demon fox, ice golem"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Fenril, Behemoth, Demon Fox, Ice Golem"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1553,
-                        "y": 1478
+                        "x": 636,
+                        "y": 674
                     }
                 ]
             },
@@ -298,14 +298,14 @@
                 "access_rules": ["white_tiger, golden_phoenix, great_turtle, blue_dragon"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "White Tiger, Golden Phoenix, Great Turtle, Blue Dragon"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1256,
-                        "y": 390
+                        "x": 636,
+                        "y": 762
                     }
                 ]
             },
@@ -314,14 +314,14 @@
                 "access_rules": ["succubus, incubus"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Succubus, Incubus"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1801,
-                        "y": 2386
+                        "x": 636,
+                        "y": 850
                     }
                 ]
             },
@@ -330,14 +330,14 @@
                 "access_rules": ["wraith, lich, sekmet"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Wraith, Lich, Sekmet"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 504,
-                        "y": 2457
+                        "x": 970,
+                        "y": 58
                     }
                 ]
             },
@@ -346,14 +346,14 @@
                 "access_rules": ["phoenix, golden_phoenix"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Phoenix, Golden Phoenix"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1613,
-                        "y": 1591
+                        "x": 970,
+                        "y": 146
                     }
                 ]
             },
@@ -362,14 +362,14 @@
                 "access_rules": ["dryad, gnome, salamander, undine"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Dryad, Gnome, Salamander, Undine"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1608,
-                        "y": 990
+                        "x": 970,
+                        "y": 234
                     }
                 ]
             },
@@ -378,14 +378,14 @@
                 "access_rules": ["ice_skeleton, demon_skeleton, steel_skeleton, skeleton"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Ice Skeleton, Demon Skeleton, Steel Skeleton, Skeleton"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 369,
-                        "y": 149
+                        "x": 970,
+                        "y": 322
                     }
                 ]
             },
@@ -394,14 +394,14 @@
                 "access_rules": ["stone_golem, archer_tree, $can_shop"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Stone Golem, Archer Tree x 2"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1643,
-                        "y": 1463
+                        "x": 970,
+                        "y": 410
                     }
                 ]
             },
@@ -410,14 +410,14 @@
                 "access_rules": ["elephant, elephant_king"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Elephant, Elephant King"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1890,
-                        "y": 130
+                        "x": 970,
+                        "y": 498
                     }
                 ]
             },
@@ -426,14 +426,14 @@
                 "access_rules": ["running_bird, gold_butterfly"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Running Bird, Gold Butterfly"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1547,
-                        "y": 1538
+                        "x": 970,
+                        "y": 586
                     }
                 ]
             },
@@ -442,14 +442,14 @@
                 "access_rules": ["gravity_pillar, doppelganger"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Gravity Pillar, Doppelganger"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1032,
-                        "y": 2092
+                        "x": 970,
+                        "y": 674
                     }
                 ]
             },
@@ -458,14 +458,14 @@
                 "access_rules": ["earth_elemental, fire_elemental, water_elemental, wood_elemental"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Earth Elemental, Fire Elemental, Water Elemental, Wood Elemental"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1502,
-                        "y": 789
+                        "x": 970,
+                        "y": 762
                     }
                 ]
             },
@@ -474,14 +474,14 @@
                 "access_rules": ["treant, dark_raven, $can_shop"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Treant, Dark Raven x 2"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 997,
-                        "y": 36
+                        "x": 970,
+                        "y": 850
                     }
                 ]
             },
@@ -490,14 +490,14 @@
                 "access_rules": ["acid_cloud, gold_butterfly"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Acid Cloud, Gold Butterfly"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1734,
-                        "y": 2002
+                        "x": 1303,
+                        "y": 58
                     }
                 ]
             },
@@ -506,14 +506,14 @@
                 "access_rules": ["mermaid, siren"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Mermaid, Siren"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 334,
-                        "y": 1535
+                        "x": 1303,
+                        "y": 146
                     }
                 ]
             },
@@ -522,14 +522,14 @@
                 "access_rules": ["sphinx, mummy, $can_shop"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Sphinx, Mummy x 2"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 168,
-                        "y": 964
+                        "x": 1303,
+                        "y": 234
                     }
                 ]
             },
@@ -538,14 +538,14 @@
                 "access_rules": ["vampire_bush, $can_shop"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Vampire Bush x 2"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 2181,
-                        "y": 2360
+                        "x": 1303,
+                        "y": 322
                     }
                 ]
             },
@@ -554,14 +554,14 @@
                 "access_rules": ["fire_moray, water_moray, earth_moray"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Fire Moray, Water Moray, Earth Moray"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 2264,
-                        "y": 700
+                        "x": 1303,
+                        "y": 410
                     }
                 ]
             },
@@ -570,14 +570,14 @@
                 "access_rules": ["sea_monk, mind_flayer"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Sea Monk, Mind Flayer"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 2265,
-                        "y": 182
+                        "x": 1303,
+                        "y": 498
                     }
                 ]
             },
@@ -586,14 +586,14 @@
                 "access_rules": ["orc, $can_shop"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Orc x 4"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1372,
-                        "y": 1802
+                        "x": 1303,
+                        "y": 586
                     }
                 ]
             },
@@ -602,14 +602,14 @@
                 "access_rules": ["cockatrice, $can_shop"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Cockatrice x 2"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1523,
-                        "y": 795
+                        "x": 1303,
+                        "y": 674
                     }
                 ]
             },
@@ -618,14 +618,14 @@
                 "access_rules": ["fairy, rheebus"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Fairy, Rheebus"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1857,
-                        "y": 1948
+                        "x": 1303,
+                        "y": 762
                     }
                 ]
             },
@@ -634,14 +634,14 @@
                 "access_rules": ["elf, elf_lord, dark_elf"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Elf, Elf Lord, Dark Elf"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Combo",
-                        "x": 1734,
-                        "y": 1197
+                        "x": 1303,
+                        "y": 850
                     }
                 ]
             }

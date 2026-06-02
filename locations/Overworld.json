@@ -622,170 +622,171 @@
                 "sections": [
                     {
                         "name": "Triple Hagan",
-                        "ref": "Combo/Triple Hagan/"
+                        "ref": "Combo/Triple Hagan/Rock Hagan, Bum Hagan, Storm Hagan"
                     },
                     {
                         "name": "Ultimate Pasta",
-                        "ref": "Combo/Ultimate Pasta/"
+                        "ref": "Combo/Ultimate Pasta/Red Dragon, Brine Dragon, Green Dragon, Amber Dragon"
                     },
                     {
                         "name": "Rotary Death",
-                        "ref": "Combo/Rotary Death/"
+                        "ref": "Combo/Rotary Death/Carbuncle, Decoy Pillar"
                     },
                     {
                         "name": "Lizard War",
-                        "ref": "Combo/Lizard War/"
+                        "ref": "Combo/Lizard War/Red Lizard, Venom Lizard, Lizard Man, Basilisk"
                     },
                     {
                         "name": "Rocky Forecast",
-                        "ref": "Combo/Rocky Forecast/"
+                        "ref": "Combo/Rocky Forecast/Stone Head x 3"
                     },
                     {
                         "name": "Sir Spear-A-Lot",
-                        "ref": "Combo/Sir Spear-A-Lot/"
+                        "ref": "Combo/Sir Spear-A-Lot/Ghost Armor, Chaos Knight"
                     },
                     {
                         "name": "Temper Tantrum",
-                        "ref": "Combo/Temper Tantrum/"
+                        "ref": "Combo/Temper Tantrum/Fire Golem, Ice Golem"
                     },
                     {
                         "name": "Goblin Guts",
-                        "ref": "Combo/Goblin Guts/"
+                        "ref": "Combo/Goblin Guts/Hobgoblin, Goblin Lord"
                     },
                     {
                         "name": "Lethal Orbit",
-                        "ref": "Combo/Lethal Orbit/"
+                        "ref": "Combo/Lethal Orbit/Carbuncle, Juggernaut, Whip Worm"
                     },
                     {
                         "name": "Crystal Rage",
-                        "ref": "Combo/Crystal Rage/"
+                        "ref": "Combo/Crystal Rage/Dragon Knight x 2, Crystal Rose"
                     },
                     {
                         "name": "Mandragora Mixer",
-                        "ref": "Combo/Mandragora Mixer/"
+                        "ref": "Combo/Mandragora Mixer/Mandragora, Mandra Dancer, King Mandragora"
                     },
                     {
                         "name": "Rust and Roll!",
-                        "ref": "Combo/Rust and Roll!/"
+                        "ref": "Combo/Rust and Roll!/Acid Dragon, Pixie"
                     },
                     {
                         "name": "EconoMagic",
-                        "ref": "Combo/EconoMagic/"
+                        "ref": "Combo/EconoMagic/Panther Mage, Tiger Mage"
                     },
                     {
                         "name": "Just Visiting",
-                        "ref": "Combo/Just Visiting/"
+                        "ref": "Combo/Just Visiting/Doppelganger x 2, God of Destruction"
                     },
                     {
                         "name": "Djinn and Bear It",
-                        "ref": "Combo/Djinn and Bear It/"
+                        "ref": "Combo/Djinn and Bear It/Efreet, Dao, Marid"
                     },
                     {
                         "name": "Triple Kamikaze",
-                        "ref": "Combo/Triple Kamikaze/"
+                        "ref": "Combo/Triple Kamikaze/Flying Ray, Dark Raven x 2"
                     },
                     {
                         "name": "One Way Ticket",
-                        "ref": "Combo/One Way Ticket/"
+                        "ref": "Combo/One Way Ticket/Valkyrie, Thanatos"
                     },
                     {
                         "name": "The Masters Four",
-                        "ref": "Combo/The Masters Four/"
+                        "ref": "Combo/The Masters Four/Fenril, Behemoth, Demon Fox, Ice Golem"
                     },
                     {
                         "name": "The Big Save",
-                        "ref": "Combo/The Big Save/"
+                        "ref": "Combo/The Big Save/White Tiger, Golden Phoenix, Great Turtle, Blue Dragon"
                     },
                     {
                         "name": "Brutal Nightmare",
-                        "ref": "Combo/Brutal Nightmare/"
+                        "ref": "Combo/Brutal Nightmare/Succubus, Incubus"
                     },
                     {
                         "name": "Phantom BullDozer",
-                        "ref": "Combo/Phantom BullDozer/"
+                        "ref": "Combo/Phantom BullDozer/Wraith, Lich, Sekmet"
                     },
                     {
                         "name": "Living Large",
-                        "ref": "Combo/Living Large/"
+                        "ref": "Combo/Living Large/Phoenix, Golden Phoenix"
                     },
                     {
                         "name": "Elemental Victory",
-                        "ref": "Combo/Elemental Victory/"
+                        "ref": "Combo/Elemental Victory/Dryad, Gnome, Salamander, Undine"
                     },
                     {
                         "name": "Skullapalooza",
-                        "ref": "Combo/Skullapalooza/"
+                        "ref": "Combo/Skullapalooza/Ice Skeleton, Demon Skeleton, Steel Skeleton, Skeleton"
                     },
                     {
                         "name": "Stone Cold Sniper",
-                        "ref": "Combo/Stone Cold Sniper/"
+                        "ref": "Combo/Stone Cold Sniper/Stone Golem, Archer Tree x 2"
                     },
                     {
                         "name": "Mega Tremor",
-                        "ref": "Combo/Mega Tremor/"
+                        "ref": "Combo/Mega Tremor/Elephant, Elephant King"
                     },
                     {
                         "name": "Time Out!",
-                        "ref": "Combo/Time Out!/"
+                        "ref": "Combo/Time Out!/Running Bird, Gold Butterfly"
                     },
                     {
                         "name": "Hell Hole",
-                        "ref": "Combo/Hell Hole/"
+                        "ref": "Combo/Hell Hole/Gravity Pillar, Doppelganger"
                     },
                     {
                         "name": "Spiritual Force",
-                        "ref": "Combo/Spiritual Force/"
+                        "ref": "Combo/Spiritual Force/Earth Elemental, Fire Elemental, Water Elemental, Wood Elemental"
                     },
                     {
                         "name": "Air Raid",
-                        "ref": "Combo/Air Raid/"
+                        "ref": "Combo/Air Raid/Treant, Dark Raven x 2"
                     },
                     {
                         "name": "Tech Support!",
-                        "ref": "Combo/Tech Support!/"
+                        "ref": "Combo/Tech Support!/Acid Cloud, Gold Butterfly"
                     },
                     {
                         "name": "Song of Hades",
-                        "ref": "Combo/Song of Hades/"
+                        "ref": "Combo/Song of Hades/Mermaid, Siren"
                     },
                     {
                         "name": "Hearing Aid",
-                        "ref": "Combo/Hearing Aid/"
+                        "ref": "Combo/Hearing Aid/Sphinx, Mummy x 2"
                     },
                     {
                         "name": "Uber Vampire Root",
-                        "ref": "Combo/Uber Vampire Root/"
+                        "ref": "Combo/Uber Vampire Root/Vampire Bush x 2"
                     },
                     {
                         "name": "Mo Better Moray",
-                        "ref": "Combo/Mo Better Moray/"
+                        "ref": "Combo/Mo Better Moray/Fire Moray, Water Moray, Earth Moray"
                     },
                     {
                         "name": "Prayer of the Wise",
-                        "ref": "Combo/Prayer of the Wise/"
+                        "ref": "Combo/Prayer of the Wise/Sea Monk, Mind Flayer"
                     },
                     {
                         "name": "Hawging the Action",
-                        "ref": "Combo/Hawging the Action/"
+                        "ref": "Combo/Hawging the Action/Orc x 4"
                     },
                     {
                         "name": "Stone All Around",
-                        "ref": "Combo/Stone All Around/"
+                        "ref": "Combo/Stone All Around/Cockatrice x 2"
                     },
                     {
                         "name": "Tender Mercy",
-                        "ref": "Combo/Tender Mercy/"
+                        "ref": "Combo/Tender Mercy/Fairy, Rheebus"
                     },
                     {
                         "name": "Green Guardian",
-                        "ref": "Combo/Green Guardian/"
+                        "ref": "Combo/Green Guardian/Elf, Elf Lord, Dark Elf"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 50,
-                        "y": 38
+                        "x": 208,
+                        "y": 921,
+                        "size": 28
                     }
                 ]
             },
