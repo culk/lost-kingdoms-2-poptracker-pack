@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Goal",
+        "chest_unopened_img": "/images/items/chest_close.png",
+        "chest_opened_img": "/images/items/chest_open.png",
+        "children": [
+            {
+                "name": "Goal - Defeat the God of Harmony",
+                "access_rules": "^$can_enter_royal_tower_upper",
+                "visibility_rules": "goal_defeat_god_of_harmony",
+                "sections": [
+                    {
+                        "name": "Defeat the God of Harmony"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 252,
+                        "y": 586
+                    }
+                ]
+            },
+            {
+                "name": "Goal - Defeat the Emperor",
+                "access_rules": "^$can_enter_royal_tower_upper",
+                "visibility_rules": "goal_defeat_emperor",
+                "sections": [
+                    {
+                        "name": "Defeat the Emperor"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 119,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Goal - Collect Red Fairies",
+                "access_rules": "^$has_goal_red_fairies",
+                "visibility_rules": "goal_collect_red_fairies",
+                "sections": [
+                    {
+                        "name": "Collect Red Fairies"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 119,
+                        "y": 96
+                    }
+                ]
+            }
+        ]
+    }
+]

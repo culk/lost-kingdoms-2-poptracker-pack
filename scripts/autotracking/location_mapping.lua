@@ -1053,4 +1053,8 @@ LOCATION_MAPPING = {
 	[1038] = {"@Royal Tower - Upper/Enemysanity/Tentacle #7"},
 	[1039] = {"@Royal Tower - Upper/Enemysanity/Tentacle #8"},
 	[1040] = {"@Royal Tower - Upper/Enemysanity/God of Harmony #1"},
+
+	[10000] = {"@Goal/Goal - Defeat the God of Harmony/Defeat the God of Harmony"},
+	[10001] = {"@Goal/Goal - Defeat the Emperor/Defeat the Emperor"},
+	[10002] = {"@Goal/Goal - Collect Red Fairies/Collect Red Fairies"},
 }

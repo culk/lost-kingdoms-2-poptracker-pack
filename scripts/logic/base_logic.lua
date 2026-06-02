@@ -191,3 +191,8 @@ end
 function can_shop()
     return true
 end
+
+function has_goal_red_fairies()
+    local required_amount = Tracker:FindObjectForCode("red_fairies_goal_amount").AcquiredCount
+    return HAS("red_fairy", required_amount)
+end

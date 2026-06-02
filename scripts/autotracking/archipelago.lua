@@ -153,8 +153,9 @@ function onClear(slot_data)
         end
 
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
-        Archipelago:SetNotify({HINTS_ID})
-        Archipelago:Get({HINTS_ID})
+        CLIENT_STATUS_ID = "_read_client_status_"..TEAM_NUMBER.."_"..PLAYER_ID
+        Archipelago:SetNotify({HINTS_ID, CLIENT_STATUS_ID})
+        Archipelago:Get({HINTS_ID, CLIENT_STATUS_ID})
     end
 end
 
@@ -229,6 +230,8 @@ function OnNotify(key, value, old_value)
                 end
             end
         end
+    elseif key == CLIENT_STATUS_ID then
+        UpdateStatus(value)
     end
 end
 
@@ -243,6 +246,8 @@ function OnNotifyLaunch(key, value)
                 end
             end
         end
+    elseif key == CLIENT_STATUS_ID then
+        UpdateStatus(value)
     end
 end
 
@@ -260,5 +265,14 @@ function UpdateHints(locationID, status) -->
                 end
             end
         end
+    end
+end
+
+function UpdateStatus(status)
+    if status == Archipelago.ClientStatus.GOAL then
+        print("UpdateStatus: goal achieved")
+        onLocation(10000, "Goal - Defeat the God of Harmony")
+        onLocation(10001, "Goal - Defeat the Emperor")
+        onLocation(10002, "Goal - Collect Red Fairies")
     end
 end
