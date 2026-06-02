@@ -276,3 +276,48 @@ function UpdateStatus(status)
         onLocation(10002, "Goal - Collect Red Fairies")
     end
 end
+
+LAYOUT_STALE = true
+
+function ToggleItems()
+    LAYOUT_STALE = true
+end
+
+function UpdateLayoutKeyItems(show_red_fairies)
+    if show_red_fairies then
+        Tracker:AddLayouts("layouts/key_items/red_fairies_show.json")
+    else
+        Tracker:AddLayouts("layouts/key_items/red_fairies_hide.json")
+    end
+end
+
+function UpdateLayoutLevels(show_player_levels, show_attributes)
+    if show_player_levels or show_attributes then
+        Tracker:AddLayouts("layouts/levels/group_show.json")
+        if show_player_levels then
+            Tracker:AddLayouts("layouts/levels/player_levels_show.json")
+        else
+            Tracker:AddLayouts("layouts/levels/player_levels_hide.json")
+        end
+        if show_attributes then
+            Tracker:AddLayouts("layouts/levels/attributes_show.json")
+        else
+            Tracker:AddLayouts("layouts/levels/attributes_hide.json")
+        end
+    else
+        Tracker:AddLayouts("layouts/levels/group_hide.json")
+    end
+end
+
+function UpdateLayout()
+    if LAYOUT_STALE then
+        local show_red_fairies = Tracker:FindObjectForCode("fairysanity").Active
+        local show_player_levels = Tracker:FindObjectForCode("progressive_leveling").Active
+        local show_attributes = Tracker:FindObjectForCode("progressive_attribute_proficiencies").Active
+
+        UpdateLayoutKeyItems(show_red_fairies)
+        UpdateLayoutLevels(show_player_levels, show_attributes)
+
+        LAYOUT_STALE = false
+    end
+end

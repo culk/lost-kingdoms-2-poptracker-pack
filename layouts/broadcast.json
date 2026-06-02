@@ -3,7 +3,7 @@
         "type": "container",
         "content": {
             "type": "layout",
-            "key": "item_tracker_vertical"
+            "key": "item_tracker_horizontal"
         }
     }
 }

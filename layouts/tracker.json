@@ -11,7 +11,7 @@
                     "dock": "bottom",
                     "content": {
                         "type": "layout",
-                        "key": "item_tracker_horizontal"
+                        "key": "item_tracker_vertical"
                     }
                 },
                 {
@@ -36,7 +36,7 @@
                     "dock": "left",
                     "content": {
                         "type": "layout",
-                        "key": "item_tracker_vertical"
+                        "key": "item_tracker_horizontal"
                     }
                 },
                 {

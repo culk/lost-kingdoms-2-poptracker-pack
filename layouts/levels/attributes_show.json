@@ -1,0 +1,42 @@
+{
+    "attributes_vertical": {
+        "type": "itemgrid",
+        "item_margin": "2,2",
+        "item_size": "48,48",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "rows": [
+            [
+                "progressive_attribute_proficiency_fire",
+                "progressive_attribute_proficiency_water"
+            ],
+            [
+                "progressive_attribute_proficiency_earth",
+                "progressive_attribute_proficiency_wood"
+            ],
+            [
+                "progressive_attribute_proficiency_neutral",
+                "progressive_attribute_proficiency_mech"
+            ]
+        ]
+    },
+    "attributes_horizontal": {
+        "type": "itemgrid",
+        "item_margin": "2,2",
+        "item_size": "48,48",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "rows": [
+            [
+                "progressive_attribute_proficiency_fire",
+                "progressive_attribute_proficiency_water",
+                "progressive_attribute_proficiency_earth",
+                "progressive_attribute_proficiency_wood",
+                "progressive_attribute_proficiency_neutral",
+                "progressive_attribute_proficiency_mech"
+            ]
+        ]
+    }
+}

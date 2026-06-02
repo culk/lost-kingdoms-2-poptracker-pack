@@ -1,0 +1,18 @@
+{
+    "levels_group_vertical": {
+        "type": "group",
+        "header": "Levels",
+        "content": {
+            "type": "layout",
+            "key": "levels_rows_vertical"
+        }
+    },
+    "levels_group_horizontal": {
+        "type": "group",
+        "header": "Levels",
+        "content": {
+            "type": "layout",
+            "key": "levels_rows_horizontal"
+        }
+    }
+}

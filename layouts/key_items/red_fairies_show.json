@@ -1,0 +1,34 @@
+{
+    "items_grid": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 48,
+        "item_width": 48,
+        "rows": [
+            [
+                "bottle",
+                "black_liquid",
+                "blue_key",
+                "red_key",
+                "green_key",
+                "magic_boosters"
+            ],
+            [
+                "mysterious_key",
+                "castle_gate_key",
+                "fountain_key",
+                "jewel_of_alanjeh",
+                "stone_of_sealing"
+            ],
+            [
+                "red_fairy",
+                "runestone",
+                "blade",
+                "fossil"
+            ]
+        ]
+    }
+}
