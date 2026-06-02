@@ -1,171 +1,175 @@
 {
-    "shared_item_grid_horizontal": {
-        "type": "array",
-        "orientation": "vertical",
-        "margin": "0,0",
+    "items_grid": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 48,
+        "item_width": 48,
+        "rows": [
+            [
+                "bottle",
+                "black_liquid",
+                "blue_key",
+                "red_key",
+                "green_key",
+                "magic_boosters"
+            ],
+            [
+                "mysterious_key",
+                "castle_gate_key",
+                "fountain_key",
+                "jewel_of_alanjeh",
+                "stone_of_sealing"
+            ],
+            [
+                "red_fairy",
+                "runestone",
+                "blade",
+                "fossil"
+            ]
+        ]
+    },
+    "levels_grid_horizontal": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 48,
+        "item_width": 48,
+        "rows": [
+            [
+                "progressive_player_level"
+            ],
+            [
+                "progressive_attribute_proficiency_fire",
+                "progressive_attribute_proficiency_water"
+            ],
+            [
+                "progressive_attribute_proficiency_earth",
+                "progressive_attribute_proficiency_wood"
+            ],
+            [
+                "progressive_attribute_proficiency_neutral",
+                "progressive_attribute_proficiency_mech"
+            ]
+        ]
+    },
+    "levels_grid_vertical": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 48,
+        "item_width": 48,
+        "rows": [
+            [
+                "progressive_player_level"
+            ],
+            [
+                "progressive_attribute_proficiency_fire",
+                "progressive_attribute_proficiency_water",
+                "progressive_attribute_proficiency_earth",
+                "progressive_attribute_proficiency_wood",
+                "progressive_attribute_proficiency_neutral",
+                "progressive_attribute_proficiency_mech"
+            ]
+        ]
+    },
+    "cards_grid": {
+        "type": "itemgrid",
+        "item_margin": "2, 2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 77,
+        "item_width": 57,
+        "rows": [
+            [
+                "baba_yaga",
+                "birdman",
+                "garuda",
+                "wyvern",
+                "pazuzu"
+            ],
+            [
+                "hell_hound",
+                "cerberus",
+                "centaur",
+                "unicorn"
+            ],
+            [
+                "stone_golem",
+                "chariobot",
+                "talos",
+                "god_of_destruction"
+            ]
+        ]
+    },
+    "item_tracker_horizontal": {
+        "type": "dock",
         "content": [
             {
-                "type": "array",
-                "orientation": "horizontal",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "2, 2",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                            [
-                                "bottle",
-                                "black_liquid",
-                                "blue_key",
-                                "red_key",
-                                "green_key",
-                                "magic_boosters"
-                            ],
-                            [
-                                "mysterious_key",
-                                "castle_gate_key",
-                                "fountain_key",
-                                "jewel_of_alanjeh",
-                                "stone_of_sealing"
-                            ],
-                            [
-                                "red_fairy",
-                                "runestone",
-                                "blade",
-                                "fossil",
-                                "progressive_player_level"
-                            ],
-                            [
-                                "progressive_attribute_proficiency_fire",
-                                "progressive_attribute_proficiency_water",
-                                "progressive_attribute_proficiency_earth",
-                                "progressive_attribute_proficiency_wood",
-                                "progressive_attribute_proficiency_neutral",
-                                "progressive_attribute_proficiency_mech"
-                            ]
-                        ]
-                    },
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "2, 2",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 77,
-                        "item_width": 57,
-                        "rows": [
-                            [
-                                "baba_yaga",
-                                "birdman",
-                                "garuda",
-                                "wyvern",
-                                "pazuzu"
-                            ],
-                            [
-                                "hell_hound",
-                                "cerberus",
-                                "centaur",
-                                "unicorn"
-                            ],
-                            [
-                                "stone_golem",
-                                "chariobot",
-                                "talos",
-                                "god_of_destruction"
-                            ]
-                        ]
-                    }
-                ]
+                "type": "group",
+                "header": "Items",
+                "dock": "left",
+                "content": {
+                    "type": "layout",
+                    "key": "items_grid"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Levels",
+                "dock": "left",
+                "content": {
+                    "type": "layout",
+                    "key": "levels_grid_horizontal"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Cards",
+                "dock": "left",
+                "content": {
+                    "type": "layout",
+                    "key": "cards_grid"
+                }
             }
         ]
     },
-    "shared_item_grid_vertical": {
-        "type": "array",
-        "orientation": "vertical",
-        "margin": "0,0",
+    "item_tracker_vertical": {
+        "type": "dock",
         "content": [
             {
-                "type": "array",
-                "orientation": "vertical",
-                "margin": "0,0",
-                "content": [
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "2, 2",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 48,
-                        "item_width": 48,
-                        "rows": [
-                            [
-                                "bottle",
-                                "black_liquid",
-                                "blue_key",
-                                "red_key",
-                                "green_key",
-                                "magic_boosters"
-                            ],
-                            [
-                                "mysterious_key",
-                                "castle_gate_key",
-                                "fountain_key",
-                                "jewel_of_alanjeh",
-                                "stone_of_sealing"
-                            ],
-                            [
-                                "red_fairy",
-                                "runestone",
-                                "blade",
-                                "fossil",
-                                "progressive_player_level"
-                            ],
-                            [
-                                "progressive_attribute_proficiency_fire",
-                                "progressive_attribute_proficiency_water",
-                                "progressive_attribute_proficiency_earth",
-                                "progressive_attribute_proficiency_wood",
-                                "progressive_attribute_proficiency_neutral",
-                                "progressive_attribute_proficiency_mech"
-                            ]
-                        ]
-                    },
-                    {
-                        "type": "itemgrid",
-                        "item_margin": "2, 2",
-                        "h_alignment": "left",
-                        "item_h_alignment": "center",
-                        "item_v_alignment": "center",
-                        "item_height": 77,
-                        "item_width": 57,
-                        "rows": [
-                            [
-                                "baba_yaga",
-                                "birdman",
-                                "garuda",
-                                "wyvern",
-                                "pazuzu"
-                            ],
-                            [
-                                "hell_hound",
-                                "cerberus",
-                                "centaur",
-                                "unicorn"
-                            ],
-                            [
-                                "stone_golem",
-                                "chariobot",
-                                "talos",
-                                "god_of_destruction"
-                            ]
-                        ]
-                    }
-                ]
+                "type": "group",
+                "header": "Items",
+                "dock": "top",
+                "content": {
+                    "type": "layout",
+                    "key": "items_grid"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Levels",
+                "dock": "top",
+                "content": {
+                    "type": "layout",
+                    "key": "levels_grid_vertical"
+                }
+            },
+            {
+                "type": "group",
+                "header": "Cards",
+                "dock": "top",
+                "content": {
+                    "type": "layout",
+                    "key": "cards_grid"
+                }
             }
         ]
     }
