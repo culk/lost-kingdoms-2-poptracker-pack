@@ -5,14 +5,8 @@
     "package_uid": "lost_kingdoms_2_ap",
     "author": "culk",
     "variants": {
-        "Map Tracker": {
+        "default": {
             "display_name": "Map Tracker",
-            "flags": [
-                "ap"
-            ]
-        },
-        "Items Only": {
-            "display_name": "Items Only",
             "flags": [
                 "ap"
             ]
