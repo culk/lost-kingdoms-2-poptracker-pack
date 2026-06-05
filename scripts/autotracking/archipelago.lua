@@ -1,11 +1,14 @@
 require("scripts/autotracking/item_mapping")
 require("scripts/autotracking/location_mapping")
 require("scripts/autotracking/setting_mapping")
+require("scripts/luaitems")
 
 CUR_INDEX = -1
 
 ALL_LOCATIONS = {}
 SLOT_DATA = {}
+
+RANDOMIZE_LEVELS = false
 
 if Highlight then
     HIGHLIGHT_LEVEL= {
@@ -62,6 +65,11 @@ function preOnClear()
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
         Archipelago:SetNotify({HINTS_ID})
         Archipelago:Get({HINTS_ID})
+    end
+
+    -- Unassign all exits and levels.
+    for _, exit in pairs(EXIT_BY_NAME) do
+        exit:Assign(nil)
     end
 end
 
@@ -124,6 +132,9 @@ function onClear(slot_data)
     for key, value in pairs(SLOT_DATA) do
         if SETTING_MAPPING[key] then
             local setting_obj = Tracker:FindObjectForCode(SETTING_MAPPING[key].code)
+            if key == "randomize_levels" then
+                RANDOMIZE_LEVELS = SETTING_MAPPING[key].mapping[value]
+            end
             if setting_obj then
                 if setting_obj.Type == "toggle" then
                     setting_obj.Active = SETTING_MAPPING[key].mapping[value]
@@ -135,6 +146,13 @@ function onClear(slot_data)
             else
                 print(string.format("onClear: could not find setting for code %s", SETTING_MAPPING[key].code))
             end
+        end
+    end
+
+    if not RANDOMIZE_LEVELS then
+        for exit_name, level_name in pairs(DEFAULT_EXIT_MAPPING) do
+            local exit = EXIT_BY_NAME[exit_name]
+            exit:Assign(LEVEL_BY_NAME[level_name])
         end
     end
 

@@ -3,6 +3,7 @@
         "name": "Kadishu",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_level|Kadishu"],
         "children": [
             {
                 "name": "Chest Outside Town Wall",
@@ -114,7 +115,7 @@
                     },
                     {
                         "name": "Garbage Collection 2",
-                        "access_rules": ["^$can_enter_ruldo_forest"]
+                        "access_rules": ["^$can_enter_level|Ruldo Forest"]
                     },
                     {
                         "name": "Garbage Collection 3",

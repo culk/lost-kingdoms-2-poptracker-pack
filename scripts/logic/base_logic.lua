@@ -1,5 +1,9 @@
 -- Boolean functions, all return a boolean.
 
+function TRUE()
+    return true
+end
+
 function can_level_attributes()
     return Tracker:ProviderCountForCode("progressive_attribute_proficiencies") == 0
 end
@@ -62,97 +66,35 @@ function can_reach_kendarie_green_door_chest()
     return ALL("green_key", ANY(can_fly(), "blue_key"))
 end
 
-function can_exit_noblemans_residence_2()
-    return HAS("mysterious_key")
-end
+function can_enter_level(level_name)
+    local previous_exit = LEVEL_BY_NAME[level_name].Exit
+    if not previous_exit then
+        return AccessibilityLevel.None
+    end
 
-function can_exit_bhashea_high_road_3()
-    return ANY(can_fly(), can_jump())
-end
+    local location = Tracker:FindObjectForCode(previous_exit.LocationRef)
+    if not location then
+        print("can_enter_level: failed to find location for ref", previous_exit.LocationRef)
+        return AccessibilityLevel.None
+    end
 
-function can_exit_gromtull_desert_1()
-    return HAS("black_liquid")
-end
-
-function can_exit_kendarie_fortress_1()
-    return ALL("red_key", "blue_key")
-end
-
-function can_exit_runestone_caverns_upper_1()
-    return HAS("stone_golem")
-end
-
-function can_exit_fossil_boneyard_1()
-    return can_booster_jump()
-end
-
-function can_exit_plains_of_rowahl_1()
-    return HAS("castle_gate_key")
-end
-
-function can_exit_krasheen_mountains_1()
-    return can_fly()
-end
-
--- TODO: update all below rules for randomized levels. Currently shows all levels accessible if randomized.
-function can_enter_isamat_urbur()
-    return ANY(can_exit_noblemans_residence_2(), "randomize_levels")
-end
-
-function can_enter_bhashea_castle()
-    return ANY(can_exit_bhashea_high_road_3(), "randomize_levels")
-end
-
-function can_enter_fairy_house()
-    return ANY(can_exit_gromtull_desert_1(), "randomize_levels")
-end
-
-function can_enter_runestone_caverns_upper()
-    return ANY(can_exit_kendarie_fortress_1(), "randomize_levels")
-end
-
-function can_enter_runestone_caverns_lower()
-    return ANY(ALL(can_exit_runestone_caverns_upper_1(), can_enter_runestone_caverns_upper()), "randomize_levels")
-end
-
-function can_enter_ruldo_forest()
-    return ANY(ALL(can_exit_runestone_caverns_upper_1(), can_enter_runestone_caverns_upper()), "randomize_levels")
-end
-
-function can_enter_fossil_boneyard()
-    return ANY(can_enter_ruldo_forest(), "randomize_levels")
-end
-
-function can_enter_sarvan()
-    return ANY(ALL(can_exit_fossil_boneyard_1(), can_enter_fossil_boneyard()), "randomize_levels")
-end
-
-function can_enter_holzogh_town()
-    return ANY(can_enter_sarvan(), "randomize_levels")
-end
-
-function can_enter_plains_of_rowahl()
-    return ANY(can_enter_sarvan(), "randomize_levels")
-end
-
-function can_enter_alanjeh_castle()
-    return ANY(ALL(can_exit_plains_of_rowahl_1(), can_enter_plains_of_rowahl()), "randomize_levels")
+    return ALL(level_name, location.AccessibilityLevel)
 end
 
 function can_enter_royal_tower_lower()
-    return ANY(ALL(can_exit_plains_of_rowahl_1(), can_enter_plains_of_rowahl()), "randomize_levels")
+    return can_enter_level("Alanjeh Castle")
 end
 
 function can_enter_royal_tower_middle()
-    return ALL("god_of_destruction", can_enter_royal_tower_lower())
+    return ALL("god_of_destruction", can_enter_level("Alanjeh Castle"))
 end
 
 function can_enter_royal_tower_upper()
-    return ALL("god_of_destruction", can_enter_royal_tower_lower())
+    return ALL("god_of_destruction", can_enter_level("Alanjeh Castle"))
 end
 
 function can_enter_sacred_battle_arena_1()
-    return ANY(can_enter_ruldo_forest(), "randomize_levels")
+    return can_enter_level("Sacred Battle Arena 1")
 end
 
 function can_enter_sacred_battle_arena_2()
@@ -165,31 +107,11 @@ function can_enter_sacred_battle_arena_2()
             HAS("progressive_attribute_proficiency_wood", 6)
         )
     end
-    return ALL(can_enter_sacred_battle_arena_1(), has_attribute_proficiency)
-end
-
-function can_exit_holzogh_town_2()
-    return can_enter_royal_tower_lower()
-end
-
-function can_enter_obenoix_gorge()
-    return ANY(ALL(can_exit_holzogh_town_2(), can_enter_holzogh_town()), "randomize_levels")
-end
-
-function can_enter_krasheen_mountains()
-    return ANY(can_enter_royal_tower_lower(), "randomize_levels")
-end
-
-function can_enter_grenfoel_cathedral()
-    return ANY(ALL(can_exit_krasheen_mountains_1(), can_enter_krasheen_mountains()), "randomize_levels")
-end
-
-function can_enter_temple_of_sharacia()
-    return ANY(can_enter_grenfoel_cathedral(), "randomize_levels")
+    return ALL(can_enter_level("Sacred Battle Arena 1"), has_attribute_proficiency)
 end
 
 function can_shop()
-    return true
+    return ANY(can_enter_level("Kadishu Shop"), can_enter_level("Grenfoel Cathedral Shop"))
 end
 
 function has_goal_red_fairies()

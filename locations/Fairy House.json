@@ -3,7 +3,7 @@
         "name": "Fairy House",
         "chest_unopened_img": "/images/items/fairy_close.png",
         "chest_opened_img": "/images/items/fairy_open.png",
-        "access_rules": ["^$can_enter_fairy_house"],
+        "access_rules": ["^$can_enter_level|Fairy House"],
         "children": [
             {
                 "name": "Collect Red Fairies",

@@ -3,7 +3,7 @@
         "name": "Holzogh Town",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
-        "access_rules": ["^$can_enter_holzogh_town"],
+        "access_rules": ["^$can_enter_level|Holzogh Town"],
         "children": [
             {
                 "name": "Chest 1",

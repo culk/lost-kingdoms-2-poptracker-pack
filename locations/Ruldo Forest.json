@@ -3,7 +3,7 @@
         "name": "Ruldo Forest",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
-        "access_rules": ["^$can_enter_ruldo_forest"],
+        "access_rules": ["^$can_enter_level|Ruldo Forest"],
         "children": [
             {
                 "name": "Dead End Near Start",

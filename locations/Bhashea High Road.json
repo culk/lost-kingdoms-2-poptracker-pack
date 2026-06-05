@@ -3,6 +3,7 @@
         "name": "Bhashea High Road",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_level|Bhashea High Road"],
         "children": [
             {
                 "name": "Chest Near Horses",

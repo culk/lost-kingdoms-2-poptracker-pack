@@ -12,6 +12,15 @@
                 }
             },
             {
+                "title": "Connections",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Connections"
+                    ]
+                }
+            },
+            {
                 "title": "Combo",
                 "content": {
                     "type": "map",

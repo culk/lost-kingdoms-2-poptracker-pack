@@ -3,7 +3,7 @@
         "name": "Isamat Urbur",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
-        "access_rules": ["^$can_enter_isamat_urbur"],
+        "access_rules": ["^$can_enter_level|Isamat Urbur"],
         "children": [
             {
                 "name": "Treasure Room",

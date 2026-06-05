@@ -1,6 +1,7 @@
 Tracker:AddLocations("locations/Alanjeh Castle.json")
 Tracker:AddLocations("locations/Bhashea Castle.json")
 Tracker:AddLocations("locations/Bhashea High Road.json")
+Tracker:AddLocations("locations/Connections.json")
 Tracker:AddLocations("locations/Combo.json")
 Tracker:AddLocations("locations/Fairy House.json")
 Tracker:AddLocations("locations/Fossil Boneyard.json")

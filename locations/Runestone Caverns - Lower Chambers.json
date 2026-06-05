@@ -3,7 +3,7 @@
         "name": "Runestone Caverns - Lower Chambers",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
-        "access_rules": ["^$can_enter_runestone_caverns_lower"],
+        "access_rules": ["^$can_enter_level|Runestone Caverns - Lower Chambers"],
         "children": [
             {
                 "name": "Chest 1",
@@ -37,7 +37,7 @@
             },
             {
                 "name": "Low Water Chest",
-                "access_rules": ["^$can_enter_runestone_caverns_upper"],
+                "access_rules": ["^$can_enter_level|Runestone Caverns - Upper Chambers"],
                 "sections": [
                     {
                         "name": ""
@@ -140,7 +140,7 @@
                 "name": "Red Fairy Low Water",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": ["^$can_enter_runestone_caverns_upper"],
+                "access_rules": ["^$can_enter_level|Runestone Caverns - Upper Chambers"],
                 "visibility_rules": ["fairysanity"],
                 "sections": [
                     {

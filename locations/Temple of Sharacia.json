@@ -3,7 +3,7 @@
         "name": "Temple of Sharacia",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
-        "access_rules": ["^$can_enter_temple_of_sharacia"],
+        "access_rules": ["^$can_enter_level|Temple of Sharacia"],
         "children": [
             {
                 "name": "Flight Chest",

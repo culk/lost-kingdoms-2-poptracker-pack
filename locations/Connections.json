@@ -1,0 +1,757 @@
+[
+    {
+        "name": "Connections",
+        "children": [
+            {
+                "name": "Alanjeh Castle",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Alanjeh Castle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 252,
+                        "y": 738
+                    }
+                ]
+            },
+            {
+                "name": "Bhashea Castle",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Bhashea Castle"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 1109,
+                        "y": 860
+                    }
+                ]
+            },
+            {
+                "name": "Bhashea High Road",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Bhashea High Road"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 1023,
+                        "y": 841
+                    }
+                ]
+            },
+            {
+                "name": "Fossil Boneyard",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Fossil Boneyard"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 807,
+                        "y": 241
+                    }
+                ]
+            },
+            {
+                "name": "Grenfoel Cathedral",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Grenfoel Cathedral"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 186,
+                        "y": 194
+                    }
+                ]
+            },
+            {
+                "name": "Grenfoel Cathedral Shop",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Grenfoel Cathedral Shop"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 216,
+                        "y": 194
+                    }
+                ]
+            },
+            {
+                "name": "Gromtull Desert",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Gromtull Desert"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 1056,
+                        "y": 676
+                    }
+                ]
+            },
+            {
+                "name": "Holzogh Town",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Holzogh Town"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 429,
+                        "y": 731
+                    }
+                ]
+            },
+            {
+                "name": "Isamat Urbur",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Isamat Urbur"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 848,
+                        "y": 924
+                    }
+                ]
+            },
+            {
+                "name": "Kadishu",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Kadishu"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 705,
+                        "y": 750
+                    }
+                ]
+            },
+            {
+                "name": "Kadishu Shop",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Kadishu Shop"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 735,
+                        "y": 750
+                    }
+                ]
+            },
+            {
+                "name": "Fairy House",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Fairy House"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 765,
+                        "y": 750
+                    }
+                ]
+            },
+            {
+                "name": "Kendarie Fortress",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Kendarie Fortress"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 812,
+                        "y": 678
+                    }
+                ]
+            },
+            {
+                "name": "Krasheen Mountains",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Krasheen Mountains"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 418,
+                        "y": 280
+                    }
+                ]
+            },
+            {
+                "name": "Obenoix Gorge",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Obenoix Gorge"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 508,
+                        "y": 902
+                    }
+                ]
+            },
+            {
+                "name": "Plains of Rowahl",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Plains of Rowahl"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 353,
+                        "y": 783
+                    }
+                ]
+            },
+            {
+                "name": "Ruldo Forest",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Ruldo Forest"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 981,
+                        "y": 234
+                    }
+                ]
+            },
+            {
+                "name": "Runestone Caverns - Upper Chambers",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Runestone Caverns - Upper Chambers"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 1090,
+                        "y": 227
+                    }
+                ]
+            },
+            {
+                "name": "Runestone Caverns - Lower Chambers",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Runestone Caverns - Lower Chambers"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 1120,
+                        "y": 227
+                    }
+                ]
+            },
+            {
+                "name": "Sacred Battle Arena 1",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Sacred Battle Arena 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 887,
+                        "y": 151
+                    }
+                ]
+            },
+            {
+                "name": "Sarvan",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Sarvan"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 884,
+                        "y": 335
+                    }
+                ]
+            },
+            {
+                "name": "Temple of Sharacia",
+                "access_rules": ["{$TRUE}"],
+                "sections": [
+                    {
+                        "name": "Found                                                                                              ",
+                        "hosted_item": "Temple of Sharacia"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 135,
+                        "y": 453
+                    }
+                ]
+            },
+            {
+                "name": "Nobleman's Residence Exit 1",
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Nobleman's Residence Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 752,
+                        "y": 776
+                    }
+                ]
+            },
+            {
+                "name": "Nobleman's Residence Exit 2",
+                "access_rules": ["mysterious_key"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Nobleman's Residence Exit 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 782,
+                        "y": 776
+                    }
+                ]
+            },
+            {
+                "name": "Bhashea High Road Exit 1",
+                "access_rules": ["^$can_enter_level|Bhashea High Road"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Bhashea High Road Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 993,
+                        "y": 746
+                    }
+                ]
+            },
+            {
+                "name": "Bhashea High Road Exit 2",
+                "access_rules": ["^$can_enter_level|Bhashea High Road"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Bhashea High Road Exit 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 1023,
+                        "y": 746
+                    }
+                ]
+            },
+            {
+                "name": "Bhashea High Road Exit 3",
+                "access_rules": [
+                    "^$can_enter_level|Bhashea High Road, ^$can_jump",
+                    "^$can_enter_level|Bhashea High Road, ^$can_fly"
+                ],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Bhashea High Road Exit 3"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 1053,
+                        "y": 746
+                    }
+                ]
+            },
+            {
+                "name": "Kadishu Exit 1",
+                "access_rules": ["^$can_enter_level|Kadishu"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Kadishu Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 720,
+                        "y": 674
+                    }
+                ]
+            },
+            {
+                "name": "Kadishu Exit 2",
+                "access_rules": ["^$can_enter_level|Kadishu"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Kadishu Exit 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 750,
+                        "y": 674
+                    }
+                ]
+            },
+            {
+                "name": "Gromtull Desert Exit 1",
+                "access_rules": ["^$can_enter_level|Gromtull Desert, black_liquid"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Gromtull Desert Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 1056,
+                        "y": 608
+                    }
+                ]
+            },
+            {
+                "name": "Kendarie Fortress Exit 1",
+                "access_rules": ["^$can_enter_level|Kendarie Fortress, red_key, blue_key"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Kendarie Fortress Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 812,
+                        "y": 606
+                    }
+                ]
+            },
+            {
+                "name": "Runestone Caverns - Upper Chambers Exit 1",
+                "access_rules": ["^$can_enter_level|Runestone Caverns - Upper Chambers, stone_golem"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Runestone Caverns - Upper Chambers Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 1090,
+                        "y": 145
+                    }
+                ]
+            },
+            {
+                "name": "Runestone Caverns - Lower Chambers Exit 1",
+                "access_rules": ["^$can_enter_level|Runestone Caverns - Lower Chambers"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Runestone Caverns - Lower Chambers Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 1120,
+                        "y": 145
+                    }
+                ]
+            },
+            {
+                "name": "Ruldo Forest Exit 1",
+                "access_rules": ["^$can_enter_level|Ruldo Forest"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Ruldo Forest Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 966,
+                        "y": 162
+                    }
+                ]
+            },
+            {
+                "name": "Ruldo Forest Exit 2",
+                "access_rules": ["^$can_enter_level|Ruldo Forest"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Ruldo Forest Exit 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 996,
+                        "y": 162
+                    }
+                ]
+            },
+            {
+                "name": "Fossil Boneyard Exit 1",
+                "access_rules": ["^$can_enter_level|Fossil Boneyard, ^$can_booster_jump"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Fossil Boneyard Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 807,
+                        "y": 172
+                    }
+                ]
+            },
+            {
+                "name": "Sarvan Exit 1",
+                "access_rules": ["^$can_enter_level|Sarvan"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Sarvan Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 884,
+                        "y": 231
+                    }
+                ]
+            },
+            {
+                "name": "Holzogh Town Exit 1",
+                "access_rules": ["^$can_enter_level|Holzogh Town"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Holzogh Town Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 414,
+                        "y": 655
+                    }
+                ]
+            },
+            {
+                "name": "Holzogh Town Exit 2",
+                "access_rules": ["^$can_enter_level|Holzogh Town, ^$can_enter_level|Alanjeh Castle"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Holzogh Town Exit 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 444,
+                        "y": 655
+                    }
+                ]
+            },
+            {
+                "name": "Plains of Rowahl Exit 1",
+                "access_rules": ["^$can_enter_level|Plains of Rowahl, castle_gate_key"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Plains of Rowahl Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 353,
+                        "y": 705
+                    }
+                ]
+            },
+            {
+                "name": "Royal Tower - Lower Exit 1",
+                "access_rules": ["^$can_enter_level|Alanjeh Castle"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Royal Tower - Lower Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 252,
+                        "y": 624
+                    }
+                ]
+            },
+            {
+                "name": "Krasheen Mountains Exit 1",
+                "access_rules": ["^$can_enter_level|Krasheen Mountains, ^$can_fly"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Krasheen Mountains Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 418,
+                        "y": 199
+                    }
+                ]
+            },
+            {
+                "name": "Grenfoel Cathedral Exit 1",
+                "access_rules": ["^$can_enter_level|Grenfoel Cathedral"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Grenfoel Cathedral Exit 1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 186,
+                        "y": 113
+                    }
+                ]
+            },
+            {
+                "name": "Grenfoel Cathedral Exit 2",
+                "access_rules": ["^$can_enter_level|Grenfoel Cathedral"],
+                "sections": [
+                    {
+                        "name": "Cleared                                                                                             ",
+                        "hosted_item": "Grenfoel Cathedral Exit 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Connections",
+                        "x": 216,
+                        "y": 113
+                    }
+                ]
+            }
+        ]
+    }
+]

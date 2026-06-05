@@ -3,7 +3,7 @@
         "name": "Fossil Boneyard",
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
-        "access_rules": ["^$can_enter_fossil_boneyard"],
+        "access_rules": ["^$can_enter_level|Fossil Boneyard"],
         "children": [
             {
                 "name": "Chest 1",
