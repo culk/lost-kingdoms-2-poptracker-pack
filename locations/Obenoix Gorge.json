@@ -45,7 +45,7 @@
                 "name": "Island Near 2nd Sasquatch Battle",
                 "access_rules": [
                     "^$can_fly",
-                    "[^$can_long_jump]"
+                    "[cerberus]"
                 ],
                 "sections": [
                     {
