@@ -66,11 +66,6 @@ function preOnClear()
         Archipelago:SetNotify({HINTS_ID})
         Archipelago:Get({HINTS_ID})
     end
-
-    -- Unassign all exits and levels.
-    for _, exit in pairs(EXIT_BY_NAME) do
-        exit:Assign(nil)
-    end
 end
 
 function onClear(slot_data)
@@ -79,6 +74,7 @@ function onClear(slot_data)
     SLOT_DATA = slot_data
     print(string.format("onClear: Reading slot data:\n%s", dump_table(SLOT_DATA)))
     CUR_INDEX = -1
+    SAVED_STATE = Tracker:FindObjectForCode("saved_state").ItemState
 
     -- Reset locations.
     for _, location_array in pairs(LOCATION_MAPPING) do
@@ -137,11 +133,11 @@ function onClear(slot_data)
             end
             if setting_obj then
                 if setting_obj.Type == "toggle" then
-                    setting_obj.Active = SETTING_MAPPING[key].mapping[value]
+                    setting_obj.Active = SETTING_MAPPING[key].mapping[value] --[[@as boolean]]
                 elseif setting_obj.Type == "consumable" then
                     setting_obj.AcquiredCount = value
                 elseif setting_obj.Type == "progressive" then
-                    setting_obj.CurrentStage = SETTING_MAPPING[key].mapping[value]
+                    setting_obj.CurrentStage = SETTING_MAPPING[key].mapping[value] --[[@as integer]]
                 end
             else
                 print(string.format("onClear: could not find setting for code %s", SETTING_MAPPING[key].code))
@@ -149,10 +145,21 @@ function onClear(slot_data)
         end
     end
 
+    -- Force update of connection assignments if required.
     if not RANDOMIZE_LEVELS then
+        -- Levels are not randomized, reassign all connections with the default mapping.
+        for _, exit in pairs(EXIT_BY_NAME) do
+            exit:Assign(nil)
+        end
         for exit_name, level_name in pairs(DEFAULT_EXIT_MAPPING) do
             local exit = EXIT_BY_NAME[exit_name]
             exit:Assign(LEVEL_BY_NAME[level_name])
+        end
+    elseif SLOT_DATA["Seed"] ~= SAVED_STATE.SEED then
+        -- Connected slot has a different seed, unassign all connections.
+        SAVED_STATE.SEED = SLOT_DATA["Seed"]
+        for _, exit in pairs(EXIT_BY_NAME) do
+            exit:Assign(nil)
         end
     end
 

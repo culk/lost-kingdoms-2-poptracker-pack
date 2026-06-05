@@ -3,6 +3,7 @@ require("scripts/levels/level")
 
 ---Creates a LuaItem for the exit.
 ---@param exit Exit
+---@return LuaItem
 function CreateExitItem(exit)
     local exit_item = ScriptHost:CreateLuaItem()
     exit_item.Name = exit.Name
@@ -67,6 +68,7 @@ end
 
 ---Creates a LuaItem for the level.
 ---@param level Level
+---@return LuaItem
 function CreateLevelItem(level)
     local level_item = ScriptHost:CreateLuaItem()
     level_item.Name = level.Name
@@ -117,7 +119,32 @@ function CreateLevelItem(level)
     return level_item
 end
 
+---Creates a LuaItem to store pack state information that is useful when reloading the pack.
+---@return LuaItem
+function CreateSavedStateItem()
+    local item = ScriptHost:CreateLuaItem()
+    item.Name = "saved_state"
+    item.ItemState = {SEED = 0}
+
+    item.CanProvideCodeFunc = function(self, code)
+        return code == self.Name
+    end
+
+    item.SaveFunc = function(self)
+        return {SEED = self.ItemState.SEED}
+    end
+
+    item.LoadFunc = function(self, data)
+        if data then
+            self.ItemState.SEED = data.SEED
+        end
+    end
+
+    return item
+end
+
 local function createLuaItems()
+    CreateSavedStateItem()
     for _, exit in pairs(EXIT_BY_NAME) do
         CreateExitItem(exit)
     end
