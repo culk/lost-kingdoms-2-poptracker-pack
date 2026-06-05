@@ -1,0 +1,44 @@
+{
+    "tabbed_maps": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Overworld",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Overworld"
+                    ]
+                }
+            },
+            {
+                "title": "Bhashea",
+                "content": {
+                    "type": "layout",
+                    "key": "bhashea_tabbed_maps"
+                }
+            },
+            {
+                "title": "Kendaria",
+                "content": {
+                    "type": "layout",
+                    "key": "kendaria_tabbed_maps"
+                }
+            },
+            {
+                "title": "Alanjeh",
+                "content": {
+                    "type": "layout",
+                    "key": "alanjeh_tabbed_maps"
+                }
+            },
+            {
+                "title": "Wyht",
+                "content": {
+                    "type": "layout",
+                    "key": "wyht_tabbed_maps"
+                }
+            }
+        ]
+    }
+}

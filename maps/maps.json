@@ -10,7 +10,7 @@
         "location_shape": "diamond",
         "location_size": 28,
         "location_border_thickness": 1,
-        "img": "images/maps/overworld.png"
+        "img": "images/maps/connections.png"
     },
     {
         "name": "Combo",

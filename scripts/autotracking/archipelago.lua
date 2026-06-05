@@ -334,14 +334,29 @@ function UpdateLayoutLevels(show_player_levels, show_attributes)
     end
 end
 
+function UpdateLayoutMapTabs(show_combosanity, show_connections)
+    if show_combosanity and show_connections then
+        Tracker:AddLayouts("layouts/tabs/show_all.json")
+    elseif show_combosanity then
+        Tracker:AddLayouts("layouts/tabs/show_combos.json")
+    elseif show_connections then
+        Tracker:AddLayouts("layouts/tabs/show_connections.json")
+    else
+        Tracker:AddLayouts("layouts/tabs/show_minimal.json")
+    end
+end
+
 function UpdateLayout()
     if LAYOUT_STALE then
         local show_red_fairies = Tracker:FindObjectForCode("fairysanity").Active
         local show_player_levels = Tracker:FindObjectForCode("progressive_leveling").Active
         local show_attributes = Tracker:FindObjectForCode("progressive_attribute_proficiencies").Active
+        local show_combosanity = Tracker:FindObjectForCode("combosanity").Active
+        local show_connections = Tracker:FindObjectForCode("randomize_levels").Active
 
         UpdateLayoutKeyItems(show_red_fairies)
         UpdateLayoutLevels(show_player_levels, show_attributes)
+        UpdateLayoutMapTabs(show_combosanity, show_connections)
 
         LAYOUT_STALE = false
     end

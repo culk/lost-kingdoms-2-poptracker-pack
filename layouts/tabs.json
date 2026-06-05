@@ -1,34 +1,7 @@
 {
-    "tabbed_maps": {
+    "bhashea_tabbed_maps": {
         "type": "tabbed",
         "tabs": [
-            {
-                "title": "Overworld",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Overworld"
-                    ]
-                }
-            },
-            {
-                "title": "Connections",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Connections"
-                    ]
-                }
-            },
-            {
-                "title": "Combo",
-                "content": {
-                    "type": "map",
-                    "maps": [
-                        "Combo"
-                    ]
-                }
-            },
             {
                 "title": "Nobleman's Residence",
                 "content": {
@@ -91,7 +64,12 @@
                         "Isamat Urbur"
                     ]
                 }
-            },
+            }
+        ]
+    },
+    "kendaria_tabbed_maps": {
+        "type": "tabbed",
+        "tabs": [
             {
                 "title": "Runestone Caverns - Upper Chambers",
                 "content": {
@@ -154,7 +132,12 @@
                         "Sacred Battle Arena 2"
                     ]
                 }
-            },
+            }
+        ]
+    },
+    "alanjeh_tabbed_maps": {
+        "type": "tabbed",
+        "tabs": [
             {
                 "title": "Holzogh Town",
                 "content": {
@@ -217,7 +200,12 @@
                         "Obenoix Gorge"
                     ]
                 }
-            },
+            }
+        ]
+    },
+    "wyht_tabbed_maps": {
+        "type": "tabbed",
+        "tabs": [
             {
                 "title": "Krasheen Mountains",
                 "content": {

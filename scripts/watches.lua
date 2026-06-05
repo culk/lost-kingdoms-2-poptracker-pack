@@ -9,5 +9,7 @@ Archipelago:AddRetrievedHandler("notify launch handler", OnNotifyLaunch)
 ScriptHost:AddWatchForCode("fairysanity", "fairysanity", ToggleItems)
 ScriptHost:AddWatchForCode("progressive_leveling", "progressive_leveling", ToggleItems)
 ScriptHost:AddWatchForCode("progressive_attribute_proficiencies", "progressive_attribute_proficiencies", ToggleItems)
+ScriptHost:AddWatchForCode("combosanity", "combosanity", ToggleItems)
+ScriptHost:AddWatchForCode("randomize_levels", "randomize_levels", ToggleItems)
 
 ScriptHost:AddOnFrameHandler("tracker_layout_update", UpdateLayout)
