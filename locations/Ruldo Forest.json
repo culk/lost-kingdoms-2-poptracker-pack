@@ -58,6 +58,7 @@
                 "name": "Flight or Jump Chest",
                 "access_rules": [
                     "^$can_fly",
+                    "cerberus",
                     "unicorn, [cerberus]",
                     "centaur, [cerberus]"
                 ],
