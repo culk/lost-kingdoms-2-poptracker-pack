@@ -10,7 +10,6 @@ function Level.New(name, icon)
     ---@class Level
     local o = setmetatable({}, Level)
     o.Name = name
-    o.LocationSectionRef = "@Connections/" .. name .. "/Found                                                                                              "
     o.LocationRef = "@Connections/" .. name
     o.Icon = icon
     ---@type Exit
@@ -56,7 +55,7 @@ function Level:GetIconMods()
         end
     else
         if self:IsSelected() then
-            return "overlay|images/items/cursor.png"
+            return "brightness|1.5,overlay|images/items/cursor.png"
         else
             return "none"
         end

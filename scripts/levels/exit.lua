@@ -4,14 +4,14 @@ Exit.__index = Exit
 
 ---Creates a new Exit object
 ---@param name string
+---@param icon string
 ---@return table
-function Exit.New(name)
+function Exit.New(name, icon)
     ---@class Exit
     local o = setmetatable({}, Exit)
     o.Name = name
-    o.LocationSectionRef = "@Connections/" .. name .. "/Cleared                                                                                             "
     o.LocationRef = "@Connections/" .. name
-    o.Icon = "images/items/exit.png"
+    o.Icon = icon
     ---@type Level
     o.Level = nil
     return o
@@ -98,7 +98,7 @@ function Exit:GetIconMods()
         end
     else
         if self:IsSelected() then
-            return "overlay|images/items/cursor.png"
+            return "brightness|1.5,overlay|images/items/cursor.png"
         else
             return "none"
         end
@@ -150,34 +150,34 @@ function Exit:UpdateItem(item)
     self:UpdateNameAndOverlay(item)
 end
 
-EXIT_NAMES = {
-    "Nobleman's Residence Exit 1",
-    "Nobleman's Residence Exit 2",
-    "Bhashea High Road Exit 1",
-    "Bhashea High Road Exit 2",
-    "Bhashea High Road Exit 3",
-    "Kadishu Exit 1",
-    "Kadishu Exit 2",
-    "Gromtull Desert Exit 1",
-    "Kendarie Fortress Exit 1",
-    "Runestone Caverns - Upper Chambers Exit 1",
-    "Runestone Caverns - Lower Chambers Exit 1",
-    "Ruldo Forest Exit 1",
-    "Ruldo Forest Exit 2",
-    "Fossil Boneyard Exit 1",
-    "Sarvan Exit 1",
-    "Holzogh Town Exit 1",
-    "Holzogh Town Exit 2",
-    "Plains of Rowahl Exit 1",
-    "Royal Tower - Lower Exit 1",
-    "Krasheen Mountains Exit 1",
-    "Grenfoel Cathedral Exit 1",
-    "Grenfoel Cathedral Exit 2",
+ICON_BY_EXIT = {
+    ["Nobleman's Residence Exit 1"] = "images/items/exits/noblemans_residence_exit_1.png",
+    ["Nobleman's Residence Exit 2"] = "images/items/exits/noblemans_residence_exit_2.png",
+    ["Bhashea High Road Exit 1"] = "images/items/exits/bhashea_high_road_exit_1.png",
+    ["Bhashea High Road Exit 2"] = "images/items/exits/bhashea_high_road_exit_2.png",
+    ["Bhashea High Road Exit 3"] = "images/items/exits/bhashea_high_road_exit_3.png",
+    ["Kadishu Exit 1"] = "images/items/exits/kadishu_exit_1.png",
+    ["Kadishu Exit 2"] = "images/items/exits/kadishu_exit_2.png",
+    ["Gromtull Desert Exit 1"] = "images/items/exits/gromtull_desert_exit_1.png",
+    ["Kendarie Fortress Exit 1"] = "images/items/exits/kendarie_fortress_exit_1.png",
+    ["Runestone Caverns - Upper Chambers Exit 1"] = "images/items/exits/runestone_caverns_upper_chambers_exit_1.png",
+    ["Runestone Caverns - Lower Chambers Exit 1"] = "images/items/exits/runestone_caverns_lower_chambers_exit_1.png",
+    ["Ruldo Forest Exit 1"] = "images/items/exits/ruldo_forest_exit_1.png",
+    ["Ruldo Forest Exit 2"] = "images/items/exits/ruldo_forest_exit_2.png",
+    ["Fossil Boneyard Exit 1"] = "images/items/exits/fossil_boneyard_exit_1.png",
+    ["Sarvan Exit 1"] = "images/items/exits/sarvan_exit_1.png",
+    ["Holzogh Town Exit 1"] = "images/items/exits/holzogh_town_exit_1.png",
+    ["Holzogh Town Exit 2"] = "images/items/exits/holzogh_town_exit_2.png",
+    ["Plains of Rowahl Exit 1"] = "images/items/exits/plains_of_rowahl_exit_1.png",
+    ["Royal Tower - Lower Exit 1"] = "images/items/exits/royal_tower_lower_exit_1.png",
+    ["Krasheen Mountains Exit 1"] = "images/items/exits/krasheen_mountains_exit_1.png",
+    ["Grenfoel Cathedral Exit 1"] = "images/items/exits/grenfoel_cathedral_exit_1.png",
+    ["Grenfoel Cathedral Exit 2"] = "images/items/exits/grenfoel_cathedral_exit_2.png",
 }
 
 EXIT_BY_NAME = {}
-for _, name in ipairs(EXIT_NAMES) do
-    EXIT_BY_NAME[name] = Exit.New(name)
+for name, icon in pairs(ICON_BY_EXIT) do
+    EXIT_BY_NAME[name] = Exit.New(name, icon)
 end
 
 DEFAULT_EXIT_MAPPING = {

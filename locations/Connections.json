@@ -380,7 +380,7 @@
                 "name": "Nobleman's Residence Exit 1",
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Exit Out Front Door                                                                                 ",
                         "hosted_item": "Nobleman's Residence Exit 1"
                     }
                 ],
@@ -397,7 +397,7 @@
                 "access_rules": ["mysterious_key"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Interact With Map                                                                                   ",
                         "hosted_item": "Nobleman's Residence Exit 2"
                     }
                 ],
@@ -414,7 +414,7 @@
                 "access_rules": ["^$can_enter_level|Bhashea High Road"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Defeat Storm Hagans                                                                                 ",
                         "hosted_item": "Bhashea High Road Exit 1"
                     }
                 ],
@@ -431,7 +431,7 @@
                 "access_rules": ["^$can_enter_level|Bhashea High Road"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Defeat Kendarie Soldiers                                                                            ",
                         "hosted_item": "Bhashea High Road Exit 2"
                     }
                 ],
@@ -451,7 +451,7 @@
                 ],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Defeat Chaos Knight                                                                                 ",
                         "hosted_item": "Bhashea High Road Exit 3"
                     }
                 ],
@@ -468,7 +468,7 @@
                 "access_rules": ["^$can_enter_level|Kadishu"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Enter Card Shop                                                                                     ",
                         "hosted_item": "Kadishu Exit 1"
                     }
                 ],
@@ -485,7 +485,7 @@
                 "access_rules": ["^$can_enter_level|Kadishu"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Talk to Woman Near Entrance                                                                         ",
                         "hosted_item": "Kadishu Exit 2"
                     }
                 ],
@@ -502,7 +502,7 @@
                 "access_rules": ["^$can_enter_level|Gromtull Desert, black_liquid"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Rescue Jarvi                                                                                        ",
                         "hosted_item": "Gromtull Desert Exit 1"
                     }
                 ],
@@ -519,7 +519,7 @@
                 "access_rules": ["^$can_enter_level|Kendarie Fortress, red_key, blue_key"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Open the Gates                                                                                      ",
                         "hosted_item": "Kendarie Fortress Exit 1"
                     }
                 ],
@@ -536,7 +536,7 @@
                 "access_rules": ["^$can_enter_level|Runestone Caverns - Upper Chambers, stone_golem"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Destroy the Gate                                                                                    ",
                         "hosted_item": "Runestone Caverns - Upper Chambers Exit 1"
                     }
                 ],
@@ -553,7 +553,7 @@
                 "access_rules": ["^$can_enter_level|Runestone Caverns - Lower Chambers"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Defeat Body of the God                                                                              ",
                         "hosted_item": "Runestone Caverns - Lower Chambers Exit 1"
                     }
                 ],
@@ -570,7 +570,7 @@
                 "access_rules": ["^$can_enter_level|Ruldo Forest"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Exit After Meeting Gurd                                                                             ",
                         "hosted_item": "Ruldo Forest Exit 1"
                     }
                 ],
@@ -587,7 +587,7 @@
                 "access_rules": ["^$can_enter_level|Ruldo Forest"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Defeat Cockatrices                                                                                  ",
                         "hosted_item": "Ruldo Forest Exit 2"
                     }
                 ],
@@ -604,7 +604,7 @@
                 "access_rules": ["^$can_enter_level|Fossil Boneyard, ^$can_booster_jump"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Defeat Amber Dragon                                                                                 ",
                         "hosted_item": "Fossil Boneyard Exit 1"
                     }
                 ],
@@ -621,7 +621,7 @@
                 "access_rules": ["^$can_enter_level|Sarvan"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Defeat Chimera                                                                                      ",
                         "hosted_item": "Sarvan Exit 1"
                     }
                 ],
@@ -638,7 +638,7 @@
                 "access_rules": ["^$can_enter_level|Holzogh Town"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Defeat Mech Boss Monsters                                                                           ",
                         "hosted_item": "Holzogh Town Exit 1"
                     }
                 ],
@@ -655,7 +655,7 @@
                 "access_rules": ["^$can_enter_level|Holzogh Town, ^$can_enter_level|Alanjeh Castle"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Talk to Man (Second Visit)                                                                          ",
                         "hosted_item": "Holzogh Town Exit 2"
                     }
                 ],
@@ -672,7 +672,7 @@
                 "access_rules": ["^$can_enter_level|Plains of Rowahl, castle_gate_key"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Exit Out Castle Gate                                                                                ",
                         "hosted_item": "Plains of Rowahl Exit 1"
                     }
                 ],
@@ -689,7 +689,7 @@
                 "access_rules": ["^$can_enter_level|Alanjeh Castle"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Talk to Alanjeh Soldier (Second Visit)                                                              ",
                         "hosted_item": "Royal Tower - Lower Exit 1"
                     }
                 ],
@@ -706,7 +706,7 @@
                 "access_rules": ["^$can_enter_level|Krasheen Mountains, ^$can_fly"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Defeat Black Dragon                                                                                 ",
                         "hosted_item": "Krasheen Mountains Exit 1"
                     }
                 ],
@@ -723,7 +723,7 @@
                 "access_rules": ["^$can_enter_level|Grenfoel Cathedral"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Interact With Library Back Bookshelves                                                              ",
                         "hosted_item": "Grenfoel Cathedral Exit 1"
                     }
                 ],
@@ -740,7 +740,7 @@
                 "access_rules": ["^$can_enter_level|Grenfoel Cathedral"],
                 "sections": [
                     {
-                        "name": "Cleared                                                                                             ",
+                        "name": "Enter Card Shop                                                                                     ",
                         "hosted_item": "Grenfoel Cathedral Exit 2"
                     }
                 ],
