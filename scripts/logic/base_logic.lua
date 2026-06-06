@@ -38,12 +38,8 @@ function can_high_jump()
     return ANY("hell_hound", unicorn_out_of_logic)
 end
 
-function can_long_jump()
-    return ANY("cerberus", "centaur")
-end
-
 function can_jump()
-    return ANY(can_high_jump(), can_long_jump())
+    return ANY(can_high_jump(), "cerberus", "centaur")
 end
 
 function can_booster_jump()
@@ -62,8 +58,12 @@ function can_ice_break()
     return ALL("magic_boosters", "stone_golem")
 end
 
-function can_reach_kendarie_green_door_chest()
-    return ALL("green_key", ANY(can_fly(), "blue_key"))
+function can_reach_kendarie_mechapult()
+    return ANY(
+        "blue_key",
+        can_fly(),
+        ALL(can_jump(), AccessibilityLevel.SequenceBreak)
+    )
 end
 
 function can_enter_level(level_name)

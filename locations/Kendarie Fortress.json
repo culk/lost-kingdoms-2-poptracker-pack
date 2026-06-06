@@ -38,7 +38,7 @@
             },
             {
                 "name": "Chest Behind Green Door",
-                "access_rules": ["^$can_reach_kendarie_green_door_chest"],
+                "access_rules": ["green_key, ^$can_reach_kendarie_mechapult"],
                 "sections": [
                     {
                         "name": ""
@@ -128,10 +128,7 @@
                 "name": "Red Fairy Past Blue Gate",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [
-                    "blue_key",
-                    "^$can_fly"
-                ],
+                "access_rules": ["^$can_reach_kendarie_mechapult"],
                 "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
@@ -150,10 +147,7 @@
                 "name": "Red Fairy Near Mechapult",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": [
-                    "blue_key",
-                    "^$can_fly"
-                ],
+                "access_rules": ["^$can_reach_kendarie_mechapult"],
                 "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
@@ -231,24 +225,15 @@
                     },
                     {
                         "name": "Aggressor GL2 #2",
-                        "access_rules": [
-                            "blue_key",
-                            "^$can_fly"
-                        ]
+                        "access_rules": ["^$can_reach_kendarie_mechapult"]
                     },
                     {
                         "name": "Aggressor GL2 #3",
-                        "access_rules": [
-                            "blue_key",
-                            "^$can_fly"
-                        ]
+                        "access_rules": ["^$can_reach_kendarie_mechapult"]
                     },
                     {
                         "name": "MechaPult #1",
-                        "access_rules": [
-                            "blue_key",
-                            "^$can_fly"
-                        ]
+                        "access_rules": ["^$can_reach_kendarie_mechapult"]
                     },
                     {
                         "name": "Aggressor GL2 #4",

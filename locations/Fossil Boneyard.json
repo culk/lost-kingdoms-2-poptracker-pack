@@ -107,7 +107,7 @@
                 "name": "Flight Chest 2",
                 "access_rules": [
                     "^$can_booster_jump, ^$can_fly",
-                    "^$can_booster_jump, ^$can_long_jump"
+                    "^$can_booster_jump, cerberus, [^$can_fly]"
                 ],
                 "sections": [
                     {

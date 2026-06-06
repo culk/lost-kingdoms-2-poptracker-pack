@@ -136,6 +136,7 @@
                 "name": "Red Fairy Chandelier",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
+                "access_rules": ["[god_of_destruction]"],
                 "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
