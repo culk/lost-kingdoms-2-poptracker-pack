@@ -73,9 +73,24 @@
     },
     {
         "name": "Randomize Levels",
-        "type": "toggle",
-        "img": "images/settings/setting_randomize_levels.png",
-        "codes": "randomize_levels"
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/setting_randomize_levels_off.png",
+                "img_mods": "@disabled",
+                "codes": "randomize_levels, randomize_levels_off",
+                "inherit_codes": false,
+                "name": "Randomize Levels - Off"
+            },
+            {
+                "img": "images/settings/setting_randomize_levels_manual.png",
+                "codes": "randomize_levels, randomize_levels_manual",
+                "inherit_codes": false,
+                "name": "Randomize Levels - Manual"
+            }
+        ]
     },
     {
         "name": "Progressive Leveling",

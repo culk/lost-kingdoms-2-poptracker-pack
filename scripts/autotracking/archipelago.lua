@@ -8,8 +8,6 @@ CUR_INDEX = -1
 ALL_LOCATIONS = {}
 SLOT_DATA = {}
 
-RANDOMIZE_LEVELS = false
-
 if Highlight then
     HIGHLIGHT_LEVEL= {
         [0] = Highlight.Unspecified,
@@ -48,29 +46,7 @@ function dump_table(o, depth)
     end
 end
 
-function preOnClear()
-    PLAYER_ID = Archipelago.PlayerNumber or -1
-	TEAM_NUMBER = Archipelago.TeamNumber or 0
-    if Archipelago.PlayerNumber > -1 then
-        if #ALL_LOCATIONS > 0 then
-            ALL_LOCATIONS = {}
-        end
-        for _, value in pairs(Archipelago.MissingLocations) do
-            table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
-        end
-
-        for _, value in pairs(Archipelago.CheckedLocations) do
-            table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
-        end
-        HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
-        Archipelago:SetNotify({HINTS_ID})
-        Archipelago:Get({HINTS_ID})
-    end
-end
-
 function onClear(slot_data)
-    preOnClear()
-
     SLOT_DATA = slot_data
     print(string.format("onClear: Reading slot data:\n%s", dump_table(SLOT_DATA)))
     CUR_INDEX = -1
@@ -128,9 +104,6 @@ function onClear(slot_data)
     for key, value in pairs(SLOT_DATA) do
         if SETTING_MAPPING[key] then
             local setting_obj = Tracker:FindObjectForCode(SETTING_MAPPING[key].code)
-            if key == "randomize_levels" then
-                RANDOMIZE_LEVELS = SETTING_MAPPING[key].mapping[value]
-            end
             if setting_obj then
                 if setting_obj.Type == "toggle" then
                     setting_obj.Active = SETTING_MAPPING[key].mapping[value] --[[@as boolean]]
@@ -146,7 +119,7 @@ function onClear(slot_data)
     end
 
     -- Force update of connection assignments if required.
-    if not RANDOMIZE_LEVELS then
+    if SLOT_DATA["randomize_levels"] == 0 then
         -- Levels are not randomized, reassign all connections with the default mapping.
         for _, exit in pairs(EXIT_BY_NAME) do
             exit:Assign(nil)
@@ -163,20 +136,10 @@ function onClear(slot_data)
         end
     end
 
+    -- Subscribe to data storage changes.
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     if Archipelago.PlayerNumber > -1 then
-        if #ALL_LOCATIONS > 0 then
-            ALL_LOCATIONS = {}
-        end
-        for _, value in pairs(Archipelago.MissingLocations) do
-            table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
-        end
-
-        for _, value in pairs(Archipelago.CheckedLocations) do
-            table.insert(ALL_LOCATIONS, #ALL_LOCATIONS + 1, value)
-        end
-
         HINTS_ID = "_read_hints_"..TEAM_NUMBER.."_"..PLAYER_ID
         CLIENT_STATUS_ID = "_read_client_status_"..TEAM_NUMBER.."_"..PLAYER_ID
         Archipelago:SetNotify({HINTS_ID, CLIENT_STATUS_ID})
@@ -352,7 +315,7 @@ function UpdateLayout()
         local show_player_levels = Tracker:FindObjectForCode("progressive_leveling").Active
         local show_attributes = Tracker:FindObjectForCode("progressive_attribute_proficiencies").Active
         local show_combosanity = Tracker:FindObjectForCode("combosanity").Active
-        local show_connections = Tracker:FindObjectForCode("randomize_levels").Active
+        local show_connections = Tracker:FindObjectForCode("randomize_levels").CurrentStage == 1
 
         UpdateLayoutKeyItems(show_red_fairies)
         UpdateLayoutLevels(show_player_levels, show_attributes)
