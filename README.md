@@ -31,7 +31,7 @@ Download the most recent .zip file from the **Releases** and either drag it to t
 
 ![Randomize levels manual setting enabled](images/docs/manual_connections_enabled.png)
 
-This pack supports manual tracking of level connections since v0.3.0 when the "randomize levels" option is enabled. The "Connections" map tab displays current connections, reachable level exits, and is the place to add new connections. A "connection" is a link between a single exit and a single level to inform the pack's logic that reaching the exit will unlock the connected level. Exits are displayed as color coded diamonds above the level on the map: green if the exit is reachable, red if the exit is unreachable, and grey if it is already connected to a level. Levels are displayed as diamonds below the level on the map: blue if unconnected and grey if connected.
+This pack supports manual tracking of level connections since pack version v0.3.0 when the "randomize levels" option is enabled. The "Connections" map tab displays current connections, reachable level exits, and is the place to add new connections. A "connection" is a link between a single exit and a single level to inform the pack's logic that reaching the exit will unlock the connected level. Exits are displayed as color coded diamonds above the level on the map: green if the exit is reachable, red if the exit is unreachable, and grey if it is already connected to a level. Levels are displayed as diamonds below the level on the map: blue if unconnected and grey if connected.
 
 To add a connection, select a level or exit and then select its connected level or exit.
 
