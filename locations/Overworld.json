@@ -3195,7 +3195,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1093,
+                        "x": 1118,
                         "y": 227
                     }
                 ]
@@ -3339,7 +3339,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1093,
+                        "x": 1118,
                         "y": 252
                     }
                 ]
@@ -3407,7 +3407,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1118,
+                        "x": 1093,
                         "y": 227
                     }
                 ]
@@ -3559,7 +3559,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1118,
+                        "x": 1093,
                         "y": 252
                     }
                 ]
