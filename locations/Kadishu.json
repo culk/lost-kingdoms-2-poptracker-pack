@@ -115,7 +115,7 @@
                     },
                     {
                         "name": "Garbage Collection 2",
-                        "access_rules": ["^$can_enter_level|Ruldo Forest"]
+                        "access_rules": ["@Connections/Runestone Caverns - Upper Chambers Exit 1"]
                     },
                     {
                         "name": "Garbage Collection 3",

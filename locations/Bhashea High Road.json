@@ -106,7 +106,7 @@
                 "chest_opened_img": "/images/items/fairy_open.png",
                 "access_rules": [
                     "^$can_fly",
-                    "^$can_jump, [^$can_fly]"
+                    "^$can_jump"
                 ],
                 "visibility_rules": ["fairysanity"],
                 "sections": [
@@ -128,7 +128,7 @@
                 "chest_opened_img": "/images/items/fairy_open.png",
                 "access_rules": [
                     "^$can_fly",
-                    "^$can_jump, [^$can_fly]"
+                    "^$can_jump"
                 ],
                 "visibility_rules": ["fairysanity"],
                 "sections": [
@@ -150,7 +150,7 @@
                 "chest_opened_img": "/images/items/fairy_open.png",
                 "access_rules": [
                     "^$can_fly",
-                    "^$can_jump, [^$can_fly]"
+                    "^$can_jump"
                 ],
                 "visibility_rules": ["fairysanity"],
                 "sections": [

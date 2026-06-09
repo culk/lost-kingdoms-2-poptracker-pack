@@ -130,8 +130,7 @@
             {
                 "name": "Near Dragon",
                 "access_rules": [
-                    "^$can_fly",
-                    "^$can_jump"
+                    "^$can_fly"
                 ],
                 "sections": [
                     {

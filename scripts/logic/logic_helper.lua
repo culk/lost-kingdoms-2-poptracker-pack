@@ -45,14 +45,12 @@ function ANY(...)
     return max
 end
 
-function HAS(item, amount_required, amount_to_sequence_break)
+function HAS(item, amount_required)
     local count = Tracker:ProviderCountForCode(item)
     if not amount_required and count > 0 then
         return AccessibilityLevel.Normal
     elseif amount_required and count >= amount_required then
         return AccessibilityLevel.Normal
-    elseif amount_to_sequence_break and count >= amount_to_sequence_break then
-        return AccessibilityLevel.SequenceBreak
     end
     return AccessibilityLevel.None
 end

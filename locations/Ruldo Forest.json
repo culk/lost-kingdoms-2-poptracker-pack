@@ -56,12 +56,7 @@
             },
             {
                 "name": "Flight Chest",
-                "access_rules": [
-                    "^$can_fly",
-                    "cerberus",
-                    "unicorn, [cerberus]",
-                    "centaur, [cerberus]"
-                ],
+                "access_rules": ["^$can_reach_ruldo_flight_chest"],
                 "sections": [
                     {
                         "name": ""

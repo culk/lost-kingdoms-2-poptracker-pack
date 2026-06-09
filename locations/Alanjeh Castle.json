@@ -22,7 +22,6 @@
             },
             {
                 "name": "Behind Blue Seal Gate",
-                "access_rules": ["[^$can_high_jump]"],
                 "sections": [
                     {
                         "name": "Chest 2"

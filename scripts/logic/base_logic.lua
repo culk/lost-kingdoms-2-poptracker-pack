@@ -31,11 +31,7 @@ function can_fly()
 end
 
 function can_high_jump()
-    local unicorn_out_of_logic = AccessibilityLevel.None
-    if Tracker:ProviderCountForCode("unicorn") > 0 then
-        unicorn_out_of_logic = AccessibilityLevel.SequenceBreak
-    end
-    return ANY("hell_hound", unicorn_out_of_logic)
+    return ANY("hell_hound", "unicorn")
 end
 
 function can_jump()
@@ -47,11 +43,13 @@ function can_booster_jump()
 end
 
 function can_wall_break()
-    local chariobot_out_of_logic = AccessibilityLevel.None
-    if Tracker:ProviderCountForCode("chariobot") > 0 then
-        chariobot_out_of_logic = AccessibilityLevel.SequenceBreak
-    end
-    return ALL("magic_boosters", ANY("stone_golem", chariobot_out_of_logic))
+    return ALL(
+        "magic_boosters",
+        ANY(
+            "stone_golem",
+            ALL(AccessibilityLevel.SequenceBreak, "chariobot")
+        )
+    )
 end
 
 function can_ice_break()
@@ -59,10 +57,16 @@ function can_ice_break()
 end
 
 function can_reach_kendarie_mechapult()
+    return ANY("blue_key", can_fly(), can_jump())
+end
+
+function can_reach_ruldo_flight_chest()
     return ANY(
-        "blue_key",
         can_fly(),
-        ALL(can_jump(), AccessibilityLevel.SequenceBreak)
+        ALL(
+            AccessibilityLevel.SequenceBreak,
+            ANY("cerberus", "centaur", "unicorn")
+        )
     )
 end
 
