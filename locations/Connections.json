@@ -397,7 +397,7 @@
                 "access_rules": ["mysterious_key"],
                 "sections": [
                     {
-                        "name": "Interact With Map                                                                                   ",
+                        "name": "Interact With Map (Second Visit)                                                                    ",
                         "hosted_item": "Nobleman's Residence Exit 2"
                     }
                 ],
@@ -431,7 +431,7 @@
                 "access_rules": ["^$can_enter_level|Bhashea High Road"],
                 "sections": [
                     {
-                        "name": "Defeat Kendarie Soldiers                                                                            ",
+                        "name": "Defeat Kendarie Soldiers (Second Visit)                                                             ",
                         "hosted_item": "Bhashea High Road Exit 2"
                     }
                 ],
@@ -587,7 +587,7 @@
                 "access_rules": ["^$can_enter_level|Ruldo Forest"],
                 "sections": [
                     {
-                        "name": "Defeat Cockatrices                                                                                  ",
+                        "name": "Defeat Cockatrices (Second Visit)                                                                   ",
                         "hosted_item": "Ruldo Forest Exit 2"
                     }
                 ],
@@ -723,7 +723,7 @@
                 "access_rules": ["^$can_enter_level|Grenfoel Cathedral"],
                 "sections": [
                     {
-                        "name": "Interact With Library Back Bookshelves                                                              ",
+                        "name": "Interact With Bookshelves in Back of Library                                                        ",
                         "hosted_item": "Grenfoel Cathedral Exit 1"
                     }
                 ],
