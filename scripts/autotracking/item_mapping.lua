@@ -268,4 +268,7 @@ ITEM_MAPPING = {
 	[5003] = {{"progressive_attribute_proficiency_wood", "consumable"}},
 	[5004] = {{"progressive_attribute_proficiency_neutral", "consumable"}},
 	[5005] = {{"progressive_attribute_proficiency_mech", "consumable"}},
+
+	-- Other
+	[6000] = {}, -- Blue Fairy
 }

@@ -55,7 +55,7 @@
                 ]
             },
             {
-                "name": "Flight or Jump Chest",
+                "name": "Flight Chest",
                 "access_rules": [
                     "^$can_fly",
                     "cerberus",

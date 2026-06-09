@@ -176,7 +176,7 @@
                 ]
             },
             {
-                "name": "Red Fairy Near up Ledges",
+                "name": "Red Fairy up Ledges",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
                 "access_rules": ["^$can_booster_jump, ^$can_high_jump"],

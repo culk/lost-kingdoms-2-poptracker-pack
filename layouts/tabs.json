@@ -232,6 +232,15 @@
                         "Temple of Sharacia"
                     ]
                 }
+            },
+            {
+                "title": "Proving Grounds",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds"
+                    ]
+                }
             }
         ]
     }

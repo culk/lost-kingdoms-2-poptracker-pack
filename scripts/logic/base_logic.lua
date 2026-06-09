@@ -93,6 +93,10 @@ function can_enter_royal_tower_upper()
     return ALL("god_of_destruction", can_enter_level("Alanjeh Castle"))
 end
 
+function can_enter_proving_grounds()
+    return ALL("god_of_destruction", can_enter_level("Alanjeh Castle"))
+end
+
 function can_enter_sacred_battle_arena_1()
     return can_enter_level("Sacred Battle Arena 1")
 end

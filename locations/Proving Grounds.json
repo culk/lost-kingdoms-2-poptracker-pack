@@ -1,0 +1,675 @@
+[
+    {
+        "name": "Proving Grounds",
+        "chest_unopened_img": "/images/items/chest_close.png",
+        "chest_opened_img": "/images/items/chest_open.png",
+        "access_rules": ["^$can_enter_proving_grounds"],
+        "children": [
+            {
+                "name": "Floor 1 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+	                {"name": "Berserker #1"},
+	                {"name": "Berserker #2"},
+	                {"name": "Scythe Beast #1"},
+	                {"name": "Will 'o wisp #1"},
+	                {"name": "Manta Ray #1"},
+	                {"name": "Scythe Beast #2"},
+	                {"name": "Scythe Beast #3"},
+	                {"name": "Berserk Master #1"},
+	                {"name": "Dragon Knight #1"},
+	                {"name": "Dragon Knight #2"},
+	                {"name": "Dragon Knight #3"},
+	                {"name": "Berserker #3"},
+	                {"name": "Berserk Master #2"},
+	                {"name": "Will 'o wisp #2"},
+	                {"name": "Berserk Master #3"},
+	                {"name": "Berserker #4"},
+	                {"name": "Dragon Knight #4"},
+	                {"name": "Berserk Master #4"},
+	                {"name": "Berserker #5"},
+	                {"name": "Scythe Beast #5"},
+	                {"name": "Manta Ray #2"},
+	                {"name": "Scythe Beast #4"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 246
+                    }
+                ]
+            },
+            {
+                "name": "Floor 2 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Treant #1"},
+                    {"name": "Wizard #1"},
+                    {"name": "Basilisk #1"},
+                    {"name": "Basilisk #2"},
+                    {"name": "Lizardman #1"},
+                    {"name": "Venom Lizard #1"},
+                    {"name": "Treant #2"},
+                    {"name": "Wizard #2"},
+                    {"name": "Lizardman #2"},
+                    {"name": "Venom Lizard #2"},
+                    {"name": "Red Lizard #1"},
+                    {"name": "Basilisk #3"},
+                    {"name": "Venom Lizard #3"},
+                    {"name": "Treant #3"},
+                    {"name": "Red Lizard #2"},
+                    {"name": "Treant #4"},
+                    {"name": "Lizardman #3"},
+                    {"name": "Lizardman #4"},
+                    {"name": "Lizardman #5"},
+                    {"name": "Venom Lizard #4"},
+                    {"name": "Wizard #3"},
+                    {"name": "Treant #5"},
+                    {"name": "Red Lizard #3"},
+                    {"name": "Basilisk #4"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 281
+                    }
+                ]
+            },
+            {
+                "name": "Floor 3 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Hobgoblin #1"},
+                    {"name": "Fire Golem #1"},
+                    {"name": "Popgun Charlie #1"},
+                    {"name": "Matador #1"},
+                    {"name": "Matador #2"},
+                    {"name": "Matador #3"},
+                    {"name": "Fire Golem #2"},
+                    {"name": "Fire Moray #1"},
+                    {"name": "Hobgoblin #2"},
+                    {"name": "Matador #4"},
+                    {"name": "Orc #1"},
+                    {"name": "Orc #2"},
+                    {"name": "Orc #3"},
+                    {"name": "Matador #5"},
+                    {"name": "Fire Moray #2"},
+                    {"name": "Fire Golem #3"},
+                    {"name": "Fire Golem #4"},
+                    {"name": "Popgun Charlie #2"},
+                    {"name": "Fire Moray #3"},
+                    {"name": "Fire Golem #5"},
+                    {"name": "Orc #4"},
+                    {"name": "Matador #6"},
+                    {"name": "Orc #5"},
+                    {"name": "Fire Golem #6"},
+                    {"name": "Fire Moray #4"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 315
+                    }
+                ]
+            },
+            {
+                "name": "Floor 4 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Salamander #1"},
+                    {"name": "Fire Elemental #1"},
+                    {"name": "Valkyrie #1"},
+                    {"name": "Demon Fox #1"},
+                    {"name": "Ashura #1"},
+                    {"name": "Ashura #2"},
+                    {"name": "Great Demon #1"},
+                    {"name": "Salamander #2"},
+                    {"name": "Fire Elemental #2"},
+                    {"name": "Fire Elemental #3"},
+                    {"name": "Demon Fox #2"},
+                    {"name": "Valkyrie #2"},
+                    {"name": "Demon Fox #3"},
+                    {"name": "Valkyrie #3"},
+                    {"name": "Ashura #3"},
+                    {"name": "Great Demon #2"},
+                    {"name": "Salamander #3"},
+                    {"name": "Fire Elemental #4"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 350
+                    }
+                ]
+            },
+            {
+                "name": "Floor 5 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Cyclops #1"},
+                    {"name": "Tumble Chick #1"},
+                    {"name": "Trickster #1"},
+                    {"name": "Mole Monster #1"},
+                    {"name": "Running Bird #1"},
+                    {"name": "Dragonoid #1"},
+                    {"name": "Night Mare #1"},
+                    {"name": "Trickster #2"},
+                    {"name": "Night Mare #2"},
+                    {"name": "Trickster #3"},
+                    {"name": "Tumble Chick #2"},
+                    {"name": "Dragonoid #2"},
+                    {"name": "Night Mare #3"},
+                    {"name": "Tumble Chick #3"},
+                    {"name": "Mole Monster #2"},
+                    {"name": "Cyclops #2"},
+                    {"name": "Night Mare #4"},
+                    {"name": "Running Bird #2"},
+                    {"name": "Trickster #4"},
+                    {"name": "Mole Monster #3"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 385
+                    }
+                ]
+            },
+            {
+                "name": "Floor 6 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Venus Spider #1"},
+                    {"name": "Juggernaut #1"},
+                    {"name": "Stone Golem #1"},
+                    {"name": "Bum Hagan #1"},
+                    {"name": "Global Bust #1"},
+                    {"name": "Gravity Pillar #1"},
+                    {"name": "Venus Spider #2"},
+                    {"name": "Venus Spider #3"},
+                    {"name": "Gravity Pillar #2"},
+                    {"name": "Gravity Pillar #3"},
+                    {"name": "Venus Spider #4"},
+                    {"name": "Stone Golem #2"},
+                    {"name": "Bum Hagan #2"},
+                    {"name": "Juggernaut #2"},
+                    {"name": "Juggernaut #3"},
+                    {"name": "Global Bust #2"},
+                    {"name": "Gravity Pillar #4"},
+                    {"name": "Maelstrom #1"},
+                    {"name": "Maelstrom #2"},
+                    {"name": "Maelstrom #3"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 419
+                    }
+                ]
+            },
+            {
+                "name": "Floor 7 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Myconid #1"},
+                    {"name": "Blue Mold #1"},
+                    {"name": "Banshee #1"},
+                    {"name": "Banshee #2"},
+                    {"name": "Banshee #3"},
+                    {"name": "Blue Mold #2"},
+                    {"name": "Leprechaun #1"},
+                    {"name": "Banshee #4"},
+                    {"name": "Skeleton #1"},
+                    {"name": "Vouivre #1"},
+                    {"name": "Vouivre #2"},
+                    {"name": "Vouivre #3"},
+                    {"name": "Vouivre #4"},
+                    {"name": "Vouivre #5"},
+                    {"name": "Skeleton #2"},
+                    {"name": "Banshee #5"},
+                    {"name": "Blue Mold #3"},
+                    {"name": "Banshee #6"},
+                    {"name": "Skeleton #3"},
+                    {"name": "Leprechaun #2"},
+                    {"name": "Leprechaun #3"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 454
+                    }
+                ]
+            },
+            {
+                "name": "Floor 8 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Gnome #1"},
+                    {"name": "Elephant King #1"},
+                    {"name": "Behemoth #1"},
+                    {"name": "Gnome #2"},
+                    {"name": "Dao #1"},
+                    {"name": "Dao #2"},
+                    {"name": "Dao #3"},
+                    {"name": "Gnome #3"},
+                    {"name": "Gnome #4"},
+                    {"name": "Sphinx #1"},
+                    {"name": "Sphinx #2"},
+                    {"name": "Dao #4"},
+                    {"name": "Behemoth #2"},
+                    {"name": "Earth Elemental #1"},
+                    {"name": "Earth Elemental #2"},
+                    {"name": "Gnome #5"},
+                    {"name": "Gnome #6"},
+                    {"name": "Sphinx #3"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 489
+                    }
+                ]
+            },
+            {
+                "name": "Floor 9 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Caterpoker #1"},
+                    {"name": "Carbuncle #1"},
+                    {"name": "Acid Cloud #1"},
+                    {"name": "CircaSaurus #1"},
+                    {"name": "Carbuncle #2"},
+                    {"name": "Acid Cloud #2"},
+                    {"name": "Goblin Lord #1"},
+                    {"name": "Carbuncle #3"},
+                    {"name": "Goblin Lord #2"},
+                    {"name": "Caterpoker #2"},
+                    {"name": "Acid Cloud #3"},
+                    {"name": "CircaSaurus #2"},
+                    {"name": "Carbuncle #4"},
+                    {"name": "Acid Cloud #4"},
+                    {"name": "Caterpoker #3"},
+                    {"name": "Goblin Lord #3"},
+                    {"name": "CircaSaurus #3"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 523
+                    }
+                ]
+            },
+            {
+                "name": "Floor 10 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Panther Mage #1"},
+                    {"name": "Elf Lord #1"},
+                    {"name": "Blood Bush #1"},
+                    {"name": "Lycanthrope #1"},
+                    {"name": "Sleeping Giant #1"},
+                    {"name": "Gold Butterfly #1"},
+                    {"name": "Elf Lord #2"},
+                    {"name": "Elf Lord #3"},
+                    {"name": "Blood Bush #2"},
+                    {"name": "Sleeping Giant #2"},
+                    {"name": "Blood Bush #3"},
+                    {"name": "Gold Butterfly #2"},
+                    {"name": "Panther Mage #2"},
+                    {"name": "Elf Lord #4"},
+                    {"name": "Lycanthrope #2"},
+                    {"name": "Gold Butterfly #3"},
+                    {"name": "Gold Butterfly #4"},
+                    {"name": "Elf Lord #5"},
+                    {"name": "Sleeping Giant #3"},
+                    {"name": "Blood Bush #4"},
+                    {"name": "Blood Bush #5"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 558
+                    }
+                ]
+            },
+            {
+                "name": "Floor 11 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Ghost Armor #1"},
+                    {"name": "Archer Tree #1"},
+                    {"name": "Raflesia #1"},
+                    {"name": "Plague Rat #1"},
+                    {"name": "Raflesia #2"},
+                    {"name": "Raflesia #3"},
+                    {"name": "Chameleus #1"},
+                    {"name": "Chameleus #2"},
+                    {"name": "Chameleus #3"},
+                    {"name": "Ghost Armor #2"},
+                    {"name": "Plague Rat #2"},
+                    {"name": "Plague Rat #3"},
+                    {"name": "Ghost Armor #3"},
+                    {"name": "Archer Tree #2"},
+                    {"name": "Chameleus #4"},
+                    {"name": "Ghoul #1"},
+                    {"name": "Ghoul #2"},
+                    {"name": "Ghoul #3"},
+                    {"name": "Archer Tree #3"},
+                    {"name": "Archer Tree #4"},
+                    {"name": "Chameleus #5"},
+                    {"name": "Ghoul #4"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 593
+                    }
+                ]
+            },
+            {
+                "name": "Floor 12 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Dryad #1"},
+                    {"name": "Fenril #1"},
+                    {"name": "Whip Worm #1"},
+                    {"name": "Whip Worm #2"},
+                    {"name": "Dryad #2"},
+                    {"name": "Dryad #3"},
+                    {"name": "King Mandragora #1"},
+                    {"name": "King Mandragora #2"},
+                    {"name": "King Mandragora #3"},
+                    {"name": "King Mandragora #4"},
+                    {"name": "Fenril #2"},
+                    {"name": "Wood Elemental #1"},
+                    {"name": "Wood Elemental #2"},
+                    {"name": "Wood Elemental #3"},
+                    {"name": "Fenril #3"},
+                    {"name": "Garuda #1"},
+                    {"name": "Whip Worm #3"},
+                    {"name": "Dryad #4"},
+                    {"name": "Dryad #5"},
+                    {"name": "Wood Elemental #4"},
+                    {"name": "Fenril #4"},
+                    {"name": "King Mandragora #5"},
+                    {"name": "Dryad #6"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 627
+                    }
+                ]
+            },
+            {
+                "name": "Floor 13 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Phooka #1"},
+                    {"name": "Rubber Froggy #1"},
+                    {"name": "Tiger Mage #1"},
+                    {"name": "March Hare #1"},
+                    {"name": "Rubber Froggy #2"},
+                    {"name": "Rubber Froggy #3"},
+                    {"name": "March Hare #2"},
+                    {"name": "Octobush #1"},
+                    {"name": "Phooka #2"},
+                    {"name": "March Hare #3"},
+                    {"name": "Sea Monk #1"},
+                    {"name": "Tiger Mage #2"},
+                    {"name": "Octobush #2"},
+                    {"name": "Phooka #3"},
+                    {"name": "March Hare #4"},
+                    {"name": "Rubber Froggy #4"},
+                    {"name": "Pazuzu #1"},
+                    {"name": "Pazuzu #2"},
+                    {"name": "Octobush #3"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 662
+                    }
+                ]
+            },
+            {
+                "name": "Floor 14 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Baby Dragon #1"},
+                    {"name": "Baby Dragon #2"},
+                    {"name": "Baby Dragon #3"},
+                    {"name": "Acid Dragon #1"},
+                    {"name": "Red Dragon #1"},
+                    {"name": "Brine Dragon #1"},
+                    {"name": "Green Dragon #1"},
+                    {"name": "Green Dragon #2"},
+                    {"name": "Green Dragon #3"},
+                    {"name": "Green Dragon #4"},
+                    {"name": "Brine Dragon #2"},
+                    {"name": "Brine Dragon #3"},
+                    {"name": "Baby Dragon #4"},
+                    {"name": "Brine Dragon #4"},
+                    {"name": "Acid Dragon #2"},
+                    {"name": "Brine Dragon #5"},
+                    {"name": "Amber Dragon #1"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 696
+                    }
+                ]
+            },
+            {
+                "name": "Floor 15 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Wraith #1"},
+                    {"name": "Vampire Bush #1"},
+                    {"name": "Mermaid #1"},
+                    {"name": "Larval Fly #1"},
+                    {"name": "Apsaras #1"},
+                    {"name": "Witchlette #1"},
+                    {"name": "Witchlette #2"},
+                    {"name": "Witchlette #3"},
+                    {"name": "Witchlette #4"},
+                    {"name": "Apsaras #2"},
+                    {"name": "Apsaras #3"},
+                    {"name": "Witchlette #5"},
+                    {"name": "Mermaid #2"},
+                    {"name": "Wraith #2"},
+                    {"name": "Water Moray #1"},
+                    {"name": "Vampire Bush #2"},
+                    {"name": "Mermaid #3"},
+                    {"name": "Apsaras #4"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 732
+                    }
+                ]
+            },
+            {
+                "name": "Floor 16 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Undine #1"},
+                    {"name": "Ice Golem #1"},
+                    {"name": "Marid #1"},
+                    {"name": "Marid #2"},
+                    {"name": "Undine #2"},
+                    {"name": "Water Elemental #1"},
+                    {"name": "Demon Skeleton #1"},
+                    {"name": "Demon Skeleton #2"},
+                    {"name": "Rock Hagan #1"},
+                    {"name": "Rock Hagan #2"},
+                    {"name": "Undine #3"},
+                    {"name": "Water Elemental #2"},
+                    {"name": "Ice Golem #2"},
+                    {"name": "Rock Hagan #3"},
+                    {"name": "Demon Skeleton #3"},
+                    {"name": "Marid #3"},
+                    {"name": "Undine #4"},
+                    {"name": "Water Elemental #3"},
+                    {"name": "Demon Skeleton #4"},
+                    {"name": "Demon Skeleton #5"},
+                    {"name": "Rock Hagan #4"},
+                    {"name": "Marid #4"},
+                    {"name": "Undine #5"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 767
+                    }
+                ]
+            },
+            {
+                "name": "Floor 17 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Yin Yang #1"},
+                    {"name": "Mind Flayer #1"},
+                    {"name": "Super Pumper #1"},
+                    {"name": "Super Pumper #2"},
+                    {"name": "Yin Yang #2"},
+                    {"name": "Yin Yang #3"},
+                    {"name": "Octobush #1"},
+                    {"name": "Super Pumper #3"},
+                    {"name": "Super Pumper #4"},
+                    {"name": "Golden Porcupig #1"},
+                    {"name": "Golden Porcupig #2"},
+                    {"name": "Mind Flayer #2"},
+                    {"name": "Octobush #2"},
+                    {"name": "Super Pumper #5"},
+                    {"name": "Golden Porcupig #3"},
+                    {"name": "Golden Porcupig #4"},
+                    {"name": "Yin Yang #4"},
+                    {"name": "Mind Flayer #3"},
+                    {"name": "Boom Monkey #1"},
+                    {"name": "Octobush #3"},
+                    {"name": "Super Pumper #6"},
+                    {"name": "Super Pumper #7"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 801
+                    }
+                ]
+            },
+            {
+                "name": "Floor 18 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Vampire #1"},
+                    {"name": "Necromancer #1"},
+                    {"name": "Puppet Master #1"},
+                    {"name": "Wyvern #1"},
+                    {"name": "Puppet Master #2"},
+                    {"name": "Chaos Knight #1"},
+                    {"name": "Necromancer #2"},
+                    {"name": "Wyvern #2"},
+                    {"name": "Acid Dragon #1"},
+                    {"name": "Chaos Knight #2"},
+                    {"name": "Vampire #2"},
+                    {"name": "Necromancer #3"},
+                    {"name": "Wyvern #3"},
+                    {"name": "Necromancer #4"},
+                    {"name": "Chaos Knight #3"},
+                    {"name": "Acid Dragon #2"},
+                    {"name": "Necromancer #5"},
+                    {"name": "Chaos Knight #4"},
+                    {"name": "Puppet Master #3"},
+                    {"name": "Puppet Master #4"},
+                    {"name": "Wyvern #4"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 835
+                    }
+                ]
+            },
+            {
+                "name": "Floor 19 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Demon Lord #1"},
+                    {"name": "Demon Lord #2"},
+                    {"name": "Demon Lord #3"},
+                    {"name": "Demon Lord #4"},
+                    {"name": "Nueh #1"},
+                    {"name": "Black Dragon #1"},
+                    {"name": "Ryuhi #1"},
+                    {"name": "Fafnir #1"},
+                    {"name": "Demon Lord #5"},
+                    {"name": "Black Dragon #2"},
+                    {"name": "Nueh #2"},
+                    {"name": "Kraken #1"},
+                    {"name": "Ryuhi #2"},
+                    {"name": "Kraken #2"},
+                    {"name": "Black Dragon #3"},
+                    {"name": "Kraken #3"},
+                    {"name": "Fafnir #2"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 870
+                    }
+                ]
+            },
+            {
+                "name": "Floor 20 - Enemysanity",
+                "visibility_rules": ["enemysanity"],
+                "sections": [
+                    {"name": "Blue Dragon #1"},
+                    {"name": "Steel Skeleton #1"},
+                    {"name": "Steel Skeleton #2"},
+                    {"name": "Steel Skeleton #3"},
+                    {"name": "Steel Skeleton #4"},
+                    {"name": "Steel Skeleton #5"},
+                    {"name": "White Tiger #1"},
+                    {"name": "Golden Phoenix #1"},
+                    {"name": "Blue Dragon #2"},
+                    {"name": "Great Turtle #1"},
+                    {"name": "White Tiger #2"},
+                    {"name": "Golden Phoenix #2"},
+                    {"name": "Steel Skeleton #6"},
+                    {"name": "Great Turtle #2"},
+                    {"name": "Steel Skeleton #7"},
+                    {"name": "Steel Skeleton #8"},
+                    {"name": "Emperor #1"}
+                ],
+                "map_locations": [
+                    {
+                        "map": "Proving Grounds",
+                        "x": 293,
+                        "y": 905
+                    }
+                ]
+            }
+        ]
+    }
+]
