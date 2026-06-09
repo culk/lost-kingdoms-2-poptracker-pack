@@ -58,6 +58,7 @@
             },
             {
                 "name": "Black Liquid Pickup",
+                "access_rules": ["bottle"],
                 "sections": [
                     {
                         "name": ""
