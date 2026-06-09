@@ -27,8 +27,9 @@ SETTING_MAPPING = {
     enemysanity = {
         code = "enemysanity",
         mapping = {
-            [0] = false,
-            [1] = true,
+            [0] = 0,
+            [1] = 1,
+            [2] = 2,
         },
     },
     randomize_levels = {

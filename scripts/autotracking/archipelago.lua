@@ -128,6 +128,15 @@ function onClear(slot_data)
             local exit = EXIT_BY_NAME[exit_name]
             exit:Assign(LEVEL_BY_NAME[level_name])
         end
+    elseif SLOT_DATA["randomize_levels"] == 1 and SLOT_DATA["level_randomization_mapping"] ~= nil then
+        -- Levels are randomized, reassign all connections using the randomized mapping.
+        for _, exit in pairs(EXIT_BY_NAME) do
+            exit:Assign(nil)
+        end
+        for exit_name, level_name in pairs(SLOT_DATA["level_randomization_mapping"]) do
+            local exit = EXIT_BY_NAME[string.gsub(exit_name, ", ", " - ")]
+            exit:Assign(LEVEL_BY_NAME[level_name])
+        end
     elseif SLOT_DATA["Seed"] ~= SAVED_STATE.SEED then
         -- Connected slot has a different seed, unassign all connections.
         SAVED_STATE.SEED = SLOT_DATA["Seed"]
@@ -315,7 +324,7 @@ function UpdateLayout()
         local show_player_levels = Tracker:FindObjectForCode("progressive_leveling").Active
         local show_attributes = Tracker:FindObjectForCode("progressive_attribute_proficiencies").Active
         local show_combosanity = Tracker:FindObjectForCode("combosanity").Active
-        local show_connections = Tracker:FindObjectForCode("randomize_levels").CurrentStage == 1
+        local show_connections = Tracker:FindObjectForCode("randomize_levels").CurrentStage == 2
 
         UpdateLayoutKeyItems(show_red_fairies)
         UpdateLayoutLevels(show_player_levels, show_attributes)

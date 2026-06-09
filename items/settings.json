@@ -67,9 +67,30 @@
     },
     {
         "name": "Enemysanity",
-        "type": "toggle",
-        "img": "images/settings/setting_enemysanity.png",
-        "codes": "enemysanity"
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/setting_enemysanity_off.png",
+                "img_mods": "@disabled",
+                "codes": "enemysanity_off",
+                "inherit_codes": false,
+                "name": "Enemysanity - Off"
+            },
+            {
+                "img": "images/settings/setting_enemysanity_on.png",
+                "codes": "enemysanity",
+                "inherit_codes": false,
+                "name": "Enemysanity - On"
+            },
+            {
+                "img": "images/settings/setting_enemysanity_plus.png",
+                "codes": "enemysanity, enemysanity_plus",
+                "inherit_codes": false,
+                "name": "Enemysanity - Plus"
+            }
+        ]
     },
     {
         "name": "Randomize Levels",
@@ -83,6 +104,12 @@
                 "codes": "randomize_levels, randomize_levels_off",
                 "inherit_codes": false,
                 "name": "Randomize Levels - Off"
+            },
+            {
+                "img": "images/settings/setting_randomize_levels_automatic.png",
+                "codes": "randomize_levels, randomize_levels_automatic",
+                "inherit_codes": false,
+                "name": "Randomize Levels - Automatic"
             },
             {
                 "img": "images/settings/setting_randomize_levels_manual.png",

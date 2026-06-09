@@ -4,10 +4,10 @@
         "chest_unopened_img": "/images/items/chest_close.png",
         "chest_opened_img": "/images/items/chest_open.png",
         "access_rules": ["^$can_enter_proving_grounds"],
+        "visibility_rules": ["enemysanity_plus"],
         "children": [
             {
                 "name": "Floor 1 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
 	                {"name": "Berserker #1"},
 	                {"name": "Berserker #2"},
@@ -42,7 +42,6 @@
             },
             {
                 "name": "Floor 2 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Treant #1"},
                     {"name": "Wizard #1"},
@@ -79,7 +78,6 @@
             },
             {
                 "name": "Floor 3 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Hobgoblin #1"},
                     {"name": "Fire Golem #1"},
@@ -117,7 +115,6 @@
             },
             {
                 "name": "Floor 4 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Salamander #1"},
                     {"name": "Fire Elemental #1"},
@@ -148,7 +145,6 @@
             },
             {
                 "name": "Floor 5 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Cyclops #1"},
                     {"name": "Tumble Chick #1"},
@@ -181,7 +177,6 @@
             },
             {
                 "name": "Floor 6 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Venus Spider #1"},
                     {"name": "Juggernaut #1"},
@@ -214,7 +209,6 @@
             },
             {
                 "name": "Floor 7 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Myconid #1"},
                     {"name": "Blue Mold #1"},
@@ -248,7 +242,6 @@
             },
             {
                 "name": "Floor 8 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Gnome #1"},
                     {"name": "Elephant King #1"},
@@ -279,7 +272,6 @@
             },
             {
                 "name": "Floor 9 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Caterpoker #1"},
                     {"name": "Carbuncle #1"},
@@ -309,7 +301,6 @@
             },
             {
                 "name": "Floor 10 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Panther Mage #1"},
                     {"name": "Elf Lord #1"},
@@ -343,7 +334,6 @@
             },
             {
                 "name": "Floor 11 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Ghost Armor #1"},
                     {"name": "Archer Tree #1"},
@@ -378,7 +368,6 @@
             },
             {
                 "name": "Floor 12 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Dryad #1"},
                     {"name": "Fenril #1"},
@@ -414,7 +403,6 @@
             },
             {
                 "name": "Floor 13 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Phooka #1"},
                     {"name": "Rubber Froggy #1"},
@@ -446,7 +434,6 @@
             },
             {
                 "name": "Floor 14 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Baby Dragon #1"},
                     {"name": "Baby Dragon #2"},
@@ -476,7 +463,6 @@
             },
             {
                 "name": "Floor 15 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Wraith #1"},
                     {"name": "Vampire Bush #1"},
@@ -507,7 +493,6 @@
             },
             {
                 "name": "Floor 16 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Undine #1"},
                     {"name": "Ice Golem #1"},
@@ -543,7 +528,6 @@
             },
             {
                 "name": "Floor 17 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Yin Yang #1"},
                     {"name": "Mind Flayer #1"},
@@ -578,7 +562,6 @@
             },
             {
                 "name": "Floor 18 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Vampire #1"},
                     {"name": "Necromancer #1"},
@@ -612,7 +595,6 @@
             },
             {
                 "name": "Floor 19 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Demon Lord #1"},
                     {"name": "Demon Lord #2"},
@@ -642,7 +624,6 @@
             },
             {
                 "name": "Floor 20 - Enemysanity",
-                "visibility_rules": ["enemysanity"],
                 "sections": [
                     {"name": "Blue Dragon #1"},
                     {"name": "Steel Skeleton #1"},
