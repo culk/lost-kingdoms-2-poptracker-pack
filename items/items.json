@@ -233,7 +233,7 @@
         "codes": "castle_gate_key"
     },
     {
-        "name": "Fountain Key",
+        "name": "Key to Fountain",
         "type": "toggle",
         "img": "images/items/fountain_key.png",
         "initial_active_state": false,
