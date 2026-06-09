@@ -12,30 +12,36 @@ Download the most recent .zip file from the **Releases** and either drag it to t
 
 - Automatically reads player options from the AP server slot data.
 - Autotracking for found key items and checked locations.
-- Manual tracking for randomized level connections.
+- Automatic and manual tracking for randomized level connections.
 - Displays locations that are reachable in logic (green) and out of logic (yellow).
 - Highlighting of hinted item locations.
 
 ### Planned Features
 
-- Support for autotracking randomized level connections.
 - Auto map tab switching based on players location.
 
 ## Compatibility
 
 | AP World Version | PopTracker Pack Version |
 |------------------|-------------------------|
+| v0.1.08          | v0.4.0+                 |
 | v0.1.07          | v0.1.0+                 |
 
-## Randomized Levels Manual Instructions
+## Randomized Levels
+
+This pack supports automatic tracking of randomized levels since pack version v0.4.0 and manual tracking since pack version v0.3.0. The pack will automatically identify all level connections when connecting to an AP server. These connections will then control what locations are in logic automatically without any input from the player.
+
+If you wish to see how specific levels connect or want to manually track connections for offline play, then change the pack setting to "Randomize Levels - Manual".
+
+### Manual Instructions (Offline Play)
 
 ![Randomize levels manual setting enabled](images/docs/manual_connections_enabled.png)
 
-This pack supports manual tracking of level connections since pack version v0.3.0 when the "randomize levels" option is enabled. The "Connections" map tab displays current connections, reachable level exits, and is the place to add new connections. A "connection" is a link between a single exit and a single level to inform the pack's logic that reaching the exit will unlock the connected level. Exits are displayed as color coded diamonds above the level on the map: green if the exit is reachable, red if the exit is unreachable, and grey if it is already connected to a level. Levels are displayed as diamonds below the level on the map: blue if unconnected and grey if connected.
+The "Connections" map tab displays current connections, reachable level exits, and is the place to manually add new connections (only required for offline play). A "connection" is a link between a single exit and a single level to inform the pack's logic that reaching the exit will unlock the connected level. Exits are displayed as color coded diamonds above the level on the map: green if the exit is reachable, red if the exit is unreachable, and grey if it is already connected to a level. Levels are displayed as diamonds below the level on the map: blue if unconnected and grey if connected.
 
 To add a connection, select a level or exit and then select its connected level or exit.
 
-### Steps:
+**Steps**:
 1. To select a level or exit, hover over the diamond location icon and then left click on the item icon in the hover window.
 
 ![An exit manually selected by left clicking its item icon](images/docs/manual_connections_step_1.png)
