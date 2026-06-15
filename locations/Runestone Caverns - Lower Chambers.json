@@ -68,7 +68,10 @@
             },
             {
                 "name": "High Water Chest Flight",
-                "access_rules": ["^$can_fly"],
+                "access_rules": [
+                    "^$can_fly",
+                    "cerberus, [^$can_fly]"
+                ],
                 "sections": [
                     {
                         "name": ""
