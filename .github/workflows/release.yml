@@ -16,12 +16,15 @@ jobs:
       - name: Get checksum
         run: echo "sha256sum=$(sha256sum pack.zip | awk '{print $1}')" >> $GITHUB_OUTPUT
         id: checksum
+      - name: Get version number
+        run: echo "version_number=$(echo ${{ github.event.release.tag_name }} | sed 's/^v//g')" >> $GITHUB_OUTPUT
+        id: number
       - name: Git config
         run: git config user.name "Automation" && git config user.email "automation@localhost"
       - name: Add to versions
         run: |-
           jq '.versions |= [{
-            "package_version": "${{ github.event.release.tag_name }}",
+            "package_version": "${{ steps.number.outputs.version_number }}",
             "download_url": "https://github.com/${{ github.repository }}/releases/download/${{ github.event.release.tag_name }}/lost_kingdoms_2_ap_tracker.zip",
             "sha256": "${{ steps.checksum.outputs.sha256sum }}",
             "changelog": ["Check release notes"]
