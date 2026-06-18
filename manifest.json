@@ -12,6 +12,6 @@
             ]
         }
     },
-    "versions_url": "https://raw.githubusercontent.com/culk/lost-kingdoms-2-poptracker-pack/main/versions.json",
+    "versions_url": "https://raw.githubusercontent.com/culk/lost-kingdoms-2-poptracker-pack/versions/versions.json",
     "min_poptracker_version": "0.31.0"
 }
