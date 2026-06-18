@@ -1,0 +1,36 @@
+{
+    "versions": [
+        {
+            "package_version": "0.4.0",
+            "download_url": "https://github.com/culk/lost-kingdoms-2-poptracker-pack/releases/download/v0.4.0/lost_kingdoms_2_ap_tracker.zip",
+            "sha256": "387a623a42dca8adbbdf132985c254fd18aa20a773f251801ce4df4f4aa71ca7",
+            "changelog": [
+                "Adds full support for randomized levels and new v0.1.08 locations for enemysanity plus"
+            ]
+        },
+        {
+            "package_version": "0.3.0",
+            "download_url": "https://github.com/culk/lost-kingdoms-2-poptracker-pack/releases/download/v0.3.0/lost_kingdoms_2_ap_tracker.zip",
+            "sha256": "1af7b2ecf6652310c553620406945930ad2eb1bb8cd7e291a6902d471c0e330d",
+            "changelog": [
+                "Adds manual tracking of connections for randomized levels"
+            ]
+        },
+        {
+            "package_version": "0.2.0",
+            "download_url": "https://github.com/culk/lost-kingdoms-2-poptracker-pack/releases/download/v0.2.0/lost_kingdoms_2_ap_tracker.zip",
+            "sha256": "b6575714a149394fa67a56ce7fa916cc27a210f1b842b08b17c80e542b1f6599",
+            "changelog": [
+                "UI makeover to improve clarity and better support combosanity"
+            ]
+        },
+        {
+            "package_version": "0.1.0",
+            "download_url": "https://github.com/culk/lost-kingdoms-2-poptracker-pack/releases/download/v0.1.0/lost_kingdoms_2_ap_tracker.zip",
+            "sha256": "eda1bf275d6a2e9ab3ab150f173235fb7355eb1ca2efa73dae7a0a835716d28d",
+            "changelog": [
+                "Initial release of the Lost Kingdoms II AP tracker"
+            ]
+        }
+    ]
+}
