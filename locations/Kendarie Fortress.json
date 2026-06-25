@@ -180,7 +180,6 @@
             },
             {
                 "name": "Kendarie Soldier 2",
-                "access_rules": ["[blue_key]"],
                 "sections": [
                     {
                         "name": ""
