@@ -13,18 +13,20 @@ Download the most recent .zip file from the **Releases** and either drag it to t
 - Automatically reads player options from the AP server slot data.
 - Autotracking for found key items and checked locations.
 - Automatic and manual tracking for randomized level connections.
+- Auto-tabbing of the map tab to display the current level when the player changes levels.
 - Displays locations that are reachable in logic (green) and out of logic (yellow).
 - Highlighting of hinted item locations.
 
 ### Planned Features
 
-- Auto map tab switching based on players location.
+- Enemysanity map locations.
+- Higher quality map images.
 
 ## Compatibility
 
 | AP World Version | PopTracker Pack Version |
 |------------------|-------------------------|
-| v0.1.08          | v0.4.0+                 |
+| v0.1.08+         | v0.4.0+                 |
 | v0.1.07          | v0.1.0+                 |
 
 ## Randomized Levels
