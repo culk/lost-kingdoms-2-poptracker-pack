@@ -10,6 +10,7 @@
                 "item_size": "480,48",
                 "rows": [
                     ["header_settings"],
+                    ["auto_tab_map"],
                     ["randomize_levels"],
                     ["progressive_leveling"],
                     ["progressive_attribute_proficiencies"],

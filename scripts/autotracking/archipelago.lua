@@ -1,6 +1,7 @@
 require("scripts/autotracking/item_mapping")
 require("scripts/autotracking/location_mapping")
 require("scripts/autotracking/setting_mapping")
+require("scripts/autotracking/tab_mapping")
 require("scripts/luaitems")
 
 CUR_INDEX = -1
@@ -271,6 +272,32 @@ function UpdateStatus(status)
         onLocation(10000, "Goal - Defeat the God of Harmony")
         onLocation(10001, "Goal - Defeat the Emperor")
         onLocation(10002, "Goal - Collect Red Fairies")
+    end
+end
+
+function OnBounce(json)
+    local auto_tab_map_obj = Tracker:FindObjectForCode("auto_tab_map")
+    if auto_tab_map_obj and auto_tab_map_obj.CurrentStage == 1 then
+        if json ~= nil and json["data"] ~= nil then
+            local data = json["data"]
+            UpdateMap(data["level_id"])
+        end
+    end
+end
+
+function UpdateMap(level_id)
+    local tabs = TAB_MAPPING[tostring(level_id)]
+    if not tabs then
+        print(string.format('UpdateMap: no tabs found for level_id %d', level_id))
+        return
+    end
+    if tabs[1] == "Combos" and not Tracker:FindObjectForCode("combosanity").Active then
+        -- Combos tab is hidden, show the Overworld instead.
+        tabs = {"Overworld"}
+    end
+    print(string.format('UpdateMap: activating tabs "%s" for level_id %d', table.concat(tabs, "/"), level_id))
+    for _, tab in ipairs(tabs) do
+        Tracker:UiHint("ActivateTab", tab)
     end
 end
 

@@ -130,5 +130,27 @@
         "type": "toggle",
         "img": "images/settings/setting_progressive_attribute_proficiencies.png",
         "codes": "progressive_attribute_proficiencies"
+    },
+    {
+        "name": "Auto-Tab Map",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 1,
+        "stages": [
+            {
+                "img": "images/settings/setting_auto_tab_map.png",
+                "img_mods": "@disabled",
+                "codes": "auto_tab_map, auto_tab_map_off",
+                "inherit_codes": false,
+                "name": "Auto-Tab Map - Off"
+            },
+            {
+                "img": "images/settings/setting_auto_tab_map.png",
+                "codes": "auto_tab_map, auto_tab_map_on",
+                "inherit_codes": false,
+                "name": "Auto-Tab Map - On"
+            }
+        ]
     }
 ]

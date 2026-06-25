@@ -4,6 +4,7 @@ Archipelago:AddLocationHandler("location handler", onLocation)
 
 Archipelago:AddSetReplyHandler("notify handler", OnNotify)
 Archipelago:AddRetrievedHandler("notify launch handler", OnNotifyLaunch)
+Archipelago:AddBouncedHandler("bounce handler", OnBounce)
 
 -- Code watches for settings to show/hide portions of the item tracker layout
 ScriptHost:AddWatchForCode("fairysanity", "fairysanity", ToggleItems)
