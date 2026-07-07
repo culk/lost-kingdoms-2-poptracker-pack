@@ -164,6 +164,21 @@
             },
             {
                 "name": "Kendarie Soldier 1",
+                "sections": [
+                    {
+                        "name": ""
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Kendarie Fortress",
+                        "x": 450,
+                        "y": 548
+                    }
+                ]
+            },
+            {
+                "name": "Kendarie Soldier 2",
                 "access_rules": ["blue_key"],
                 "sections": [
                     {
@@ -175,21 +190,6 @@
                         "map": "Kendarie Fortress",
                         "x": 635,
                         "y": 333
-                    }
-                ]
-            },
-            {
-                "name": "Kendarie Soldier 2",
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Kendarie Fortress",
-                        "x": 450,
-                        "y": 548
                     }
                 ]
             },
