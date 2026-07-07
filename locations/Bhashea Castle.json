@@ -159,7 +159,7 @@
                     {
                         "map": "Bhashea Castle",
                         "x": 856,
-                        "y": 450
+                        "y": 470
                     }
                 ]
             },
@@ -281,136 +281,341 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Death #1"
+                        "name": "Group 1",
+                        "sections": [
+                            {
+                                "name": "Death #1"
+                            },
+                            {
+                                "name": "Birdman #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 248,
+                                "y": 336
+                            }
+                        ]
                     },
                     {
-                        "name": "Stone Head #1"
+                        "name": "Group 2",
+                        "sections": [
+                            {
+                                "name": "Stone Head #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 133,
+                                "y": 320
+                            }
+                        ]
                     },
                     {
-                        "name": "Kitty Trap #1"
+                        "name": "Group 3",
+                        "sections": [
+                            {
+                                "name": "Kitty Trap #1"
+                            },
+                            {
+                                "name": "Kitty Trap #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 186,
+                                "y": 450
+                            }
+                        ]
                     },
                     {
-                        "name": "Kitty Trap #2"
+                        "name": "Group 4",
+                        "sections": [
+                            {
+                                "name": "Death #2"
+                            },
+                            {
+                                "name": "Death #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 256,
+                                "y": 524
+                            }
+                        ]
                     },
                     {
-                        "name": "Birdman #1"
+                        "name": "Group 5",
+                        "sections": [
+                            {
+                                "name": "Stone Head #2"
+                            },
+                            {
+                                "name": "Death #4"
+                            },
+                            {
+                                "name": "Death #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 256,
+                                "y": 591
+                            }
+                        ]
                     },
                     {
-                        "name": "Stone Head #2"
+                        "name": "Group 6",
+                        "sections": [
+                            {
+                                "name": "Dark Elf #1"
+                            },
+                            {
+                                "name": "Dark Elf #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 614,
+                                "y": 640
+                            }
+                        ]
                     },
                     {
-                        "name": "Death #2"
+                        "name": "Group 7",
+                        "sections": [
+                            {
+                                "name": "Death #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 273,
+                                "y": 718
+                            }
+                        ]
                     },
                     {
-                        "name": "Death #3"
+                        "name": "Group 8",
+                        "sections": [
+                            {
+                                "name": "Birdman #2"
+                            },
+                            {
+                                "name": "Stone Head #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 521,
+                                "y": 570
+                            }
+                        ]
                     },
                     {
-                        "name": "Death #4"
+                        "name": "Group 9",
+                        "sections": [
+                            {
+                                "name": "Stone Head #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 829,
+                                "y": 587
+                            }
+                        ]
                     },
                     {
-                        "name": "Death #5"
+                        "name": "Group 10",
+                        "sections": [
+                            {
+                                "name": "Death #7"
+                            },
+                            {
+                                "name": "Dark Elf #3"
+                            },
+                            {
+                                "name": "Dark Elf #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 478,
+                                "y": 425
+                            }
+                        ]
                     },
                     {
-                        "name": "Dark Elf #1"
+                        "name": "Group 11",
+                        "sections": [
+                            {
+                                "name": "Death #8"
+                            },
+                            {
+                                "name": "Death #9"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 450,
+                                "y": 329
+                            }
+                        ]
                     },
                     {
-                        "name": "Dark Elf #2"
+                        "name": "Group 12",
+                        "sections": [
+                            {
+                                "name": "Kitty Trap #3"
+                            },
+                            {
+                                "name": "Kitty Trap #4"
+                            },
+                            {
+                                "name": "Birdman #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 512,
+                                "y": 329
+                            }
+                        ]
                     },
                     {
-                        "name": "Death #6"
+                        "name": "Group 13",
+                        "sections": [
+                            {
+                                "name": "Stone Head #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 336,
+                                "y": 490
+                            }
+                        ]
                     },
                     {
-                        "name": "Birdman #2"
+                        "name": "Group 14",
+                        "sections": [
+                            {
+                                "name": "Birdman #4"
+                            },
+                            {
+                                "name": "Dark Elf #5"
+                            },
+                            {
+                                "name": "Dark Elf #6"
+                            },
+                            {
+                                "name": "Dark Elf #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 647,
+                                "y": 433
+                            }
+                        ]
                     },
                     {
-                        "name": "Stone Head #3"
+                        "name": "Group 15",
+                        "sections": [
+                            {
+                                "name": "Stone Head #8"
+                            },
+                            {
+                                "name": "Dark Elf #8"
+                            },
+                            {
+                                "name": "Dark Elf #9"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 849,
+                                "y": 433
+                            }
+                        ]
                     },
                     {
-                        "name": "Stone Head #4"
+                        "name": "Group 16",
+                        "sections": [
+                            {
+                                "name": "Stone Head #4"
+                            },
+                            {
+                                "name": "Stone Head #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 442,
+                                "y": 544
+                            }
+                        ]
                     },
                     {
-                        "name": "Stone Head #5"
+                        "name": "Group 17 (Place All Blades)",
+                        "access_rules": ["blade:4"],
+                        "sections": [
+                            {
+                                "name": "Death #10"
+                            },
+                            {
+                                "name": "Death #11"
+                            },
+                            {
+                                "name": "Demon Swordsman #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 336,
+                                "y": 531
+                            }
+                        ]
                     },
                     {
-                        "name": "Stone Head #6"
-                    },
-                    {
-                        "name": "Death #7"
-                    },
-                    {
-                        "name": "Dark Elf #3"
-                    },
-                    {
-                        "name": "Dark Elf #4"
-                    },
-                    {
-                        "name": "Death #8"
-                    },
-                    {
-                        "name": "Death #9"
-                    },
-                    {
-                        "name": "Kitty Trap #3"
-                    },
-                    {
-                        "name": "Kitty Trap #4"
-                    },
-                    {
-                        "name": "Birdman #3"
-                    },
-                    {
-                        "name": "Stone Head #7"
-                    },
-                    {
-                        "name": "Birdman #4"
-                    },
-                    {
-                        "name": "Dark Elf #5"
-                    },
-                    {
-                        "name": "Dark Elf #6"
-                    },
-                    {
-                        "name": "Dark Elf #7"
-                    },
-                    {
-                        "name": "Stone Head #8"
-                    },
-                    {
-                        "name": "Dark Elf #8"
-                    },
-                    {
-                        "name": "Dark Elf #9"
-                    },
-                    {
-                        "name": "Death #10",
-                        "access_rules": ["blade:4"]
-                    },
-                    {
-                        "name": "Death #11",
-                        "access_rules": ["blade:4"]
-                    },
-                    {
-                        "name": "Demon Swordsman #1",
-                        "access_rules": ["blade:4"]
-                    },
-                    {
-                        "name": "Birdman #5",
-                        "access_rules": ["blade:4"]
-                    },
-                    {
-                        "name": "Birdman #6",
-                        "access_rules": ["blade:4"]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Bhashea Castle",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 18 (Return After All Blades)",
+                        "access_rules": ["blade:4"],
+                        "sections": [
+                            {
+                                "name": "Birdman #5"
+                            },
+                            {
+                                "name": "Birdman #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 332,
+                                "y": 300
+                            }
+                        ]
                     }
                 ]
             }

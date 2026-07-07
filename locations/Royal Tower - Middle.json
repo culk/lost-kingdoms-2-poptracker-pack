@@ -151,89 +151,225 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Ice Golem #1"
+                        "name": "Group 1 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Ice Golem #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 446,
+                                "y": 833
+                            }
+                        ]
                     },
                     {
-                        "name": "Demon Fox #1"
+                        "name": "Group 2 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Demon Fox #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 315,
+                                "y": 575
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #1"
+                        "name": "Group 3",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #1"
+                            },
+                            {
+                                "name": "Aggressor DX5 #2"
+                            },
+                            {
+                                "name": "Aggressor DX5 #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 458,
+                                "y": 467
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #2"
+                        "name": "Group 4 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Beelzebub #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 501,
+                                "y": 266
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #3"
+                        "name": "Group 5 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Behemoth #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 650,
+                                "y": 266
+                            }
+                        ]
                     },
                     {
-                        "name": "Beelzebub #1"
+                        "name": "Group 6 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Fenril #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 686,
+                                "y": 465
+                            }
+                        ]
                     },
                     {
-                        "name": "Behemoth #1"
+                        "name": "Group 7 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Leod VIII #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 556,
+                                "y": 632
+                            }
+                        ]
                     },
                     {
-                        "name": "Fenril #1"
+                        "name": "Group 8 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #4"
+                            },
+                            {
+                                "name": "Aggressor DX5 #5"
+                            },
+                            {
+                                "name": "Aggressor DX5 #6"
+                            },
+                            {
+                                "name": "Aggressor DX5 #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 446,
+                                "y": 793
+                            }
+                        ]
                     },
                     {
-                        "name": "Leod VIII #1"
+                        "name": "Group 9 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #8"
+                            },
+                            {
+                                "name": "Aggressor DX5 #9"
+                            },
+                            {
+                                "name": "Aggressor DX5 #10"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 355,
+                                "y": 575
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #4"
+                        "name": "Group 10 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #11"
+                            },
+                            {
+                                "name": "Aggressor DX5 #12"
+                            },
+                            {
+                                "name": "Aggressor DX5 #13"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 501,
+                                "y": 306
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #5"
+                        "name": "Group 11 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #14"
+                            },
+                            {
+                                "name": "Aggressor DX5 #15"
+                            },
+                            {
+                                "name": "Aggressor DX5 #16"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 650,
+                                "y": 306
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #6"
-                    },
-                    {
-                        "name": "Aggressor DX5 #7"
-                    },
-                    {
-                        "name": "Aggressor DX5 #8"
-                    },
-                    {
-                        "name": "Aggressor DX5 #9"
-                    },
-                    {
-                        "name": "Aggressor DX5 #10"
-                    },
-                    {
-                        "name": "Aggressor DX5 #11"
-                    },
-                    {
-                        "name": "Aggressor DX5 #12"
-                    },
-                    {
-                        "name": "Aggressor DX5 #13"
-                    },
-                    {
-                        "name": "Aggressor DX5 #14"
-                    },
-                    {
-                        "name": "Aggressor DX5 #15"
-                    },
-                    {
-                        "name": "Aggressor DX5 #16"
-                    },
-                    {
-                        "name": "Aggressor DX5 #17"
-                    },
-                    {
-                        "name": "Aggressor DX5 #18"
-                    },
-                    {
-                        "name": "Aggressor DX5 #19"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Royal Tower - Middle",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 12 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #17"
+                            },
+                            {
+                                "name": "Aggressor DX5 #18"
+                            },
+                            {
+                                "name": "Aggressor DX5 #19"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 686,
+                                "y": 425
+                            }
+                        ]
                     }
                 ]
             }

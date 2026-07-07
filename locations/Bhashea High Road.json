@@ -169,106 +169,230 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Porcupig #1"
-                    },
-                    {
-                        "name": "Porcupig #2"
-                    },
-                    {
-                        "name": "Porcupig #3"
-                    },
-                    {
-                        "name": "Man Trap #1"
-                    },
-                    {
-                        "name": "Man Trap #2"
-                    },
-                    {
-                        "name": "Porcupig #4"
-                    },
-                    {
-                        "name": "Man Trap #3"
-                    },
-                    {
-                        "name": "Porcupig #5"
-                    },
-                    {
-                        "name": "Storm Hagan #1"
-                    },
-                    {
-                        "name": "Storm Hagan #2"
-                    },
-                    {
-                        "name": "Man Trap #4"
-                    },
-                    {
-                        "name": "Porcupig #6"
-                    },
-                    {
-                        "name": "Kendarie Soldier #1"
-                    },
-                    {
-                        "name": "Aggressor GL2 #1"
-                    },
-                    {
-                        "name": "Aggressor GL2 #2"
-                    },
-                    {
-                        "name": "Porcupig #7"
-                    },
-                    {
-                        "name": "Kendarie Soldier #2"
-                    },
-                    {
-                        "name": "Kendarie Soldier #3"
-                    },
-                    {
-                        "name": "Aggressor GL2 #3"
-                    },
-                    {
-                        "name": "Man Trap #5",
-                        "access_rules": [
-                            "^$can_jump",
-                            "^$can_fly"
+                        "name": "Group 1 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Porcupig #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 304,
+                                "y": 550
+                            }
                         ]
                     },
                     {
-                        "name": "Storm Hagan #3",
-                        "access_rules": [
-                            "^$can_jump",
-                            "^$can_fly"
+                        "name": "Group 2 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Porcupig #2"
+                            },
+                            {
+                                "name": "Porcupig #3"
+                            },
+                            {
+                                "name": "Man Trap #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 362,
+                                "y": 488
+                            }
                         ]
                     },
                     {
-                        "name": "Chaos Knight #1",
-                        "access_rules": [
-                            "^$can_jump",
-                            "^$can_fly"
+                        "name": "Group 3",
+                        "sections": [
+                            {
+                                "name": "Man Trap #2"
+                            },
+                            {
+                                "name": "Porcupig #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 568,
+                                "y": 446
+                            }
                         ]
                     },
                     {
-                        "name": "Man Trap #6",
-                        "access_rules": [
-                            "^$can_jump",
-                            "^$can_fly"
+                        "name": "Group 4 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Man Trap #3"
+                            },
+                            {
+                                "name": "Porcupig #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 460,
+                                "y": 257
+                            }
                         ]
                     },
                     {
-                        "name": "Storm Hagan #4",
+                        "name": "Group 5 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Storm Hagan #1"
+                            },
+                            {
+                                "name": "Storm Hagan #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 259,
+                                "y": 253
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 6 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Man Trap #4"
+                            },
+                            {
+                                "name": "Porcupig #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 495,
+                                "y": 257
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 7 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Aggressor GL2 #1"
+                            },
+                            {
+                                "name": "Porcupig #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 546,
+                                "y": 309
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 8 (2nd Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Kendarie Soldier #1"
+                            },
+                            {
+                                "name": "Aggressor GL2 #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 507,
+                                "y": 492
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 9 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Kendarie Soldier #2"
+                            },
+                            {
+                                "name": "Kendarie Soldier #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 289,
+                                "y": 605
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 10 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Aggressor GL2 #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 507,
+                                "y": 551
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 11",
                         "access_rules": [
                             "^$can_jump",
                             "^$can_fly"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Man Trap #5"
+                            },
+                            {
+                                "name": "Storm Hagan #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 797,
+                                "y": 585
+                            }
                         ]
-                    }
-                ],
-                "map_locations": [
+                    },
                     {
-                        "map": "Bhashea High Road",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 12",
+                        "access_rules": [
+                            "^$can_jump",
+                            "^$can_fly"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Chaos Knight #1"
+                            },
+                            {
+                                "name": "Man Trap #6"
+                            },
+                            {
+                                "name": "Storm Hagan #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 840,
+                                "y": 735
+                            }
+                        ]
                     }
                 ]
             }

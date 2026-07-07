@@ -157,122 +157,234 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "MechLance 5L #1"
+                        "name": "Group 1 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "MechLance 5L #1"
+                            },
+                            {
+                                "name": "MechLance 5L #2"
+                            },
+                            {
+                                "name": "Gizmolizer #1"
+                            },
+                            {
+                                "name": "MechLance 5L #3"
+                            },
+                            {
+                                "name": "MechLance 5L #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 450,
+                                "y": 661
+                            }
+                        ]
                     },
                     {
-                        "name": "MechLance 5L #2"
+                        "name": "Group 2 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Dark Treant #1"
+                            },
+                            {
+                                "name": "Gizmolizer #2"
+                            },
+                            {
+                                "name": "Claws-R-Us #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 584,
+                                "y": 609
+                            }
+                        ]
                     },
                     {
-                        "name": "Gizmolizer #1"
+                        "name": "Group 3 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Chariobot #1"
+                            },
+                            {
+                                "name": "Claws-R-Us #2"
+                            },
+                            {
+                                "name": "Gizmolizer #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 482,
+                                "y": 463
+                            }
+                        ]
                     },
                     {
-                        "name": "MechLance 5L #3"
+                        "name": "Group 4 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Claws-R-Us #3"
+                            },
+                            {
+                                "name": "Gizmolizer #4"
+                            },
+                            {
+                                "name": "MechLance 5L #5"
+                            },
+                            {
+                                "name": "MechLance 5L #6"
+                            },
+                            {
+                                "name": "MechLance 5L #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 489,
+                                "y": 326
+                            }
+                        ]
                     },
                     {
-                        "name": "MechLance 5L #4"
+                        "name": "Group 5 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Chariobot #2"
+                            },
+                            {
+                                "name": "Chariobot #3"
+                            },
+                            {
+                                "name": "Chariobot #4"
+                            },
+                            {
+                                "name": "Chariobot #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 489,
+                                "y": 231
+                            }
+                        ]
                     },
                     {
-                        "name": "Dark Treant #1"
+                        "name": "Group 6 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Barometz #1"
+                            },
+                            {
+                                "name": "Barometz #2"
+                            },
+                            {
+                                "name": "Dark Treant #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 493,
+                                "y": 554
+                            }
+                        ]
                     },
                     {
-                        "name": "Gizmolizer #2"
+                        "name": "Group 7 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "MechLance 5L #8"
+                            },
+                            {
+                                "name": "MechLance 5L #9"
+                            },
+                            {
+                                "name": "Gizmolizer #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 420,
+                                "y": 661
+                            }
+                        ]
                     },
                     {
-                        "name": "Claws-R-Us #1"
+                        "name": "Group 8 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "MechLance 5L #10"
+                            },
+                            {
+                                "name": "Claws-R-Us #4"
+                            },
+                            {
+                                "name": "Gizmolizer #6"
+                            },
+                            {
+                                "name": "AcidBot #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 533,
+                                "y": 661
+                            }
+                        ]
                     },
                     {
-                        "name": "Chariobot #1"
+                        "name": "Group 9 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "MechLance 5L #13"
+                            },
+                            {
+                                "name": "Dark Treant #4"
+                            },
+                            {
+                                "name": "MechLance 5L #14"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 452,
+                                "y": 426
+                            }
+                        ]
                     },
                     {
-                        "name": "Claws-R-Us #2"
-                    },
-                    {
-                        "name": "Gizmolizer #3"
-                    },
-                    {
-                        "name": "Claws-R-Us #3"
-                    },
-                    {
-                        "name": "Gizmolizer #4"
-                    },
-                    {
-                        "name": "MechLance 5L #5"
-                    },
-                    {
-                        "name": "MechLance 5L #6"
-                    },
-                    {
-                        "name": "MechLance 5L #7"
-                    },
-                    {
-                        "name": "Chariobot #2"
-                    },
-                    {
-                        "name": "Chariobot #3"
-                    },
-                    {
-                        "name": "Chariobot #4"
-                    },
-                    {
-                        "name": "Chariobot #5"
-                    },
-                    {
-                        "name": "Barometz #1"
-                    },
-                    {
-                        "name": "Barometz #2"
-                    },
-                    {
-                        "name": "Dark Treant #2"
-                    },
-                    {
-                        "name": "MechLance 5L #8"
-                    },
-                    {
-                        "name": "MechLance 5L #9"
-                    },
-                    {
-                        "name": "Gizmolizer #5"
-                    },
-                    {
-                        "name": "MechLance 5L #10"
-                    },
-                    {
-                        "name": "Claws-R-Us #4"
-                    },
-                    {
-                        "name": "Gizmolizer #6"
-                    },
-                    {
-                        "name": "MechLance 5L #11"
-                    },
-                    {
-                        "name": "MechLance 5L #12"
-                    },
-                    {
-                        "name": "Dark Treant #3"
-                    },
-                    {
-                        "name": "AcidBot #1"
-                    },
-                    {
-                        "name": "MechLance 5L #13"
-                    },
-                    {
-                        "name": "Dark Treant #4"
-                    },
-                    {
-                        "name": "MechLance 5L #14"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Alanjeh Castle",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 10 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "MechLance 5L #11"
+                            },
+                            {
+                                "name": "MechLance 5L #12"
+                            },
+                            {
+                                "name": "Dark Treant #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 500,
+                                "y": 521
+                            }
+                        ]
                     }
                 ]
             }

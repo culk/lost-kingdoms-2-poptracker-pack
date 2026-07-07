@@ -188,104 +188,228 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Vodianoi #1"
+                        "name": "Group 1",
+                        "sections": [
+                            {
+                                "name": "Vodianoi #1"
+                            },
+                            {
+                                "name": "Vodianoi #2"
+                            },
+                            {
+                                "name": "Vodianoi #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 697,
+                                "y": 732
+                            }
+                        ]
                     },
                     {
-                        "name": "Vodianoi #2"
+                        "name": "Group 2",
+                        "sections": [
+                            {
+                                "name": "Sasquatch #1"
+                            },
+                            {
+                                "name": "Vodianoi #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 647,
+                                "y": 742
+                            }
+                        ]
                     },
                     {
-                        "name": "Vodianoi #3"
+                        "name": "Group 3",
+                        "sections": [
+                            {
+                                "name": "Vodianoi #5"
+                            },
+                            {
+                                "name": "Sasquatch #2"
+                            },
+                            {
+                                "name": "Sasquatch #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 553,
+                                "y": 574
+                            }
+                        ]
                     },
                     {
-                        "name": "Sasquatch #1"
+                        "name": "Group 4",
+                        "sections": [
+                            {
+                                "name": "Vodianoi #9"
+                            },
+                            {
+                                "name": "Vodianoi #10"
+                            },
+                            {
+                                "name": "Baba Yaga #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 535,
+                                "y": 369
+                            }
+                        ]
                     },
                     {
-                        "name": "Vodianoi #4"
+                        "name": "Group 5",
+                        "sections": [
+                            {
+                                "name": "Thanatos #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 424,
+                                "y": 342
+                            }
+                        ]
                     },
                     {
-                        "name": "Vodianoi #5"
+                        "name": "Group 6 (1st Visit Only)",
+                        "access_rules": [
+                            "^$can_fly",
+                            "cerberus, [^$can_fly]"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Vodianoi #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 437,
+                                "y": 598
+                            }
+                        ]
                     },
                     {
-                        "name": "Sasquatch #2"
+                        "name": "Group 7 (1st Visit Only)",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {
+                                "name": "Vodianoi #7"
+                            },
+                            {
+                                "name": "Vodianoi #8"
+                            },
+                            {
+                                "name": "Water Elemental #1"
+                            },
+                            {
+                                "name": "Water Elemental #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 673,
+                                "y": 468
+                            }
+                        ]
                     },
                     {
-                        "name": "Sasquatch #3"
+                        "name": "Group 8 (Return After Defeat Thanatos)",
+                        "sections": [
+                            {
+                                "name": "Vodianoi #11"
+                            },
+                            {
+                                "name": "Vodianoi #12"
+                            },
+                            {
+                                "name": "Vodianoi #13"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 660,
+                                "y": 805
+                            }
+                        ]
                     },
                     {
-                        "name": "Vodianoi #9"
+                        "name": "Group 9 (Return After Defeat Thanatos)",
+                        "sections": [
+                            {
+                                "name": "Baba Yaga #2"
+                            },
+                            {
+                                "name": "Vodianoi #14"
+                            },
+                            {
+                                "name": "Vodianoi #15"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 526,
+                                "y": 596
+                            }
+                        ]
                     },
                     {
-                        "name": "Vodianoi #10"
+                        "name": "Group 10 (Return After Defeat Thanatos)",
+                        "sections": [
+                            {
+                                "name": "Hydra #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 479,
+                                "y": 322
+                            }
+                        ]
                     },
                     {
-                        "name": "Baba Yaga #1"
-                    },
-                    {
-                        "name": "Thanatos #1"
-                    },
-                    {
-                        "name": "Vodianoi #6",
-                        "access_rules": ["^$can_fly"]
-                    },
-                    {
-                        "name": "Vodianoi #7",
-                        "access_rules": ["^$can_fly"]
-                    },
-                    {
-                        "name": "Vodianoi #8",
-                        "access_rules": ["^$can_fly"]
-                    },
-                    {
-                        "name": "Water Elemental #1",
-                        "access_rules": ["^$can_fly"]
-                    },
-                    {
-                        "name": "Water Elemental #2",
-                        "access_rules": ["^$can_fly"]
-                    },
-                    {
-                        "name": "Vodianoi #11"
-                    },
-                    {
-                        "name": "Vodianoi #12"
-                    },
-                    {
-                        "name": "Vodianoi #13"
-                    },
-                    {
-                        "name": "Baba Yaga #2"
-                    },
-                    {
-                        "name": "Vodianoi #14"
-                    },
-                    {
-                        "name": "Vodianoi #15"
-                    },
-                    {
-                        "name": "Hydra #1"
-                    },
-                    {
-                        "name": "Vodianoi #16"
-                    },
-                    {
-                        "name": "Baba Yaga #3"
-                    },
-                    {
-                        "name": "Baba Yaga #4"
-                    },
-                    {
-                        "name": "Water Elemental #3",
-                        "access_rules": ["^$can_fly"]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Obenoix Gorge",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 11 (Return After Defeat Thanatos)",
+                        "sections": [
+                            {
+                                "name": "Vodianoi #16"
+                            },
+                            {
+                                "name": "Baba Yaga #3"
+                            },
+                            {
+                                "name": "Baba Yaga #4"
+                            },
+                            {
+                                "name": "Water Elemental #3",
+                                "access_rules": ["[^$can_fly]"]
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 653,
+                                "y": 385
+                            }
+                        ]
                     }
                 ]
             }

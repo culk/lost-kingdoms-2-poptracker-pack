@@ -175,83 +175,207 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Evil Eye #1"
+                        "name": "Group 1",
+                        "sections": [
+                            {
+                                "name": "Evil Eye #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 168,
+                                "y": 528
+                            }
+                        ]
                     },
                     {
-                        "name": "Jade Giant #1"
+                        "name": "Group 2",
+                        "sections": [
+                            {
+                                "name": "Jade Giant #1"
+                            },
+                            {
+                                "name": "Jade Giant #2"
+                            },
+                            {
+                                "name": "Jade Giant #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 198,
+                                "y": 543
+                            }
+                        ]
                     },
                     {
-                        "name": "Jade Giant #2"
+                        "name": "Group 3 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Siren #1"
+                            },
+                            {
+                                "name": "Evil Eye #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 340,
+                                "y": 615
+                            }
+                        ]
                     },
                     {
-                        "name": "Jade Giant #3"
+                        "name": "Group 4",
+                        "sections": [
+                            {
+                                "name": "Jade Giant #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 303,
+                                "y": 543
+                            }
+                        ]
                     },
                     {
-                        "name": "Siren #1"
+                        "name": "Group 5",
+                        "sections": [
+                            {
+                                "name": "Siren #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 326,
+                                "y": 543
+                            }
+                        ]
                     },
                     {
-                        "name": "Evil Eye #2"
+                        "name": "Group 6",
+                        "sections": [
+                            {
+                                "name": "Evil Eye #3"
+                            },
+                            {
+                                "name": "Jade Giant #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 433,
+                                "y": 543
+                            }
+                        ]
                     },
                     {
-                        "name": "Jade Giant #4"
+                        "name": "Group 7 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Siren #3"
+                            },
+                            {
+                                "name": "Jade Giant #6"
+                            },
+                            {
+                                "name": "Gold Butterfly #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 523,
+                                "y": 513
+                            }
+                        ]
                     },
                     {
-                        "name": "Siren #2"
+                        "name": "Group 8",
+                        "sections": [
+                            {
+                                "name": "Jade Giant #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 559,
+                                "y": 524
+                            }
+                        ]
                     },
                     {
-                        "name": "Evil Eye #3"
+                        "name": "Group 9",
+                        "sections": [
+                            {
+                                "name": "Evil Eye #4"
+                            },
+                            {
+                                "name": "Evil Eye #5"
+                            },
+                            {
+                                "name": "Gold Butterfly #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 620,
+                                "y": 543
+                            }
+                        ]
                     },
                     {
-                        "name": "Jade Giant #5"
+                        "name": "Group 10 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Jade Giant #10"
+                            },
+                            {
+                                "name": "Gold Butterfly #3"
+                            },
+                            {
+                                "name": "Siren #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 787,
+                                "y": 543
+                            }
+                        ]
                     },
                     {
-                        "name": "Siren #3"
-                    },
-                    {
-                        "name": "Jade Giant #6"
-                    },
-                    {
-                        "name": "Gold Butterfly #1"
-                    },
-                    {
-                        "name": "Jade Giant #7"
-                    },
-                    {
-                        "name": "Evil Eye #4"
-                    },
-                    {
-                        "name": "Evil Eye #5"
-                    },
-                    {
-                        "name": "Gold Butterfly #2"
-                    },
-                    {
-                        "name": "Jade Giant #8"
-                    },
-                    {
-                        "name": "Jade Giant #9"
-                    },
-                    {
-                        "name": "Chimera #1"
-                    },
-                    {
-                        "name": "Jade Giant #10"
-                    },
-                    {
-                        "name": "Gold Butterfly #3"
-                    },
-                    {
-                        "name": "Siren #4"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Sarvan",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 11",
+                        "sections": [
+                            {
+                                "name": "Jade Giant #8"
+                            },
+                            {
+                                "name": "Jade Giant #9"
+                            },
+                            {
+                                "name": "Chimera #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 812,
+                                "y": 543
+                            }
+                        ]
                     }
                 ]
             }

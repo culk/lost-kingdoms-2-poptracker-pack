@@ -227,103 +227,220 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Devil Plant #1"
+                        "name": "Group 1",
+                        "sections": [
+                            {
+                                "name": "Devil Plant #2"
+                            },
+                            {
+                                "name": "Sand Golem #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 580,
+                                "y": 543
+                            }
+                        ]
                     },
                     {
-                        "name": "Devil Plant #2"
+                        "name": "Group 2 (Return After Level End)",
+                        "access_rules": ["castle_gate_key"],
+                        "sections": [
+                            {
+                                "name": "Manticore #1"
+                            },
+                            {
+                                "name": "Devil Plant #8"
+                            },
+                            {
+                                "name": "Devil Plant #9"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 565,
+                                "y": 703
+                            }
+                        ]
                     },
                     {
-                        "name": "Devil Plant #3"
+                        "name": "Group 3",
+                        "sections": [
+                            {
+                                "name": "Devil Plant #3"
+                            },
+                            {
+                                "name": "Devil Plant #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 489,
+                                "y": 619
+                            }
+                        ]
                     },
                     {
-                        "name": "Sand Golem #1"
+                        "name": "Group 4",
+                        "sections": [
+                            {
+                                "name": "Devil Plant #1"
+                            },
+                            {
+                                "name": "Sand Golem #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 630,
+                                "y": 525
+                            }
+                        ]
                     },
                     {
-                        "name": "Devil Plant #4"
+                        "name": "Group 5",
+                        "sections": [
+                            {
+                                "name": "Devil Plant #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 369,
+                                "y": 659
+                            }
+                        ]
                     },
                     {
-                        "name": "Sand Golem #2"
+                        "name": "Group 6",
+                        "sections": [
+                            {
+                                "name": "Sand Golem #6"
+                            },
+                            {
+                                "name": "Devil Plant #10"
+                            },
+                            {
+                                "name": "Devil Plant #11"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 278,
+                                "y": 740
+                            }
+                        ]
                     },
                     {
-                        "name": "Sand Golem #3"
+                        "name": "Group 7 (Return After Level End)",
+                        "access_rules": ["castle_gate_key"],
+                        "sections": [
+                            {
+                                "name": "Manticore #3"
+                            },
+                            {
+                                "name": "Sand Golem #8"
+                            },
+                            {
+                                "name": "Sand Golem #9"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 371,
+                                "y": 578
+                            }
+                        ]
                     },
                     {
-                        "name": "Sand Golem #4"
+                        "name": "Group 8 (Return After Level End)",
+                        "access_rules": ["castle_gate_key"],
+                        "sections": [
+                            {
+                                "name": "Devil Plant #12"
+                            },
+                            {
+                                "name": "Sand Golem #7"
+                            },
+                            {
+                                "name": "Manticore #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 615,
+                                "y": 354
+                            }
+                        ]
                     },
                     {
-                        "name": "Devil Plant #5"
+                        "name": "Group 9",
+                        "sections": [
+                            {
+                                "name": "Sand Golem #3 (1st Visit Only)"
+                            },
+                            {
+                                "name": "Sand Golem #4 (1st Visit Only)"
+                            },
+                            {
+                                "name": "Devil Plant #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 572,
+                                "y": 676
+                            }
+                        ]
                     },
                     {
-                        "name": "Devil Plant #6"
+                        "name": "Group 10 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Sand Golem #5"
+                            },
+                            {
+                                "name": "Devil Plant #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 483,
+                                "y": 579
+                            }
+                        ]
                     },
                     {
-                        "name": "Sand Golem #5"
-                    },
-                    {
-                        "name": "Devil Plant #7"
-                    },
-                    {
-                        "name": "Sand Golem #6"
-                    },
-                    {
-                        "name": "Devil Plant #10"
-                    },
-                    {
-                        "name": "Devil Plant #11"
-                    },
-                    {
-                        "name": "Devil Plant #12",
-                        "access_rules": ["castle_gate_key"]
-                    },
-                    {
-                        "name": "Sand Golem #7",
-                        "access_rules": ["castle_gate_key"]
-                    },
-                    {
-                        "name": "Manticore #2",
-                        "access_rules": ["castle_gate_key"]
-                    },
-                    {
-                        "name": "Manticore #3",
-                        "access_rules": ["castle_gate_key"]
-                    },
-                    {
-                        "name": "Sand Golem #8",
-                        "access_rules": ["castle_gate_key"]
-                    },
-                    {
-                        "name": "Sand Golem #9",
-                        "access_rules": ["castle_gate_key"]
-                    },
-                    {
-                        "name": "Manticore #1",
-                        "access_rules": ["castle_gate_key"]
-                    },
-                    {
-                        "name": "Devil Plant #8",
-                        "access_rules": ["castle_gate_key"]
-                    },
-                    {
-                        "name": "Devil Plant #9",
-                        "access_rules": ["castle_gate_key"]
-                    },
-                    {
-                        "name": "Sand Golem #10",
-                        "access_rules": ["castle_gate_key, jewel_of_alanjeh"]
-                    },
-                    {
-                        "name": "Sand Golem #11",
-                        "access_rules": ["castle_gate_key, jewel_of_alanjeh"]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Plains of Rowahl",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 11 (Return After Level End)",
+                        "access_rules": ["castle_gate_key, jewel_of_alanjeh"],
+                        "sections": [
+                            {
+                                "name": "Sand Golem #10"
+                            },
+                            {
+                                "name": "Sand Golem #11"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 434,
+                                "y": 793
+                            }
+                        ]
                     }
                 ]
             }

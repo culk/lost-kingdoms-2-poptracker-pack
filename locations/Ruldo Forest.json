@@ -211,104 +211,264 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Elf #1"
+                        "name": "Group 1",
+                        "sections": [
+                            {
+                                "name": "Elf #1"
+                            },
+                            {
+                                "name": "Elf #2"
+                            },
+                            {
+                                "name": "Demon Hound #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 716,
+                                "y": 634
+                            }
+                        ]
                     },
                     {
-                        "name": "Elf #2"
+                        "name": "Group 2 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Demon Hound #2"
+                            },
+                            {
+                                "name": "Demon Hound #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 630,
+                                "y": 658
+                            }
+                        ]
                     },
                     {
-                        "name": "Demon Hound #1"
+                        "name": "Group 3",
+                        "sections": [
+                            {
+                                "name": "Demon Hound #4"
+                            },
+                            {
+                                "name": "Elf #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 534,
+                                "y": 641
+                            }
+                        ]
                     },
                     {
-                        "name": "Demon Hound #2"
+                        "name": "Group 4",
+                        "sections": [
+                            {
+                                "name": "Demon Hound #5"
+                            },
+                            {
+                                "name": "Dryad #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 392,
+                                "y": 591
+                            }
+                        ]
                     },
                     {
-                        "name": "Demon Hound #3"
+                        "name": "Group 5",
+                        "sections": [
+                            {
+                                "name": "Demon Hound #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 424,
+                                "y": 460
+                            }
+                        ]
                     },
                     {
-                        "name": "Demon Hound #4"
+                        "name": "Group 6 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Demon Hound #11"
+                            },
+                            {
+                                "name": "Dryad #2"
+                            },
+                            {
+                                "name": "Elf #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 377,
+                                "y": 529
+                            }
+                        ]
                     },
                     {
-                        "name": "Elf #3"
+                        "name": "Group 7 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Myconid #2"
+                            },
+                            {
+                                "name": "Myconid #3"
+                            },
+                            {
+                                "name": "Myconid #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 302,
+                                "y": 589
+                            }
+                        ]
                     },
                     {
-                        "name": "Demon Hound #5"
+                        "name": "Group 8",
+                        "sections": [
+                            {
+                                "name": "Myconid #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 467,
+                                "y": 739
+                            }
+                        ]
                     },
                     {
-                        "name": "Dryad #1"
+                        "name": "Group 9 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Mandra Dancer #3"
+                            },
+                            {
+                                "name": "Elf #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 471,
+                                "y": 813
+                            }
+                        ]
                     },
                     {
-                        "name": "Demon Hound #6"
+                        "name": "Group 10 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Cockatrice #1"
+                            },
+                            {
+                                "name": "Cockatrice #2"
+                            },
+                            {
+                                "name": "Cockatrice #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 567,
+                                "y": 384
+                            }
+                        ]
                     },
                     {
-                        "name": "Demon Hound #7"
+                        "name": "Group 11 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Mandra Dancer #1"
+                            },
+                            {
+                                "name": "Mandra Dancer #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 557,
+                                "y": 432
+                            }
+                        ]
                     },
                     {
-                        "name": "Demon Hound #8"
+                        "name": "Group 12 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Demon Hound #7"
+                            },
+                            {
+                                "name": "Demon Hound #8"
+                            },
+                            {
+                                "name": "Elf #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 307,
+                                "y": 705
+                            }
+                        ]
                     },
                     {
-                        "name": "Elf #4"
+                        "name": "Group 13 (1st Visit Only, Location Inaccurate)",
+                        "sections": [
+                            {
+                                "name": "Demon Hound #9"
+                            },
+                            {
+                                "name": "Demon Hound #10"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 364,
+                                "y": 842
+                            }
+                        ]
                     },
                     {
-                        "name": "Elf #5"
-                    },
-                    {
-                        "name": "Myconid #1"
-                    },
-                    {
-                        "name": "Demon Hound #9"
-                    },
-                    {
-                        "name": "Demon Hound #10"
-                    },
-                    {
-                        "name": "Cockatrice #1"
-                    },
-                    {
-                        "name": "Cockatrice #2"
-                    },
-                    {
-                        "name": "Cockatrice #3"
-                    },
-                    {
-                        "name": "Mandra Dancer #1"
-                    },
-                    {
-                        "name": "Mandra Dancer #2"
-                    },
-                    {
-                        "name": "Demon Hound #11"
-                    },
-                    {
-                        "name": "Dryad #2"
-                    },
-                    {
-                        "name": "Elf #6"
-                    },
-                    {
-                        "name": "Myconid #2"
-                    },
-                    {
-                        "name": "Myconid #3"
-                    },
-                    {
-                        "name": "Myconid #4"
-                    },
-                    {
-                        "name": "Mandra Dancer #3"
-                    },
-                    {
-                        "name": "Elf #7"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Ruldo Forest",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 14 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Elf #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 550,
+                                "y": 840
+                            }
+                        ]
                     }
                 ]
             }
