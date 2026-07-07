@@ -208,106 +208,253 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Lizardman #1"
+                        "name": "Group 1",
+                        "sections": [
+                            {
+                                "name": "Lizardman #1"
+                            },
+                            {
+                                "name": "Lizardman #2"
+                            },
+                            {
+                                "name": "Lizardman #3"
+                            },
+                            {
+                                "name": "Sand Beetle #4 (Return After Rescue Jarvi)",
+                                "access_rules": ["black_liquid"]
+                            },
+                            {
+                                "name": "Elephant #5 (Return After Rescue Jarvi)",
+                                "access_rules": ["black_liquid"]
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 330,
+                                "y": 749
+                            }
+                        ]
                     },
                     {
-                        "name": "Lizardman #2"
+                        "name": "Group 2",
+                        "sections": [
+                            {
+                                "name": "Elephant #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 492,
+                                "y": 715
+                            }
+                        ]
                     },
                     {
-                        "name": "Lizardman #3"
+                        "name": "Group 3",
+                        "sections": [
+                            {
+                                "name": "Lizardman #4"
+                            },
+                            {
+                                "name": "Lizardman #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 588,
+                                "y": 719
+                            }
+                        ]
                     },
                     {
-                        "name": "Elephant #1"
+                        "name": "Group 4",
+                        "sections": [
+                            {
+                                "name": "Elephant #2"
+                            },
+                            {
+                                "name": "Elephant #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 672,
+                                "y": 589
+                            }
+                        ]
                     },
                     {
-                        "name": "Lizardman #4"
+                        "name": "Group 5",
+                        "sections": [
+                            {
+                                "name": "Mummy #1"
+                            },
+                            {
+                                "name": "Mummy #2"
+                            },
+                            {
+                                "name": "Mummy #3"
+                            },
+                            {
+                                "name": "Mummy #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 765,
+                                "y": 541
+                            }
+                        ]
                     },
                     {
-                        "name": "Lizardman #5"
+                        "name": "Group 6",
+                        "sections": [
+                            {
+                                "name": "Lizardman #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 772,
+                                "y": 729
+                            }
+                        ]
                     },
                     {
-                        "name": "Elephant #2"
+                        "name": "Group 7",
+                        "sections": [
+                            {
+                                "name": "Lizardman #6"
+                            },
+                            {
+                                "name": "Elephant #4"
+                            },
+                            {
+                                "name": "Sand Beetle #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 479,
+                                "y": 441
+                            }
+                        ]
                     },
                     {
-                        "name": "Elephant #3"
+                        "name": "Group 8",
+                        "sections": [
+                            {
+                                "name": "Mummy #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 392,
+                                "y": 406
+                            }
+                        ]
                     },
                     {
-                        "name": "Mummy #1"
+                        "name": "Group 9",
+                        "sections": [
+                            {
+                                "name": "Mummy #6"
+                            },
+                            {
+                                "name": "Mummy #7"
+                            },
+                            {
+                                "name": "Mummy #8"
+                            },
+                            {
+                                "name": "Mummy #9"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 363,
+                                "y": 313
+                            }
+                        ]
                     },
                     {
-                        "name": "Mummy #2"
+                        "name": "Group 10",
+                        "sections": [
+                            {
+                                "name": "Sand Beetle #1"
+                            },
+                            {
+                                "name": "Sand Beetle #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 396,
+                                "y": 492
+                            }
+                        ]
                     },
                     {
-                        "name": "Mummy #3"
+                        "name": "Group 11 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Pixie #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 428,
+                                "y": 643
+                            }
+                        ]
                     },
                     {
-                        "name": "Mummy #4"
+                        "name": "Group 12 (Return After Rescue Jarvi)",
+                        "access_rules": ["black_liquid"],
+                        "sections": [
+                            {
+                                "name": "Sand Beetle #5"
+                            },
+                            {
+                                "name": "Pixie #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 404,
+                                "y": 806
+                            }
+                        ]
                     },
                     {
-                        "name": "Sand Beetle #1"
-                    },
-                    {
-                        "name": "Sand Beetle #2"
-                    },
-                    {
-                        "name": "Mummy #5"
-                    },
-                    {
-                        "name": "Lizardman #6"
-                    },
-                    {
-                        "name": "Elephant #4"
-                    },
-                    {
-                        "name": "Sand Beetle #3"
-                    },
-                    {
-                        "name": "Lizardman #7"
-                    },
-                    {
-                        "name": "Pixie #1"
-                    },
-                    {
-                        "name": "Mummy #6"
-                    },
-                    {
-                        "name": "Mummy #7"
-                    },
-                    {
-                        "name": "Mummy #8"
-                    },
-                    {
-                        "name": "Mummy #9"
-                    },
-                    {
-                        "name": "Sand Beetle #4",
-                        "access_rules": ["black_liquid"]
-                    },
-                    {
-                        "name": "Elephant #5",
-                        "access_rules": ["black_liquid"]
-                    },
-                    {
-                        "name": "Sand Beetle #5",
-                        "access_rules": ["black_liquid"]
-                    },
-                    {
-                        "name": "Pixie #2",
-                        "access_rules": ["black_liquid"]
-                    },
-                    {
-                        "name": "Sand Worm #1",
-                        "access_rules": ["black_liquid"]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Gromtull Desert",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 13 (Return After Rescue Jarvi)",
+                        "access_rules": ["black_liquid"],
+                        "sections": [
+                            {
+                                "name": "Sand Worm #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 581,
+                                "y": 405
+                            }
+                        ]
                     }
                 ]
             }

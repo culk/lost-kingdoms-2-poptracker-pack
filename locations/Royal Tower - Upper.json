@@ -117,7 +117,7 @@
                 "map_locations": [
                     {
                         "map": "Royal Tower - Upper",
-                        "x": 726,
+                        "x": 764,
                         "y": 256
                     }
                 ]
@@ -125,53 +125,93 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Sphinx #1"
+                        "name": "Group 1",
+                        "sections": [
+                            {
+                                "name": "Sphinx #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Upper",
+                                "x": 381,
+                                "y": 582
+                            }
+                        ]
                     },
                     {
-                        "name": "Tentacle #1"
+                        "name": "Group 2",
+                        "sections": [
+                            {
+                                "name": "Tentacle #1 (Reload Level To Get Check)"
+                            },
+                            {
+                                "name": "Tentacle #2 (Reload Level To Get Check)"
+                            },
+                            {
+                                "name": "Wyvern #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Upper",
+                                "x": 308,
+                                "y": 340
+                            }
+                        ]
                     },
                     {
-                        "name": "Tentacle #2"
+                        "name": "Group 3",
+                        "sections": [
+                            {
+                                "name": "Tentacle #3 (Reload Level To Get Check)"
+                            },
+                            {
+                                "name": "Wyvern #2"
+                            },
+                            {
+                                "name": "Wyvern #3"
+                            },
+                            {
+                                "name": "Tentacle #4 (Reload Level To Get Check)"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Upper",
+                                "x": 702,
+                                "y": 232
+                            }
+                        ]
                     },
                     {
-                        "name": "Wyvern #1"
-                    },
-                    {
-                        "name": "Tentacle #3"
-                    },
-                    {
-                        "name": "Wyvern #2"
-                    },
-                    {
-                        "name": "Wyvern #3"
-                    },
-                    {
-                        "name": "Tentacle #4"
-                    },
-                    {
-                        "name": "Tentacle #5"
-                    },
-                    {
-                        "name": "Tentacle #6"
-                    },
-                    {
-                        "name": "Tentacle #7"
-                    },
-                    {
-                        "name": "Tentacle #8"
-                    },
-                    {
-                        "name": "God of Harmony #1"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Royal Tower - Upper",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 4 (Reload Level To Get Check)",
+                        "sections": [
+                            {
+                                "name": "Tentacle #5"
+                            },
+                            {
+                                "name": "Tentacle #6"
+                            },
+                            {
+                                "name": "Tentacle #7"
+                            },
+                            {
+                                "name": "Tentacle #8"
+                            },
+                            {
+                                "name": "God of Harmony #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Upper",
+                                "x": 352,
+                                "y": 794
+                            }
+                        ]
                     }
                 ]
             }

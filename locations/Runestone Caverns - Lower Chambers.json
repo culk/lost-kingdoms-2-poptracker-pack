@@ -179,113 +179,261 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Water Reaper #1"
+                        "name": "Group 1",
+                        "sections": [
+                            {
+                                "name": "Water Reaper #1"
+                            },
+                            {
+                                "name": "Flayer Spawn #1"
+                            },
+                            {
+                                "name": "Flayer Spawn #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 418,
+                                "y": 784
+                            }
+                        ]
                     },
                     {
-                        "name": "Flayer Spawn #1"
+                        "name": "Group 2",
+                        "sections": [
+                            {
+                                "name": "Yowie #1"
+                            },
+                            {
+                                "name": "Yowie #2"
+                            },
+                            {
+                                "name": "Yowie #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 479,
+                                "y": 660
+                            }
+                        ]
                     },
                     {
-                        "name": "Flayer Spawn #2"
+                        "name": "Group 3",
+                        "sections": [
+                            {
+                                "name": "Yowie #4"
+                            },
+                            {
+                                "name": "Flayer Spawn #3"
+                            },
+                            {
+                                "name": "Flayer Spawn #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 458,
+                                "y": 501
+                            }
+                        ]
                     },
                     {
-                        "name": "Yowie #1"
+                        "name": "Group 4 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Yowie #7"
+                            },
+                            {
+                                "name": "Yowie #8"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 394,
+                                "y": 489
+                            }
+                        ]
                     },
                     {
-                        "name": "Yowie #2"
+                        "name": "Group 5 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Flayer Spawn #10"
+                            },
+                            {
+                                "name": "Flayer Spawn #11"
+                            },
+                            {
+                                "name": "Yowie #9"
+                            },
+                            {
+                                "name": "Yowie #10"
+                            },
+                            {
+                                "name": "Yowie #11"
+                            },
+                            {
+                                "name": "Yowie #12"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 627,
+                                "y": 529
+                            }
+                        ]
                     },
                     {
-                        "name": "Yowie #3"
+                        "name": "Group 6",
+                        "sections": [
+                            {
+                                "name": "Yowie #5"
+                            },
+                            {
+                                "name": "Yowie #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 750,
+                                "y": 480
+                            }
+                        ]
                     },
                     {
-                        "name": "Yowie #4"
+                        "name": "Group 7 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Water Reaper #4"
+                            },
+                            {
+                                "name": "Water Reaper #5"
+                            },
+                            {
+                                "name": "Water Reaper #6"
+                            },
+                            {
+                                "name": "Water Reaper #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 768,
+                                "y": 405
+                            }
+                        ]
                     },
                     {
-                        "name": "Flayer Spawn #3"
+                        "name": "Group 8",
+                        "sections": [
+                            {
+                                "name": "Flayer Spawn #5"
+                            },
+                            {
+                                "name": "Flayer Spawn #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 785,
+                                "y": 288
+                            }
+                        ]
                     },
                     {
-                        "name": "Flayer Spawn #4"
+                        "name": "Group 11 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Yowie #13"
+                            },
+                            {
+                                "name": "Flayer Spawn #12"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 645,
+                                "y": 243
+                            }
+                        ]
                     },
                     {
-                        "name": "Yowie #5"
+                        "name": "Group 12 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Flayer Spawn #9"
+                            },
+                            {
+                                "name": "Water Reaper #2"
+                            },
+                            {
+                                "name": "Water Reaper #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 349,
+                                "y": 672
+                            }
+                        ]
                     },
                     {
-                        "name": "Yowie #6"
+                        "name": "Group 13 (1st Visit Only, Location Inaccurate)",
+                        "sections": [
+                            {
+                                "name": "Flayer Spawn #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 260,
+                                "y": 285
+                            }
+                        ]
                     },
                     {
-                        "name": "Flayer Spawn #5"
+                        "name": "Group 14 (1st Visit Only, Location Inaccurate)",
+                        "sections": [
+                            {
+                                "name": "Flayer Spawn #8"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 290,
+                                "y": 285
+                            }
+                        ]
                     },
                     {
-                        "name": "Flayer Spawn #6"
-                    },
-                    {
-                        "name": "Flayer Spawn #7"
-                    },
-                    {
-                        "name": "Flayer Spawn #8"
-                    },
-                    {
-                        "name": "Body of the God #1"
-                    },
-                    {
-                        "name": "Flayer Spawn #9"
-                    },
-                    {
-                        "name": "Water Reaper #2"
-                    },
-                    {
-                        "name": "Water Reaper #3"
-                    },
-                    {
-                        "name": "Yowie #7"
-                    },
-                    {
-                        "name": "Yowie #8"
-                    },
-                    {
-                        "name": "Flayer Spawn #10"
-                    },
-                    {
-                        "name": "Flayer Spawn #11"
-                    },
-                    {
-                        "name": "Yowie #9"
-                    },
-                    {
-                        "name": "Yowie #10"
-                    },
-                    {
-                        "name": "Yowie #11"
-                    },
-                    {
-                        "name": "Yowie #12"
-                    },
-                    {
-                        "name": "Water Reaper #4"
-                    },
-                    {
-                        "name": "Water Reaper #5"
-                    },
-                    {
-                        "name": "Water Reaper #6"
-                    },
-                    {
-                        "name": "Water Reaper #7"
-                    },
-                    {
-                        "name": "Yowie #13"
-                    },
-                    {
-                        "name": "Flayer Spawn #12"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Runestone Caverns - Lower Chambers",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 15",
+                        "sections": [
+                            {
+                                "name": "Body of the God #1 (Reload Level To Get Check)"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 338,
+                                "y": 246
+                            }
+                        ]
                     }
                 ]
             }

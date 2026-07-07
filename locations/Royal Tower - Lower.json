@@ -191,41 +191,97 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "LazerBug 39K #1"
+                        "name": "Group 1 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "LazerBug 39K #1"
+                            },
+                            {
+                                "name": "LazerBug 39K #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Lower",
+                                "x": 577,
+                                "y": 789
+                            }
+                        ]
                     },
                     {
-                        "name": "LazerBug 39K #2"
+                        "name": "Group 2 (Return After Level End)",
+                        "access_rules": ["god_of_destruction"],
+                        "sections": [
+                            {
+                                "name": "LazerBug 39K #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Lower",
+                                "x": 491,
+                                "y": 576
+                            }
+                        ]
                     },
                     {
-                        "name": "LazerBug 39K #3"
+                        "name": "Group 3 (Return After Level End)",
+                        "access_rules": ["god_of_destruction"],
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #1"
+                            },
+                            {
+                                "name": "Aggressor DX5 #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Lower",
+                                "x": 563,
+                                "y": 483
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #1"
+                        "name": "Group 4 (Return After Level End)",
+                        "access_rules": ["god_of_destruction"],
+                        "sections": [
+                            {
+                                "name": "LazerBug 39K #4"
+                            },
+                            {
+                                "name": "Aggressor DX5 #3"
+                            },
+                            {
+                                "name": "Aggressor DX5 #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Lower",
+                                "x": 407,
+                                "y": 602
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #2"
-                    },
-                    {
-                        "name": "LazerBug 39K #4"
-                    },
-                    {
-                        "name": "Aggressor DX5 #3"
-                    },
-                    {
-                        "name": "Aggressor DX5 #4"
-                    },
-                    {
-                        "name": "LazerBug 39K #5"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Royal Tower - Lower",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 5 (Return After Level End)",
+                        "access_rules": ["god_of_destruction"],
+                        "sections": [
+                            {
+                                "name": "LazerBug 39K #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Lower",
+                                "x": 613,
+                                "y": 345
+                            }
+                        ]
                     }
                 ]
             }

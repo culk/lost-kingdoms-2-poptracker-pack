@@ -204,80 +204,192 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Aggressor DX5 #1"
+                        "name": "Group 1 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #9"
+                            },
+                            {
+                                "name": "Super Scrubber #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 376,
+                                "y": 750
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #2"
+                        "name": "Group 2 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #10"
+                            },
+                            {
+                                "name": "Aggressor DX5 #11"
+                            },
+                            {
+                                "name": "Super Scrubber #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 580,
+                                "y": 750
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #3"
+                        "name": "Group 3 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #12"
+                            },
+                            {
+                                "name": "Aggressor DX5 #13"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 674,
+                                "y": 499
+                            }
+                        ]
                     },
                     {
-                        "name": "Coal Treant #1"
+                        "name": "Group 4",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #5"
+                            },
+                            {
+                                "name": "Aggressor DX5 #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 839,
+                                "y": 451
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #4"
+                        "name": "Group 5",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #4"
+                            },
+                            {
+                                "name": "Coal Treant #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 674,
+                                "y": 423
+                            }
+                        ]
                     },
                     {
-                        "name": "Coal Treant #2"
+                        "name": "Group 6 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #14"
+                            },
+                            {
+                                "name": "TriBlaster #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 469,
+                                "y": 257
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #5"
+                        "name": "Group 7",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #1"
+                            },
+                            {
+                                "name": "Aggressor DX5 #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 147,
+                                "y": 351
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #6"
+                        "name": "Group 8",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #3"
+                            },
+                            {
+                                "name": "Coal Treant #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 312,
+                                "y": 589
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #7"
+                        "name": "Group 9 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #7"
+                            },
+                            {
+                                "name": "Aggressor DX5 #8"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 674,
+                                "y": 750
+                            }
+                        ]
                     },
                     {
-                        "name": "Aggressor DX5 #8"
-                    },
-                    {
-                        "name": "TriBlaster #1"
-                    },
-                    {
-                        "name": "TriBlaster #2"
-                    },
-                    {
-                        "name": "LazerBug 39K #1"
-                    },
-                    {
-                        "name": "Aggressor DX5 #9"
-                    },
-                    {
-                        "name": "Super Scrubber #1"
-                    },
-                    {
-                        "name": "Aggressor DX5 #10"
-                    },
-                    {
-                        "name": "Aggressor DX5 #11"
-                    },
-                    {
-                        "name": "Super Scrubber #2"
-                    },
-                    {
-                        "name": "Aggressor DX5 #12"
-                    },
-                    {
-                        "name": "Aggressor DX5 #13"
-                    },
-                    {
-                        "name": "Aggressor DX5 #14"
-                    },
-                    {
-                        "name": "TriBlaster #3"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Holzogh Town",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 10",
+                        "sections": [
+                            {
+                                "name": "TriBlaster #1"
+                            },
+                            {
+                                "name": "TriBlaster #2"
+                            },
+                            {
+                                "name": "LazerBug 39K #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 230,
+                                "y": 750
+                            }
+                        ]
                     }
                 ]
             }

@@ -240,110 +240,306 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Efreet #1"
+                        "name": "Group 1",
+                        "sections": [
+                            {
+                                "name": "Efreet #1 (1st Visit Only)"
+                            },
+                            {
+                                "name": "Efreet #2 (1st Visit Only)"
+                            },
+                            {
+                                "name": "Fire Gargoyle #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 503,
+                                "y": 785
+                            }
+                        ]
                     },
                     {
-                        "name": "Efreet #2"
+                        "name": "Group 2",
+                        "sections": [
+                            {
+                                "name": "Fire Gargoyle #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 394,
+                                "y": 644
+                            }
+                        ]
                     },
                     {
-                        "name": "Fire Gargoyle #1"
+                        "name": "Group 3",
+                        "sections": [
+                            {
+                                "name": "Cerberus #1"
+                            },
+                            {
+                                "name": "Cerberus #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 602,
+                                "y": 644
+                            }
+                        ]
                     },
                     {
-                        "name": "Fire Gargoyle #2"
+                        "name": "Group 4 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Efreet #3"
+                            },
+                            {
+                                "name": "Efreet #4"
+                            },
+                            {
+                                "name": "Red Dragon #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 499,
+                                "y": 507
+                            }
+                        ]
                     },
                     {
-                        "name": "Cerberus #1"
+                        "name": "Group 5",
+                        "sections": [
+                            {
+                                "name": "Cerberus #3"
+                            },
+                            {
+                                "name": "Efreet #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 392,
+                                "y": 422
+                            }
+                        ]
                     },
                     {
-                        "name": "Cerberus #2"
+                        "name": "Group 6",
+                        "sections": [
+                            {
+                                "name": "Phoenix #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 607,
+                                "y": 422
+                            }
+                        ]
                     },
                     {
-                        "name": "Fire Elemental #1"
+                        "name": "Group 7 (Upper)",
+                        "sections": [
+                            {
+                                "name": "Efreet #7"
+                            },
+                            {
+                                "name": "Phoenix #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 677,
+                                "y": 236
+                            }
+                        ]
                     },
                     {
-                        "name": "Efreet #3"
+                        "name": "Group 7 (Lower)",
+                        "sections": [
+                            {
+                                "name": "Fire Elemental #1 (Return After Help Ashura Or Valkyrie)"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 562,
+                                "y": 367
+                            }
+                        ]
                     },
                     {
-                        "name": "Efreet #4"
+                        "name": "Group 8",
+                        "sections": [
+                            {
+                                "name": "Cerberus #4"
+                            },
+                            {
+                                "name": "Efreet #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 503,
+                                "y": 287
+                            }
+                        ]
                     },
                     {
-                        "name": "Red Dragon #1"
+                        "name": "Group 9",
+                        "sections": [
+                            {
+                                "name": "Cerberus #5"
+                            },
+                            {
+                                "name": "Phoenix #2 (Return After Help Ashura Or Valkyrie)"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 324,
+                                "y": 236
+                            }
+                        ]
                     },
                     {
-                        "name": "Cerberus #3"
+                        "name": "Ashura #1 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 772,
+                                "y": 202
+                            }
+                        ]
                     },
                     {
-                        "name": "Efreet #5"
+                        "name": "Valkyrie #1 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 232,
+                                "y": 202
+                            }
+                        ]
                     },
                     {
-                        "name": "Phoenix #1"
+                        "name": "Group 11 (Return After Help Ashura Or Valkyrie)",
+                        "sections": [
+                            {
+                                "name": "Cerberus #6"
+                            },
+                            {
+                                "name": "Efreet #8"
+                            },
+                            {
+                                "name": "Efreet #9"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 503,
+                                "y": 732
+                            }
+                        ]
                     },
                     {
-                        "name": "Cerberus #4"
+                        "name": "Group 12 (Return After Help Ashura Or Valkyrie)",
+                        "sections": [
+                            {
+                                "name": "Red Dragon #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 499,
+                                "y": 477
+                            }
+                        ]
                     },
                     {
-                        "name": "Cerberus #5"
+                        "name": "Group 13 (Return After Help Ashura Or Valkyrie)",
+                        "sections": [
+                            {
+                                "name": "Cerberus #7"
+                            },
+                            {
+                                "name": "Efreet #10"
+                            },
+                            {
+                                "name": "Cerberus #8"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 503,
+                                "y": 316
+                            }
+                        ]
                     },
                     {
-                        "name": "Efreet #6"
+                        "name": "Group 14 (Return After Help Ashura Or Valkyrie)",
+                        "sections": [
+                            {
+                                "name": "Cerberus #9"
+                            },
+                            {
+                                "name": "Fire Gargoyle #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 677,
+                                "y": 206
+                            }
+                        ]
                     },
                     {
-                        "name": "Phoenix #2"
-                    },
-                    {
-                        "name": "Ashura #1"
-                    },
-                    {
-                        "name": "Valkyrie #1"
-                    },
-                    {
-                        "name": "Efreet #7"
-                    },
-                    {
-                        "name": "Phoenix #3"
-                    },
-                    {
-                        "name": "Cerberus #6"
-                    },
-                    {
-                        "name": "Efreet #8"
-                    },
-                    {
-                        "name": "Efreet #9"
-                    },
-                    {
-                        "name": "Red Dragon #2"
-                    },
-                    {
-                        "name": "Cerberus #7"
-                    },
-                    {
-                        "name": "Efreet #10"
-                    },
-                    {
-                        "name": "Cerberus #8"
-                    },
-                    {
-                        "name": "Cerberus #9"
-                    },
-                    {
-                        "name": "Fire Gargoyle #3"
-                    },
-                    {
-                        "name": "Efreet #11"
-                    },
-                    {
-                        "name": "Cerberus #10"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Temple of Sharacia",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 15 (Return After Help Ashura Or Valkyrie)",
+                        "sections": [
+                            {
+                                "name": "Efreet #11"
+                            },
+                            {
+                                "name": "Cerberus #10"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 324,
+                                "y": 206
+                            }
+                        ]
                     }
                 ]
             }

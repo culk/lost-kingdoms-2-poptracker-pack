@@ -167,8 +167,8 @@
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Upper Chambers",
-                        "x": 470,
-                        "y": 800
+                        "x": 452,
+                        "y": 788
                     }
                 ]
             },
@@ -185,7 +185,7 @@
                 "map_locations": [
                     {
                         "map": "Runestone Caverns - Upper Chambers",
-                        "x": 402,
+                        "x": 412,
                         "y": 498
                     }
                 ]
@@ -193,131 +193,333 @@
             {
                 "name": "Enemysanity",
                 "visibility_rules": ["enemysanity"],
-                "sections": [
+                "children": [
                     {
-                        "name": "Land Shark #1"
+                        "name": "Group 1",
+                        "sections": [
+                            {
+                                "name": "Land Shark #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 468,
+                                "y": 641
+                            }
+                        ]
                     },
                     {
-                        "name": "Land Shark #2"
+                        "name": "Group 2",
+                        "sections": [
+                            {
+                                "name": "Land Shark #1"
+                            },
+                            {
+                                "name": "Land Shark #2"
+                            },
+                            {
+                                "name": "Crystal Rose #1"
+                            },
+                            {
+                                "name": "Crystal Rose #2"
+                            },
+                            {
+                                "name": "Crystal Rose #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 487,
+                                "y": 790
+                            }
+                        ]
                     },
                     {
-                        "name": "Land Shark #3"
+                        "name": "Group 3 (Return After Level End)",
+                        "access_rules": ["stone_golem"],
+                        "sections": [
+                            {
+                                "name": "UberBomberBot #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 496,
+                                "y": 578
+                            }
+                        ]
                     },
                     {
-                        "name": "Crystal Rose #1"
+                        "name": "Group 4",
+                        "sections": [
+                            {
+                                "name": "Crystal Rose #4"
+                            },
+                            {
+                                "name": "Crystal Rose #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 512,
+                                "y": 459
+                            }
+                        ]
                     },
                     {
-                        "name": "Crystal Rose #2"
+                        "name": "Group 5",
+                        "sections": [
+                            {
+                                "name": "Land Shark #5"
+                            },
+                            {
+                                "name": "Land Shark #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 408,
+                                "y": 462
+                            }
+                        ]
                     },
                     {
-                        "name": "Crystal Rose #3"
+                        "name": "Group 6",
+                        "sections": [
+                            {
+                                "name": "Giant Crab #2"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 426,
+                                "y": 428
+                            }
+                        ]
                     },
                     {
-                        "name": "Land Shark #4"
+                        "name": "Group 7 (Return After Level End)",
+                        "access_rules": ["stone_golem"],
+                        "sections": [
+                            {
+                                "name": "Land Shark #12"
+                            },
+                            {
+                                "name": "Land Shark #13"
+                            },
+                            {
+                                "name": "Giant Crab #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 380,
+                                "y": 490
+                            }
+                        ]
                     },
                     {
-                        "name": "Giant Crab #1"
+                        "name": "Group 8",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {
+                                "name": "Brine Dragon #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 307,
+                                "y": 371
+                            }
+                        ]
                     },
                     {
-                        "name": "Crystal Rose #4"
+                        "name": "Group 9",
+                        "sections": [
+                            {
+                                "name": "Crystal Rose #6"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 588,
+                                "y": 587
+                            }
+                        ]
                     },
                     {
-                        "name": "Crystal Rose #5"
+                        "name": "Group 10",
+                        "sections": [
+                            {
+                                "name": "Land Shark #8"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 710,
+                                "y": 589
+                            }
+                        ]
                     },
                     {
-                        "name": "Land Shark #5"
+                        "name": "Group 11",
+                        "sections": [
+                            {
+                                "name": "Giant Crab #4"
+                            },
+                            {
+                                "name": "Land Shark #9"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 737,
+                                "y": 568
+                            }
+                        ]
                     },
                     {
-                        "name": "Land Shark #6"
+                        "name": "Group 12 (Return After Level End)",
+                        "access_rules": ["stone_golem"],
+                        "sections": [
+                            {
+                                "name": "Land Shark #10"
+                            },
+                            {
+                                "name": "Land Shark #11"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 738,
+                                "y": 670
+                            }
+                        ]
                     },
                     {
-                        "name": "Giant Crab #2"
+                        "name": "Group 13",
+                        "sections": [
+                            {
+                                "name": "Giant Crab #3"
+                            },
+                            {
+                                "name": "Land Shark #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 812,
+                                "y": 624
+                            }
+                        ]
                     },
                     {
-                        "name": "Giant Crab #3"
+                        "name": "Group 14",
+                        "sections": [
+                            {
+                                "name": "Giant Crab #5"
+                            },
+                            {
+                                "name": "Crystal Rose #7"
+                            },
+                            {
+                                "name": "Crystal Rose #8"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 606,
+                                "y": 761
+                            }
+                        ]
                     },
                     {
-                        "name": "Land Shark #7"
+                        "name": "Group 15 (Return After Level End)",
+                        "access_rules": ["stone_golem"],
+                        "sections": [
+                            {
+                                "name": "Giant Crab #7"
+                            },
+                            {
+                                "name": "Land Shark #14"
+                            },
+                            {
+                                "name": "Land Shark #15"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 662,
+                                "y": 742
+                            }
+                        ]
                     },
                     {
-                        "name": "Stone Golem #1"
+                        "name": "Group 16 (Return After Level End)",
+                        "access_rules": ["stone_golem"],
+                        "sections": [
+                            {
+                                "name": "UberBomberBot #1"
+                            },
+                            {
+                                "name": "UberBomberBot #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 700,
+                                "y": 661
+                            }
+                        ]
                     },
                     {
-                        "name": "Land Shark #8"
+                        "name": "Group 17 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Stone Golem #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 592,
+                                "y": 312
+                            }
+                        ]
                     },
                     {
-                        "name": "Giant Crab #4"
-                    },
-                    {
-                        "name": "Land Shark #9"
-                    },
-                    {
-                        "name": "Crystal Rose #6"
-                    },
-                    {
-                        "name": "Giant Crab #5"
-                    },
-                    {
-                        "name": "Crystal Rose #7"
-                    },
-                    {
-                        "name": "Crystal Rose #8"
-                    },
-                    {
-                        "name": "UberBomberBot #1",
-                        "access_rules": ["stone_golem"]
-                    },
-                    {
-                        "name": "UberBomberBot #2",
-                        "access_rules": ["stone_golem"]
-                    },
-                    {
-                        "name": "UberBomberBot #3",
-                        "access_rules": ["stone_golem"]
-                    },
-                    {
-                        "name": "Land Shark #10",
-                        "access_rules": ["stone_golem"]
-                    },
-                    {
-                        "name": "Land Shark #11",
-                        "access_rules": ["stone_golem"]
-                    },
-                    {
-                        "name": "Land Shark #12",
-                        "access_rules": ["stone_golem"]
-                    },
-                    {
-                        "name": "Land Shark #13",
-                        "access_rules": ["stone_golem"]
-                    },
-                    {
-                        "name": "Giant Crab #6",
-                        "access_rules": ["stone_golem"]
-                    },
-                    {
-                        "name": "Giant Crab #7",
-                        "access_rules": ["stone_golem"]
-                    },
-                    {
-                        "name": "Land Shark #14",
-                        "access_rules": ["stone_golem"]
-                    },
-                    {
-                        "name": "Land Shark #15",
-                        "access_rules": ["stone_golem"]
-                    },
-                    {
-                        "name": "Brine Dragon #1",
-                        "access_rules": ["^$can_fly"]
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Runestone Caverns - Upper Chambers",
-                        "x": 208,
-                        "y": 961,
-                        "size": 28
+                        "name": "Group 18 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Land Shark #4"
+                            },
+                            {
+                                "name": "Giant Crab #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 560,
+                                "y": 486
+                            }
+                        ]
                     }
                 ]
             }
