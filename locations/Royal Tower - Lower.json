@@ -190,6 +190,8 @@
             },
             {
                 "name": "Enemysanity",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
                 "visibility_rules": ["enemysanity"],
                 "children": [
                     {

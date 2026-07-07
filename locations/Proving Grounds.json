@@ -1,8 +1,8 @@
 [
     {
         "name": "Proving Grounds",
-        "chest_unopened_img": "/images/items/chest_close.png",
-        "chest_opened_img": "/images/items/chest_open.png",
+        "chest_unopened_img": "/images/items/enemy_close.png",
+        "chest_opened_img": "/images/items/enemy_open.png",
         "access_rules": ["^$can_enter_proving_grounds"],
         "visibility_rules": ["enemysanity_plus"],
         "children": [
