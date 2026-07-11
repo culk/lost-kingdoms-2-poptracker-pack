@@ -122,6 +122,53 @@ function can_shop()
     return ANY(can_enter_level("Kadishu Shop"), can_enter_level("Grenfoel Cathedral Shop"))
 end
 
+local stationary_seal_activator_cards = {
+    "mandragora",
+    "vampire_bush",
+    "catoblepas",
+    "maelstrom",
+    "great_turtle",
+    "treant",
+    "king_mandragora",
+    --"will_o_wisp", -- short lifespan
+    "evil_eye",
+    "siren",
+    "kitty_trap",
+    --"rheebus", -- short lifespan
+    "decoy_pillar",
+    "earth_elemental",
+    "water_elemental",
+    "fire_elemental",
+    "wood_elemental",
+    "super_pumper",
+    "global_bust",
+    "myconid",
+    "acid_bot",
+    "dark_treant",
+    "coal_treant",
+    --"gravity_pillar", -- short lifespan
+    "mechapult",
+    "matador",
+    "claws-r-us",
+    "fire_moray",
+}
+
+function can_reach_puzzle_chest()
+    local count = 0
+    for _, card in ipairs(stationary_seal_activator_cards) do
+        if Tracker:FindObjectForCode(card).Active then
+            count = count + 1
+            if count > 2 then
+                return AccessibilityLevel.Normal
+            end
+        end
+    end
+    if count > 0 and can_shop() then
+        return AccessibilityLevel.SequenceBreak
+    end
+    return AccessibilityLevel.None
+end
+
 function has_goal_red_fairies()
     local required_amount = Tracker:FindObjectForCode("red_fairies_goal_amount").AcquiredCount
     return HAS("red_fairy", required_amount)

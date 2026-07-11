@@ -105,6 +105,7 @@
             },
             {
                 "name": "Puzzle Chest",
+                "access_rules": ["^$can_reach_puzzle_chest"],
                 "sections": [
                     {
                         "name": ""
@@ -113,8 +114,8 @@
                 "map_locations": [
                     {
                         "map": "Sarvan",
-                        "x": 550,
-                        "y": 577
+                        "x": 547,
+                        "y": 581
                     }
                 ]
             },
