@@ -79,7 +79,7 @@
                 "map_locations": [
                     {
                         "map": "Temple of Sharacia",
-                        "x": 503,
+                        "x": 499,
                         "y": 176
                     }
                 ]
@@ -259,7 +259,7 @@
                         "map_locations": [
                             {
                                 "map": "Temple of Sharacia",
-                                "x": 503,
+                                "x": 499,
                                 "y": 785
                             }
                         ]
@@ -397,7 +397,7 @@
                         "map_locations": [
                             {
                                 "map": "Temple of Sharacia",
-                                "x": 503,
+                                "x": 499,
                                 "y": 287
                             }
                         ]
@@ -466,7 +466,7 @@
                         "map_locations": [
                             {
                                 "map": "Temple of Sharacia",
-                                "x": 503,
+                                "x": 499,
                                 "y": 732
                             }
                         ]
@@ -502,7 +502,7 @@
                         "map_locations": [
                             {
                                 "map": "Temple of Sharacia",
-                                "x": 503,
+                                "x": 499,
                                 "y": 316
                             }
                         ]
