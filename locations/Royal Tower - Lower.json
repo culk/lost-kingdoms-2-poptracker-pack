@@ -248,7 +248,7 @@
                         ]
                     },
                     {
-                        "name": "Group 4 (Return After Level End)",
+                        "name": "Group 4 (Return After Level End, Walk Near Flight Chest 1)",
                         "access_rules": ["god_of_destruction"],
                         "sections": [
                             {
