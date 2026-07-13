@@ -173,5 +173,125 @@
         "location_size": 20,
         "location_border_thickness": 1,
         "img": "images/maps/proving_grounds.png"
+    },
+    {
+        "name": "Proving Grounds F1",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/1.png"
+    },
+    {
+        "name": "Proving Grounds F2",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/2.png"
+    },
+    {
+        "name": "Proving Grounds F3",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/3.png"
+    },
+    {
+        "name": "Proving Grounds F4",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/4.png"
+    },
+    {
+        "name": "Proving Grounds F5",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/5.png"
+    },
+    {
+        "name": "Proving Grounds F6",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/6.png"
+    },
+    {
+        "name": "Proving Grounds F7",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/7.png"
+    },
+    {
+        "name": "Proving Grounds F8",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/8.png"
+    },
+    {
+        "name": "Proving Grounds F9",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/9.png"
+    },
+    {
+        "name": "Proving Grounds F10",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/10.png"
+    },
+    {
+        "name": "Proving Grounds F11",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/11.png"
+    },
+    {
+        "name": "Proving Grounds F12",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/12.png"
+    },
+    {
+        "name": "Proving Grounds F13",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/13.png"
+    },
+    {
+        "name": "Proving Grounds F14",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/14.png"
+    },
+    {
+        "name": "Proving Grounds F15",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/15.png"
+    },
+    {
+        "name": "Proving Grounds F16",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/16.png"
+    },
+    {
+        "name": "Proving Grounds F17",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/17.png"
+    },
+    {
+        "name": "Proving Grounds F18",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/18.png"
+    },
+    {
+        "name": "Proving Grounds F19",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/19.png"
+    },
+    {
+        "name": "Proving Grounds F20",
+        "location_size": 20,
+        "location_border_thickness": 1,
+        "img": "images/maps/proving_grounds/20.png"
     }
 ]

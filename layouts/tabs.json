@@ -236,9 +236,192 @@
             {
                 "title": "Proving Grounds",
                 "content": {
+                    "type": "layout",
+                    "key": "proving_grounds_tabbed_maps"
+                }
+            }
+        ]
+    },
+    "proving_grounds_tabbed_maps": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "F1",
+                "content": {
                     "type": "map",
                     "maps": [
-                        "Proving Grounds"
+                        "Proving Grounds F1"
+                    ]
+                }
+            },
+            {
+                "title": "F2",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F2"
+                    ]
+                }
+            },
+            {
+                "title": "F3",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F3"
+                    ]
+                }
+            },
+            {
+                "title": "F4",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F4"
+                    ]
+                }
+            },
+            {
+                "title": "F5",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F5"
+                    ]
+                }
+            },
+            {
+                "title": "F6",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F6"
+                    ]
+                }
+            },
+            {
+                "title": "F7",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F7"
+                    ]
+                }
+            },
+            {
+                "title": "F8",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F8"
+                    ]
+                }
+            },
+            {
+                "title": "F9",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F9"
+                    ]
+                }
+            },
+            {
+                "title": "F10",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F10"
+                    ]
+                }
+            },
+            {
+                "title": "F11",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F11"
+                    ]
+                }
+            },
+            {
+                "title": "F12",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F12"
+                    ]
+                }
+            },
+            {
+                "title": "F13",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F13"
+                    ]
+                }
+            },
+            {
+                "title": "F14",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F14"
+                    ]
+                }
+            },
+            {
+                "title": "F15",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F15"
+                    ]
+                }
+            },
+            {
+                "title": "F16",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F16"
+                    ]
+                }
+            },
+            {
+                "title": "F17",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F17"
+                    ]
+                }
+            },
+            {
+                "title": "F18",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F18"
+                    ]
+                }
+            },
+            {
+                "title": "F19",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F19"
+                    ]
+                }
+            },
+            {
+                "title": "F20",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Proving Grounds F20"
                     ]
                 }
             }
