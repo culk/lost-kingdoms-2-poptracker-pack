@@ -147,12 +147,6 @@
                         "name": "Group 2",
                         "sections": [
                             {
-                                "name": "Tentacle #1 (Reload Level To Get Check)"
-                            },
-                            {
-                                "name": "Tentacle #2 (Reload Level To Get Check)"
-                            },
-                            {
                                 "name": "Wyvern #1"
                             }
                         ],
@@ -168,16 +162,10 @@
                         "name": "Group 3",
                         "sections": [
                             {
-                                "name": "Tentacle #3 (Reload Level To Get Check)"
-                            },
-                            {
                                 "name": "Wyvern #2"
                             },
                             {
                                 "name": "Wyvern #3"
-                            },
-                            {
-                                "name": "Tentacle #4 (Reload Level To Get Check)"
                             }
                         ],
                         "map_locations": [
@@ -191,18 +179,6 @@
                     {
                         "name": "Group 4 (Reload Level To Get Check)",
                         "sections": [
-                            {
-                                "name": "Tentacle #5"
-                            },
-                            {
-                                "name": "Tentacle #6"
-                            },
-                            {
-                                "name": "Tentacle #7"
-                            },
-                            {
-                                "name": "Tentacle #8"
-                            },
                             {
                                 "name": "God of Harmony #1"
                             }

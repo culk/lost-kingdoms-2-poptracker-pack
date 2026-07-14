@@ -216,7 +216,7 @@
                         "name": "Group 2",
                         "sections": [
                             {
-                                "name": "Sasquatch #1"
+                                "name": "Sasquatch #1 (1st Visit Only)"
                             },
                             {
                                 "name": "Vodianoi #4"
@@ -237,10 +237,10 @@
                                 "name": "Vodianoi #5"
                             },
                             {
-                                "name": "Sasquatch #2"
+                                "name": "Sasquatch #2 (1st Visit Only)"
                             },
                             {
-                                "name": "Sasquatch #3"
+                                "name": "Sasquatch #3 (1st Visit Only)"
                             }
                         ],
                         "map_locations": [
@@ -273,7 +273,7 @@
                         ]
                     },
                     {
-                        "name": "Group 5",
+                        "name": "Group 5 (1st Visit Only)",
                         "sections": [
                             {
                                 "name": "Thanatos #1"

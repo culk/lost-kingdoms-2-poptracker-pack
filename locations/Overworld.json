@@ -1033,11 +1033,11 @@
                     },
                     {
                         "name": "Baby Dragon #8",
-                        "ref": "Fossil Boneyard/Enemysanity/Group 13/Baby Dragon #8"
+                        "ref": "Fossil Boneyard/Enemysanity/Group 17/Baby Dragon #8"
                     },
                     {
                         "name": "Baby Dragon #9",
-                        "ref": "Fossil Boneyard/Enemysanity/Group 13/Baby Dragon #9"
+                        "ref": "Fossil Boneyard/Enemysanity/Group 18/Baby Dragon #9"
                     },
                     {
                         "name": "Amber Dragon #1",
@@ -1057,7 +1057,7 @@
                     },
                     {
                         "name": "Catoblepas #3",
-                        "ref": "Fossil Boneyard/Enemysanity/Group 11/Catoblepas #3"
+                        "ref": "Fossil Boneyard/Enemysanity/Group 19/Catoblepas #3"
                     }
                 ],
                 "map_locations": [
@@ -1293,11 +1293,11 @@
                     },
                     {
                         "name": "Mummy #8",
-                        "ref": "Gromtull Desert/Enemysanity/Group 9/Mummy #8"
+                        "ref": "Gromtull Desert/Enemysanity/Group 14/Mummy #8"
                     },
                     {
                         "name": "Mummy #9",
-                        "ref": "Gromtull Desert/Enemysanity/Group 9/Mummy #9"
+                        "ref": "Gromtull Desert/Enemysanity/Group 14/Mummy #9"
                     },
                     {
                         "name": "Sand Beetle #4",
@@ -1318,6 +1318,22 @@
                     {
                         "name": "Sand Worm #1",
                         "ref": "Gromtull Desert/Enemysanity/Group 13 (Return After Rescue Jarvi)/Sand Worm #1"
+                    },
+                    {
+                        "name": "Mummy #10",
+                        "ref": "Gromtull Desert/Enemysanity/Group 15 (Return After Rescue Jarvi)/Mummy #10"
+                    },
+                    {
+                        "name": "Mummy #11",
+                        "ref": "Gromtull Desert/Enemysanity/Group 15 (Return After Rescue Jarvi)/Mummy #11"
+                    },
+                    {
+                        "name": "Sand Beetle #6",
+                        "ref": "Gromtull Desert/Enemysanity/Group 16 (Return After Rescue Jarvi)/Sand Beetle #6"
+                    },
+                    {
+                        "name": "Pixie #3",
+                        "ref": "Gromtull Desert/Enemysanity/Group 16 (Return After Rescue Jarvi)/Pixie #3"
                     }
                 ],
                 "map_locations": [
@@ -1446,6 +1462,14 @@
                     {
                         "name": "LazerBug 39K #1",
                         "ref": "Holzogh Town/Enemysanity/Group 10/LazerBug 39K #1"
+                    },
+                    {
+                        "name": "Aggressor DX5 #15",
+                        "ref": "Holzogh Town/Enemysanity/Group 11 (1st Visit Only)/Aggressor DX5 #15"
+                    },
+                    {
+                        "name": "TriBlaster #4",
+                        "ref": "Holzogh Town/Enemysanity/Group 11 (1st Visit Only)/TriBlaster #4"
                     },
                     {
                         "name": "Aggressor DX5 #9",
@@ -1610,6 +1634,10 @@
                     {
                         "name": "Juggernaut #5",
                         "ref": "Isamat Urbur/Enemysanity/Group 9 (Return After All Runestones)/Juggernaut #5"
+                    },
+                    {
+                        "name": "Puppet Master #6",
+                        "ref": "Isamat Urbur/Enemysanity/Group 9 (Return After All Runestones)/Puppet Master #6"
                     },
                     {
                         "name": "Devata #5",
@@ -1965,19 +1993,19 @@
                     },
                     {
                         "name": "Horus #5",
-                        "ref": "Krasheen Mountains/Enemysanity/Group 8 (1st Visit Only, Location Inaccurate)/Horus #5"
+                        "ref": "Krasheen Mountains/Enemysanity/Group 8 (1st Visit Only)/Horus #5"
                     },
                     {
                         "name": "Gargoyle #7",
-                        "ref": "Krasheen Mountains/Enemysanity/Group 8 (1st Visit Only, Location Inaccurate)/Gargoyle #7"
+                        "ref": "Krasheen Mountains/Enemysanity/Group 8 (1st Visit Only)/Gargoyle #7"
                     },
                     {
                         "name": "Gargoyle #8",
-                        "ref": "Krasheen Mountains/Enemysanity/Group 8 (1st Visit Only, Location Inaccurate)/Gargoyle #8"
+                        "ref": "Krasheen Mountains/Enemysanity/Group 8 (1st Visit Only)/Gargoyle #8"
                     },
                     {
                         "name": "Running Bird #4",
-                        "ref": "Krasheen Mountains/Enemysanity/Group 8 (1st Visit Only, Location Inaccurate)/Running Bird #4"
+                        "ref": "Krasheen Mountains/Enemysanity/Group 8 (1st Visit Only)/Running Bird #4"
                     },
                     {
                         "name": "Gargoyle #9",
@@ -2141,19 +2169,19 @@
                     },
                     {
                         "name": "Hell Hound #2",
-                        "ref": "Noblemans Residence/Enemysanity/Group 6 (Must Repeat - Only Two Spawn At Random)/Hell Hound #2"
+                        "ref": "Noblemans Residence/Enemysanity/Group 6 (Missable - Only Two Spawn At Random)/Hell Hound #2"
                     },
                     {
                         "name": "Incubus #2",
-                        "ref": "Noblemans Residence/Enemysanity/Group 6 (Must Repeat - Only Two Spawn At Random)/Incubus #2"
+                        "ref": "Noblemans Residence/Enemysanity/Group 6 (Missable - Only Two Spawn At Random)/Incubus #2"
                     },
                     {
                         "name": "Hell Hound #3",
-                        "ref": "Noblemans Residence/Enemysanity/Group 6 (Must Repeat - Only Two Spawn At Random)/Hell Hound #3"
+                        "ref": "Noblemans Residence/Enemysanity/Group 6 (Missable - Only Two Spawn At Random)/Hell Hound #3"
                     },
                     {
                         "name": "Succubus #2",
-                        "ref": "Noblemans Residence/Enemysanity/Group 6 (Must Repeat - Only Two Spawn At Random)/Succubus #2"
+                        "ref": "Noblemans Residence/Enemysanity/Group 6 (Missable - Only Two Spawn At Random)/Succubus #2"
                     },
                     {
                         "name": "Incubus #3",
@@ -2269,7 +2297,7 @@
                     },
                     {
                         "name": "Sasquatch #1",
-                        "ref": "Obenoix Gorge/Enemysanity/Group 2/Sasquatch #1"
+                        "ref": "Obenoix Gorge/Enemysanity/Group 2/Sasquatch #1 (1st Visit Only)"
                     },
                     {
                         "name": "Vodianoi #4",
@@ -2281,11 +2309,11 @@
                     },
                     {
                         "name": "Sasquatch #2",
-                        "ref": "Obenoix Gorge/Enemysanity/Group 3/Sasquatch #2"
+                        "ref": "Obenoix Gorge/Enemysanity/Group 3/Sasquatch #2 (1st Visit Only)"
                     },
                     {
                         "name": "Sasquatch #3",
-                        "ref": "Obenoix Gorge/Enemysanity/Group 3/Sasquatch #3"
+                        "ref": "Obenoix Gorge/Enemysanity/Group 3/Sasquatch #3 (1st Visit Only)"
                     },
                     {
                         "name": "Vodianoi #9",
@@ -2301,7 +2329,7 @@
                     },
                     {
                         "name": "Thanatos #1",
-                        "ref": "Obenoix Gorge/Enemysanity/Group 5/Thanatos #1"
+                        "ref": "Obenoix Gorge/Enemysanity/Group 5 (1st Visit Only)/Thanatos #1"
                     },
                     {
                         "name": "Vodianoi #6",
@@ -2653,15 +2681,15 @@
                     },
                     {
                         "name": "LazerBug 39K #4",
-                        "ref": "Royal Tower - Lower/Enemysanity/Group 4 (Return After Level End, Walk Near Flight Chest 1)/LazerBug 39K #4"
+                        "ref": "Royal Tower - Lower/Enemysanity/Group 4 (Walk Near Flight Chest 1)/LazerBug 39K #4"
                     },
                     {
                         "name": "Aggressor DX5 #3",
-                        "ref": "Royal Tower - Lower/Enemysanity/Group 4 (Return After Level End, Walk Near Flight Chest 1)/Aggressor DX5 #3"
+                        "ref": "Royal Tower - Lower/Enemysanity/Group 4 (Walk Near Flight Chest 1)/Aggressor DX5 #3"
                     },
                     {
                         "name": "Aggressor DX5 #4",
-                        "ref": "Royal Tower - Lower/Enemysanity/Group 4 (Return After Level End, Walk Near Flight Chest 1)/Aggressor DX5 #4"
+                        "ref": "Royal Tower - Lower/Enemysanity/Group 4 (Walk Near Flight Chest 1)/Aggressor DX5 #4"
                     },
                     {
                         "name": "LazerBug 39K #5",
@@ -2888,20 +2916,8 @@
                         "ref": "Royal Tower - Upper/Enemysanity/Group 1/Sphinx #1"
                     },
                     {
-                        "name": "Tentacle #1",
-                        "ref": "Royal Tower - Upper/Enemysanity/Group 2/Tentacle #1 (Reload Level To Get Check)"
-                    },
-                    {
-                        "name": "Tentacle #2",
-                        "ref": "Royal Tower - Upper/Enemysanity/Group 2/Tentacle #2 (Reload Level To Get Check)"
-                    },
-                    {
                         "name": "Wyvern #1",
                         "ref": "Royal Tower - Upper/Enemysanity/Group 2/Wyvern #1"
-                    },
-                    {
-                        "name": "Tentacle #3",
-                        "ref": "Royal Tower - Upper/Enemysanity/Group 3/Tentacle #3 (Reload Level To Get Check)"
                     },
                     {
                         "name": "Wyvern #2",
@@ -2910,26 +2926,6 @@
                     {
                         "name": "Wyvern #3",
                         "ref": "Royal Tower - Upper/Enemysanity/Group 3/Wyvern #3"
-                    },
-                    {
-                        "name": "Tentacle #4",
-                        "ref": "Royal Tower - Upper/Enemysanity/Group 3/Tentacle #4 (Reload Level To Get Check)"
-                    },
-                    {
-                        "name": "Tentacle #5",
-                        "ref": "Royal Tower - Upper/Enemysanity/Group 4 (Reload Level To Get Check)/Tentacle #5"
-                    },
-                    {
-                        "name": "Tentacle #6",
-                        "ref": "Royal Tower - Upper/Enemysanity/Group 4 (Reload Level To Get Check)/Tentacle #6"
-                    },
-                    {
-                        "name": "Tentacle #7",
-                        "ref": "Royal Tower - Upper/Enemysanity/Group 4 (Reload Level To Get Check)/Tentacle #7"
-                    },
-                    {
-                        "name": "Tentacle #8",
-                        "ref": "Royal Tower - Upper/Enemysanity/Group 4 (Reload Level To Get Check)/Tentacle #8"
                     },
                     {
                         "name": "God of Harmony #1",
@@ -3077,11 +3073,15 @@
                     },
                     {
                         "name": "Demon Hound #9",
-                        "ref": "Ruldo Forest/Enemysanity/Group 13 (1st Visit Only, Location Inaccurate)/Demon Hound #9"
+                        "ref": "Ruldo Forest/Enemysanity/Group 13 (1st Visit Only)/Demon Hound #9"
                     },
                     {
                         "name": "Demon Hound #10",
-                        "ref": "Ruldo Forest/Enemysanity/Group 13 (1st Visit Only, Location Inaccurate)/Demon Hound #10"
+                        "ref": "Ruldo Forest/Enemysanity/Group 13 (1st Visit Only)/Demon Hound #10"
+                    },
+                    {
+                        "name": "Elf #8",
+                        "ref": "Ruldo Forest/Enemysanity/Group 13 (1st Visit Only)/Elf #8"
                     },
                     {
                         "name": "Cockatrice #1",
@@ -3257,15 +3257,11 @@
                     },
                     {
                         "name": "Flayer Spawn #7",
-                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 13 (1st Visit Only, Location Inaccurate)/Flayer Spawn #7"
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 13 (1st Visit Only)/Flayer Spawn #7"
                     },
                     {
                         "name": "Flayer Spawn #8",
-                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 14 (1st Visit Only, Location Inaccurate)/Flayer Spawn #8"
-                    },
-                    {
-                        "name": "Body of the God #1",
-                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 15/Body of the God #1 (Reload Level To Get Check)"
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 14 (1st Visit Only)/Flayer Spawn #8"
                     },
                     {
                         "name": "Flayer Spawn #9",
@@ -3334,6 +3330,38 @@
                     {
                         "name": "Flayer Spawn #12",
                         "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 11 (Return After Level End)/Flayer Spawn #12"
+                    },
+                    {
+                        "name": "Flayer Spawn #13",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 16 (Return After Level End)/Flayer Spawn #13"
+                    },
+                    {
+                        "name": "Water Reaper #8",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 16 (Return After Level End)/Water Reaper #8"
+                    },
+                    {
+                        "name": "Water Reaper #8",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 16 (Return After Level End)/Water Reaper #9"
+                    },
+                    {
+                        "name": "Yowie #14",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 17 (Return After Level End)/Yowie #14"
+                    },
+                    {
+                        "name": "Yowie #15",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 17 (Return After Level End)/Yowie #15"
+                    },
+                    {
+                        "name": "Yowie #16",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 17 (Return After Level End)/Yowie #16"
+                    },
+                    {
+                        "name": "Yowie #17",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 17 (Return After Level End)/Yowie #17"
+                    },
+                    {
+                        "name": "Yowie #18",
+                        "ref": "Runestone Caverns - Lower Chambers/Enemysanity/Group 17 (Return After Level End)/Yowie #18"
                     }
                 ],
                 "map_locations": [
@@ -3805,15 +3833,15 @@
                     },
                     {
                         "name": "Jade Giant #10",
-                        "ref": "Sarvan/Enemysanity/Group 10 (Return After Level End)/Jade Giant #10"
+                        "ref": "Sarvan/Enemysanity/Group 10 (Return After Level End, Missable)/Jade Giant #10"
                     },
                     {
                         "name": "Gold Butterfly #3",
-                        "ref": "Sarvan/Enemysanity/Group 10 (Return After Level End)/Gold Butterfly #3"
+                        "ref": "Sarvan/Enemysanity/Group 10 (Return After Level End, Missable)/Gold Butterfly #3"
                     },
                     {
                         "name": "Siren #4",
-                        "ref": "Sarvan/Enemysanity/Group 10 (Return After Level End)/Siren #4"
+                        "ref": "Sarvan/Enemysanity/Group 10 (Return After Level End, Missable)/Siren #4"
                     }
                 ],
                 "map_locations": [
@@ -3925,7 +3953,7 @@
                     },
                     {
                         "name": "Fire Elemental #1",
-                        "ref": "Temple of Sharacia/Enemysanity/Group 7 (Lower)/Fire Elemental #1 (Return After Help Ashura Or Valkyrie)"
+                        "ref": "Temple of Sharacia/Enemysanity/Group 16/Fire Elemental #1"
                     },
                     {
                         "name": "Efreet #3",
@@ -3977,11 +4005,11 @@
                     },
                     {
                         "name": "Efreet #7",
-                        "ref": "Temple of Sharacia/Enemysanity/Group 7 (Upper)/Efreet #7"
+                        "ref": "Temple of Sharacia/Enemysanity/Group 7/Efreet #7"
                     },
                     {
                         "name": "Phoenix #3",
-                        "ref": "Temple of Sharacia/Enemysanity/Group 7 (Upper)/Phoenix #3"
+                        "ref": "Temple of Sharacia/Enemysanity/Group 7/Phoenix #3"
                     },
                     {
                         "name": "Cerberus #6",
@@ -4056,8 +4084,8 @@
                         "ref": "Proving Grounds/Floor 1/Group 1/Will 'o wisp #1"
                     },
                     {
-                        "name": "Manta Ray #1",
-                        "ref": "Proving Grounds/Floor 1/Group 1/Manta Ray #1"
+                        "name": "Flying Ray #1",
+                        "ref": "Proving Grounds/Floor 1/Group 1/Flying Ray #1"
                     },
                     {
                         "name": "Scythe Beast #2",
@@ -4120,8 +4148,8 @@
                         "ref": "Proving Grounds/Floor 1/Group 8/Scythe Beast #5"
                     },
                     {
-                        "name": "Manta Ray #2",
-                        "ref": "Proving Grounds/Floor 1/Group 9/Manta Ray #2"
+                        "name": "Flying Ray #2",
+                        "ref": "Proving Grounds/Floor 1/Group 9/Flying Ray #2"
                     },
                     {
                         "name": "Scythe Beast #4",
@@ -4333,19 +4361,19 @@
                     },
                     {
                         "name": "Matador #6",
-                        "ref": "Proving Grounds/Floor 3/Group 9/Matador #6"
+                        "ref": "Proving Grounds/Floor 3/Group 9 (Wait 5 Seconds)/Matador #6"
                     },
                     {
                         "name": "Orc #5",
-                        "ref": "Proving Grounds/Floor 3/Group 9/Orc #5"
+                        "ref": "Proving Grounds/Floor 3/Group 9 (Wait 5 Seconds)/Orc #5"
                     },
                     {
                         "name": "Fire Golem #6",
-                        "ref": "Proving Grounds/Floor 3/Group 9/Fire Golem #6"
+                        "ref": "Proving Grounds/Floor 3/Group 9 (Wait 5 Seconds)/Fire Golem #6"
                     },
                     {
                         "name": "Fire Moray #4",
-                        "ref": "Proving Grounds/Floor 3/Group 9/Fire Moray #4"
+                        "ref": "Proving Grounds/Floor 3/Group 9 (Wait 5 Seconds)/Fire Moray #4"
                     }
                 ],
                 "map_locations": [

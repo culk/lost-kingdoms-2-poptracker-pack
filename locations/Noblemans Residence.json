@@ -196,7 +196,7 @@
                         ]
                     },
                     {
-                        "name": "Group 6 (Must Repeat - Only Two Spawn At Random)",
+                        "name": "Group 6 (Missable - Only Two Spawn At Random)",
                         "access_rules": ["mysterious_key"],
                         "sections": [
                             {

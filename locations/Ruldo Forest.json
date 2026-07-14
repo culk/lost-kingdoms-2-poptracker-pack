@@ -440,13 +440,16 @@
                         ]
                     },
                     {
-                        "name": "Group 13 (1st Visit Only, Location Inaccurate)",
+                        "name": "Group 13 (1st Visit Only)",
                         "sections": [
                             {
                                 "name": "Demon Hound #9"
                             },
                             {
                                 "name": "Demon Hound #10"
+                            },
+                            {
+                                "name": "Elf #8"
                             }
                         ],
                         "map_locations": [

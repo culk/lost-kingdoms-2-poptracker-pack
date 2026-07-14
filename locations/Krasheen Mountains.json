@@ -360,7 +360,7 @@
                         ]
                     },
                     {
-                        "name": "Group 8 (1st Visit Only, Location Inaccurate)",
+                        "name": "Group 8 (1st Visit Only)",
                         "access_rules": ["^$can_fly"],
                         "sections": [
                             {
@@ -379,7 +379,7 @@
                         "map_locations": [
                             {
                                 "map": "Krasheen Mountains",
-                                "x": 385,
+                                "x": 444,
                                 "y": 501
                             }
                         ]

@@ -352,7 +352,7 @@
                         ]
                     },
                     {
-                        "name": "Group 7 (Upper)",
+                        "name": "Group 7",
                         "sections": [
                             {
                                 "name": "Efreet #7"
@@ -366,21 +366,6 @@
                                 "map": "Temple of Sharacia",
                                 "x": 677,
                                 "y": 236
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Group 7 (Lower)",
-                        "sections": [
-                            {
-                                "name": "Fire Elemental #1 (Return After Help Ashura Or Valkyrie)"
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Temple of Sharacia",
-                                "x": 562,
-                                "y": 367
                             }
                         ]
                     },
@@ -540,6 +525,21 @@
                                 "map": "Temple of Sharacia",
                                 "x": 324,
                                 "y": 206
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 16",
+                        "sections": [
+                            {
+                                "name": "Fire Elemental #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 562,
+                                "y": 367
                             }
                         ]
                     }

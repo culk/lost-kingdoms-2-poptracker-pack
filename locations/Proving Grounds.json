@@ -16,7 +16,7 @@
                             {"name": "Berserker #2"},
                             {"name": "Scythe Beast #1"},
                             {"name": "Will 'o wisp #1"},
-                            {"name": "Manta Ray #1"}
+                            {"name": "Flying Ray #1"}
                         ],
                         "map_locations": [
                             {
@@ -120,7 +120,7 @@
                     {
                         "name": "Group 9",
                         "sections": [
-                            {"name": "Manta Ray #2"},
+                            {"name": "Flying Ray #2"},
                             {"name": "Scythe Beast #4"}
                         ],
                         "map_locations": [
@@ -384,7 +384,7 @@
                         ]
                     },
                     {
-                        "name": "Group 9",
+                        "name": "Group 9 (Wait 5 Seconds)",
                         "sections": [
                             {"name": "Matador #6"},
                             {"name": "Orc #5"},

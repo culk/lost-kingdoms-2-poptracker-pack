@@ -248,8 +248,8 @@
                         ]
                     },
                     {
-                        "name": "Group 4 (Return After Level End, Walk Near Flight Chest 1)",
-                        "access_rules": ["god_of_destruction"],
+                        "name": "Group 4 (Walk Near Flight Chest 1)",
+                        "access_rules": ["god_of_destruction, ^$can_fly"],
                         "sections": [
                             {
                                 "name": "LazerBug 39K #4"

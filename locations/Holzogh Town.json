@@ -331,8 +331,8 @@
                         "map_locations": [
                             {
                                 "map": "Holzogh Town",
-                                "x": 147,
-                                "y": 351
+                                "x": 242,
+                                "y": 410
                             }
                         ]
                     },
@@ -383,6 +383,24 @@
                             },
                             {
                                 "name": "LazerBug 39K #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 230,
+                                "y": 750
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 11 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Aggressor DX5 #15"
+                            },
+                            {
+                                "name": "TriBlaster #4"
                             }
                         ],
                         "map_locations": [

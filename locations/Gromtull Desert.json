@@ -374,19 +374,13 @@
                             },
                             {
                                 "name": "Mummy #7"
-                            },
-                            {
-                                "name": "Mummy #8"
-                            },
-                            {
-                                "name": "Mummy #9"
                             }
                         ],
                         "map_locations": [
                             {
                                 "map": "Gromtull Desert",
-                                "x": 363,
-                                "y": 313
+                                "x": 366,
+                                "y": 364
                             }
                         ]
                     },
@@ -455,6 +449,61 @@
                                 "map": "Gromtull Desert",
                                 "x": 581,
                                 "y": 405
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 14",
+                        "sections": [
+                            {
+                                "name": "Mummy #8"
+                            },
+                            {
+                                "name": "Mummy #9"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 313,
+                                "y": 333
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 15 (Return After Rescue Jarvi)",
+                        "sections": [
+                            {
+                                "name": "Mummy #10"
+                            },
+                            {
+                                "name": "Mummy #11"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 484,
+                                "y": 300
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 16 (Return After Rescue Jarvi)",
+                        "access_rules": ["black_liquid"],
+                        "sections": [
+                            {
+                                "name": "Sand Beetle #6"
+                            },
+                            {
+                                "name": "Pixie #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 671,
+                                "y": 525
                             }
                         ]
                     }

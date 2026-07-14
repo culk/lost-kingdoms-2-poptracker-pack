@@ -393,7 +393,7 @@
                         ]
                     },
                     {
-                        "name": "Group 13 (1st Visit Only, Location Inaccurate)",
+                        "name": "Group 13 (1st Visit Only)",
                         "sections": [
                             {
                                 "name": "Flayer Spawn #7"
@@ -402,13 +402,13 @@
                         "map_locations": [
                             {
                                 "map": "Runestone Caverns - Lower Chambers",
-                                "x": 418,
-                                "y": 243
+                                "x": 372,
+                                "y": 285
                             }
                         ]
                     },
                     {
-                        "name": "Group 14 (1st Visit Only, Location Inaccurate)",
+                        "name": "Group 14 (1st Visit Only)",
                         "sections": [
                             {
                                 "name": "Flayer Spawn #8"
@@ -417,23 +417,56 @@
                         "map_locations": [
                             {
                                 "map": "Runestone Caverns - Lower Chambers",
-                                "x": 290,
+                                "x": 250,
                                 "y": 285
                             }
                         ]
                     },
                     {
-                        "name": "Group 15",
+                        "name": "Group 16 (Return After Level End)",
                         "sections": [
                             {
-                                "name": "Body of the God #1 (Reload Level To Get Check)"
+                                "name": "Flayer Spawn #13"
+                            },
+                            {
+                                "name": "Water Reaper #8"
+                            },
+                            {
+                                "name": "Water Reaper #9"
                             }
                         ],
                         "map_locations": [
                             {
                                 "map": "Runestone Caverns - Lower Chambers",
-                                "x": 338,
-                                "y": 246
+                                "x": 587,
+                                "y": 422
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 17 (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": "Yowie #14"
+                            },
+                            {
+                                "name": "Yowie #15"
+                            },
+                            {
+                                "name": "Yowie #16"
+                            },
+                            {
+                                "name": "Yowie #17"
+                            },
+                            {
+                                "name": "Yowie #18"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 273,
+                                "y": 699
                             }
                         ]
                     }

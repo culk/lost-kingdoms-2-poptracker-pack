@@ -189,8 +189,8 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 355,
-                        "y": 829
+                        "x": 365,
+                        "y": 851
                     }
                 ]
             },
@@ -225,7 +225,7 @@
                 "map_locations": [
                     {
                         "map": "Fossil Boneyard",
-                        "x": 345,
+                        "x": 333,
                         "y": 854
                     }
                 ]
@@ -566,10 +566,6 @@
                             {
                                 "name": "Caterpoker #10",
                                 "access_rules": ["[^$can_fly]"]
-                            },
-                            {
-                                "name": "Catoblepas #3",
-                                "access_rules": ["^$can_high_jump"]
                             }
                         ],
                         "map_locations": [
@@ -609,19 +605,13 @@
                         "sections": [
                             {
                                 "name": "Baby Dragon #7"
-                            },
-                            {
-                                "name": "Baby Dragon #8"
-                            },
-                            {
-                                "name": "Baby Dragon #9"
                             }
                         ],
                         "map_locations": [
                             {
                                 "map": "Fossil Boneyard",
-                                "x": 670,
-                                "y": 868
+                                "x": 645,
+                                "y": 895
                             }
                         ]
                     },
@@ -670,6 +660,54 @@
                                 "map": "Fossil Boneyard",
                                 "x": 343,
                                 "y": 604
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 17",
+                        "access_rules": ["^$can_booster_jump"],
+                        "sections": [
+                            {
+                                "name": "Baby Dragon #8"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 644,
+                                "y": 836
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 18",
+                        "access_rules": ["^$can_booster_jump"],
+                        "sections": [
+                            {
+                                "name": "Baby Dragon #9"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 672,
+                                "y": 836
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 19",
+                        "access_rules": ["^$can_booster_jump, ^$can_high_jump"],
+                        "sections": [
+                            {
+                                "name": "Catoblepas #3"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 354,
+                                "y": 821
                             }
                         ]
                     }
