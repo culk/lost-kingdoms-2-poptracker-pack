@@ -17,17 +17,13 @@ Download the most recent .zip file from the **Releases** and either drag it to t
 - Displays locations that are reachable in logic (green) and out of logic (yellow).
 - Highlighting of hinted item locations.
 
-### Planned Features
-
-- Enemysanity map locations.
-- Higher quality map images.
-
 ## Compatibility
 
 | AP World Version | PopTracker Pack Version |
 |------------------|-------------------------|
-| v0.1.08+         | v0.4.0+                 |
-| v0.1.07          | v0.1.0+                 |
+| v0.1.12+         | v1.0.0+                 |
+| v0.1.08 - 0.1.11 | v0.6.0                  |
+| v0.1.07          | v0.3.0                  |
 
 ## Randomized Levels
 
