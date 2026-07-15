@@ -279,8 +279,8 @@ LOCATION_MAPPING = {
 	[275] = {"@Obenoix Gorge/Red Fairy Near Ship/"},
 
 	-- Vanilla key item locations
-	[276] = {"@Kendarie Fortress/Kendarie Soldier 2/"},
-	[277] = {"@Kendarie Fortress/Kendarie Soldier 1/"},
+	[276] = {"@Kendarie Fortress/Kendarie Soldier 1/"},
+	[277] = {"@Kendarie Fortress/Kendarie Soldier 2/"},
 	[278] = {"@Kendarie Fortress/Kendarie Soldier 3/"},
 	[279] = {"@Fossil Boneyard/Fossil Head Pickup/"},
 	[280] = {"@Fossil Boneyard/Fossil Torso Pickup/"},
