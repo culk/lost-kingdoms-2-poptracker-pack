@@ -538,7 +538,7 @@
                         ]
                     },
                     {
-                        "name": "Group 10 (Location Inaccurate)",
+                        "name": "Group 10",
                         "access_rules": ["^$can_booster_jump"],
                         "sections": [
                             {
@@ -548,8 +548,8 @@
                         "map_locations": [
                             {
                                 "map": "Fossil Boneyard",
-                                "x": 425,
-                                "y": 800
+                                "x": 499,
+                                "y": 794
                             }
                         ]
                     },

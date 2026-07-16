@@ -387,8 +387,8 @@
                         "map_locations": [
                             {
                                 "map": "Runestone Caverns - Lower Chambers",
-                                "x": 349,
-                                "y": 672
+                                "x": 353,
+                                "y": 640
                             }
                         ]
                     },
@@ -438,8 +438,8 @@
                         "map_locations": [
                             {
                                 "map": "Runestone Caverns - Lower Chambers",
-                                "x": 587,
-                                "y": 422
+                                "x": 517,
+                                "y": 426
                             }
                         ]
                     },

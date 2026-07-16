@@ -295,8 +295,8 @@
                         "map_locations": [
                             {
                                 "map": "Holzogh Town",
-                                "x": 674,
-                                "y": 423
+                                "x": 621,
+                                "y": 433
                             }
                         ]
                     },
@@ -331,7 +331,7 @@
                         "map_locations": [
                             {
                                 "map": "Holzogh Town",
-                                "x": 242,
+                                "x": 292,
                                 "y": 410
                             }
                         ]
@@ -406,8 +406,8 @@
                         "map_locations": [
                             {
                                 "map": "Holzogh Town",
-                                "x": 591,
-                                "y": 569
+                                "x": 621,
+                                "y": 559
                             }
                         ]
                     }
