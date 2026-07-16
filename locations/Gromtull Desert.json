@@ -472,6 +472,7 @@
                     },
                     {
                         "name": "Group 15 (Return After Rescue Jarvi)",
+                        "access_rules": ["black_liquid"],
                         "sections": [
                             {
                                 "name": "Mummy #10"
