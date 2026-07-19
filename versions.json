@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "1.0.1",
+      "download_url": "https://github.com/culk/lost-kingdoms-2-poptracker-pack/releases/download/v1.0.1/lost_kingdoms_2_ap_tracker.zip",
+      "sha256": "d18a4c0e721c1585da4980c7a1b561488faf0a5b650314bcbb445e372cfa10d6",
+      "changelog": [
+        "Check release notes"
+      ]
+    },
+    {
       "package_version": "1.0.0",
       "download_url": "https://github.com/culk/lost-kingdoms-2-poptracker-pack/releases/download/v1.0.0/lost_kingdoms_2_ap_tracker.zip",
       "sha256": "71dd59579d21552992d7c68072d9f079927e413c769c39c928c17f77cf3abe9b",
