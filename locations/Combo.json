@@ -216,6 +216,7 @@
             {
                 "name": "Just Visiting",
                 "access_rules": ["doppelganger, god_of_destruction, $can_shop"],
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": "Doppelganger x 2, God of Destruction"

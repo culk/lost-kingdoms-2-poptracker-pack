@@ -22,6 +22,7 @@
             },
             {
                 "name": "Card Throw Challenge",
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -174,6 +175,7 @@
                 "children": [
                     {
                         "name": "Group 1 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Porcupig #1"
@@ -189,6 +191,7 @@
                     },
                     {
                         "name": "Group 2 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Porcupig #2"
@@ -228,6 +231,7 @@
                     },
                     {
                         "name": "Group 4 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Man Trap #3"
@@ -300,6 +304,7 @@
                     },
                     {
                         "name": "Group 8 (2nd Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Kendarie Soldier #1"

@@ -394,6 +394,7 @@
                     },
                     {
                         "name": "Group 13 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Flayer Spawn #7"
@@ -409,6 +410,7 @@
                     },
                     {
                         "name": "Group 14 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Flayer Spawn #8"

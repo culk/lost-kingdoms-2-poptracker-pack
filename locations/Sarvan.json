@@ -45,6 +45,7 @@
             {
                 "name": "Caged Chest 1",
                 "access_rules": ["^$can_fly"],
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -90,6 +91,7 @@
             },
             {
                 "name": "Caged Chest 2",
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -217,6 +219,7 @@
                     },
                     {
                         "name": "Group 3 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Siren #1"
@@ -283,6 +286,7 @@
                     },
                     {
                         "name": "Group 7 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Siren #3"
@@ -340,6 +344,7 @@
                     },
                     {
                         "name": "Group 10 (Return After Level End, Missable)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Jade Giant #10"

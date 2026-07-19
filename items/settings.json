@@ -152,5 +152,27 @@
                 "name": "Auto-Tab Map - On"
             }
         ]
-    }
+    },
+    {
+        "name": "Missable Locations",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "initial_stage_idx": 1,
+        "stages": [
+            {
+                "img": "images/settings/setting_missable_locations_hide.png",
+                "img_mods": "@disabled",
+                "codes": "missable_locations, missable_locations_hide",
+                "inherit_codes": false,
+                "name": "Missable Locations - Hide"
+            },
+            {
+                "img": "images/settings/setting_missable_locations_show.png",
+                "codes": "missable_locations, missable_locations_show",
+                "inherit_codes": false,
+                "name": "Missable Locations - Show"
+            }
+        ]
+    },
 ]

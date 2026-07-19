@@ -164,6 +164,7 @@
             },
             {
                 "name": "Kendarie Soldier 1",
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -180,6 +181,7 @@
             {
                 "name": "Kendarie Soldier 2",
                 "access_rules": ["blue_key"],
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -196,6 +198,7 @@
             {
                 "name": "Kendarie Soldier 3",
                 "access_rules": ["red_key"],
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""

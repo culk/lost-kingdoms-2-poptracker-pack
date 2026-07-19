@@ -7,6 +7,7 @@
         "children": [
             {
                 "name": "First Visit Only",
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": "Chest 1"
@@ -33,7 +34,7 @@
                 "name": "First Visit Only up Elevator",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "visibility_rules": ["fairysanity"],
+                "visibility_rules": ["fairysanity, missable_locations_show"],
                 "sections": [
                     {
                         "name": "Red Fairy up Elevator"
@@ -49,6 +50,7 @@
             },
             {
                 "name": "Near Pillar",
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": "Chest 3"
@@ -137,7 +139,7 @@
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
                 "access_rules": ["[god_of_destruction]"],
-                "visibility_rules": ["fairysanity"],
+                "visibility_rules": ["fairysanity, missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -215,6 +217,7 @@
                     {
                         "name": "Group 2 (Return After Level End)",
                         "access_rules": ["god_of_destruction"],
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "LazerBug 39K #3"

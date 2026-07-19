@@ -101,6 +101,7 @@
             {
                 "name": "Fountain Card",
                 "access_rules": ["fountain_key"],
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -356,6 +357,7 @@
                     },
                     {
                         "name": "Group 9 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Aggressor DX5 #7"
@@ -395,6 +397,7 @@
                     },
                     {
                         "name": "Group 11 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Aggressor DX5 #15"

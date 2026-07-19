@@ -109,6 +109,7 @@
             },
             {
                 "name": "Stranger",
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""

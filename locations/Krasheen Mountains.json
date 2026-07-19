@@ -206,6 +206,7 @@
                 "children": [
                     {
                         "name": "Group 1 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Gargoyle #1"
@@ -362,6 +363,7 @@
                     {
                         "name": "Group 8 (1st Visit Only)",
                         "access_rules": ["^$can_fly"],
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Horus #5"

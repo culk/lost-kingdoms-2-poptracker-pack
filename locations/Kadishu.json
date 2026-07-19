@@ -109,6 +109,7 @@
             },
             {
                 "name": "Garbage Can",
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": "Garbage Collection 1"

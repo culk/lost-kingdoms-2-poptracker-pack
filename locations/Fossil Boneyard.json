@@ -449,8 +449,9 @@
                         ]
                     },
                     {
-                        "name": "Group 5",
+                        "name": "Group 5 (1st Visit Only)",
                         "access_rules": ["^$can_booster_jump"],
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Caterpoker #2"
@@ -558,10 +559,12 @@
                         "access_rules": ["^$can_booster_jump"],
                         "sections": [
                             {
-                                "name": "Catoblepas #2"
+                                "name": "Catoblepas #2 (1st Visit Only)",
+                                "visibility_rules": ["missable_locations_show"]
                             },
                             {
-                                "name": "Gnome #5"
+                                "name": "Gnome #5 (1st Visit Only)",
+                                "visibility_rules": ["missable_locations_show"]
                             },
                             {
                                 "name": "Caterpoker #10",

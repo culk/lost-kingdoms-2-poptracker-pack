@@ -42,7 +42,8 @@
                     },
                     {
                         "name": "100 Fairies",
-                        "access_rules": ["red_fairy:100"]
+                        "access_rules": ["red_fairy:100"],
+                        "visibility_rules": ["missable_locations_show"]
                     }
                 ]
             }

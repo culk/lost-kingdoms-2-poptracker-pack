@@ -376,6 +376,7 @@
                     },
                     {
                         "name": "Group 6",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Dark Elf #1"
@@ -481,6 +482,7 @@
                     },
                     {
                         "name": "Group 12",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Kitty Trap #3"
@@ -562,6 +564,7 @@
                     },
                     {
                         "name": "Group 16",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Stone Head #4"
@@ -583,10 +586,12 @@
                         "access_rules": ["blade:4"],
                         "sections": [
                             {
-                                "name": "Death #10"
+                                "name": "Death #10",
+                                "visibility_rules": ["missable_locations_show"]
                             },
                             {
-                                "name": "Death #11"
+                                "name": "Death #11",
+                                "visibility_rules": ["missable_locations_show"]
                             },
                             {
                                 "name": "Demon Swordsman #1"

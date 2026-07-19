@@ -293,6 +293,7 @@
                             "^$can_fly",
                             "cerberus, [^$can_fly]"
                         ],
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Vodianoi #6"
@@ -309,6 +310,7 @@
                     {
                         "name": "Group 7 (1st Visit Only)",
                         "access_rules": ["^$can_fly"],
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Vodianoi #7"

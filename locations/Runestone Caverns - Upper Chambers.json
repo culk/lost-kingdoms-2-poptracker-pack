@@ -39,7 +39,8 @@
                 "name": "Sol",
                 "sections": [
                     {
-                        "name": "Talk to Sol"
+                        "name": "Talk to Sol",
+                        "visibility_rules": ["missable_locations_show"]
                     },
                     {
                         "name": "Red Fairy Near Sol",
@@ -492,6 +493,7 @@
                     },
                     {
                         "name": "Group 17 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Stone Golem #1"
@@ -507,6 +509,7 @@
                     },
                     {
                         "name": "Group 18 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Land Shark #4"

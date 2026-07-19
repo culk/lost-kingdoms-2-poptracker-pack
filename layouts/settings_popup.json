@@ -11,6 +11,7 @@
                 "rows": [
                     ["header_settings"],
                     ["auto_tab_map"],
+                    ["missable_locations"],
                     ["randomize_levels"],
                     ["progressive_leveling"],
                     ["progressive_attribute_proficiencies"],

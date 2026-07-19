@@ -176,6 +176,7 @@
             },
             {
                 "name": "Bottle Pickup",
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -404,6 +405,7 @@
                     },
                     {
                         "name": "Group 11 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Pixie #1"

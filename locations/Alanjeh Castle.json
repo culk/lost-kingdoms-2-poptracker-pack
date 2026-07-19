@@ -162,6 +162,7 @@
                 "children": [
                     {
                         "name": "Group 1 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "MechLance 5L #1"
@@ -189,6 +190,7 @@
                     },
                     {
                         "name": "Group 2 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Dark Treant #1"
@@ -210,6 +212,7 @@
                     },
                     {
                         "name": "Group 3 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Chariobot #1"
@@ -231,6 +234,7 @@
                     },
                     {
                         "name": "Group 4 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Claws-R-Us #3"
@@ -258,6 +262,7 @@
                     },
                     {
                         "name": "Group 5 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Chariobot #2"
@@ -282,6 +287,7 @@
                     },
                     {
                         "name": "Group 6 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Barometz #1"

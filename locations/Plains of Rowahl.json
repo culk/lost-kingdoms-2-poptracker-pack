@@ -53,6 +53,7 @@
             },
             {
                 "name": "Chest Under Scrap",
+                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -390,10 +391,12 @@
                         "name": "Group 9",
                         "sections": [
                             {
-                                "name": "Sand Golem #3 (1st Visit Only)"
+                                "name": "Sand Golem #3 (1st Visit Only)",
+                                "visibility_rules": ["missable_locations_show"]
                             },
                             {
-                                "name": "Sand Golem #4 (1st Visit Only)"
+                                "name": "Sand Golem #4 (1st Visit Only)",
+                                "visibility_rules": ["missable_locations_show"]
                             },
                             {
                                 "name": "Devil Plant #5"
@@ -409,6 +412,7 @@
                     },
                     {
                         "name": "Group 10 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Sand Golem #5"

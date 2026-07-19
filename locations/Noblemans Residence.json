@@ -103,6 +103,7 @@
                 "children": [
                     {
                         "name": "Group 1 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Beaker #1"
@@ -198,6 +199,7 @@
                     {
                         "name": "Group 6 (Missable - Only Two Spawn At Random)",
                         "access_rules": ["mysterious_key"],
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": "Hell Hound #2"
