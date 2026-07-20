@@ -213,13 +213,10 @@
                         ]
                     },
                     {
-                        "name": "Group 2",
+                        "name": "Sasquatch #1 (1st Visit Only)",
                         "sections": [
                             {
-                                "name": "Sasquatch #1 (1st Visit Only)"
-                            },
-                            {
-                                "name": "Vodianoi #4"
+                                "name": ""
                             }
                         ],
                         "map_locations": [
@@ -231,16 +228,45 @@
                         ]
                     },
                     {
-                        "name": "Group 3",
+                        "name": "Vodianoi #4 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
-                                "name": "Vodianoi #5"
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 610,
+                                "y": 679
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Vodianoi #5 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 550,
+                                "y": 480
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 3 (1st Visit Only)",
+                        "sections": [
+                            {
+                                "name": "Sasquatch #2"
                             },
                             {
-                                "name": "Sasquatch #2 (1st Visit Only)"
-                            },
-                            {
-                                "name": "Sasquatch #3 (1st Visit Only)"
+                                "name": "Sasquatch #3"
                             }
                         ],
                         "map_locations": [
@@ -273,10 +299,10 @@
                         ]
                     },
                     {
-                        "name": "Group 5 (1st Visit Only)",
+                        "name": "Thanatos #1 (1st Visit Only)",
                         "sections": [
                             {
-                                "name": "Thanatos #1"
+                                "name": ""
                             }
                         ],
                         "map_locations": [
@@ -288,7 +314,7 @@
                         ]
                     },
                     {
-                        "name": "Group 6 (1st Visit Only)",
+                        "name": "Vodianoi #6 (1st Visit Only)",
                         "access_rules": [
                             "^$can_fly",
                             "cerberus, [^$can_fly]"
@@ -296,7 +322,7 @@
                         "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
-                                "name": "Vodianoi #6"
+                                "name": ""
                             }
                         ],
                         "map_locations": [
@@ -376,10 +402,10 @@
                         ]
                     },
                     {
-                        "name": "Group 10 (Return After Defeat Thanatos)",
+                        "name": "Hydra #1 (Return After Defeat Thanatos)",
                         "sections": [
                             {
-                                "name": "Hydra #1"
+                                "name": ""
                             }
                         ],
                         "map_locations": [

@@ -101,7 +101,6 @@
             {
                 "name": "Fountain Card",
                 "access_rules": ["fountain_key"],
-                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""

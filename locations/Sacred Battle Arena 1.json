@@ -8,7 +8,6 @@
             {
                 "name": "Defeat Lich",
                 "access_rules": ["$has_attribute|earth:6"],
-                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -25,7 +24,6 @@
             {
                 "name": "Defeat Nueh",
                 "access_rules": ["$has_attribute|wood:6"],
-                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -42,7 +40,6 @@
             {
                 "name": "Defeat Gemini",
                 "access_rules": ["$has_attribute|fire:6"],
-                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""
@@ -59,7 +56,6 @@
             {
                 "name": "Defeat Kraken",
                 "access_rules": ["$has_attribute|water:6"],
-                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
                         "name": ""

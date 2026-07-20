@@ -2297,23 +2297,23 @@
                     },
                     {
                         "name": "Sasquatch #1",
-                        "ref": "Obenoix Gorge/Enemysanity/Group 2/Sasquatch #1 (1st Visit Only)"
+                        "ref": "Obenoix Gorge/Enemysanity/Sasquatch #1 (1st Visit Only)/"
                     },
                     {
                         "name": "Vodianoi #4",
-                        "ref": "Obenoix Gorge/Enemysanity/Group 2/Vodianoi #4"
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #4 (1st Visit Only)/"
                     },
                     {
                         "name": "Vodianoi #5",
-                        "ref": "Obenoix Gorge/Enemysanity/Group 3/Vodianoi #5"
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #5 (1st Visit Only)/"
                     },
                     {
                         "name": "Sasquatch #2",
-                        "ref": "Obenoix Gorge/Enemysanity/Group 3/Sasquatch #2 (1st Visit Only)"
+                        "ref": "Obenoix Gorge/Enemysanity/Group 3 (1st Visit Only)/Sasquatch #2"
                     },
                     {
                         "name": "Sasquatch #3",
-                        "ref": "Obenoix Gorge/Enemysanity/Group 3/Sasquatch #3 (1st Visit Only)"
+                        "ref": "Obenoix Gorge/Enemysanity/Group 3 (1st Visit Only)/Sasquatch #3"
                     },
                     {
                         "name": "Vodianoi #9",
@@ -2329,11 +2329,11 @@
                     },
                     {
                         "name": "Thanatos #1",
-                        "ref": "Obenoix Gorge/Enemysanity/Group 5 (1st Visit Only)/Thanatos #1"
+                        "ref": "Obenoix Gorge/Enemysanity/Thanatos #1 (1st Visit Only)/"
                     },
                     {
                         "name": "Vodianoi #6",
-                        "ref": "Obenoix Gorge/Enemysanity/Group 6 (1st Visit Only)/Vodianoi #6"
+                        "ref": "Obenoix Gorge/Enemysanity/Vodianoi #6 (1st Visit Only)/"
                     },
                     {
                         "name": "Vodianoi #7",
@@ -4656,7 +4656,7 @@
                 "name": "Proving Grounds - Floor 7 - Enemysanity",
                 "sections": [
                     {
-                        "name": "Myconid #1",
+                        "name": "Earth Moray #1",
                         "ref": "Proving Grounds/Floor 7/Group 1/Myconid #1"
                     },
                     {
