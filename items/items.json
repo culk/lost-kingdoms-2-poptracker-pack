@@ -299,7 +299,7 @@
         "codes": "hell_hound"
     },
     {
-        "name": "unicorn",
+        "name": "Unicorn",
         "type": "toggle",
         "img": "images/items/cards/unicorn.png",
         "initial_active_state": false,
@@ -327,14 +327,14 @@
         "codes": "stone_golem"
     },
     {
-        "name": "chariobot",
+        "name": "Chariobot",
         "type": "toggle",
         "img": "images/items/cards/chariobot.png",
         "initial_active_state": false,
         "codes": "chariobot"
     },
     {
-        "name": "talos",
+        "name": "Talos",
         "type": "toggle",
         "img": "images/items/cards/talos.png",
         "initial_active_state": false,
@@ -421,7 +421,7 @@
     },
 
     {
-        "name": "fenril",
+        "name": "Fenril",
         "type": "toggle",
         "img": "images/items/cards/fenril.png",
         "initial_active_state": false,
@@ -429,7 +429,7 @@
         "codes": "fenril"
     },
     {
-        "name": "golden_porcupig",
+        "name": "Golden Porcupig",
         "type": "toggle",
         "img": "images/items/cards/golden_porcupig.png",
         "initial_active_state": false,
@@ -437,7 +437,7 @@
         "codes": "golden_porcupig"
     },
     {
-        "name": "lich",
+        "name": "Lich",
         "type": "toggle",
         "img": "images/items/cards/lich.png",
         "initial_active_state": false,
@@ -445,7 +445,7 @@
         "codes": "lich"
     },
     {
-        "name": "scythe_beast",
+        "name": "Scythe Beast",
         "type": "toggle",
         "img": "images/items/cards/scythe_beast.png",
         "initial_active_state": false,
@@ -453,7 +453,7 @@
         "codes": "scythe_beast"
     },
     {
-        "name": "plague_rat",
+        "name": "Plague Rat",
         "type": "toggle",
         "img": "images/items/cards/plague_rat.png",
         "initial_active_state": false,
@@ -461,7 +461,7 @@
         "codes": "plague_rat"
     },
     {
-        "name": "fire_golem",
+        "name": "Fire Golem",
         "type": "toggle",
         "img": "images/items/cards/fire_golem.png",
         "initial_active_state": false,
@@ -469,7 +469,7 @@
         "codes": "fire_golem"
     },
     {
-        "name": "bum_hagan",
+        "name": "Bum Hagan",
         "type": "toggle",
         "img": "images/items/cards/bum_hagan.png",
         "initial_active_state": false,
@@ -477,7 +477,7 @@
         "codes": "bum_hagan"
     },
     {
-        "name": "crystal_magic",
+        "name": "Crystal Magic",
         "type": "toggle",
         "img": "images/items/cards/crystal_magic.png",
         "initial_active_state": false,
@@ -485,7 +485,7 @@
         "codes": "crystal_magic"
     },
     {
-        "name": "sacred_umpire",
+        "name": "Sacred Umpire",
         "type": "toggle",
         "img": "images/items/cards/sacred_umpire.png",
         "initial_active_state": false,
@@ -493,7 +493,7 @@
         "codes": "sacred_umpire"
     },
     {
-        "name": "flayer_spawn",
+        "name": "Flayer Spawn",
         "type": "toggle",
         "img": "images/items/cards/flayer_spawn.png",
         "initial_active_state": false,
@@ -501,7 +501,7 @@
         "codes": "flayer_spawn"
     },
     {
-        "name": "tumble_chick",
+        "name": "Tumble Chick",
         "type": "toggle",
         "img": "images/items/cards/tumble_chick.png",
         "initial_active_state": false,
@@ -509,7 +509,7 @@
         "codes": "tumble_chick"
     },
     {
-        "name": "efreet",
+        "name": "Efreet",
         "type": "toggle",
         "img": "images/items/cards/efreet.png",
         "initial_active_state": false,
@@ -517,7 +517,7 @@
         "codes": "efreet"
     },
     {
-        "name": "psycho_dice",
+        "name": "Psycho Dice",
         "type": "toggle",
         "img": "images/items/cards/psycho_dice.png",
         "initial_active_state": false,
@@ -525,7 +525,7 @@
         "codes": "psycho_dice"
     },
     {
-        "name": "super_pumper",
+        "name": "Super Pumper",
         "type": "toggle",
         "img": "images/items/cards/super_pumper.png",
         "initial_active_state": false,
@@ -533,7 +533,7 @@
         "codes": "super_pumper"
     },
     {
-        "name": "elephant",
+        "name": "Elephant",
         "type": "toggle",
         "img": "images/items/cards/elephant.png",
         "initial_active_state": false,
@@ -541,7 +541,7 @@
         "codes": "elephant"
     },
     {
-        "name": "demon_swordsman",
+        "name": "Demon Swordsman",
         "type": "toggle",
         "img": "images/items/cards/demon_swordsman.png",
         "initial_active_state": false,
@@ -549,7 +549,7 @@
         "codes": "demon_swordsman"
     },
     {
-        "name": "marid",
+        "name": "Marid",
         "type": "toggle",
         "img": "images/items/cards/marid.png",
         "initial_active_state": false,
@@ -557,7 +557,7 @@
         "codes": "marid"
     },
     {
-        "name": "demon_fox",
+        "name": "Demon Fox",
         "type": "toggle",
         "img": "images/items/cards/demon_fox.png",
         "initial_active_state": false,
@@ -565,7 +565,7 @@
         "codes": "demon_fox"
     },
     {
-        "name": "yin_yang",
+        "name": "Yin Yang",
         "type": "toggle",
         "img": "images/items/cards/yin_yang.png",
         "initial_active_state": false,
@@ -573,7 +573,7 @@
         "codes": "yin_yang"
     },
     {
-        "name": "juggernaut",
+        "name": "Juggernaut",
         "type": "toggle",
         "img": "images/items/cards/juggernaut.png",
         "initial_active_state": false,
@@ -581,7 +581,7 @@
         "codes": "juggernaut"
     },
     {
-        "name": "king_mandragora",
+        "name": "King Mandragora",
         "type": "toggle",
         "img": "images/items/cards/king_mandragora.png",
         "initial_active_state": false,
@@ -589,7 +589,7 @@
         "codes": "king_mandragora"
     },
     {
-        "name": "sekmet",
+        "name": "Sekmet",
         "type": "toggle",
         "img": "images/items/cards/sekmet.png",
         "initial_active_state": false,
@@ -597,7 +597,7 @@
         "codes": "sekmet"
     },
     {
-        "name": "venom_lizard",
+        "name": "Venom Lizard",
         "type": "toggle",
         "img": "images/items/cards/venom_lizard.png",
         "initial_active_state": false,
@@ -605,7 +605,7 @@
         "codes": "venom_lizard"
     },
     {
-        "name": "lizard_man",
+        "name": "Lizard Man",
         "type": "toggle",
         "img": "images/items/cards/lizard_man.png",
         "initial_active_state": false,
@@ -613,7 +613,7 @@
         "codes": "lizard_man"
     },
     {
-        "name": "dark_sprite",
+        "name": "Dark Sprite",
         "type": "toggle",
         "img": "images/items/cards/dark_sprite.png",
         "initial_active_state": false,
@@ -621,7 +621,7 @@
         "codes": "dark_sprite"
     },
     {
-        "name": "fafnir",
+        "name": "Fafnir",
         "type": "toggle",
         "img": "images/items/cards/fafnir.png",
         "initial_active_state": false,
@@ -629,7 +629,7 @@
         "codes": "fafnir"
     },
     {
-        "name": "earth_moray",
+        "name": "Earth Moray",
         "type": "toggle",
         "img": "images/items/cards/earth_moray.png",
         "initial_active_state": false,
@@ -637,7 +637,7 @@
         "codes": "earth_moray"
     },
     {
-        "name": "stone_head",
+        "name": "Stone Head",
         "type": "toggle",
         "img": "images/items/cards/stone_head.png",
         "initial_active_state": false,
@@ -645,7 +645,7 @@
         "codes": "stone_head"
     },
     {
-        "name": "salamander",
+        "name": "Salamander",
         "type": "toggle",
         "img": "images/items/cards/salamander.png",
         "initial_active_state": false,
@@ -653,7 +653,7 @@
         "codes": "salamander"
     },
     {
-        "name": "sea_monk",
+        "name": "Sea Monk",
         "type": "toggle",
         "img": "images/items/cards/sea_monk.png",
         "initial_active_state": false,
@@ -661,7 +661,7 @@
         "codes": "sea_monk"
     },
     {
-        "name": "running_bird",
+        "name": "Running Bird",
         "type": "toggle",
         "img": "images/items/cards/running_bird.png",
         "initial_active_state": false,
@@ -669,7 +669,7 @@
         "codes": "running_bird"
     },
     {
-        "name": "daidarapochi",
+        "name": "Daidarapochi",
         "type": "toggle",
         "img": "images/items/cards/daidarapochi.png",
         "initial_active_state": false,
@@ -677,7 +677,7 @@
         "codes": "daidarapochi"
     },
     {
-        "name": "sand_worm",
+        "name": "Sand Worm",
         "type": "toggle",
         "img": "images/items/cards/sand_worm.png",
         "initial_active_state": false,
@@ -685,7 +685,7 @@
         "codes": "sand_worm"
     },
     {
-        "name": "superscrubber",
+        "name": "SuperScrubber",
         "type": "toggle",
         "img": "images/items/cards/superscrubber.png",
         "initial_active_state": false,
@@ -693,7 +693,7 @@
         "codes": "superscrubber"
     },
     {
-        "name": "kitty_trap",
+        "name": "Kitty Trap",
         "type": "toggle",
         "img": "images/items/cards/kitty_trap.png",
         "initial_active_state": false,
@@ -709,7 +709,7 @@
         "codes": "sleipnir"
     },
     {
-        "name": "pegasus",
+        "name": "Pegasus",
         "type": "toggle",
         "img": "images/items/cards/pegasus.png",
         "initial_active_state": false,
@@ -717,7 +717,7 @@
         "codes": "pegasus"
     },
     {
-        "name": "goblin_lord",
+        "name": "Goblin Lord",
         "type": "toggle",
         "img": "images/items/cards/goblin_lord.png",
         "initial_active_state": false,
@@ -725,7 +725,7 @@
         "codes": "goblin_lord"
     },
     {
-        "name": "steel_skeleton",
+        "name": "Steel Skeleton",
         "type": "toggle",
         "img": "images/items/cards/steel_skeleton.png",
         "initial_active_state": false,
@@ -733,7 +733,7 @@
         "codes": "steel_skeleton"
     },
     {
-        "name": "popgun_charlie",
+        "name": "Popgun Charlie",
         "type": "toggle",
         "img": "images/items/cards/popgun_charlie.png",
         "initial_active_state": false,
@@ -741,7 +741,7 @@
         "codes": "popgun_charlie"
     },
     {
-        "name": "jade_giant",
+        "name": "Jade Giant",
         "type": "toggle",
         "img": "images/items/cards/jade_giant.png",
         "initial_active_state": false,
@@ -749,7 +749,7 @@
         "codes": "jade_giant"
     },
     {
-        "name": "sand_golem",
+        "name": "Sand Golem",
         "type": "toggle",
         "img": "images/items/cards/sand_golem.png",
         "initial_active_state": false,
@@ -757,7 +757,7 @@
         "codes": "sand_golem"
     },
     {
-        "name": "march_hare",
+        "name": "March Hare",
         "type": "toggle",
         "img": "images/items/cards/march_hare.png",
         "initial_active_state": false,
@@ -765,7 +765,7 @@
         "codes": "march_hare"
     },
     {
-        "name": "amber_dragon",
+        "name": "Amber Dragon",
         "type": "toggle",
         "img": "images/items/cards/amber_dragon.png",
         "initial_active_state": false,
@@ -773,7 +773,7 @@
         "codes": "amber_dragon"
     },
     {
-        "name": "thanatos",
+        "name": "Thanatos",
         "type": "toggle",
         "img": "images/items/cards/thanatos.png",
         "initial_active_state": false,
@@ -781,7 +781,7 @@
         "codes": "thanatos"
     },
     {
-        "name": "baby_dragon",
+        "name": "Baby Dragon",
         "type": "toggle",
         "img": "images/items/cards/baby_dragon.png",
         "initial_active_state": false,
@@ -789,7 +789,7 @@
         "codes": "baby_dragon"
     },
     {
-        "name": "matador",
+        "name": "Matador",
         "type": "toggle",
         "img": "images/items/cards/matador.png",
         "initial_active_state": false,
@@ -797,7 +797,7 @@
         "codes": "matador"
     },
     {
-        "name": "ghost_armor",
+        "name": "Ghost Armor",
         "type": "toggle",
         "img": "images/items/cards/ghost_armor.png",
         "initial_active_state": false,
@@ -805,7 +805,7 @@
         "codes": "ghost_armor"
     },
     {
-        "name": "wizard",
+        "name": "Wizard",
         "type": "toggle",
         "img": "images/items/cards/wizard.png",
         "initial_active_state": false,
@@ -813,7 +813,7 @@
         "codes": "wizard"
     },
     {
-        "name": "treant",
+        "name": "Treant",
         "type": "toggle",
         "img": "images/items/cards/treant.png",
         "initial_active_state": false,
@@ -821,7 +821,7 @@
         "codes": "treant"
     },
     {
-        "name": "hydra",
+        "name": "Hydra",
         "type": "toggle",
         "img": "images/items/cards/hydra.png",
         "initial_active_state": false,
@@ -829,7 +829,7 @@
         "codes": "hydra"
     },
     {
-        "name": "demon_lord",
+        "name": "Demon Lord",
         "type": "toggle",
         "img": "images/items/cards/demon_lord.png",
         "initial_active_state": false,
@@ -837,7 +837,7 @@
         "codes": "demon_lord"
     },
     {
-        "name": "claws-r-us",
+        "name": "Claws-R-Us",
         "type": "toggle",
         "img": "images/items/cards/claws-r-us.png",
         "initial_active_state": false,
@@ -845,7 +845,7 @@
         "codes": "claws-r-us"
     },
     {
-        "name": "zombie_dragon",
+        "name": "Zombie Dragon",
         "type": "toggle",
         "img": "images/items/cards/zombie_dragon.png",
         "initial_active_state": false,
@@ -853,7 +853,7 @@
         "codes": "zombie_dragon"
     },
     {
-        "name": "chimera",
+        "name": "Chimera",
         "type": "toggle",
         "img": "images/items/cards/chimera.png",
         "initial_active_state": false,
@@ -861,7 +861,7 @@
         "codes": "chimera"
     },
     {
-        "name": "mummy",
+        "name": "Mummy",
         "type": "toggle",
         "img": "images/items/cards/mummy.png",
         "initial_active_state": false,
@@ -869,7 +869,7 @@
         "codes": "mummy"
     },
     {
-        "name": "wood_elemental",
+        "name": "Wood Elemental",
         "type": "toggle",
         "img": "images/items/cards/wood_elemental.png",
         "initial_active_state": false,
@@ -877,7 +877,7 @@
         "codes": "wood_elemental"
     },
     {
-        "name": "gorgon",
+        "name": "Gorgon",
         "type": "toggle",
         "img": "images/items/cards/gorgon.png",
         "initial_active_state": false,
@@ -885,7 +885,7 @@
         "codes": "gorgon"
     },
     {
-        "name": "mind_flayer",
+        "name": "Mind Flayer",
         "type": "toggle",
         "img": "images/items/cards/mind_flayer.png",
         "initial_active_state": false,
@@ -893,7 +893,7 @@
         "codes": "mind_flayer"
     },
     {
-        "name": "berserk_master",
+        "name": "Berserk Master",
         "type": "toggle",
         "img": "images/items/cards/berserk_master.png",
         "initial_active_state": false,
@@ -901,7 +901,7 @@
         "codes": "berserk_master"
     },
     {
-        "name": "orc",
+        "name": "Orc",
         "type": "toggle",
         "img": "images/items/cards/orc.png",
         "initial_active_state": false,
@@ -909,7 +909,7 @@
         "codes": "orc"
     },
     {
-        "name": "mermaid",
+        "name": "Mermaid",
         "type": "toggle",
         "img": "images/items/cards/mermaid.png",
         "initial_active_state": false,
@@ -917,7 +917,7 @@
         "codes": "mermaid"
     },
     {
-        "name": "beaker",
+        "name": "Beaker",
         "type": "toggle",
         "img": "images/items/cards/beaker.png",
         "initial_active_state": false,
@@ -925,7 +925,7 @@
         "codes": "beaker"
     },
     {
-        "name": "wraith",
+        "name": "Wraith",
         "type": "toggle",
         "img": "images/items/cards/wraith.png",
         "initial_active_state": false,
@@ -933,7 +933,7 @@
         "codes": "wraith"
     },
     {
-        "name": "beelzebub",
+        "name": "Beelzebub",
         "type": "toggle",
         "img": "images/items/cards/beelzebub.png",
         "initial_active_state": false,
@@ -941,7 +941,7 @@
         "codes": "beelzebub"
     },
     {
-        "name": "necromancer",
+        "name": "Necromancer",
         "type": "toggle",
         "img": "images/items/cards/necromancer.png",
         "initial_active_state": false,
@@ -949,7 +949,7 @@
         "codes": "necromancer"
     },
     {
-        "name": "night_mare",
+        "name": "Night Mare",
         "type": "toggle",
         "img": "images/items/cards/night_mare.png",
         "initial_active_state": false,
@@ -957,7 +957,7 @@
         "codes": "night_mare"
     },
     {
-        "name": "barometz",
+        "name": "Barometz",
         "type": "toggle",
         "img": "images/items/cards/barometz.png",
         "initial_active_state": false,
@@ -965,7 +965,7 @@
         "codes": "barometz"
     },
     {
-        "name": "cockatrice",
+        "name": "Cockatrice",
         "type": "toggle",
         "img": "images/items/cards/cockatrice.png",
         "initial_active_state": false,
@@ -973,7 +973,7 @@
         "codes": "cockatrice"
     },
     {
-        "name": "archer_tree",
+        "name": "Archer Tree",
         "type": "toggle",
         "img": "images/items/cards/archer_tree.png",
         "initial_active_state": false,
@@ -981,7 +981,7 @@
         "codes": "archer_tree"
     },
     {
-        "name": "gold_butterfly",
+        "name": "Gold Butterfly",
         "type": "toggle",
         "img": "images/items/cards/gold_butterfly.png",
         "initial_active_state": false,
@@ -989,7 +989,7 @@
         "codes": "gold_butterfly"
     },
     {
-        "name": "fireworks",
+        "name": "Fireworks",
         "type": "toggle",
         "img": "images/items/cards/fireworks.png",
         "initial_active_state": false,
@@ -997,7 +997,7 @@
         "codes": "fireworks"
     },
     {
-        "name": "devil_plant",
+        "name": "Devil Plant",
         "type": "toggle",
         "img": "images/items/cards/devil_plant.png",
         "initial_active_state": false,
@@ -1005,7 +1005,7 @@
         "codes": "devil_plant"
     },
     {
-        "name": "water_moray",
+        "name": "Water Moray",
         "type": "toggle",
         "img": "images/items/cards/water_moray.png",
         "initial_active_state": false,
@@ -1013,7 +1013,7 @@
         "codes": "water_moray"
     },
     {
-        "name": "puppet_master",
+        "name": "Puppet Master",
         "type": "toggle",
         "img": "images/items/cards/puppet_master.png",
         "initial_active_state": false,
@@ -1021,7 +1021,7 @@
         "codes": "puppet_master"
     },
     {
-        "name": "cyclops",
+        "name": "Cyclops",
         "type": "toggle",
         "img": "images/items/cards/cyclops.png",
         "initial_active_state": false,
@@ -1029,7 +1029,7 @@
         "codes": "cyclops"
     },
     {
-        "name": "astrobot",
+        "name": "Astrobot",
         "type": "toggle",
         "img": "images/items/cards/astrobot.png",
         "initial_active_state": false,
@@ -1037,7 +1037,7 @@
         "codes": "astrobot"
     },
     {
-        "name": "mechapult",
+        "name": "Mechapult",
         "type": "toggle",
         "img": "images/items/cards/mechapult.png",
         "initial_active_state": false,
@@ -1045,7 +1045,7 @@
         "codes": "mechapult"
     },
     {
-        "name": "behemoth",
+        "name": "Behemoth",
         "type": "toggle",
         "img": "images/items/cards/behemoth.png",
         "initial_active_state": false,
@@ -1053,7 +1053,7 @@
         "codes": "behemoth"
     },
     {
-        "name": "sphinx",
+        "name": "Sphinx",
         "type": "toggle",
         "img": "images/items/cards/sphinx.png",
         "initial_active_state": false,
@@ -1061,7 +1061,7 @@
         "codes": "sphinx"
     },
     {
-        "name": "charadrius",
+        "name": "Charadrius",
         "type": "toggle",
         "img": "images/items/cards/charadrius.png",
         "initial_active_state": false,
@@ -1069,7 +1069,7 @@
         "codes": "charadrius"
     },
     {
-        "name": "octobush",
+        "name": "Octobush",
         "type": "toggle",
         "img": "images/items/cards/octobush.png",
         "initial_active_state": false,
@@ -1077,7 +1077,7 @@
         "codes": "octobush"
     },
     {
-        "name": "emperor",
+        "name": "Emperor",
         "type": "toggle",
         "img": "images/items/cards/emperor.png",
         "initial_active_state": false,
@@ -1085,7 +1085,7 @@
         "codes": "emperor"
     },
     {
-        "name": "lycanthrope",
+        "name": "Lycanthrope",
         "type": "toggle",
         "img": "images/items/cards/lycanthrope.png",
         "initial_active_state": false,
@@ -1093,7 +1093,7 @@
         "codes": "lycanthrope"
     },
     {
-        "name": "blue_dragon",
+        "name": "Blue Dragon",
         "type": "toggle",
         "img": "images/items/cards/blue_dragon.png",
         "initial_active_state": false,
@@ -1101,7 +1101,7 @@
         "codes": "blue_dragon"
     },
     {
-        "name": "mandra_dancer",
+        "name": "Mandra Dancer",
         "type": "toggle",
         "img": "images/items/cards/mandra_dancer.png",
         "initial_active_state": false,
@@ -1109,7 +1109,7 @@
         "codes": "mandra_dancer"
     },
     {
-        "name": "gemini",
+        "name": "Gemini",
         "type": "toggle",
         "img": "images/items/cards/gemini.png",
         "initial_active_state": false,
@@ -1117,7 +1117,7 @@
         "codes": "gemini"
     },
     {
-        "name": "fire_elemental",
+        "name": "Fire Elemental",
         "type": "toggle",
         "img": "images/items/cards/fire_elemental.png",
         "initial_active_state": false,
@@ -1125,7 +1125,7 @@
         "codes": "fire_elemental"
     },
     {
-        "name": "dragonoid",
+        "name": "Dragonoid",
         "type": "toggle",
         "img": "images/items/cards/dragonoid.png",
         "initial_active_state": false,
@@ -1133,7 +1133,7 @@
         "codes": "dragonoid"
     },
     {
-        "name": "death",
+        "name": "Death",
         "type": "toggle",
         "img": "images/items/cards/death.png",
         "initial_active_state": false,
@@ -1141,7 +1141,7 @@
         "codes": "death"
     },
     {
-        "name": "gargoyle",
+        "name": "Gargoyle",
         "type": "toggle",
         "img": "images/items/cards/gargoyle.png",
         "initial_active_state": false,
@@ -1149,7 +1149,7 @@
         "codes": "gargoyle"
     },
     {
-        "name": "acid_bot",
+        "name": "Acid Bot",
         "type": "toggle",
         "img": "images/items/cards/acid_bot.png",
         "initial_active_state": false,
@@ -1157,7 +1157,7 @@
         "codes": "acid_bot"
     },
     {
-        "name": "will_o_wisp",
+        "name": "Will O' Wisp",
         "type": "toggle",
         "img": "images/items/cards/will_o_wisp.png",
         "initial_active_state": false,
@@ -1165,7 +1165,7 @@
         "codes": "will_o_wisp"
     },
     {
-        "name": "uroboros",
+        "name": "Uroboros",
         "type": "toggle",
         "img": "images/items/cards/uroboros.png",
         "initial_active_state": false,
@@ -1173,7 +1173,7 @@
         "codes": "uroboros"
     },
     {
-        "name": "napalm_beast",
+        "name": "Napalm Beast",
         "type": "toggle",
         "img": "images/items/cards/napalm_beast.png",
         "initial_active_state": false,
@@ -1181,7 +1181,7 @@
         "codes": "napalm_beast"
     },
     {
-        "name": "demon_skeleton",
+        "name": "Demon Skeleton",
         "type": "toggle",
         "img": "images/items/cards/demon_skeleton.png",
         "initial_active_state": false,
@@ -1189,7 +1189,7 @@
         "codes": "demon_skeleton"
     },
     {
-        "name": "uberbomberbot",
+        "name": "UberBomberBot",
         "type": "toggle",
         "img": "images/items/cards/uberbomberbot.png",
         "initial_active_state": false,
@@ -1197,7 +1197,7 @@
         "codes": "uberbomberbot"
     },
     {
-        "name": "chaos_knight",
+        "name": "Chaos Knight",
         "type": "toggle",
         "img": "images/items/cards/chaos_knight.png",
         "initial_active_state": false,
@@ -1205,7 +1205,7 @@
         "codes": "chaos_knight"
     },
     {
-        "name": "elf",
+        "name": "Elf",
         "type": "toggle",
         "img": "images/items/cards/elf.png",
         "initial_active_state": false,
@@ -1213,7 +1213,7 @@
         "codes": "elf"
     },
     {
-        "name": "brine_dragon",
+        "name": "Brine Dragon",
         "type": "toggle",
         "img": "images/items/cards/brine_dragon.png",
         "initial_active_state": false,
@@ -1221,7 +1221,7 @@
         "codes": "brine_dragon"
     },
     {
-        "name": "pixie",
+        "name": "Pixie",
         "type": "toggle",
         "img": "images/items/cards/pixie.png",
         "initial_active_state": false,
@@ -1229,7 +1229,7 @@
         "codes": "pixie"
     },
     {
-        "name": "decoy_pillar",
+        "name": "Decoy Pillar",
         "type": "toggle",
         "img": "images/items/cards/decoy_pillar.png",
         "initial_active_state": false,
@@ -1237,7 +1237,7 @@
         "codes": "decoy_pillar"
     },
     {
-        "name": "sandbeetle",
+        "name": "Sandbeetle",
         "type": "toggle",
         "img": "images/items/cards/sandbeetle.png",
         "initial_active_state": false,
@@ -1245,7 +1245,7 @@
         "codes": "sandbeetle"
     },
     {
-        "name": "earth_elemental",
+        "name": "Earth Elemental",
         "type": "toggle",
         "img": "images/items/cards/earth_elemental.png",
         "initial_active_state": false,
@@ -1253,7 +1253,7 @@
         "codes": "earth_elemental"
     },
     {
-        "name": "myconid",
+        "name": "Myconid",
         "type": "toggle",
         "img": "images/items/cards/myconid.png",
         "initial_active_state": false,
@@ -1261,7 +1261,7 @@
         "codes": "myconid"
     },
     {
-        "name": "water_elemental",
+        "name": "Water Elemental",
         "type": "toggle",
         "img": "images/items/cards/water_elemental.png",
         "initial_active_state": false,
@@ -1269,7 +1269,7 @@
         "codes": "water_elemental"
     },
     {
-        "name": "phantom_ship",
+        "name": "Phantom Ship",
         "type": "toggle",
         "img": "images/items/cards/phantom_ship.png",
         "initial_active_state": false,
@@ -1277,7 +1277,7 @@
         "codes": "phantom_ship"
     },
     {
-        "name": "dark_treant",
+        "name": "Dark Treant",
         "type": "toggle",
         "img": "images/items/cards/dark_treant.png",
         "initial_active_state": false,
@@ -1285,7 +1285,7 @@
         "codes": "dark_treant"
     },
     {
-        "name": "aggressor_dx5",
+        "name": "Aggressor DX5",
         "type": "toggle",
         "img": "images/items/cards/aggressor_dx5.png",
         "initial_active_state": false,
@@ -1293,7 +1293,7 @@
         "codes": "aggressor_dx5"
     },
     {
-        "name": "red_lizard",
+        "name": "Red Lizard",
         "type": "toggle",
         "img": "images/items/cards/red_lizard.png",
         "initial_active_state": false,
@@ -1301,7 +1301,7 @@
         "codes": "red_lizard"
     },
     {
-        "name": "undine",
+        "name": "Undine",
         "type": "toggle",
         "img": "images/items/cards/undine.png",
         "initial_active_state": false,
@@ -1309,7 +1309,7 @@
         "codes": "undine"
     },
     {
-        "name": "elf_lord",
+        "name": "Elf Lord",
         "type": "toggle",
         "img": "images/items/cards/elf_lord.png",
         "initial_active_state": false,
@@ -1317,7 +1317,7 @@
         "codes": "elf_lord"
     },
     {
-        "name": "mechlance_5l",
+        "name": "MechLance 5L",
         "type": "toggle",
         "img": "images/items/cards/mechlance_5l.png",
         "initial_active_state": false,
@@ -1325,7 +1325,7 @@
         "codes": "mechlance_5l"
     },
     {
-        "name": "dark_elf",
+        "name": "Dark Elf",
         "type": "toggle",
         "img": "images/items/cards/dark_elf.png",
         "initial_active_state": false,
@@ -1333,7 +1333,7 @@
         "codes": "dark_elf"
     },
     {
-        "name": "tiger_mage",
+        "name": "Tiger Mage",
         "type": "toggle",
         "img": "images/items/cards/tiger_mage.png",
         "initial_active_state": false,
@@ -1341,7 +1341,7 @@
         "codes": "tiger_mage"
     },
     {
-        "name": "lamassu",
+        "name": "Lamassu",
         "type": "toggle",
         "img": "images/items/cards/lamassu.png",
         "initial_active_state": false,
@@ -1349,7 +1349,7 @@
         "codes": "lamassu"
     },
     {
-        "name": "ryuhi",
+        "name": "Ryuhi",
         "type": "toggle",
         "img": "images/items/cards/ryuhi.png",
         "initial_active_state": false,
@@ -1357,7 +1357,7 @@
         "codes": "ryuhi"
     },
     {
-        "name": "giant_crab",
+        "name": "Giant Crab",
         "type": "toggle",
         "img": "images/items/cards/giant_crab.png",
         "initial_active_state": false,
@@ -1365,7 +1365,7 @@
         "codes": "giant_crab"
     },
     {
-        "name": "aggressor_gl2",
+        "name": "Aggressor GL2",
         "type": "toggle",
         "img": "images/items/cards/aggressor_gl2.png",
         "initial_active_state": false,
@@ -1373,7 +1373,7 @@
         "codes": "aggressor_gl2"
     },
     {
-        "name": "lazerbug_39k",
+        "name": "LazerBug 39K",
         "type": "toggle",
         "img": "images/items/cards/lazerbug_39k.png",
         "initial_active_state": false,
@@ -1381,7 +1381,7 @@
         "codes": "lazerbug_39k"
     },
     {
-        "name": "lucky_lion",
+        "name": "Lucky Lion",
         "type": "toggle",
         "img": "images/items/cards/lucky_lion.png",
         "initial_active_state": false,
@@ -1389,7 +1389,7 @@
         "codes": "lucky_lion"
     },
     {
-        "name": "white_tiger",
+        "name": "White Tiger",
         "type": "toggle",
         "img": "images/items/cards/white_tiger.png",
         "initial_active_state": false,
@@ -1397,7 +1397,7 @@
         "codes": "white_tiger"
     },
     {
-        "name": "great_turtle",
+        "name": "Great Turtle",
         "type": "toggle",
         "img": "images/items/cards/great_turtle.png",
         "initial_active_state": false,
@@ -1405,7 +1405,7 @@
         "codes": "great_turtle"
     },
     {
-        "name": "rubber_froggy",
+        "name": "Rubber Froggy",
         "type": "toggle",
         "img": "images/items/cards/rubber_froggy.png",
         "initial_active_state": false,
@@ -1413,7 +1413,7 @@
         "codes": "rubber_froggy"
     },
     {
-        "name": "mandragora",
+        "name": "Mandragora",
         "type": "toggle",
         "img": "images/items/cards/mandragora.png",
         "initial_active_state": false,
@@ -1421,7 +1421,7 @@
         "codes": "mandragora"
     },
     {
-        "name": "skeleton",
+        "name": "Skeleton",
         "type": "toggle",
         "img": "images/items/cards/skeleton.png",
         "initial_active_state": false,
@@ -1429,7 +1429,7 @@
         "codes": "skeleton"
     },
     {
-        "name": "jack-o-lantern",
+        "name": "Jack-O-Lantern",
         "type": "toggle",
         "img": "images/items/cards/jack-o-lantern.png",
         "initial_active_state": false,
@@ -1437,7 +1437,7 @@
         "codes": "jack-o-lantern"
     },
     {
-        "name": "venus_spider",
+        "name": "Venus Spider",
         "type": "toggle",
         "img": "images/items/cards/venus_spider.png",
         "initial_active_state": false,
@@ -1445,7 +1445,7 @@
         "codes": "venus_spider"
     },
     {
-        "name": "chameleus",
+        "name": "Chameleus",
         "type": "toggle",
         "img": "images/items/cards/chameleus.png",
         "initial_active_state": false,
@@ -1453,7 +1453,7 @@
         "codes": "chameleus"
     },
     {
-        "name": "vodianoi",
+        "name": "Vodianoi",
         "type": "toggle",
         "img": "images/items/cards/vodianoi.png",
         "initial_active_state": false,
@@ -1461,7 +1461,7 @@
         "codes": "vodianoi"
     },
     {
-        "name": "undead_knight",
+        "name": "Undead Knight",
         "type": "toggle",
         "img": "images/items/cards/undead_knight.png",
         "initial_active_state": false,
@@ -1469,7 +1469,7 @@
         "codes": "undead_knight"
     },
     {
-        "name": "elephant_king",
+        "name": "Elephant King",
         "type": "toggle",
         "img": "images/items/cards/elephant_king.png",
         "initial_active_state": false,
@@ -1477,7 +1477,7 @@
         "codes": "elephant_king"
     },
     {
-        "name": "great_demon",
+        "name": "Great Demon",
         "type": "toggle",
         "img": "images/items/cards/great_demon.png",
         "initial_active_state": false,
@@ -1485,7 +1485,7 @@
         "codes": "great_demon"
     },
     {
-        "name": "ice_golem",
+        "name": "Ice Golem",
         "type": "toggle",
         "img": "images/items/cards/ice_golem.png",
         "initial_active_state": false,
@@ -1493,7 +1493,7 @@
         "codes": "ice_golem"
     },
     {
-        "name": "siren",
+        "name": "Siren",
         "type": "toggle",
         "img": "images/items/cards/siren.png",
         "initial_active_state": false,
@@ -1501,7 +1501,7 @@
         "codes": "siren"
     },
     {
-        "name": "ghoul",
+        "name": "Ghoul",
         "type": "toggle",
         "img": "images/items/cards/ghoul.png",
         "initial_active_state": false,
@@ -1509,7 +1509,7 @@
         "codes": "ghoul"
     },
     {
-        "name": "blood_bush",
+        "name": "Blood Bush",
         "type": "toggle",
         "img": "images/items/cards/blood_bush.png",
         "initial_active_state": false,
@@ -1517,7 +1517,7 @@
         "codes": "blood_bush"
     },
     {
-        "name": "yowie",
+        "name": "Yowie",
         "type": "toggle",
         "img": "images/items/cards/yowie.png",
         "initial_active_state": false,
@@ -1525,7 +1525,7 @@
         "codes": "yowie"
     },
     {
-        "name": "green_dragon",
+        "name": "Green Dragon",
         "type": "toggle",
         "img": "images/items/cards/green_dragon.png",
         "initial_active_state": false,
@@ -1533,7 +1533,7 @@
         "codes": "green_dragon"
     },
     {
-        "name": "devata",
+        "name": "Devata",
         "type": "toggle",
         "img": "images/items/cards/devata.png",
         "initial_active_state": false,
@@ -1541,7 +1541,7 @@
         "codes": "devata"
     },
     {
-        "name": "vampire_bush",
+        "name": "Vampire Bush",
         "type": "toggle",
         "img": "images/items/cards/vampire_bush.png",
         "initial_active_state": false,
@@ -1549,7 +1549,7 @@
         "codes": "vampire_bush"
     },
     {
-        "name": "trickster",
+        "name": "Trickster",
         "type": "toggle",
         "img": "images/items/cards/trickster.png",
         "initial_active_state": false,
@@ -1557,7 +1557,7 @@
         "codes": "trickster"
     },
     {
-        "name": "anarchy_owl",
+        "name": "Anarchy Owl",
         "type": "toggle",
         "img": "images/items/cards/anarchy_owl.png",
         "initial_active_state": false,
@@ -1565,7 +1565,7 @@
         "codes": "anarchy_owl"
     },
     {
-        "name": "berserker",
+        "name": "Berserker",
         "type": "toggle",
         "img": "images/items/cards/berserker.png",
         "initial_active_state": false,
@@ -1573,7 +1573,7 @@
         "codes": "berserker"
     },
     {
-        "name": "rabandos",
+        "name": "Rabandos",
         "type": "toggle",
         "img": "images/items/cards/rabandos.png",
         "initial_active_state": false,
@@ -1581,7 +1581,7 @@
         "codes": "rabandos"
     },
     {
-        "name": "evil_eye",
+        "name": "Evil Eye",
         "type": "toggle",
         "img": "images/items/cards/evil_eye.png",
         "initial_active_state": false,
@@ -1589,7 +1589,7 @@
         "codes": "evil_eye"
     },
     {
-        "name": "gnome",
+        "name": "Gnome",
         "type": "toggle",
         "img": "images/items/cards/gnome.png",
         "initial_active_state": false,
@@ -1597,7 +1597,7 @@
         "codes": "gnome"
     },
     {
-        "name": "raflesia",
+        "name": "Raflesia",
         "type": "toggle",
         "img": "images/items/cards/raflesia.png",
         "initial_active_state": false,
@@ -1605,7 +1605,7 @@
         "codes": "raflesia"
     },
     {
-        "name": "blue_mold",
+        "name": "Blue Mold",
         "type": "toggle",
         "img": "images/items/cards/blue_mold.png",
         "initial_active_state": false,
@@ -1613,7 +1613,7 @@
         "codes": "blue_mold"
     },
     {
-        "name": "sasquatch",
+        "name": "Sasquatch",
         "type": "toggle",
         "img": "images/items/cards/sasquatch.png",
         "initial_active_state": false,
@@ -1621,7 +1621,7 @@
         "codes": "sasquatch"
     },
     {
-        "name": "porcupig",
+        "name": "Porcupig",
         "type": "toggle",
         "img": "images/items/cards/porcupig.png",
         "initial_active_state": false,
@@ -1629,7 +1629,7 @@
         "codes": "porcupig"
     },
     {
-        "name": "basilisk",
+        "name": "Basilisk",
         "type": "toggle",
         "img": "images/items/cards/basilisk.png",
         "initial_active_state": false,
@@ -1637,7 +1637,7 @@
         "codes": "basilisk"
     },
     {
-        "name": "ice_skeleton",
+        "name": "Ice Skeleton",
         "type": "toggle",
         "img": "images/items/cards/ice_skeleton.png",
         "initial_active_state": false,
@@ -1645,7 +1645,7 @@
         "codes": "ice_skeleton"
     },
     {
-        "name": "gravity_pillar",
+        "name": "Gravity Pillar",
         "type": "toggle",
         "img": "images/items/cards/gravity_pillar.png",
         "initial_active_state": false,
@@ -1653,7 +1653,7 @@
         "codes": "gravity_pillar"
     },
     {
-        "name": "manticore",
+        "name": "Manticore",
         "type": "toggle",
         "img": "images/items/cards/manticore.png",
         "initial_active_state": false,
@@ -1661,7 +1661,7 @@
         "codes": "manticore"
     },
     {
-        "name": "succubus",
+        "name": "Succubus",
         "type": "toggle",
         "img": "images/items/cards/succubus.png",
         "initial_active_state": false,
@@ -1669,7 +1669,7 @@
         "codes": "succubus"
     },
     {
-        "name": "dark_raven",
+        "name": "Dark Raven",
         "type": "toggle",
         "img": "images/items/cards/dark_raven.png",
         "initial_active_state": false,
@@ -1677,7 +1677,7 @@
         "codes": "dark_raven"
     },
     {
-        "name": "apsaras",
+        "name": "Apsaras",
         "type": "toggle",
         "img": "images/items/cards/apsaras.png",
         "initial_active_state": false,
@@ -1685,7 +1685,7 @@
         "codes": "apsaras"
     },
     {
-        "name": "nueh",
+        "name": "Nueh",
         "type": "toggle",
         "img": "images/items/cards/nueh.png",
         "initial_active_state": false,
@@ -1693,7 +1693,7 @@
         "codes": "nueh"
     },
     {
-        "name": "golden_goose",
+        "name": "Golden Goose",
         "type": "toggle",
         "img": "images/items/cards/golden_goose.png",
         "initial_active_state": false,
@@ -1701,7 +1701,7 @@
         "codes": "golden_goose"
     },
     {
-        "name": "dryad",
+        "name": "Dryad",
         "type": "toggle",
         "img": "images/items/cards/dryad.png",
         "initial_active_state": false,
@@ -1709,7 +1709,7 @@
         "codes": "dryad"
     },
     {
-        "name": "circasaurus",
+        "name": "CircaSaurus",
         "type": "toggle",
         "img": "images/items/cards/circasaurus.png",
         "initial_active_state": false,
@@ -1717,7 +1717,7 @@
         "codes": "circasaurus"
     },
     {
-        "name": "vouivre",
+        "name": "Vouivre",
         "type": "toggle",
         "img": "images/items/cards/vouivre.png",
         "initial_active_state": false,
@@ -1725,7 +1725,7 @@
         "codes": "vouivre"
     },
     {
-        "name": "whip_worm",
+        "name": "Whip Worm",
         "type": "toggle",
         "img": "images/items/cards/whip_worm.png",
         "initial_active_state": false,
@@ -1733,7 +1733,7 @@
         "codes": "whip_worm"
     },
     {
-        "name": "boom_monkey",
+        "name": "Boom Monkey",
         "type": "toggle",
         "img": "images/items/cards/boom_monkey.png",
         "initial_active_state": false,
@@ -1741,7 +1741,7 @@
         "codes": "boom_monkey"
     },
     {
-        "name": "coal_treant",
+        "name": "Coal Treant",
         "type": "toggle",
         "img": "images/items/cards/coal_treant.png",
         "initial_active_state": false,
@@ -1749,7 +1749,7 @@
         "codes": "coal_treant"
     },
     {
-        "name": "hobgoblin",
+        "name": "Hobgoblin",
         "type": "toggle",
         "img": "images/items/cards/hobgoblin.png",
         "initial_active_state": false,
@@ -1757,7 +1757,7 @@
         "codes": "hobgoblin"
     },
     {
-        "name": "incubus",
+        "name": "Incubus",
         "type": "toggle",
         "img": "images/items/cards/incubus.png",
         "initial_active_state": false,
@@ -1765,7 +1765,7 @@
         "codes": "incubus"
     },
     {
-        "name": "phooka",
+        "name": "Phooka",
         "type": "toggle",
         "img": "images/items/cards/phooka.png",
         "initial_active_state": false,
@@ -1773,7 +1773,7 @@
         "codes": "phooka"
     },
     {
-        "name": "red_dragon",
+        "name": "Red Dragon",
         "type": "toggle",
         "img": "images/items/cards/red_dragon.png",
         "initial_active_state": false,
@@ -1781,7 +1781,7 @@
         "codes": "red_dragon"
     },
     {
-        "name": "leprechaun",
+        "name": "Leprechaun",
         "type": "toggle",
         "img": "images/items/cards/leprechaun.png",
         "initial_active_state": false,
@@ -1789,7 +1789,7 @@
         "codes": "leprechaun"
     },
     {
-        "name": "land_shark",
+        "name": "Land Shark",
         "type": "toggle",
         "img": "images/items/cards/land_shark.png",
         "initial_active_state": false,
@@ -1797,7 +1797,7 @@
         "codes": "land_shark"
     },
     {
-        "name": "acid_cloud",
+        "name": "Acid Cloud",
         "type": "toggle",
         "img": "images/items/cards/acid_cloud.png",
         "initial_active_state": false,
@@ -1805,7 +1805,7 @@
         "codes": "acid_cloud"
     },
     {
-        "name": "witchlette",
+        "name": "Witchlette",
         "type": "toggle",
         "img": "images/items/cards/witchlette.png",
         "initial_active_state": false,
@@ -1813,7 +1813,7 @@
         "codes": "witchlette"
     },
     {
-        "name": "banshee",
+        "name": "Banshee",
         "type": "toggle",
         "img": "images/items/cards/banshee.png",
         "initial_active_state": false,
@@ -1821,7 +1821,7 @@
         "codes": "banshee"
     },
     {
-        "name": "spartoi",
+        "name": "Spartoi",
         "type": "toggle",
         "img": "images/items/cards/spartoi.png",
         "initial_active_state": false,
@@ -1829,7 +1829,7 @@
         "codes": "spartoi"
     },
     {
-        "name": "flying_ray",
+        "name": "Flying Ray",
         "type": "toggle",
         "img": "images/items/cards/flying_ray.png",
         "initial_active_state": false,
@@ -1837,7 +1837,7 @@
         "codes": "flying_ray"
     },
     {
-        "name": "valkyrie",
+        "name": "Valkyrie",
         "type": "toggle",
         "img": "images/items/cards/valkyrie.png",
         "initial_active_state": false,
@@ -1845,7 +1845,7 @@
         "codes": "valkyrie"
     },
     {
-        "name": "rheebus",
+        "name": "Rheebus",
         "type": "toggle",
         "img": "images/items/cards/rheebus.png",
         "initial_active_state": false,
@@ -1853,7 +1853,7 @@
         "codes": "rheebus"
     },
     {
-        "name": "carbuncle",
+        "name": "Carbuncle",
         "type": "toggle",
         "img": "images/items/cards/carbuncle.png",
         "initial_active_state": false,
@@ -1861,7 +1861,7 @@
         "codes": "carbuncle"
     },
     {
-        "name": "demon_hound",
+        "name": "Demon Hound",
         "type": "toggle",
         "img": "images/items/cards/demon_hound.png",
         "initial_active_state": false,
@@ -1869,7 +1869,7 @@
         "codes": "demon_hound"
     },
     {
-        "name": "maelstrom",
+        "name": "Maelstrom",
         "type": "toggle",
         "img": "images/items/cards/maelstrom.png",
         "initial_active_state": false,
@@ -1877,7 +1877,7 @@
         "codes": "maelstrom"
     },
     {
-        "name": "man_trap",
+        "name": "Man Trap",
         "type": "toggle",
         "img": "images/items/cards/man_trap.png",
         "initial_active_state": false,
@@ -1885,7 +1885,7 @@
         "codes": "man_trap"
     },
     {
-        "name": "fairy",
+        "name": "Fairy",
         "type": "toggle",
         "img": "images/items/cards/fairy.png",
         "initial_active_state": false,
@@ -1893,7 +1893,7 @@
         "codes": "fairy"
     },
     {
-        "name": "vampire",
+        "name": "Vampire",
         "type": "toggle",
         "img": "images/items/cards/vampire.png",
         "initial_active_state": false,
@@ -1901,7 +1901,7 @@
         "codes": "vampire"
     },
     {
-        "name": "gizmolizer",
+        "name": "Gizmolizer",
         "type": "toggle",
         "img": "images/items/cards/gizmolizer.png",
         "initial_active_state": false,
@@ -1909,7 +1909,7 @@
         "codes": "gizmolizer"
     },
     {
-        "name": "catoblepas",
+        "name": "Catoblepas",
         "type": "toggle",
         "img": "images/items/cards/catoblepas.png",
         "initial_active_state": false,
@@ -1917,7 +1917,7 @@
         "codes": "catoblepas"
     },
     {
-        "name": "water_reaper",
+        "name": "Water Reaper",
         "type": "toggle",
         "img": "images/items/cards/water_reaper.png",
         "initial_active_state": false,
@@ -1925,7 +1925,7 @@
         "codes": "water_reaper"
     },
     {
-        "name": "dragon_knight",
+        "name": "Dragon Knight",
         "type": "toggle",
         "img": "images/items/cards/dragon_knight.png",
         "initial_active_state": false,
@@ -1933,7 +1933,7 @@
         "codes": "dragon_knight"
     },
     {
-        "name": "kraken",
+        "name": "Kraken",
         "type": "toggle",
         "img": "images/items/cards/kraken.png",
         "initial_active_state": false,
@@ -1941,7 +1941,7 @@
         "codes": "kraken"
     },
     {
-        "name": "ashura",
+        "name": "Ashura",
         "type": "toggle",
         "img": "images/items/cards/ashura.png",
         "initial_active_state": false,
@@ -1949,7 +1949,7 @@
         "codes": "ashura"
     },
     {
-        "name": "caterpoker",
+        "name": "Caterpoker",
         "type": "toggle",
         "img": "images/items/cards/caterpoker.png",
         "initial_active_state": false,
@@ -1957,7 +1957,7 @@
         "codes": "caterpoker"
     },
     {
-        "name": "sprite",
+        "name": "Sprite",
         "type": "toggle",
         "img": "images/items/cards/sprite.png",
         "initial_active_state": false,
@@ -1965,7 +1965,7 @@
         "codes": "sprite"
     },
     {
-        "name": "acid_dragon",
+        "name": "Acid Dragon",
         "type": "toggle",
         "img": "images/items/cards/acid_dragon.png",
         "initial_active_state": false,
@@ -1973,7 +1973,7 @@
         "codes": "acid_dragon"
     },
     {
-        "name": "fire_moray",
+        "name": "Fire Moray",
         "type": "toggle",
         "img": "images/items/cards/fire_moray.png",
         "initial_active_state": false,
@@ -1981,7 +1981,7 @@
         "codes": "fire_moray"
     },
     {
-        "name": "rock_hagan",
+        "name": "Rock Hagan",
         "type": "toggle",
         "img": "images/items/cards/rock_hagan.png",
         "initial_active_state": false,
@@ -1989,7 +1989,7 @@
         "codes": "rock_hagan"
     },
     {
-        "name": "sleeping_giant",
+        "name": "Sleeping Giant",
         "type": "toggle",
         "img": "images/items/cards/sleeping_giant.png",
         "initial_active_state": false,
@@ -1997,7 +1997,7 @@
         "codes": "sleeping_giant"
     },
     {
-        "name": "panther_mage",
+        "name": "Panther Mage",
         "type": "toggle",
         "img": "images/items/cards/panther_mage.png",
         "initial_active_state": false,
@@ -2005,7 +2005,7 @@
         "codes": "panther_mage"
     },
     {
-        "name": "triblaster",
+        "name": "TriBlaster",
         "type": "toggle",
         "img": "images/items/cards/triblaster.png",
         "initial_active_state": false,
@@ -2013,7 +2013,7 @@
         "codes": "triblaster"
     },
     {
-        "name": "fire_gargoyle",
+        "name": "Fire Gargoyle",
         "type": "toggle",
         "img": "images/items/cards/fire_gargoyle.png",
         "initial_active_state": false,
@@ -2021,7 +2021,7 @@
         "codes": "fire_gargoyle"
     },
     {
-        "name": "mole_monster",
+        "name": "Mole Monster",
         "type": "toggle",
         "img": "images/items/cards/mole_monster.png",
         "initial_active_state": false,
@@ -2029,7 +2029,7 @@
         "codes": "mole_monster"
     },
     {
-        "name": "mad_reverser",
+        "name": "Mad Reverser",
         "type": "toggle",
         "img": "images/items/cards/mad_reverser.png",
         "initial_active_state": false,
@@ -2037,7 +2037,7 @@
         "codes": "mad_reverser"
     },
     {
-        "name": "phoenix",
+        "name": "Phoenix",
         "type": "toggle",
         "img": "images/items/cards/phoenix.png",
         "initial_active_state": false,
@@ -2045,7 +2045,7 @@
         "codes": "phoenix"
     },
     {
-        "name": "black_dragon",
+        "name": "Black Dragon",
         "type": "toggle",
         "img": "images/items/cards/black_dragon.png",
         "initial_active_state": false,
@@ -2053,7 +2053,7 @@
         "codes": "black_dragon"
     },
     {
-        "name": "crystal_rose",
+        "name": "Crystal Rose",
         "type": "toggle",
         "img": "images/items/cards/crystal_rose.png",
         "initial_active_state": false,
@@ -2061,7 +2061,7 @@
         "codes": "crystal_rose"
     },
     {
-        "name": "storm_hagan",
+        "name": "Storm Hagan",
         "type": "toggle",
         "img": "images/items/cards/storm_hagan.png",
         "initial_active_state": false,
@@ -2069,7 +2069,7 @@
         "codes": "storm_hagan"
     },
     {
-        "name": "doppelganger",
+        "name": "Doppelganger",
         "type": "toggle",
         "img": "images/items/cards/doppelganger.png",
         "initial_active_state": false,
@@ -2077,7 +2077,7 @@
         "codes": "doppelganger"
     },
     {
-        "name": "horus",
+        "name": "Horus",
         "type": "toggle",
         "img": "images/items/cards/horus.png",
         "initial_active_state": false,
@@ -2085,7 +2085,7 @@
         "codes": "horus"
     },
     {
-        "name": "dao",
+        "name": "Dao",
         "type": "toggle",
         "img": "images/items/cards/dao.png",
         "initial_active_state": false,
@@ -2093,7 +2093,7 @@
         "codes": "dao"
     },
     {
-        "name": "golden_phoenix",
+        "name": "Golden Phoenix",
         "type": "toggle",
         "img": "images/items/cards/golden_phoenix.png",
         "initial_active_state": false,
@@ -2101,7 +2101,7 @@
         "codes": "golden_phoenix"
     },
     {
-        "name": "larval_fly",
+        "name": "Larval Fly",
         "type": "toggle",
         "img": "images/items/cards/larval_fly.png",
         "initial_active_state": false,
@@ -2109,7 +2109,7 @@
         "codes": "larval_fly"
     },
     {
-        "name": "global_bust",
+        "name": "Global Bust",
         "type": "toggle",
         "img": "images/items/cards/global_bust.png",
         "initial_active_state": false,
