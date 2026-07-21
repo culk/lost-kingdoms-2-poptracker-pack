@@ -37,12 +37,6 @@
         "img": "images/maps/bhashea_high_road.png"
     },
     {
-        "name": "Combo",
-        "location_size": 20,
-        "location_border_thickness": 1,
-        "img": "images/maps/combo.png"
-    },
-    {
         "name": "Fossil Boneyard",
         "location_size": 20,
         "location_border_thickness": 1,

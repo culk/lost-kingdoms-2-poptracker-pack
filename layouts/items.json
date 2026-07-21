@@ -93,7 +93,6 @@
             {
                 "type": "group",
                 "header": "Cards",
-                "dock": "left",
                 "content": {
                     "type": "layout",
                     "key": "cards_grid"
