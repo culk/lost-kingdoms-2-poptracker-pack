@@ -192,6 +192,8 @@
             },
             {
                 "name": "Stranger",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
                 "access_rules": ["black_liquid, ^$can_jump"],
                 "sections": [
                     {

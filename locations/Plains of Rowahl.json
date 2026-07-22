@@ -196,6 +196,8 @@
             },
             {
                 "name": "Stranger",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
                 "access_rules": ["castle_gate_key"],
                 "sections": [
                     {
@@ -212,6 +214,8 @@
             },
             {
                 "name": "Kendarie Soldier",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
                 "sections": [
                     {
                         "name": ""
