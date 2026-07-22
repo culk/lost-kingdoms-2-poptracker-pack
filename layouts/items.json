@@ -107,7 +107,7 @@
                 }
             },
             {
-                "title": "Card Catalogue",
+                "title": "Card Catalog",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -319,7 +319,7 @@
                 }
             },
             {
-                "title": "Card Catalogue",
+                "title": "Card Catalog",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
