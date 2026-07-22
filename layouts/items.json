@@ -74,56 +74,467 @@
         ]
     },
     "item_tracker_vertical": {
-        "type": "dock",
-        "content": [
+        "type": "tabbed",
+        "tabs": [
             {
-                "type": "group",
-                "header": "Items",
-                "dock": "left",
+                "title": "Key Items",
                 "content": {
-                    "type": "layout",
-                    "key": "items_grid"
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "left",
+                            "content": {
+                                "type": "layout",
+                                "key": "items_grid"
+                            }
+                        },
+                        {
+                            "type": "layout",
+                            "dock": "left",
+                            "key": "levels_group_vertical"
+                        },
+                        {
+                            "type": "group",
+                            "header": "Cards",
+                            "content": {
+                                "type": "layout",
+                                "key": "cards_grid"
+                            }
+                        }
+                    ]
                 }
             },
             {
-                "type": "layout",
-                "dock": "left",
-                "key": "levels_group_vertical"
-            },
-            {
-                "type": "group",
-                "header": "Cards",
+                "title": "Card Catalogue",
                 "content": {
-                    "type": "layout",
-                    "key": "cards_grid"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "For Combos",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 39,
+                                "item_width": 29,
+                                "rows": [
+                                    ["rock_hagan", "bum_hagan", "storm_hagan", "mandragora", "mandra_dancer", "king_mandragora", "wraith", "lich", "sekmet", "acid_cloud", "gold_butterfly", "", "red_dragon", "brine_dragon", "green_dragon", "amber_dragon", "acid_dragon", "pixie", "phoenix", "golden_phoenix", "mermaid", "siren"],
+                                    ["carbuncle", "decoy_pillar", "panther_mage", "tiger_mage", "dryad", "gnome", "salamander", "undine", "sphinx", "mummy", "", "", "red_lizard", "venom_lizard", "lizard_man", "basilisk", "doppelganger", "god_of_destruction", "ice_skeleton", "demon_skeleton", "steel_skeleton", "skeleton", "vampire_bush"],
+                                    ["stone_head", "efreet", "dao", "marid", "stone_golem", "archer_tree", "fire_moray", "water_moray", "earth_moray", "", "", "", "ghost_armor", "chaos_knight", "flying_ray", "dark_raven", "elephant", "elephant_king", "sea_monk", "mind_flayer"],
+                                    ["fire_golem", "ice_golem", "valkyrie", "thanatos", "running_bird", "gold_butterfly", "orc", "fairy", "rheebus", "", "", "", "hobgoblin", "goblin_lord", "fenril", "behemoth", "demon_fox", "ice_golem", "gravity_pillar", "doppelganger", "cockatrice"],
+                                    ["carbuncle", "juggernaut", "whip_worm", "white_tiger", "golden_phoenix", "great_turtle", "blue_dragon", "earth_elemental", "fire_elemental", "water_elemental", "wood_elemental", "", "dragon_knight", "crystal_rose", "succubus", "incubus", "treant", "dark_raven", "elf", "elf_lord", "dark_elf"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Fire",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["red_dragon", "red_lizard", "hobgoblin", "jack-o-lantern", "orc", "flayer_spawn", "fire_golem", "berserker", "dark_raven", "wizard", "will_o_wisp", "stone_head", "blood_bush", "efreet", "demon_fox", "fire_gargoyle"],
+                                    ["great_demon", "tiger_mage", "salamander", "chimera", "kitty_trap", "golden_phoenix", "fire_elemental", "valkyrie", "napalm_beast", "leprechaun", "lucky_lion", "manticore", "popgun_charlie", "fireworks", "undead_knight", "gemini"],
+                                    ["demon_lord", "coal_treant", "gargoyle", "matador", "cerberus", "boom_monkey", "berserk_master", "hell_hound", "phoenix", "ashura", "jade_giant", "fafnir", "fire_moray"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Water",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["unicorn", "sasquatch", "wraith", "fairy", "vampire_bush", "kraken", "water_reaper", "giant_crab", "land_shark", "flying_ray", "basilisk", "maelstrom", "sea_monk", "larval_fly", "crystal_rose", "dragon_knight"],
+                                    ["blue_dragon", "hydra", "siren", "mermaid", "undine", "demon_skeleton", "mind_flayer", "ice_golem", "water_elemental", "sprite", "charadrius", "yowie", "apsaras", "super_pumper", "vodianoi", "march_hare"],
+                                    ["marid", "brine_dragon", "panther_mage", "phantom_ship", "daidarapochi", "witchlette", "rock_hagan", "phooka", "rubber_froggy", "baba_yaga", "sleipnir", "beaker", "water_moray", "ice_skeleton"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Earth",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["skeleton", "lizard_man", "elephant", "sand_golem", "sand_worm", "mummy", "catoblepas", "lich", "carbuncle", "zombie_dragon", "running_bird", "behemoth", "sand_beetle", "great_turtle", "dragonoid", "juggernaut"],
+                                    ["gnome", "venus_spider", "sphinx", "plague_rat", "cyclops", "elephant_king", "earth_elemental", "porcupig", "golden_porcupig", "uroboros", "dao", "global_bust", "acid_cloud", "baby_dragon", "stone_golem", "lamassu"],
+                                    ["myconid", "spartoi", "amber_dragon", "bum_hagan", "barometz", "pixie", "tumble_chick", "talos", "blue_mold", "pazuzu", "vouivre", "earth_moray", "demon_swordsman"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Wood",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["ghost_armor", "mandragora", "man_trap", "cockatrice", "fenril", "banshee", "demon_hound", "lycanthrope", "gold_butterfly", "ghoul", "treant", "king_mandragora", "dryad", "birdman", "archer_tree", "evil_eye"],
+                                    ["venom_lizard", "scythe_beast", "rheebus", "white_tiger", "whip_worm", "trickster", "caterpoker", "wood_elemental", "green_dragon", "mandra_dancer", "elf", "elf_lord", "garuda", "circasaurus", "sekmet", "raflesia"],
+                                    ["chameleus", "devil_plant", "centaur", "dark_treant", "sleeping_giant", "storm_hagan", "nueh", "horus", "mad_reverser", "anarchy_owl", "pegasus", "ryuhi"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Neutral/Mech",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["golden_goose", "mole_monster", "necromancer", "goblin_lord", "night_mare", "vampire", "puppet_master", "beelzebub", "black_dragon", "steel_skeleton", "chaos_knight", "decoy_pillar", "god_of_destruction", "doppelganger", "succubus", "incubus"],
+                                    ["wyvern", "death", "yin_yang", "dark_elf", "gravity_pillar", "octobush", "dark_sprite", "devata", "thanatos", "acid_dragon", "gorgon", "rabandos", "crystal_magic", "psycho_dice", "emperor"],
+                                    ["aggressor_gl2", "gizmolizer", "mechlance_5l", "lazerbug_39k", "acidbot", "chariobot", "mechapult", "aggressor_dx5", "uberbomberbot", "claws-r-us", "triblaster", "superscrubber", "astrobot", "sacred_umpire"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Independent",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["skeleton", "hobgoblin", "man_trap", "catoblepas", "golden_goose", "land_shark", "berserker", "demon_hound", "sand_beetle", "great_turtle", "siren", "night_mare", "trickster", "demon_skeleton", "caterpoker", "black_dragon"],
+                                    ["steel_skeleton", "doppelganger", "aggressor_gl2", "yowie", "porcupig", "golden_porcupig", "mandra_dancer", "vodianoi", "yin_yang", "elf", "elf_lord", "dark_elf", "popgun_charlie", "acid_cloud", "baby_dragon", "mechlance_5l"],
+                                    ["undead_knight", "lamassu", "raflesia", "witchlette", "chameleus", "devil_plant", "gargoyle", "mechapult", "aggressor_dx5", "matador", "horus", "rubber_froggy", "boom_monkey", "uberbomberbot", "pixie", "berserk_master"],
+                                    ["tumble_chick", "claws-r-us", "beaker", "ice_skeleton"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Helper",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["mandragora", "sand_golem", "fairy", "vampire_bush", "carbuncle", "running_bird", "mole_monster", "maelstrom", "gold_butterfly", "treant", "king_mandragora", "larval_fly", "wizard", "dryad", "will_o_wisp", "stone_head"],
+                                    ["juggernaut", "evil_eye", "gnome", "tiger_mage", "salamander", "goblin_lord", "kitty_trap", "golden_phoenix", "rheebus", "mermaid", "plague_rat", "undine", "whip_worm", "beelzebub", "cyclops", "decoy_pillar"],
+                                    ["earth_elemental", "water_elemental", "fire_elemental", "wood_elemental", "napalm_beast", "sprite", "leprechaun", "apsaras", "super_pumper", "lucky_lion", "uroboros", "march_hare", "global_bust", "panther_mage", "myconid", "acidbot"],
+                                    ["dark_treant", "coal_treant", "gravity_pillar", "octobush", "dark_sprite", "phooka", "acid_dragon", "mad_reverser", "anarchy_owl", "phoenix", "ashura", "crystal_magic", "blue_mold", "superscrubber", "fire_moray", ""]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Weapon",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["ghost_armor", "lizard_man", "red_lizard", "mummy", "cockatrice", "wraith", "orc", "water_reaper", "lich", "flayer_spawn", "banshee", "flying_ray", "basilisk", "lycanthrope", "ghoul", "crystal_rose"],
+                                    ["dark_raven", "dragonoid", "archer_tree", "blood_bush", "efreet", "dragon_knight", "great_demon", "venom_lizard", "scythe_beast", "sphinx", "chaos_knight", "charadrius", "death", "dao", "marid", "sekmet"],
+                                    ["spartoi", "demon_lord", "astrobot", "vouivre", "water_moray", "demon_swordsman"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Summon",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["red_dragon", "elephant", "jack-o-lantern", "sand_worm", "sasquatch", "kraken", "fenril", "zombie_dragon", "fire_golem", "giant_crab", "behemoth", "necromancer", "sea_monk", "demon_fox", "fire_gargoyle", "blue_dragon"],
+                                    ["hydra", "chimera", "white_tiger", "venus_spider", "vampire", "puppet_master", "mind_flayer", "ice_golem", "elephant_king", "god_of_destruction", "succubus", "incubus", "valkyrie", "green_dragon", "manticore", "brine_dragon"],
+                                    ["gizmolizer", "fireworks", "lazerbug_39k", "phantom_ship", "daidarapochi", "gemini", "amber_dragon", "sleeping_giant", "storm_hagan", "rock_hagan", "bum_hagan", "barometz", "thanatos", "nueh", "gorgon", "rabandos"],
+                                    ["sleipnir", "triblaster", "pegasus", "psycho_dice", "jade_giant", "fafnir", "ryuhi", "sacred_umpire", "emperor"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Transform",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["unicorn", "birdman", "wyvern", "garuda", "circasaurus", "stone_golem", "centaur", "chariobot", "devata", "cerberus", "baba_yaga", "hell_hound", "talos", "Pazuzu"]
+                                ]
+                            }
+                        }
+                    ]
                 }
             }
         ]
     },
     "item_tracker_horizontal": {
-        "type": "dock",
-        "content": [
+        "type": "tabbed",
+        "tabs": [
             {
-                "type": "group",
-                "header": "Items",
-                "dock": "top",
+                "title": "Key Items",
                 "content": {
-                    "type": "layout",
-                    "key": "items_grid"
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "items_grid"
+                            }
+                        },
+                        {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "levels_group_horizontal"
+                        },
+                        {
+                            "type": "group",
+                            "header": "Cards",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "cards_grid"
+                            }
+                        }
+                    ]
                 }
             },
             {
-                "type": "layout",
-                "dock": "top",
-                "key": "levels_group_horizontal"
-            },
-            {
-                "type": "group",
-                "header": "Cards",
-                "dock": "top",
+                "title": "Card Catalogue",
                 "content": {
-                    "type": "layout",
-                    "key": "cards_grid"
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "For Combos",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 39,
+                                "item_width": 29,
+                                "rows": [
+                                    ["rock_hagan", "bum_hagan", "storm_hagan", "mandragora", "mandra_dancer", "king_mandragora", "wraith", "lich", "sekmet", "acid_cloud", "gold_butterfly"],
+                                    ["red_dragon", "brine_dragon", "green_dragon", "amber_dragon", "acid_dragon", "pixie", "phoenix", "golden_phoenix", "mermaid", "siren"],
+                                    ["carbuncle", "decoy_pillar", "panther_mage", "tiger_mage", "dryad", "gnome", "salamander", "undine", "sphinx", "mummy"],
+                                    ["red_lizard", "venom_lizard", "lizard_man", "basilisk", "doppelganger", "god_of_destruction", "ice_skeleton", "demon_skeleton", "steel_skeleton", "skeleton", "vampire_bush"],
+                                    ["stone_head", "efreet", "dao", "marid", "stone_golem", "archer_tree", "fire_moray", "water_moray", "earth_moray"],
+                                    ["ghost_armor", "chaos_knight", "flying_ray", "dark_raven", "elephant", "elephant_king", "sea_monk", "mind_flayer"],
+                                    ["fire_golem", "ice_golem", "valkyrie", "thanatos", "running_bird", "gold_butterfly", "orc"],
+                                    ["hobgoblin", "goblin_lord", "fenril", "behemoth", "demon_fox", "ice_golem", "gravity_pillar", "doppelganger", "cockatrice", "fairy", "rheebus"],
+                                    ["carbuncle", "juggernaut", "whip_worm", "white_tiger", "golden_phoenix", "great_turtle", "blue_dragon", "earth_elemental", "fire_elemental", "water_elemental", "wood_elemental"],
+                                    ["dragon_knight", "crystal_rose", "succubus", "incubus", "treant", "dark_raven", "elf", "elf_lord", "dark_elf"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Fire",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["red_dragon", "red_lizard", "hobgoblin", "jack-o-lantern", "orc", "flayer_spawn", "fire_golem"],
+                                    ["berserker", "dark_raven", "wizard", "will_o_wisp", "stone_head", "blood_bush", "efreet"],
+                                    ["demon_fox", "fire_gargoyle", "great_demon", "tiger_mage", "salamander", "chimera", "kitty_trap"],
+                                    ["golden_phoenix", "fire_elemental", "valkyrie", "napalm_beast", "leprechaun", "lucky_lion", "manticore"],
+                                    ["popgun_charlie", "fireworks", "undead_knight", "gemini", "demon_lord", "coal_treant", "gargoyle"],
+                                    ["matador", "cerberus", "boom_monkey", "berserk_master", "hell_hound", "phoenix", "ashura"],
+                                    ["jade_giant", "fafnir", "fire_moray"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Water",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["unicorn", "sasquatch", "wraith", "fairy", "vampire_bush", "kraken", "water_reaper"],
+                                    ["giant_crab", "land_shark", "flying_ray", "basilisk", "maelstrom", "sea_monk", "larval_fly"],
+                                    ["crystal_rose", "dragon_knight", "blue_dragon", "hydra", "siren", "mermaid", "undine"],
+                                    ["demon_skeleton", "mind_flayer", "ice_golem", "water_elemental", "sprite", "charadrius", "yowie"],
+                                    ["apsaras", "super_pumper", "vodianoi", "march_hare", "marid", "brine_dragon", "panther_mage"],
+                                    ["phantom_ship", "daidarapochi", "witchlette", "rock_hagan", "phooka", "rubber_froggy", "baba_yaga"],
+                                    ["sleipnir", "beaker", "water_moray", "ice_skeleton"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Earth",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["skeleton", "lizard_man", "elephant", "sand_golem", "sand_worm", "mummy", "catoblepas"],
+                                    ["lich", "carbuncle", "zombie_dragon", "running_bird", "behemoth", "sand_beetle", "great_turtle"],
+                                    ["dragonoid", "juggernaut", "gnome", "venus_spider", "sphinx", "plague_rat", "cyclops"],
+                                    ["elephant_king", "earth_elemental", "porcupig", "golden_porcupig", "uroboros", "dao", "global_bust"],
+                                    ["acid_cloud", "baby_dragon", "stone_golem", "lamassu", "myconid", "spartoi", "amber_dragon"],
+                                    ["bum_hagan", "barometz", "pixie", "tumble_chick", "talos", "blue_mold", "pazuzu"],
+                                    ["vouivre", "earth_moray", "demon_swordsman"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Wood",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["ghost_armor", "mandragora", "man_trap", "cockatrice", "fenril", "banshee", "demon_hound"],
+                                    ["lycanthrope", "gold_butterfly", "ghoul", "treant", "king_mandragora", "dryad", "birdman"],
+                                    ["archer_tree", "evil_eye", "venom_lizard", "scythe_beast", "rheebus", "white_tiger", "whip_worm"],
+                                    ["trickster", "caterpoker", "wood_elemental", "green_dragon", "mandra_dancer", "elf", "elf_lord"],
+                                    ["garuda", "circasaurus", "sekmet", "raflesia", "chameleus", "devil_plant", "centaur"],
+                                    ["dark_treant", "sleeping_giant", "storm_hagan", "nueh", "horus", "mad_reverser", "anarchy_owl"],
+                                    ["pegasus", "ryuhi"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Neutral/Mech",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["golden_goose", "mole_monster", "necromancer", "goblin_lord", "night_mare", "vampire", "puppet_master"],
+                                    ["beelzebub", "black_dragon", "steel_skeleton", "chaos_knight", "decoy_pillar", "god_of_destruction", "doppelganger"],
+                                    ["succubus", "incubus", "wyvern", "death", "yin_yang", "dark_elf", "gravity_pillar"],
+                                    ["octobush", "dark_sprite", "devata", "thanatos", "acid_dragon", "gorgon", "rabandos"],
+                                    ["crystal_magic", "psycho_dice", "emperor"],
+                                    ["aggressor_gl2", "gizmolizer", "mechlance_5l", "lazerbug_39k", "acidbot", "chariobot", "mechapult"],
+                                    ["aggressor_dx5", "uberbomberbot", "claws-r-us", "triblaster", "superscrubber", "astrobot", "sacred_umpire"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Independent",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["skeleton", "hobgoblin", "man_trap", "catoblepas", "golden_goose", "land_shark", "berserker"],
+                                    ["demon_hound", "sand_beetle", "great_turtle", "siren", "night_mare", "trickster", "demon_skeleton"],
+                                    ["caterpoker", "black_dragon", "steel_skeleton", "doppelganger", "aggressor_gl2", "yowie", "porcupig"],
+                                    ["golden_porcupig", "mandra_dancer", "vodianoi", "yin_yang", "elf", "elf_lord", "dark_elf"],
+                                    ["popgun_charlie", "acid_cloud", "baby_dragon", "mechlance_5l", "undead_knight", "lamassu", "raflesia"],
+                                    ["witchlette", "chameleus", "devil_plant", "gargoyle", "mechapult", "aggressor_dx5", "matador"],
+                                    ["horus", "rubber_froggy", "boom_monkey", "uberbomberbot", "pixie", "berserk_master", "tumble_chick"],
+                                    ["claws-r-us", "beaker", "ice_skeleton"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Helper",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["mandragora", "sand_golem", "fairy", "vampire_bush", "carbuncle", "running_bird", "mole_monster"],
+                                    ["maelstrom", "gold_butterfly", "treant", "king_mandragora", "larval_fly", "wizard", "dryad"],
+                                    ["will_o_wisp", "stone_head", "juggernaut", "evil_eye", "gnome", "tiger_mage", "salamander"],
+                                    ["goblin_lord", "kitty_trap", "golden_phoenix", "rheebus", "mermaid", "plague_rat", "undine"],
+                                    ["whip_worm", "beelzebub", "cyclops", "decoy_pillar", "earth_elemental", "water_elemental", "fire_elemental"],
+                                    ["wood_elemental", "napalm_beast", "sprite", "leprechaun", "apsaras", "super_pumper", "lucky_lion"],
+                                    ["uroboros", "march_hare", "global_bust", "panther_mage", "myconid", "acidbot", "dark_treant"],
+                                    ["coal_treant", "gravity_pillar", "octobush", "dark_sprite", "phooka", "acid_dragon", "mad_reverser"],
+                                    ["anarchy_owl", "phoenix", "ashura", "crystal_magic", "blue_mold", "superscrubber", "fire_moray"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Weapon",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["ghost_armor", "lizard_man", "red_lizard", "mummy", "cockatrice", "wraith", "orc"],
+                                    ["water_reaper", "lich", "flayer_spawn", "banshee", "flying_ray", "basilisk", "lycanthrope"],
+                                    ["ghoul", "crystal_rose", "dark_raven", "dragonoid", "archer_tree", "blood_bush", "efreet"],
+                                    ["dragon_knight", "great_demon", "venom_lizard", "scythe_beast", "sphinx", "chaos_knight", "charadrius"],
+                                    ["death", "dao", "marid", "sekmet", "spartoi", "demon_lord", "astrobot"],
+                                    ["vouivre", "water_moray", "demon_swordsman"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Summon",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["red_dragon", "elephant", "jack-o-lantern", "sand_worm", "sasquatch", "kraken", "fenril"],
+                                    ["zombie_dragon", "fire_golem", "giant_crab", "behemoth", "necromancer", "sea_monk", "demon_fox"],
+                                    ["fire_gargoyle", "blue_dragon", "hydra", "chimera", "white_tiger", "venus_spider", "vampire"],
+                                    ["puppet_master", "mind_flayer", "ice_golem", "elephant_king", "god_of_destruction", "succubus", "incubus"],
+                                    ["valkyrie", "green_dragon", "manticore", "brine_dragon", "gizmolizer", "fireworks", "lazerbug_39k"],
+                                    ["phantom_ship", "daidarapochi", "gemini", "amber_dragon", "sleeping_giant", "storm_hagan", "rock_hagan"],
+                                    ["bum_hagan", "barometz", "thanatos", "nueh", "gorgon", "rabandos", "sleipnir"],
+                                    ["triblaster", "pegasus", "psycho_dice", "jade_giant", "fafnir", "ryuhi", "sacred_umpire"],
+                                    ["emperor"]
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Transform",
+                            "content": {
+                                "type": "itemgrid",
+                                "item_margin": "1, 1",
+                                "h_alignment": "left",
+                                "item_height": 58,
+                                "item_width": 43,
+                                "rows": [
+                                    ["unicorn", "birdman", "wyvern", "garuda", "circasaurus", "stone_golem", "centaur"],
+                                    ["chariobot", "devata", "cerberus", "baba_yaga", "hell_hound", "talos", "Pazuzu"]
+                                ]
+                            }
+                        }
+                    ]
                 }
             }
         ]
