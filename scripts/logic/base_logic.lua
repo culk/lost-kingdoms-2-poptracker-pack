@@ -143,7 +143,7 @@ local stationary_seal_activator_cards = {
     "super_pumper",
     "global_bust",
     "myconid",
-    "acid_bot",
+    "acidbot",
     "dark_treant",
     "coal_treant",
     --"gravity_pillar", -- short lifespan

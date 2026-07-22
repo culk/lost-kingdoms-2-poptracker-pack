@@ -839,7 +839,7 @@
     {
         "name": "Claws-R-Us",
         "type": "toggle",
-        "img": "images/items/cards/claws-r-us.png",
+        "img": "images/items/cards/claws_r_us.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "claws-r-us"
@@ -1149,12 +1149,12 @@
         "codes": "gargoyle"
     },
     {
-        "name": "Acid Bot",
+        "name": "AcidBot",
         "type": "toggle",
-        "img": "images/items/cards/acid_bot.png",
+        "img": "images/items/cards/acidbot.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "acid_bot"
+        "codes": "acidbot"
     },
     {
         "name": "Will O' Wisp",
@@ -1237,12 +1237,12 @@
         "codes": "decoy_pillar"
     },
     {
-        "name": "Sandbeetle",
+        "name": "Sand Beetle",
         "type": "toggle",
-        "img": "images/items/cards/sandbeetle.png",
+        "img": "images/items/cards/sand_beetle.png",
         "initial_active_state": false,
         "overlay_align": "right",
-        "codes": "sandbeetle"
+        "codes": "sand_beetle"
     },
     {
         "name": "Earth Elemental",
@@ -1431,7 +1431,7 @@
     {
         "name": "Jack-O-Lantern",
         "type": "toggle",
-        "img": "images/items/cards/jack-o-lantern.png",
+        "img": "images/items/cards/jack_o_lantern.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "jack-o-lantern"
