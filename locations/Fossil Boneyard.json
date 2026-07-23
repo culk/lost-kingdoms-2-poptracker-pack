@@ -118,7 +118,7 @@
                     {
                         "map": "Fossil Boneyard",
                         "x": 420,
-                        "y": 889
+                        "y": 896
                     }
                 ]
             },
@@ -567,10 +567,6 @@
                             {
                                 "name": "Gnome #5 (1st Visit Only)",
                                 "visibility_rules": ["missable_locations_show"]
-                            },
-                            {
-                                "name": "Caterpoker #10",
-                                "access_rules": ["[^$can_fly]"]
                             }
                         ],
                         "map_locations": [
@@ -582,18 +578,37 @@
                         ]
                     },
                     {
+                        "name": "Caterpoker #10",
+                        "access_rules": [
+                            "^$can_booster_jump, ^$can_fly",
+                            "^$can_booster_jump, cerberus, [^$can_fly]"
+                        ],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 419,
+                                "y": 868
+                            }
+                        ]
+                    },
+                    {
                         "name": "Group 12",
                         "access_rules": ["^$can_booster_jump"],
                         "sections": [
                             {
-                                "name": "Gnome #3",
-                                "access_rules": ["[^$can_high_jump]"]
+                                "name": "Gnome #3"
                             },
                             {
                                 "name": "Caterpoker #8"
                             },
                             {
-                                "name": "Gnome #6"
+                                "name": "Gnome #6",
+                                "access_rules": ["^$can_high_jump"]
                             }
                         ],
                         "map_locations": [
