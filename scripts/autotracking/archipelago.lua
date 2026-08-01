@@ -136,7 +136,7 @@ function onClear(slot_data)
         end
         for exit_name, level_name in pairs(SLOT_DATA["level_randomization_mapping"]) do
             local exit = EXIT_BY_NAME[string.gsub(exit_name, ", ", " - ")]
-            exit:Assign(LEVEL_BY_NAME[level_name])
+            exit:Assign(LEVEL_BY_NAME[level_name], true)
         end
     elseif SLOT_DATA["Seed"] ~= SAVED_STATE.SEED then
         -- Connected slot has a different seed, unassign all connections.
@@ -298,6 +298,41 @@ function UpdateMap(level_id)
     print(string.format('UpdateMap: activating tabs "%s" for level_id %d', table.concat(tabs, "/"), level_id))
     for _, tab in ipairs(tabs) do
         Tracker:UiHint("ActivateTab", tab)
+    end
+end
+
+EXITS_STALE = true
+
+function ToggleRandomizeLevels()
+    EXITS_STALE = true
+end
+
+function UpdateExits()
+    if EXITS_STALE then
+        local randomize_levels_stage = Tracker:FindObjectForCode("randomize_levels").CurrentStage
+        print(string.format("UpdateExits: Updating level exit assignments, stage: %d", randomize_levels_stage))
+
+        -- Clear all current assignments.
+        for _, exit in pairs(EXIT_BY_NAME) do
+            exit:Assign(nil)
+        end
+        if randomize_levels_stage == 0 then
+            -- Assign all exits using their default mapping.
+            for exit_name, level_name in pairs(DEFAULT_EXIT_MAPPING) do
+                local exit = EXIT_BY_NAME[exit_name]
+                exit:Assign(LEVEL_BY_NAME[level_name])
+            end
+        else
+            -- Assign all exits to their randomized levels.
+            for _, exit in pairs(EXIT_BY_NAME) do
+                local randomized_level_name = exit.RandomizedLevelName
+                if randomized_level_name then
+                    exit:Assign(LEVEL_BY_NAME[randomized_level_name], true)
+                end
+            end
+        end
+
+        EXITS_STALE = false
     end
 end
 

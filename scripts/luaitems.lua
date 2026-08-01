@@ -8,7 +8,10 @@ function CreateExitItem(exit)
     local exit_item = ScriptHost:CreateLuaItem()
     exit_item.Name = exit.Name
     exit_item.Icon = ImageReference:FromPackRelativePath(exit.Icon)
-    exit_item.ItemState = {AssignedLevelName = nil}
+    exit_item.ItemState = {
+        DefaultLevelName = exit.DefaultLevelName,
+        RandomizedLevelName = nil,
+    }
     exit_item:SetOverlayAlign("left")
 
     exit_item.CanProvideCodeFunc = function(self, code)
@@ -33,7 +36,7 @@ function CreateExitItem(exit)
             local level = Level.SelectedLevel
             if level then
                 -- Assign the selected level to the left clicked exit.
-                exit:Assign(level)
+                exit:Assign(level, true)
             else
                 -- Select the left clicked exit.
                 Exit.Select(exit)
@@ -52,14 +55,27 @@ function CreateExitItem(exit)
     end
 
     exit_item.SaveFunc = function(self)
-        return {AssignedLevelName = self.ItemState.AssignedLevelName}
+        return {
+            DefaultLevelName = self.ItemState.DefaultLevelName,
+            RandomizedLevelName = self.ItemState.RandomizedLevelName,
+        }
     end
 
     exit_item.LoadFunc = function(self, data)
-        if data.AssignedLevelName then
-            print(string.format("ExitLuaItem.LoadFunc: loading exit '%s' with saved level '%s'", self.Name, data.AssignedLevelName))
-            self.ItemState.AssignedLevelName = data.AssignedLevelName
-            exit:Assign(LEVEL_BY_NAME[data.AssignedLevelName])
+        if data.DefaultLevelName then
+            self.ItemState.DefaultLevelName = data.DefaultLevelName
+            exit.DefaultLevelName = data.DefaultLevelName
+        end
+        if data.RandomizedLevelName then
+            self.ItemState.RandomizedLevelName = data.RandomizedLevelName
+            exit.RandomizedLevelName = data.RandomizedLevelName
+        end
+        if Tracker:FindObjectForCode("randomize_levels").CurrentStage == 0 then
+            print(string.format("ExitLuaItem.LoadFunc: loading exit '%s' with default level '%s'", self.Name, exit.DefaultLevelName))
+            exit:Assign(LEVEL_BY_NAME[exit.DefaultLevelName])
+        elseif data.RandomizedLevelName then
+            print(string.format("ExitLuaItem.LoadFunc: loading exit '%s' with saved level '%s'", self.Name, data.RandomizedLevelName))
+            exit:Assign(LEVEL_BY_NAME[data.RandomizedLevelName])
         end
     end
 
@@ -73,7 +89,7 @@ function CreateLevelItem(level)
     local level_item = ScriptHost:CreateLuaItem()
     level_item.Name = level.Name
     level_item.Icon = ImageReference:FromPackRelativePath(level.Icon)
-    level_item.ItemState = {}
+    level_item.ItemState = {} -- State is tracked by Exit LuaItems.
     level_item:SetOverlayAlign("left")
 
     level_item.CanProvideCodeFunc = function(self, code)
@@ -98,7 +114,7 @@ function CreateLevelItem(level)
             local exit = Exit.SelectedExit
             if exit then
                 -- Assign the left clicked level to the selected exit.
-                exit:Assign(level)
+                exit:Assign(level, true)
             else
                 -- Select the left clicked level.
                 Level.Select(level)

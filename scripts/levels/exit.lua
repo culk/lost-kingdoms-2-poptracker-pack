@@ -5,13 +5,17 @@ Exit.__index = Exit
 ---Creates a new Exit object
 ---@param name string
 ---@param icon string
+---@param default_level_name string
 ---@return table
-function Exit.New(name, icon)
+function Exit.New(name, icon, default_level_name)
     ---@class Exit
     local o = setmetatable({}, Exit)
     o.Name = name
     o.LocationRef = "@Connections/" .. name
     o.Icon = icon
+    o.DefaultLevelName = default_level_name
+    ---@type string
+    o.RandomizedLevelName = nil
     ---@type Level
     o.Level = nil
     return o
@@ -40,15 +44,21 @@ end
 
 ---Connects the exit to the level, deselects both, and updates their appearance and location information.
 ---@param level Level?
-function Exit:Assign(level)
+---@param is_randomized boolean?
+function Exit:Assign(level, is_randomized)
+    is_randomized = is_randomized or false
     local previous_level = self.Level
     self.Level = level
     local new_level_name = "nil"
     if level then
         new_level_name = level.Name
         level.Exit = self
+        if is_randomized then
+            -- Only update the randomized level name when assigning a level from slot data or manually. Allows for toggling between default level mapping and randomized level mapping.
+            self.RandomizedLevelName = level.Name
+        end
     end
-    if previous_level then
+    if previous_level and previous_level ~= level then
         previous_level.Exit = nil
     end
     print(string.format("Exit.Assign: Connecting exit '%s' to '%s'", self.Name, new_level_name))
@@ -60,7 +70,7 @@ function Exit:Assign(level)
     if level then
         level:UpdateItem()
     end
-    if previous_level then
+    if previous_level and previous_level ~= level then
         previous_level:UpdateItem()
     end
 end
@@ -79,12 +89,10 @@ function Exit:UpdateItemState(item)
         return
     end
 
-    local level = self.Level
-    local assigned_level_name = nil
-    if level then
-        assigned_level_name = level.Name
+    if self.RandomizedLevelName then
+        -- Update item state with randomized level so that loading a saved pack state preserves assignments.
+        item.ItemState.RandomizedLevelName = self.RandomizedLevelName
     end
-    item.ItemState.AssignedLevelName = assigned_level_name
 end
 
 ---Returns the img_mods to apply to the exit's hosted LuaItem to indicate if it is selected or assigned a Level.
@@ -175,11 +183,6 @@ ICON_BY_EXIT = {
     ["Grenfoel Cathedral Exit 2"] = "images/items/exits/grenfoel_cathedral_exit_2.png",
 }
 
-EXIT_BY_NAME = {}
-for name, icon in pairs(ICON_BY_EXIT) do
-    EXIT_BY_NAME[name] = Exit.New(name, icon)
-end
-
 DEFAULT_EXIT_MAPPING = {
     ["Nobleman's Residence Exit 1"] = "Bhashea High Road",
     ["Nobleman's Residence Exit 2"] = "Isamat Urbur",
@@ -204,3 +207,8 @@ DEFAULT_EXIT_MAPPING = {
     ["Grenfoel Cathedral Exit 1"] = "Temple of Sharacia",
     ["Grenfoel Cathedral Exit 2"] = "Grenfoel Cathedral Shop",
 }
+
+EXIT_BY_NAME = {}
+for name, icon in pairs(ICON_BY_EXIT) do
+    EXIT_BY_NAME[name] = Exit.New(name, icon, DEFAULT_EXIT_MAPPING[name])
+end

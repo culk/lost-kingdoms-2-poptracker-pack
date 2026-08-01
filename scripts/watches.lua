@@ -6,6 +6,11 @@ Archipelago:AddSetReplyHandler("notify handler", OnNotify)
 Archipelago:AddRetrievedHandler("notify launch handler", OnNotifyLaunch)
 Archipelago:AddBouncedHandler("bounce handler", OnBounce)
 
+-- Code watch for toggling randomized level connections
+ScriptHost:AddWatchForCode("randomize_levels_assignments", "randomize_levels", ToggleRandomizeLevels)
+
+ScriptHost:AddOnFrameHandler("tracker_exits_update", UpdateExits)
+
 -- Code watches for settings to show/hide portions of the item tracker layout
 ScriptHost:AddWatchForCode("fairysanity", "fairysanity", ToggleItems)
 ScriptHost:AddWatchForCode("progressive_leveling", "progressive_leveling", ToggleItems)
