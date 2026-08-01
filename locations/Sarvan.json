@@ -45,7 +45,7 @@
             {
                 "name": "Caged Chest 1",
                 "access_rules": ["^$can_fly"],
-                "visibility_rules": ["missable_locations_show"],
+                "visibility_rules": ["missable_locations_show,$is_caged_chest_2_unchecked"],
                 "sections": [
                     {
                         "name": ""
@@ -91,7 +91,7 @@
             },
             {
                 "name": "Caged Chest 2",
-                "visibility_rules": ["missable_locations_show"],
+                "visibility_rules": ["missable_locations_show,$is_caged_chest_1_unchecked"],
                 "sections": [
                     {
                         "name": ""

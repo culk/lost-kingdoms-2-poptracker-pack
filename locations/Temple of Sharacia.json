@@ -101,7 +101,7 @@
             },
             {
                 "name": "Help Valkyrie",
-                "visibility_rules": ["missable_locations_show"],
+                "visibility_rules": ["missable_locations_show,$is_help_valkyrie_unchecked"],
                 "sections": [
                     {
                         "name": ""
@@ -117,7 +117,7 @@
             },
             {
                 "name": "Help Ashura",
-                "visibility_rules": ["missable_locations_show"],
+                "visibility_rules": ["missable_locations_show,$is_help_ashura_unchecked"],
                 "sections": [
                     {
                         "name": ""
@@ -412,7 +412,7 @@
                     },
                     {
                         "name": "Ashura #1 (1st Visit Only)",
-                        "visibility_rules": ["missable_locations_show"],
+                        "visibility_rules": ["missable_locations_show,$is_help_valkyrie_unchecked"],
                         "sections": [
                             {
                                 "name": ""
@@ -428,7 +428,7 @@
                     },
                     {
                         "name": "Valkyrie #1 (1st Visit Only)",
-                        "visibility_rules": ["missable_locations_show"],
+                        "visibility_rules": ["missable_locations_show,$is_help_ashura_unchecked"],
                         "sections": [
                             {
                                 "name": ""

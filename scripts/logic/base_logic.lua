@@ -173,3 +173,21 @@ function has_goal_red_fairies()
     local required_amount = Tracker:FindObjectForCode("red_fairies_goal_amount").AcquiredCount
     return HAS("red_fairy", required_amount)
 end
+
+-- Boolean visibility functions for either/or checks.
+
+function is_help_valkyrie_unchecked()
+    return Tracker:FindObjectForCode("@Temple of Sharacia/Help Ashura/").AvailableChestCount ~= 0
+end
+
+function is_help_ashura_unchecked()
+    return Tracker:FindObjectForCode("@Temple of Sharacia/Help Valkyrie/").AvailableChestCount ~= 0
+end
+
+function is_caged_chest_1_unchecked()
+    return Tracker:FindObjectForCode("@Sarvan/Caged Chest 1/").AvailableChestCount ~= 0
+end
+
+function is_caged_chest_2_unchecked()
+    return Tracker:FindObjectForCode("@Sarvan/Caged Chest 2/").AvailableChestCount ~= 0
+end
