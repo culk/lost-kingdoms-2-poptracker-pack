@@ -25,7 +25,7 @@
                 "name": "Chest 2",
                 "access_rules": [
                     "^$can_fly",
-                    "cerberus"
+                    "cerberus, [^$can_fly]"
                 ],
                 "sections": [
                     {
