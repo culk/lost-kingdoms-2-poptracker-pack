@@ -190,7 +190,7 @@ function onItem(index, item_id, item_name, player_number)
                 end
             end
         else
-            print(string.format("onItem: could not find object for code %s", item_code[1]))
+            print(string.format("onItem: could not find object for code %s", item_code))
         end
     end
 end
@@ -269,9 +269,9 @@ end
 function UpdateStatus(status)
     if status == Archipelago.ClientStatus.GOAL then
         print("UpdateStatus: goal achieved")
-        onLocation(10000, "Goal - Defeat the God of Harmony")
-        onLocation(10001, "Goal - Defeat the Emperor")
-        onLocation(10002, "Goal - Collect Red Fairies")
+        onLocation(100000, "Goal - Defeat the God of Harmony")
+        onLocation(100001, "Goal - Defeat the Emperor")
+        onLocation(100002, "Goal - Collect Red Fairies")
     end
 end
 
