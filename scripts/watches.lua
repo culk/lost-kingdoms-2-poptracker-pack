@@ -17,5 +17,6 @@ ScriptHost:AddWatchForCode("progressive_leveling", "progressive_leveling", Toggl
 ScriptHost:AddWatchForCode("progressive_attribute_proficiencies", "progressive_attribute_proficiencies", ToggleItems)
 ScriptHost:AddWatchForCode("combosanity", "combosanity", ToggleItems)
 ScriptHost:AddWatchForCode("randomize_levels", "randomize_levels", ToggleItems)
+ScriptHost:AddWatchForCode("level_unlocks_as_items", "level_unlocks_as_items", ToggleItems)
 
 ScriptHost:AddOnFrameHandler("tracker_layout_update", UpdateLayout)

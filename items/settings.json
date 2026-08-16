@@ -120,6 +120,12 @@
         ]
     },
     {
+        "name": "Level Unlocks as Items",
+        "type": "toggle",
+        "img": "images/settings/setting_level_unlocks_as_items.png",
+        "codes": "level_unlocks_as_items"
+    },
+    {
         "name": "Progressive Leveling",
         "type": "toggle",
         "img": "images/settings/setting_progressive_leveling.png",
@@ -174,5 +180,5 @@
                 "name": "Missable Locations - Show"
             }
         ]
-    },
+    }
 ]

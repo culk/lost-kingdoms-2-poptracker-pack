@@ -12,6 +12,7 @@
                     ["header_settings"],
                     ["auto_tab_map"],
                     ["missable_locations"],
+                    ["level_unlocks_as_items"],
                     ["randomize_levels"],
                     ["progressive_leveling"],
                     ["progressive_attribute_proficiencies"],

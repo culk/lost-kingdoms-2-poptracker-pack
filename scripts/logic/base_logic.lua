@@ -71,11 +71,18 @@ function can_reach_ruldo_flight_chest()
 end
 
 function can_enter_level(level_name)
+    if Tracker:FindObjectForCode("level_unlocks_as_items").Active then
+        -- Check if level unlock item has been found.
+        return HAS(level_name.." Unlock")
+    end
+
     local previous_exit = LEVEL_BY_NAME[level_name].Exit
     if not previous_exit then
+        -- Have not yet found the exit that leads to this level.
         return AccessibilityLevel.None
     end
 
+    -- Return the accessibility level of the exit Location and level Lua Item.
     local location = Tracker:FindObjectForCode(previous_exit.LocationRef)
     if not location then
         print("can_enter_level: failed to find location for ref", previous_exit.LocationRef)
@@ -86,18 +93,39 @@ function can_enter_level(level_name)
 end
 
 function can_enter_royal_tower_lower()
+    if Tracker:FindObjectForCode("level_unlocks_as_items").Active then
+        return HAS("Royal Tower - Lower Unlock")
+    end
+
+    -- Return access level of clearing Alanjeh Castle.
     return can_enter_level("Alanjeh Castle")
 end
 
 function can_enter_royal_tower_middle()
+    if Tracker:FindObjectForCode("level_unlocks_as_items").Active then
+        return HAS("Royal Tower - Middle Unlock")
+    end
+
+    -- Return access level of clearing lower levels of Royal Tower.
     return ALL("god_of_destruction", can_enter_level("Alanjeh Castle"))
 end
 
 function can_enter_royal_tower_upper()
+    if Tracker:FindObjectForCode("level_unlocks_as_items").Active then
+        return HAS("Royal Tower - Upper Unlock")
+    end
+
+    -- Return access level of clearing lower levels of Royal Tower.
     return ALL("god_of_destruction", can_enter_level("Alanjeh Castle"))
 end
 
 function can_enter_proving_grounds()
+    if Tracker:FindObjectForCode("level_unlocks_as_items").Active then
+        -- Proving Grounds unlocks automatically after clearing Royal Tower Upper.
+        return HAS("Royal Tower - Upper Unlock")
+    end
+
+    -- Return access level of clearing all levels of Royal Tower.
     return ALL("god_of_destruction", can_enter_level("Alanjeh Castle"))
 end
 
@@ -106,6 +134,11 @@ function can_enter_sacred_battle_arena_1()
 end
 
 function can_enter_sacred_battle_arena_2()
+    if Tracker:FindObjectForCode("level_unlocks_as_items").Active then
+        return HAS("Sacred Battle Arena 2 Unlock")
+    end
+
+    -- Return access level of clearing Arena 1.
     local has_attribute_proficiency = AccessibilityLevel.Normal
     if Tracker:ProviderCountForCode("progressive_attribute_proficiencies") > 0 then
         has_attribute_proficiency = ALL(

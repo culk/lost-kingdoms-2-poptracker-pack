@@ -2,7 +2,7 @@
     "player_levels": {
         "type": "itemgrid",
         "item_margin": "2,2",
-        "item_size": "48,48",
+        "item_size": "42,42",
         "h_alignment": "left",
         "item_h_alignment": "center",
         "item_v_alignment": "center",

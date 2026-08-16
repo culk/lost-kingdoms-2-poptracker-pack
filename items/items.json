@@ -421,6 +421,196 @@
     },
 
     {
+        "name": "Nobleman's Residence Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/noblemans_residence.png",
+        "initial_active_state": false,
+        "codes": "Nobleman's Residence Unlock"
+    },
+    {
+        "name": "Bhashea High Road Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/bhashea_high_road.png",
+        "initial_active_state": false,
+        "codes": "Bhashea High Road Unlock"
+    },
+    {
+        "name": "Isamat Urbur Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/isamat_urbur.png",
+        "initial_active_state": false,
+        "codes": "Isamat Urbur Unlock"
+    },
+    {
+        "name": "Kendarie Fortress Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/kendarie_fortress.png",
+        "initial_active_state": false,
+        "codes": "Kendarie Fortress Unlock"
+    },
+    {
+        "name": "Kadishu Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/kadishu.png",
+        "initial_active_state": false,
+        "codes": "Kadishu Unlock"
+    },
+    {
+        "name": "Bhashea Castle Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/bhashea_castle.png",
+        "initial_active_state": false,
+        "codes": "Bhashea Castle Unlock"
+    },
+    {
+        "name": "Kadishu Shop Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/kadishu_shop.png",
+        "initial_active_state": false,
+        "codes": "Kadishu Shop Unlock"
+    },
+    {
+        "name": "Fairy House Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/fairy_house.png",
+        "initial_active_state": false,
+        "codes": "Fairy House Unlock"
+    },
+    {
+        "name": "Gromtull Desert Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/gromtull_desert.png",
+        "initial_active_state": false,
+        "codes": "Gromtull Desert Unlock"
+    },
+    {
+        "name": "Runestone Caverns - Upper Chambers Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/runestone_caverns_upper_chambers.png",
+        "initial_active_state": false,
+        "codes": "Runestone Caverns - Upper Chambers Unlock"
+    },
+    {
+        "name": "Runestone Caverns - Lower Chambers Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/runestone_caverns_lower_chambers.png",
+        "initial_active_state": false,
+        "codes": "Runestone Caverns - Lower Chambers Unlock"
+    },
+    {
+        "name": "Ruldo Forest Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/ruldo_forest.png",
+        "initial_active_state": false,
+        "codes": "Ruldo Forest Unlock"
+    },
+    {
+        "name": "Sacred Battle Arena Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/sacred_battle_arena_1.png",
+        "initial_active_state": false,
+        "codes": "Sacred Battle Arena 1 Unlock"
+    },
+    {
+        "name": "Sacred Battle Arena 2 Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/sacred_battle_arena_2.png",
+        "initial_active_state": false,
+        "codes": "Sacred Battle Arena 2 Unlock"
+    },
+    {
+        "name": "Fossil Boneyard Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/fossil_boneyard.png",
+        "initial_active_state": false,
+        "codes": "Fossil Boneyard Unlock"
+    },
+    {
+        "name": "Sarvan Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/sarvan.png",
+        "initial_active_state": false,
+        "codes": "Sarvan Unlock"
+    },
+    {
+        "name": "Holzogh Town Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/holzogh_town.png",
+        "initial_active_state": false,
+        "codes": "Holzogh Town Unlock"
+    },
+    {
+        "name": "Plains of Rowahl Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/plains_of_rowahl.png",
+        "initial_active_state": false,
+        "codes": "Plains of Rowahl Unlock"
+    },
+    {
+        "name": "Alanjeh Castle Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/alanjeh_castle.png",
+        "initial_active_state": false,
+        "codes": "Alanjeh Castle Unlock"
+    },
+    {
+        "name": "Royal Tower - Lower Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/royal_tower_lower.png",
+        "initial_active_state": false,
+        "codes": "Royal Tower - Lower Unlock"
+    },
+    {
+        "name": "Royal Tower - Middle Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/royal_tower_middle.png",
+        "initial_active_state": false,
+        "codes": "Royal Tower - Middle Unlock"
+    },
+    {
+        "name": "Royal Tower - Upper Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/royal_tower_upper.png",
+        "initial_active_state": false,
+        "codes": "Royal Tower - Upper Unlock"
+    },
+    {
+        "name": "Krasheen Mountains Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/krasheen_mountains.png",
+        "initial_active_state": false,
+        "codes": "Krasheen Mountains Unlock"
+    },
+    {
+        "name": "Grenfoel Cathedral Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/grenfoel_cathedral.png",
+        "initial_active_state": false,
+        "codes": "Grenfoel Cathedral Unlock"
+    },
+    {
+        "name": "Temple of Sharacia Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/temple_of_sharacia.png",
+        "initial_active_state": false,
+        "codes": "Temple of Sharacia Unlock"
+    },
+    {
+        "name": "Grenfoel Cathedral Shop Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/grenfoel_card_shop.png",
+        "initial_active_state": false,
+        "codes": "Grenfoel Cathedral Shop Unlock"
+    },
+    {
+        "name": "Obenoix Gorge Unlock",
+        "type": "toggle",
+        "img": "images/items/levels/obenoix_gorge.png",
+        "initial_active_state": false,
+        "codes": "Obenoix Gorge Unlock"
+    },
+
+    {
         "name": "Fenril",
         "type": "toggle",
         "img": "images/items/cards/fenril.png",

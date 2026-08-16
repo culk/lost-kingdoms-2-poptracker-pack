@@ -1,0 +1,10 @@
+{
+    "level_unlocks_group": {
+        "type": "group",
+        "header": "Level Unlocks",
+        "content": {
+            "type": "layout",
+            "key": "level_unlocks_grid"
+        }
+    }
+}

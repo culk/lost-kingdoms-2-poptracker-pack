@@ -368,6 +368,14 @@ function UpdateLayoutLevels(show_player_levels, show_attributes)
     end
 end
 
+function UpdateLayoutLevelUnlocks(show_level_unlocks)
+    if show_level_unlocks then
+        Tracker:AddLayouts("layouts/level_unlocks/group_show.json")
+    else
+        Tracker:AddLayouts("layouts/level_unlocks/group_hide.json")
+    end
+end
+
 function UpdateLayoutMapTabs(show_combosanity, show_connections)
     if show_combosanity and show_connections then
         Tracker:AddLayouts("layouts/tabs/show_all.json")
@@ -386,10 +394,15 @@ function UpdateLayout()
         local show_player_levels = Tracker:FindObjectForCode("progressive_leveling").Active
         local show_attributes = Tracker:FindObjectForCode("progressive_attribute_proficiencies").Active
         local show_combosanity = Tracker:FindObjectForCode("combosanity").Active
-        local show_connections = Tracker:FindObjectForCode("randomize_levels").CurrentStage == 2
+        local show_level_unlocks = Tracker:FindObjectForCode("level_unlocks_as_items").Active
+        local show_connections = (
+            not show_level_unlocks
+            and Tracker:FindObjectForCode("randomize_levels").CurrentStage == 2
+        )
 
         UpdateLayoutKeyItems(show_red_fairies)
         UpdateLayoutLevels(show_player_levels, show_attributes)
+        UpdateLayoutLevelUnlocks(show_level_unlocks)
         UpdateLayoutMapTabs(show_combosanity, show_connections)
 
         LAYOUT_STALE = false

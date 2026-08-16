@@ -39,6 +39,13 @@ SETTING_MAPPING = {
             [1] = 1,
         },
     },
+    level_unlocks_as_items = {
+        code = "level_unlocks_as_items",
+        mapping = {
+            [0] = false,
+            [1] = true,
+        },
+    },
     progressive_leveling = {
         code = "progressive_leveling",
         mapping = {

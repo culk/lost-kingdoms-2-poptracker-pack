@@ -31,44 +31,115 @@
                 "content": [
                     {
                         "type": "layout",
-                        "dock": "top",
+                        "dock": "left",
                         "key": "player_levels"
                     },
                     {
                         "type": "layout",
-                        "dock": "top",
+                        "dock": "left",
                         "key": "attributes_horizontal"
                     }
                 ]
             }
         ]
     },
-    "cards_grid": {
+    "level_unlocks_grid": {
         "type": "itemgrid",
-        "item_margin": "2, 2",
+        "item_margin": "2,2",
         "h_alignment": "left",
         "item_h_alignment": "center",
         "item_v_alignment": "center",
-        "item_height": 77,
-        "item_width": 57,
+        "item_height": 42,
+        "item_width": 42,
         "rows": [
             [
-                "baba_yaga",
-                "birdman",
-                "garuda",
-                "wyvern",
-                "pazuzu"
+                "Bhashea High Road Unlock",
+                "Kadishu Unlock",
+                "Kadishu Shop Unlock",
+                "Fairy House Unlock",
+                "Gromtull Desert Unlock",
+                "Isamat Urbur Unlock",
+                "Bhashea Castle Unlock"
             ],
             [
+                "Kendarie Fortress Unlock",
+                "Runestone Caverns - Upper Chambers Unlock",
+                "Runestone Caverns - Lower Chambers Unlock",
+                "Ruldo Forest Unlock",
+                "Sacred Battle Arena 1 Unlock",
+                "Sacred Battle Arena 2 Unlock",
+                "Fossil Boneyard Unlock"
+            ],
+            [
+                "Sarvan Unlock",
+                "Holzogh Town Unlock",
+                "Plains of Rowahl Unlock",
+                "Alanjeh Castle Unlock",
+                "Royal Tower - Lower Unlock",
+                "Royal Tower - Middle Unlock",
+                "Royal Tower - Upper Unlock"
+            ],
+            [
+                "Obenoix Gorge Unlock",
+                "Krasheen Mountains Unlock",
+                "Grenfoel Cathedral Unlock",
+                "Grenfoel Cathedral Shop Unlock",
+                "Temple of Sharacia Unlock"
+            ]
+        ]
+    },
+    "cards_grid_vertical": {
+        "type": "itemgrid",
+        "item_margin": "2,2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 64,
+        "item_width": 48,
+        "rows": [
+            [
+                "stone_golem",
+                "chariobot",
+                "hell_hound",
+                "cerberus"
+            ],
+            [
+                "centaur",
+                "unicorn",
+                "baba_yaga",
+                "birdman"
+            ],
+            [
+                "garuda",
+                "wyvern",
+                "pazuzu",
+                "god_of_destruction"
+            ]
+        ]
+    },
+    "cards_grid_horizontal": {
+        "type": "itemgrid",
+        "item_margin": "2,2",
+        "h_alignment": "left",
+        "item_h_alignment": "center",
+        "item_v_alignment": "center",
+        "item_height": 64,
+        "item_width": 48,
+        "rows": [
+            [
+                "stone_golem",
+                "chariobot",
                 "hell_hound",
                 "cerberus",
                 "centaur",
                 "unicorn"
             ],
             [
-                "stone_golem",
-                "chariobot",
-                "talos",
+                "baba_yaga",
+                "birdman",
+                "garuda",
+                "wyvern",
+                "pazuzu",
                 "god_of_destruction"
             ]
         ]
@@ -96,11 +167,16 @@
                             "key": "levels_group_vertical"
                         },
                         {
+                            "type": "layout",
+                            "dock": "left",
+                            "key": "level_unlocks_group"
+                        },
+                        {
                             "type": "group",
                             "header": "Cards",
                             "content": {
                                 "type": "layout",
-                                "key": "cards_grid"
+                                "key": "cards_grid_vertical"
                             }
                         }
                     ]
@@ -307,12 +383,17 @@
                             "key": "levels_group_horizontal"
                         },
                         {
+                            "type": "layout",
+                            "dock": "top",
+                            "key": "level_unlocks_group"
+                        },
+                        {
                             "type": "group",
                             "header": "Cards",
                             "dock": "top",
                             "content": {
                                 "type": "layout",
-                                "key": "cards_grid"
+                                "key": "cards_grid_horizontal"
                             }
                         }
                     ]
