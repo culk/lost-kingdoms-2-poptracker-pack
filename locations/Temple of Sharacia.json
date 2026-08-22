@@ -551,6 +551,136 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Efreet",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 549,
+                                "y": 785
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fire Gargoyle",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 449,
+                                "y": 785
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Red Dragon",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 499,
+                                "y": 507
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cerberus",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 392,
+                                "y": 422
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Phoenix",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 607,
+                                "y": 422
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fire Elemental",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 562,
+                                "y": 367
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ashura (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show,$is_help_valkyrie_unchecked"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 772,
+                                "y": 202
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Valkyrie (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show,$is_help_ashura_unchecked"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 232,
+                                "y": 202
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

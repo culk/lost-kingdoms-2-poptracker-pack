@@ -6,11 +6,17 @@
         "access_rules": ["^$can_enter_sacred_battle_arena_2"],
         "children": [
             {
-                "name": "Defeat Rabandos",
+                "name": "Rabandos",
                 "access_rules": ["$has_attribute|neutral:6"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Defeat Rabandos"
+                    },
+                    {
+                        "name": "Enemysanity - Rabandos",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
@@ -38,11 +44,17 @@
                 ]
             },
             {
-                "name": "Defeat AstroBot",
+                "name": "AstroBot",
                 "access_rules": ["$has_attribute|mech:6"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Defeat AstroBot"
+                    },
+                    {
+                        "name": "Enemysanity - AstroBot",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [

@@ -313,6 +313,89 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Beaker",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Noblemans Residence",
+                                "x": 490,
+                                "y": 704
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dark Raven",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Noblemans Residence",
+                                "x": 516,
+                                "y": 704
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hell Hound",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Noblemans Residence",
+                                "x": 503,
+                                "y": 818
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Incubus (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Noblemans Residence",
+                                "x": 445,
+                                "y": 704
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Succubus (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Noblemans Residence",
+                                "x": 555,
+                                "y": 704
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

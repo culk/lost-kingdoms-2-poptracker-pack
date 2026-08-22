@@ -289,6 +289,45 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "LazerBug",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Lower",
+                                "x": 577,
+                                "y": 789
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aggressor DX5 (Return After Level End)",
+                        "access_rules": ["god_of_destruction"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Lower",
+                                "x": 563,
+                                "y": 483
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

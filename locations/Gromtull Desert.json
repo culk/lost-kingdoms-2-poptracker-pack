@@ -513,6 +513,105 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Lizardman",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 330,
+                                "y": 749
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Elephant",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 492,
+                                "y": 715
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mummy",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 765,
+                                "y": 541
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sand Beetle",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 396,
+                                "y": 492
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pixie",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 428,
+                                "y": 643
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sand Worm (Return After Rescue Jarvi)",
+                        "access_rules": ["black_liquid"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 581,
+                                "y": 405
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

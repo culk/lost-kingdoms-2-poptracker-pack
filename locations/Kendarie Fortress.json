@@ -360,6 +360,60 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Mandragora",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Kendarie Fortress",
+                                "x": 541,
+                                "y": 670
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aggressor GL2 (Spotlight)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Kendarie Fortress",
+                                "x": 356,
+                                "y": 612
+                            }
+                        ]
+                    },
+                    {
+                        "name": "MechaPult",
+                        "access_rules": ["^$can_reach_kendarie_mechapult"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Kendarie Fortress",
+                                "x": 273,
+                                "y": 610
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

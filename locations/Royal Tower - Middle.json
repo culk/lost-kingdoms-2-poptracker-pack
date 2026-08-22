@@ -381,6 +381,109 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Ice Golem (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 446,
+                                "y": 833
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Demon Fox (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 315,
+                                "y": 575
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aggressor DX5",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 458,
+                                "y": 467
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Beelzebub (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 501,
+                                "y": 266
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Behemoth (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 650,
+                                "y": 266
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Fenril (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 686,
+                                "y": 465
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

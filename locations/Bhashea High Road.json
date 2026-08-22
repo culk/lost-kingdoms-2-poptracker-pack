@@ -402,6 +402,93 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Porcupig",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 304,
+                                "y": 550
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Man Trap",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 362,
+                                "y": 488
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Storm Hagan",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 259,
+                                "y": 253
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Aggressor GL2 (2nd Visit Only)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 507,
+                                "y": 492
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chaos Knight",
+                        "access_rules": [
+                            "^$can_jump",
+                            "^$can_fly"
+                        ],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 840,
+                                "y": 735
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

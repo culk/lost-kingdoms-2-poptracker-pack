@@ -79,6 +79,18 @@
                 "name": "Enemysanity - Off"
             },
             {
+                "img": "images/settings/setting_enemysanity_light.png",
+                "codes": "enemysanity_light",
+                "inherit_codes": false,
+                "name": "Enemysanity - Light"
+            },
+            {
+                "img": "images/settings/setting_enemysanity_light_plus.png",
+                "codes": "enemysanity_light, enemysanity_light_plus",
+                "inherit_codes": false,
+                "name": "Enemysanity - Light Plus"
+            },
+            {
                 "img": "images/settings/setting_enemysanity_on.png",
                 "codes": "enemysanity",
                 "inherit_codes": false,

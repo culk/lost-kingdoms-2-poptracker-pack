@@ -513,6 +513,94 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Gargoyle",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 802,
+                                "y": 633
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gorgon",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 812,
+                                "y": 669
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Horus",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 792,
+                                "y": 600
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Running Bird",
+                        "access_rules": [
+                            "[^$can_fly]",
+                            "^$can_jump"
+                        ],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 554,
+                                "y": 526
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Black Dragon",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 495,
+                                "y": 523
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

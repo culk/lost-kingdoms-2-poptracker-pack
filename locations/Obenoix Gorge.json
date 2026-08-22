@@ -442,6 +442,105 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Vodianoi",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 697,
+                                "y": 732
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sasquatch",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 647,
+                                "y": 742
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Baba Yaga",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 535,
+                                "y": 369
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Water Elemental",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 673,
+                                "y": 468
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Thanatos",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 424,
+                                "y": 342
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Hydra (Return After Defeat Thanatos)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 479,
+                                "y": 322
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

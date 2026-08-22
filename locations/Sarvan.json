@@ -386,6 +386,89 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Evil Eye",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 168,
+                                "y": 528
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Jade Giant",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 198,
+                                "y": 547
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Siren",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 326,
+                                "y": 547
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gold Butterfly",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 523,
+                                "y": 513
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chimera",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 812,
+                                "y": 547
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

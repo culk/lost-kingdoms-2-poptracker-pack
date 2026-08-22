@@ -308,6 +308,60 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Devata",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Isamat Urbur",
+                                "x": 852,
+                                "y": 528
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Puppet Master",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Isamat Urbur",
+                                "x": 852,
+                                "y": 554
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Juggernaut (Return After All Runestones)",
+                        "access_rules": ["runestone:7"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Isamat Urbur",
+                                "x": 245,
+                                "y": 541
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

@@ -473,6 +473,59 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Flayer Spawn",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 418,
+                                "y": 784
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Water Reaper",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 410,
+                                "y": 810
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Yowie",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Lower Chambers",
+                                "x": 479,
+                                "y": 660
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

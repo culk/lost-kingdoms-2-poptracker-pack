@@ -395,6 +395,120 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "MechLance 5L",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 420,
+                                "y": 661
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gizmolizer",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 450,
+                                "y": 661
+                            }
+                        ]
+                    },
+                    {
+                        "name": "AcidBot (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 533,
+                                "y": 661
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Barometz (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 493,
+                                "y": 554
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dark Treant",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 500,
+                                "y": 521
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Claws-R-Us",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 584,
+                                "y": 609
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chariobot",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Alanjeh Castle",
+                                "x": 571,
+                                "y": 483
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

@@ -414,6 +414,89 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Aggressor DX5",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 621,
+                                "y": 433
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Coal Treant",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 665,
+                                "y": 433
+                            }
+                        ]
+                    },
+                    {
+                        "name": "TriBlaster",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 230,
+                                "y": 750
+                            }
+                        ]
+                    },
+                    {
+                        "name": "LazerBug 39K",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 255,
+                                "y": 750
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Super Scrubber (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 580,
+                                "y": 750
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

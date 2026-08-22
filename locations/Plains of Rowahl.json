@@ -453,6 +453,60 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Devil Plant",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 630,
+                                "y": 525
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sand Golem",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 483,
+                                "y": 579
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Manticore (Return After Level End)",
+                        "access_rules": ["castle_gate_key"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 565,
+                                "y": 703
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

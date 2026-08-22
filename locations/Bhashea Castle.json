@@ -237,7 +237,13 @@
                 "name": "Steel Skeleton Defeat",
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Blade"
+                    },
+                    {
+                        "name": "Enemysanity - Steel Skeleton",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
@@ -621,6 +627,105 @@
                                 "map": "Bhashea Castle",
                                 "x": 332,
                                 "y": 300
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Birdman",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 254,
+                                "y": 376
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Death",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 450,
+                                "y": 329
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kitty Trap",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 512,
+                                "y": 329
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stone Head",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 332,
+                                "y": 490
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dark Elf",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 647,
+                                "y": 433
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Demon Swordsman (Place All Blades)",
+                        "access_rules": ["blade:4"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 332,
+                                "y": 531
                             }
                         ]
                     }

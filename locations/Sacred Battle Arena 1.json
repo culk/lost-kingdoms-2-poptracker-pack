@@ -6,11 +6,17 @@
         "access_rules": ["^$can_enter_level|Sacred Battle Arena 1"],
         "children": [
             {
-                "name": "Defeat Lich",
+                "name": "Lich",
                 "access_rules": ["$has_attribute|earth:6"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Defeat Lich"
+                    },
+                    {
+                        "name": "Enemysanity - Lich",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
@@ -22,11 +28,17 @@
                 ]
             },
             {
-                "name": "Defeat Nueh",
+                "name": "Nueh",
                 "access_rules": ["$has_attribute|wood:6"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Defeat Nueh"
+                    },
+                    {
+                        "name": "Enemysanity - Nueh",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
@@ -38,11 +50,17 @@
                 ]
             },
             {
-                "name": "Defeat Gemini",
+                "name": "Gemini",
                 "access_rules": ["$has_attribute|fire:6"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Defeat Gemini"
+                    },
+                    {
+                        "name": "Enemysanity - Gemini",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
@@ -54,11 +72,17 @@
                 ]
             },
             {
-                "name": "Defeat Kraken",
+                "name": "Kraken",
                 "access_rules": ["$has_attribute|water:6"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Defeat Kraken"
+                    },
+                    {
+                        "name": "Enemysanity - Kraken",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [

@@ -732,6 +732,107 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Baby Dragon",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 476,
+                                "y": 320
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Caterpoker",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 402,
+                                "y": 352
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gnome",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 454,
+                                "y": 377
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Catoblepas",
+                        "access_rules": ["^$can_booster_jump"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 356,
+                                "y": 386
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Amber Dragon",
+                        "access_rules": ["^$can_booster_jump"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 640,
+                                "y": 868
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Zombie Dragon",
+                        "access_rules": ["fossil:9"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 545,
+                                "y": 436
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

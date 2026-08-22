@@ -527,6 +527,107 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Land Shark",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 487,
+                                "y": 790
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Giant Crab",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 595,
+                                "y": 764
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crystal Rose",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 635,
+                                "y": 753
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Stone Golem (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 592,
+                                "y": 312
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Brine Dragon",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 307,
+                                "y": 371
+                            }
+                        ]
+                    },
+                    {
+                        "name": "UberBomberBot (Return After Level End)",
+                        "access_rules": ["stone_golem"],
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 700,
+                                "y": 661
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

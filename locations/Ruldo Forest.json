@@ -482,6 +482,104 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Enemysanity Light",
+                "chest_unopened_img": "/images/items/enemy_close.png",
+                "chest_opened_img": "/images/items/enemy_open.png",
+                "visibility_rules": ["enemysanity_light"],
+                "children": [
+                    {
+                        "name": "Elf",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 716,
+                                "y": 634
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Demon Hound",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 630,
+                                "y": 658
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dryad",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 392,
+                                "y": 591
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Myconid (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 302,
+                                "y": 589
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cockatrice (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 567,
+                                "y": 384
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Mandra Dancer (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 557,
+                                "y": 432
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }
