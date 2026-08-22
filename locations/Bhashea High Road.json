@@ -455,7 +455,7 @@
                         ]
                     },
                     {
-                        "name": "Aggressor GL2 (2nd Visit Only)",
+                        "name": "Aggressor GL2 (Return After Level End)",
                         "sections": [
                             {
                                 "name": ""
@@ -465,7 +465,7 @@
                             {
                                 "map": "Bhashea High Road",
                                 "x": 507,
-                                "y": 492
+                                "y": 551
                             }
                         ]
                     },

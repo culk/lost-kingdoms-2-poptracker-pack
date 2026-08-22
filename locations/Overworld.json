@@ -673,7 +673,7 @@
                     },
                     {
                         "name": "Aggressor GL2",
-                        "ref": "Bhashea High Road/Enemysanity Light/Aggressor GL2 (2nd Visit Only)/"
+                        "ref": "Bhashea High Road/Enemysanity Light/Aggressor GL2 (Return After Level End)/"
                     },
                     {
                         "name": "Chaos Knight",
@@ -2936,8 +2936,8 @@
                         "ref": "Royal Tower - Lower/Enemysanity/Group 5 (Return After Level End)/LazerBug 39K #5"
                     },
                     {
-                        "name": "LazerBug",
-                        "ref": "Royal Tower - Lower/Enemysanity Light/LazerBug/"
+                        "name": "LazerBug 39K",
+                        "ref": "Royal Tower - Lower/Enemysanity Light/LazerBug 39K/"
                     },
                     {
                         "name": "Aggressor DX5",
