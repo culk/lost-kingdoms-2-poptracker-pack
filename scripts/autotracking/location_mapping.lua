@@ -1662,6 +1662,9 @@ LOCATION_MAPPING = {
     [70193] = {"@Holzogh Town/Enemysanity Light/LazerBug 39K/", "@Royal Tower - Lower/Enemysanity Light/LazerBug 39K/"},
     [70194] = {"@Sacred Battle Arena 2/AstroBot/Enemysanity - AstroBot"},
     [70195] = {"@Alanjeh Castle/Enemysanity Light/AcidBot (Return After Level End)/"},
+    [70196] = {"@Royal Tower - Upper/Enemysanity Light/God of Harmony/"},
+    [70197] = {"@Bhashea High Road/Enemysanity Light/Kendarie Soldier (Return After Level End)/"},
+    [70198] = {"@Royal Tower - Middle/Enemysanity Light/Leod VIII/"},
 
 	-- Goal locations (not in data package, included here so they get cleared)
 	[100000] = {"@Goal/Goal - Defeat the God of Harmony/Defeat the God of Harmony"},

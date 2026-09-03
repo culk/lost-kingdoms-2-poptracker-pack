@@ -470,6 +470,21 @@
                         ]
                     },
                     {
+                        "name": "Kendarie Soldier (Return After Level End)",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 507,
+                                "y": 469
+                            }
+                        ]
+                    },
+                    {
                         "name": "Chaos Knight",
                         "access_rules": [
                             "^$can_jump",

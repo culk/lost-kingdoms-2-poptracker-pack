@@ -482,6 +482,21 @@
                                 "y": 465
                             }
                         ]
+                    },
+                    {
+                        "name": "Leod VIII",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Middle",
+                                "x": 587,
+                                "y": 631
+                            }
+                        ]
                     }
                 ]
             }

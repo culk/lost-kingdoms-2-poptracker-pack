@@ -676,6 +676,10 @@
                         "ref": "Bhashea High Road/Enemysanity Light/Aggressor GL2 (Return After Level End)/"
                     },
                     {
+                        "name": "Kendarie Soldier",
+                        "ref": "Bhashea High Road/Enemysanity Light/Kendarie Soldier (Return After Level End)/"
+                    },
+                    {
                         "name": "Chaos Knight",
                         "ref": "Bhashea High Road/Enemysanity Light/Chaos Knight/"
                     }
@@ -3130,6 +3134,10 @@
                     {
                         "name": "Fenril",
                         "ref": "Royal Tower - Middle/Enemysanity Light/Fenril (1st Visit Only)/"
+                    },
+                    {
+                        "name": "Leod VIII",
+                        "ref": "Royal Tower - Middle/Enemysanity Light/Leod VIII/"
                     }
                 ],
                 "map_locations": [
@@ -3210,6 +3218,10 @@
                     {
                         "name": "Wyvern",
                         "ref": "Royal Tower - Upper/Enemysanity Light/Wyvern/"
+                    },
+                    {
+                        "name": "God of Harmony",
+                        "ref": "Royal Tower - Upper/Enemysanity Light/God of Harmony/"
                     }
                 ],
                 "map_locations": [

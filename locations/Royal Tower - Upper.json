@@ -228,6 +228,21 @@
                                 "y": 340
                             }
                         ]
+                    },
+                    {
+                        "name": "God of Harmony",
+                        "sections": [
+                            {
+                                "name": ""
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Royal Tower - Upper",
+                                "x": 354,
+                                "y": 740
+                            }
+                        ]
                     }
                 ]
             }
