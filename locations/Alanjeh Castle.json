@@ -494,7 +494,8 @@
                         ]
                     },
                     {
-                        "name": "Chariobot",
+                        "name": "Chariobot (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
                                 "name": ""
