@@ -1,6 +1,7 @@
 [
     {
         "name": "Connections",
+        "visibility_rules": ["$is_randomize_levels"],
         "children": [
             {
                 "name": "Alanjeh Castle",
@@ -389,6 +390,12 @@
                         "map": "Connections",
                         "x": 752,
                         "y": 776
+                    },
+                    {
+                        "map": "Noblemans Residence",
+                        "x": 503,
+                        "y": 849,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -406,6 +413,12 @@
                         "map": "Connections",
                         "x": 782,
                         "y": 776
+                    },
+                    {
+                        "map": "Noblemans Residence",
+                        "x": 486,
+                        "y": 359,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -423,6 +436,12 @@
                         "map": "Connections",
                         "x": 993,
                         "y": 746
+                    },
+                    {
+                        "map": "Bhashea High Road",
+                        "x": 136,
+                        "y": 355,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -440,6 +459,12 @@
                         "map": "Connections",
                         "x": 1023,
                         "y": 746
+                    },
+                    {
+                        "map": "Bhashea High Road",
+                        "x": 299,
+                        "y": 696,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -460,6 +485,12 @@
                         "map": "Connections",
                         "x": 1053,
                         "y": 746
+                    },
+                    {
+                        "map": "Bhashea High Road",
+                        "x": 839,
+                        "y": 819,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -477,6 +508,12 @@
                         "map": "Connections",
                         "x": 720,
                         "y": 674
+                    },
+                    {
+                        "map": "Kadishu",
+                        "x": 445,
+                        "y": 293,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -494,6 +531,12 @@
                         "map": "Connections",
                         "x": 750,
                         "y": 674
+                    },
+                    {
+                        "map": "Kadishu",
+                        "x": 389,
+                        "y": 632,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -511,6 +554,12 @@
                         "map": "Connections",
                         "x": 1056,
                         "y": 608
+                    },
+                    {
+                        "map": "Gromtull Desert",
+                        "x": 445,
+                        "y": 225,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -528,6 +577,12 @@
                         "map": "Connections",
                         "x": 812,
                         "y": 606
+                    },
+                    {
+                        "map": "Kendarie Fortress",
+                        "x": 833,
+                        "y": 505,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -545,6 +600,12 @@
                         "map": "Connections",
                         "x": 1090,
                         "y": 145
+                    },
+                    {
+                        "map": "Runestone Caverns - Upper Chambers",
+                        "x": 276,
+                        "y": 686,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -562,6 +623,12 @@
                         "map": "Connections",
                         "x": 1120,
                         "y": 145
+                    },
+                    {
+                        "map": "Runestone Caverns - Lower Chambers",
+                        "x": 337,
+                        "y": 246,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -579,6 +646,12 @@
                         "map": "Connections",
                         "x": 966,
                         "y": 162
+                    },
+                    {
+                        "map": "Ruldo Forest",
+                        "x": 333,
+                        "y": 313,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -596,6 +669,12 @@
                         "map": "Connections",
                         "x": 996,
                         "y": 162
+                    },
+                    {
+                        "map": "Ruldo Forest",
+                        "x": 569,
+                        "y": 284,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -613,6 +692,12 @@
                         "map": "Connections",
                         "x": 807,
                         "y": 172
+                    },
+                    {
+                        "map": "Fossil Boneyard",
+                        "x": 721,
+                        "y": 868,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -630,6 +715,12 @@
                         "map": "Connections",
                         "x": 884,
                         "y": 231
+                    },
+                    {
+                        "map": "Sarvan",
+                        "x": 859,
+                        "y": 546,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -647,6 +738,12 @@
                         "map": "Connections",
                         "x": 414,
                         "y": 655
+                    },
+                    {
+                        "map": "Holzogh Town",
+                        "x": 165,
+                        "y": 750,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -664,6 +761,12 @@
                         "map": "Connections",
                         "x": 444,
                         "y": 655
+                    },
+                    {
+                        "map": "Holzogh Town",
+                        "x": 495,
+                        "y": 455,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -681,6 +784,12 @@
                         "map": "Connections",
                         "x": 353,
                         "y": 705
+                    },
+                    {
+                        "map": "Plains of Rowahl",
+                        "x": 734,
+                        "y": 344,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -698,6 +807,12 @@
                         "map": "Connections",
                         "x": 252,
                         "y": 624
+                    },
+                    {
+                        "map": "Royal Tower - Lower",
+                        "x": 475,
+                        "y": 772,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -715,6 +830,12 @@
                         "map": "Connections",
                         "x": 418,
                         "y": 199
+                    },
+                    {
+                        "map": "Krasheen Mountains",
+                        "x": 520,
+                        "y": 536,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -732,6 +853,12 @@
                         "map": "Connections",
                         "x": 186,
                         "y": 113
+                    },
+                    {
+                        "map": "Grenfoel Cathedral",
+                        "x": 548,
+                        "y": 213,
+                        "shape": "diamond"
                     }
                 ]
             },
@@ -749,6 +876,12 @@
                         "map": "Connections",
                         "x": 216,
                         "y": 113
+                    },
+                    {
+                        "map": "Grenfoel Cathedral",
+                        "x": 457,
+                        "y": 438,
+                        "shape": "diamond"
                     }
                 ]
             }

@@ -24,6 +24,14 @@ function has_attribute(attribute)
     return Tracker:ProviderCountForCode(code_for_attribute[attribute])
 end
 
+-- Visibility rule for random level connections on level maps.
+function is_randomize_levels()
+    -- Levels unlock as items takes precedence over the randomize levels setting.
+    local is_level_unlocks_as_items = Tracker:FindObjectForCode("level_unlocks_as_items").Active
+    local randomize_levels_stage = Tracker:FindObjectForCode("randomize_levels").CurrentStage
+    return not is_level_unlocks_as_items and (randomize_levels_stage ~= 0)
+end
+
 -- Access functions, all return an AccessibilityLevel.
 
 function can_fly()
