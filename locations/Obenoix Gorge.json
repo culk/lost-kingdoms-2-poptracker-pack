@@ -83,7 +83,7 @@
             },
             {
                 "name": "Chest Behind Ice",
-                "access_rules": ["^$can_ice_break"],
+                "access_rules": ["^$can_far_ice_break"],
                 "sections": [
                     {
                         "name": ""

@@ -42,18 +42,74 @@ function can_booster_jump()
     return ALL("magic_boosters", ANY("hell_hound", "cerberus", "centaur"))
 end
 
+-- Royal Tower - Middle/Breakable Wall 2
 function can_wall_break()
     return ALL(
         "magic_boosters",
         ANY(
             "stone_golem",
-            ALL(AccessibilityLevel.SequenceBreak, "chariobot")
+            ALL(
+                AccessibilityLevel.SequenceBreak,
+                ANY("chariobot", "devata", "baba_yaga", "pazuzu", "talos", "circasaurus")
+            )
         )
     )
 end
 
+-- Bhashea Castle/Break Through Walls Corridor
+function can_medium_wall_break()
+    return ALL(
+        "magic_boosters",
+        ANY(
+            "stone_golem",
+            ALL(
+                AccessibilityLevel.SequenceBreak,
+                ANY("chariobot", "devata", "baba_yaga")
+            )
+        )
+    )
+end
+
+-- Royal Tower - Middle/Breakable Wall 1
+function can_far_wall_break()
+    return ALL(
+        "magic_boosters",
+        ANY(
+            "stone_golem",
+            ALL(
+                AccessibilityLevel.SequenceBreak,
+                ANY("chariobot")
+            )
+        )
+    )
+end
+
+-- Runestone Caverns - Upper/Chest Behind Ice 1 + 2
 function can_ice_break()
-    return ALL("magic_boosters", "stone_golem")
+    return ALL(
+        "magic_boosters",
+        ANY(
+            "stone_golem",
+            ALL(
+                AccessibilityLevel.SequenceBreak,
+                ANY("devata", "baba_yaga", "pazuzu", "talos")
+            )
+        )
+    )
+end
+
+-- Obenoix Gorge/Chest Behind Ice
+function can_far_ice_break()
+    return ALL(
+        "magic_boosters",
+        ANY(
+            "stone_golem",
+            ALL(
+                AccessibilityLevel.SequenceBreak,
+                ANY("devata", "baba_yaga")
+            )
+        )
+    )
 end
 
 function can_reach_kendarie_mechapult()

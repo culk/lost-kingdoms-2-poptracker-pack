@@ -98,7 +98,7 @@
             },
             {
                 "name": "Break Through Wall Chest",
-                "access_rules": ["^$can_wall_break"],
+                "access_rules": ["^$can_medium_wall_break"],
                 "sections": [
                     {
                         "name": ""
@@ -203,7 +203,7 @@
                 "name": "Red Fairy Wall Break Rubble",
                 "chest_unopened_img": "/images/items/fairy_close.png",
                 "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": ["^$can_wall_break"],
+                "access_rules": ["^$can_medium_wall_break"],
                 "visibility_rules": ["fairysanity"],
                 "sections": [
                     {

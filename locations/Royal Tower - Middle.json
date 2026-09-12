@@ -37,7 +37,7 @@
             },
             {
                 "name": "Breakable Wall 1",
-                "access_rules": ["^$can_wall_break"],
+                "access_rules": ["^$can_far_wall_break"],
                 "sections": [
                     {
                         "name": "Chest"
@@ -59,10 +59,7 @@
             },
             {
                 "name": "Breakable Wall 2",
-                "access_rules": [
-                    "^$can_wall_break",
-                    "magic_boosters, talos, [stone_golem]"
-                ],
+                "access_rules": ["^$can_wall_break"],
                 "sections": [
                     {
                         "name": "Chest"
