@@ -19,13 +19,16 @@ function CreateExitItem(exit)
     end
 
     exit_item.ProvidesCodeFunc = function(self, code)
-        if self:CanProvideCodeFunc(code) and exit.Level then
+        if self:CanProvideCodeFunc(code) and exit.Level and Tracker:FindObjectForCode("randomize_levels").CurrentStage == 2 then
             return true
         end
         return false
     end
 
     exit_item.OnLeftClickFunc = function(self)
+        -- Only allow manually editing connections if option is set to manual.
+        if Tracker:FindObjectForCode("randomize_levels").CurrentStage ~= 2 then return end
+
         if exit.Level then
             -- Already assigned a destination Level, assignment can be cleared with right click.
             return
@@ -45,6 +48,9 @@ function CreateExitItem(exit)
     end
 
     exit_item.OnRightClickFunc = function(self)
+        -- Only allow manually editing connections if option is set to manual.
+        if Tracker:FindObjectForCode("randomize_levels").CurrentStage ~= 2 then return end
+
         if exit.Level then
             -- Unassign the exit and its destination level.
             exit:Assign(nil)
@@ -104,6 +110,9 @@ function CreateLevelItem(level)
     end
 
     level_item.OnLeftClickFunc = function(self)
+        -- Only allow manually editing connections if option is set to manual.
+        if Tracker:FindObjectForCode("randomize_levels").CurrentStage ~= 2 then return end
+
         if level.Exit then
             -- Already assigned an origin exit, assignment can be cleared with right click.
             return
@@ -123,6 +132,9 @@ function CreateLevelItem(level)
     end
 
     level_item.OnRightClickFunc = function(self)
+        -- Only allow manually editing connections if option is set to manual.
+        if Tracker:FindObjectForCode("randomize_levels").CurrentStage ~= 2 then return end
+
         if level.Exit then
             -- Unassign the level and its origin exit.
             level.Exit:Assign(nil)
