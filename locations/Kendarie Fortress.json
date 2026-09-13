@@ -166,10 +166,13 @@
                 "name": "Kendarie Soldier 1",
                 "chest_unopened_img": "/images/items/enemy_close.png",
                 "chest_opened_img": "/images/items/enemy_open.png",
-                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Blue Key Pickup",
+                        "visibility_rules": ["missable_locations_show"]
+                    },
+                    {
+                        "name": "Enemysanity - Kendarie Soldier #1"
                     }
                 ],
                 "map_locations": [
@@ -185,10 +188,13 @@
                 "chest_unopened_img": "/images/items/enemy_close.png",
                 "chest_opened_img": "/images/items/enemy_open.png",
                 "access_rules": ["blue_key"],
-                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Red Key Pickup",
+                        "visibility_rules": ["missable_locations_show"]
+                    },
+                    {
+                        "name": "Enemysanity - Kendarie Soldier #2"
                     }
                 ],
                 "map_locations": [
@@ -204,10 +210,13 @@
                 "chest_unopened_img": "/images/items/enemy_close.png",
                 "chest_opened_img": "/images/items/enemy_open.png",
                 "access_rules": ["red_key"],
-                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Green Key Pickup",
+                        "visibility_rules": ["missable_locations_show"]
+                    },
+                    {
+                        "name": "Enemysanity - Kendarie Soldier #3"
                     }
                 ],
                 "map_locations": [
@@ -356,6 +365,22 @@
                                 "map": "Kendarie Fortress",
                                 "x": 512,
                                 "y": 451
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 12",
+                        "access_rules": ["blue_key, red_key"],
+                        "sections": [
+                            {
+                                "name": "Kendarie Soldier #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Kendarie Fortress",
+                                "x": 565,
+                                "y": 548
                             }
                         ]
                     }

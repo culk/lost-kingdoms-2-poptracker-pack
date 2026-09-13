@@ -108,13 +108,21 @@
                 ]
             },
             {
-                "name": "Stranger",
+                "name": "Stranger (Before Place All Runestones)",
                 "chest_unopened_img": "/images/items/enemy_close.png",
                 "chest_opened_img": "/images/items/enemy_open.png",
                 "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Runestone Pickup"
+                    },
+                    {
+                        "name": "Enemysanity - Stranger #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Stranger",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [

@@ -100,7 +100,7 @@
                 "map_locations": [
                     {
                         "map": "Sarvan",
-                        "x": 523,
+                        "x": 525,
                         "y": 547
                     }
                 ]
@@ -135,7 +135,7 @@
                     {
                         "map": "Sarvan",
                         "x": 187,
-                        "y": 613
+                        "y": 593
                     }
                 ]
             },
@@ -246,7 +246,7 @@
                         "map_locations": [
                             {
                                 "map": "Sarvan",
-                                "x": 303,
+                                "x": 301,
                                 "y": 547
                             }
                         ]
@@ -301,7 +301,7 @@
                         "map_locations": [
                             {
                                 "map": "Sarvan",
-                                "x": 523,
+                                "x": 525,
                                 "y": 513
                             }
                         ]
@@ -384,6 +384,45 @@
                                 "y": 547
                             }
                         ]
+                    },
+                    {
+                        "name": "Group 12",
+                        "sections": [
+                            {
+                                "name": "Evil Eye #6"
+                            },
+                            {
+                                "name": "Evil Eye #7"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 207,
+                                "y": 457
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 13",
+                        "sections": [
+                            {
+                                "name": "Jade Giant #11"
+                            },
+                            {
+                                "name": "Jade Giant #12"
+                            },
+                            {
+                                "name": "Gold Butterfly #4"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Sarvan",
+                                "x": 187,
+                                "y": 617
+                            }
+                        ]
                     }
                 ]
             },
@@ -448,7 +487,7 @@
                         "map_locations": [
                             {
                                 "map": "Sarvan",
-                                "x": 523,
+                                "x": 525,
                                 "y": 513
                             }
                         ]

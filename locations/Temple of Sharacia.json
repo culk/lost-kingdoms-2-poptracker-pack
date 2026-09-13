@@ -302,7 +302,7 @@
                         ]
                     },
                     {
-                        "name": "Group 4 (1st Visit Only)",
+                        "name": "Group 4 (1st Visit Only, Left Side Stairs)",
                         "visibility_rules": ["missable_locations_show"],
                         "sections": [
                             {
@@ -464,7 +464,7 @@
                         ]
                     },
                     {
-                        "name": "Group 12 (Return After Help Ashura Or Valkyrie)",
+                        "name": "Group 12 (Return After Help Ashura Or Valkyrie, Left Side Stairs)",
                         "sections": [
                             {
                                 "name": "Red Dragon #2"

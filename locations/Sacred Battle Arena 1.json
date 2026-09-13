@@ -13,9 +13,11 @@
                         "name": "Defeat Lich"
                     },
                     {
+                        "name": "Enemysanity - Lich #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
                         "name": "Enemysanity - Lich",
-                        "chest_unopened_img": "/images/items/enemy_close.png",
-                        "chest_opened_img": "/images/items/enemy_open.png",
                         "visibility_rules": ["enemysanity_light"]
                     }
                 ],
@@ -35,9 +37,11 @@
                         "name": "Defeat Nueh"
                     },
                     {
+                        "name": "Enemysanity - Nueh #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
                         "name": "Enemysanity - Nueh",
-                        "chest_unopened_img": "/images/items/enemy_close.png",
-                        "chest_opened_img": "/images/items/enemy_open.png",
                         "visibility_rules": ["enemysanity_light"]
                     }
                 ],
@@ -57,9 +61,11 @@
                         "name": "Defeat Gemini"
                     },
                     {
+                        "name": "Enemysanity - Gemini #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
                         "name": "Enemysanity - Gemini",
-                        "chest_unopened_img": "/images/items/enemy_close.png",
-                        "chest_opened_img": "/images/items/enemy_open.png",
                         "visibility_rules": ["enemysanity_light"]
                     }
                 ],
@@ -79,9 +85,11 @@
                         "name": "Defeat Kraken"
                     },
                     {
+                        "name": "Enemysanity - Kraken #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
                         "name": "Enemysanity - Kraken",
-                        "chest_unopened_img": "/images/items/enemy_close.png",
-                        "chest_opened_img": "/images/items/enemy_open.png",
                         "visibility_rules": ["enemysanity_light"]
                     }
                 ],
@@ -168,14 +176,38 @@
                 "name": "Stranger",
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Runestone Pickup"
+                    },
+                    {
+                        "name": "Enemysanity - Stranger #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Stranger",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Sacred Battle Arena 1",
                         "x": 500,
-                        "y": 366
+                        "y": 374
+                    }
+                ]
+            },
+            {
+                "name": "Kendarie Soldier (Return After Defeat Stranger)",
+                "sections": [
+                    {
+                        "name": "Enemysanity - Kendarie Soldier #1",
+                        "visibility_rules": ["enemysanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Sacred Battle Arena 1",
+                        "x": 500,
+                        "y": 350
                     }
                 ]
             }

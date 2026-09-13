@@ -276,12 +276,12 @@
                         "ref": "Bhashea Castle/West Stairway Chest/"
                     },
                     {
-                        "name": "Blade of Skill Puzzle",
-                        "ref": "Bhashea Castle/Blade of Skill Puzzle/"
+                        "name": "Blade of Skill Pickup",
+                        "ref": "Bhashea Castle/Blade of Skill Pickup/"
                     },
                     {
-                        "name": "Steel Skeleton Defeat",
-                        "ref": "Bhashea Castle/Steel Skeleton Defeat/Blade"
+                        "name": "Blade of Power Pickup",
+                        "ref": "Bhashea Castle/Steel Skeleton/Blade of Power Pickup"
                     },
                     {
                         "name": "Blade of Wisdom Pickup",
@@ -460,6 +460,10 @@
                         "ref": "Bhashea Castle/Enemysanity/Group 15/Dark Elf #9"
                     },
                     {
+                        "name": "Steel Skeleton #1",
+                        "ref": "Bhashea Castle/Steel Skeleton/Enemysanity - Steel Skeleton #1"
+                    },
+                    {
                         "name": "Death #10",
                         "ref": "Bhashea Castle/Enemysanity/Group 17 (Place All Blades)/Death #10"
                     },
@@ -501,7 +505,7 @@
                     },
                     {
                         "name": "Steel Skeleton",
-                        "ref": "Bhashea Castle/Steel Skeleton Defeat/Enemysanity - Steel Skeleton"
+                        "ref": "Bhashea Castle/Steel Skeleton/Enemysanity - Steel Skeleton"
                     },
                     {
                         "name": "Demon Swordsman",
@@ -609,7 +613,15 @@
                     },
                     {
                         "name": "Man Trap #4",
-                        "ref": "Bhashea High Road/Enemysanity/Group 6 (Return After Level End)/Man Trap #4"
+                        "ref": "Bhashea High Road/Enemysanity/Group 13 (1st Visit Only)/Man Trap #4"
+                    },
+                    {
+                        "name": "Man Trap #5",
+                        "ref": "Bhashea High Road/Enemysanity/Group 13 (1st Visit Only)/Man Trap #5"
+                    },
+                    {
+                        "name": "Man Trap #6",
+                        "ref": "Bhashea High Road/Enemysanity/Group 6 (Return After Level End)/Man Trap #6"
                     },
                     {
                         "name": "Porcupig #6",
@@ -644,8 +656,8 @@
                         "ref": "Bhashea High Road/Enemysanity/Group 10 (Return After Level End)/Aggressor GL2 #3"
                     },
                     {
-                        "name": "Man Trap #5",
-                        "ref": "Bhashea High Road/Enemysanity/Group 11/Man Trap #5"
+                        "name": "Man Trap #7",
+                        "ref": "Bhashea High Road/Enemysanity/Group 11/Man Trap #7"
                     },
                     {
                         "name": "Storm Hagan #3",
@@ -656,8 +668,8 @@
                         "ref": "Bhashea High Road/Enemysanity/Group 12/Chaos Knight #1"
                     },
                     {
-                        "name": "Man Trap #6",
-                        "ref": "Bhashea High Road/Enemysanity/Group 12/Man Trap #6"
+                        "name": "Man Trap #8",
+                        "ref": "Bhashea High Road/Enemysanity/Group 12/Man Trap #8"
                     },
                     {
                         "name": "Storm Hagan #4",
@@ -960,12 +972,12 @@
                         "ref": "Fossil Boneyard/Flight Chest 2/"
                     },
                     {
-                        "name": "Stranger",
-                        "ref": "Fossil Boneyard/Ledge With Stranger/Stranger"
+                        "name": "Stranger Runestone",
+                        "ref": "Fossil Boneyard/Ledge With Stranger/Runestone Pickup"
                     },
                     {
                         "name": "Zombie Dragon Chest",
-                        "ref": "Fossil Boneyard/Zombie Dragon Chest/"
+                        "ref": "Fossil Boneyard/Zombie Dragon/Chest"
                     },
                     {
                         "name": "Red Fairy Near Start",
@@ -1140,6 +1152,14 @@
                         "ref": "Fossil Boneyard/Enemysanity/Group 19/Catoblepas #3"
                     },
                     {
+                        "name": "Stranger #1",
+                        "ref": "Fossil Boneyard/Ledge With Stranger/Enemysanity - Stranger #1"
+                    },
+                    {
+                        "name": "Zombie Dragon #1",
+                        "ref": "Fossil Boneyard/Zombie Dragon/Enemysanity - Zombie Dragon #1"
+                    },
+                    {
                         "name": "Baby Dragon",
                         "ref": "Fossil Boneyard/Enemysanity Light/Baby Dragon/"
                     },
@@ -1160,8 +1180,12 @@
                         "ref": "Fossil Boneyard/Enemysanity Light/Amber Dragon/"
                     },
                     {
+                        "name": "Stranger",
+                        "ref": "Fossil Boneyard/Ledge With Stranger/Enemysanity - Stranger"
+                    },
+                    {
                         "name": "Zombie Dragon",
-                        "ref": "Fossil Boneyard/Enemysanity Light/Zombie Dragon/"
+                        "ref": "Fossil Boneyard/Zombie Dragon/Enemysanity - Zombie Dragon"
                     }
                 ],
                 "map_locations": [
@@ -1233,7 +1257,7 @@
                 "sections": [
                     {
                         "name": "Bottle Pickup",
-                        "ref": "Gromtull Desert/Bottle Pickup/"
+                        "ref": "Gromtull Desert/Bottle Pickup (Before Rescue Jarvi)/"
                     },
                     {
                         "name": "Chest by Backpack",
@@ -1272,8 +1296,8 @@
                         "ref": "Gromtull Desert/Jarvi Cave/Chest 2"
                     },
                     {
-                        "name": "Stranger",
-                        "ref": "Gromtull Desert/Stranger/"
+                        "name": "Stranger Runestone",
+                        "ref": "Gromtull Desert/Stranger (Return After Rescue Jarvi)/Runestone Pickup"
                     },
                     {
                         "name": "Red Fairy 1",
@@ -1440,6 +1464,10 @@
                         "ref": "Gromtull Desert/Enemysanity/Group 16 (Return After Rescue Jarvi)/Pixie #3"
                     },
                     {
+                        "name": "Stranger #1",
+                        "ref": "Gromtull Desert/Stranger (Return After Rescue Jarvi)/Enemysanity - Stranger #1"
+                    },
+                    {
                         "name": "Lizardman",
                         "ref": "Gromtull Desert/Enemysanity Light/Lizardman/"
                     },
@@ -1462,6 +1490,10 @@
                     {
                         "name": "Sand Worm",
                         "ref": "Gromtull Desert/Enemysanity Light/Sand Worm (Return After Rescue Jarvi)/"
+                    },
+                    {
+                        "name": "Stranger",
+                        "ref": "Gromtull Desert/Stranger (Return After Rescue Jarvi)/Enemysanity - Stranger"
                     }
                 ],
                 "map_locations": [
@@ -1692,8 +1724,8 @@
                         "ref": "Isamat Urbur/Treasure Room/Chest 6"
                     },
                     {
-                        "name": "Stranger",
-                        "ref": "Isamat Urbur/Stranger/"
+                        "name": "Stranger Runestone",
+                        "ref": "Isamat Urbur/Stranger (Before Place All Runestones)/Runestone Pickup"
                     },
                     {
                         "name": "Stone of Sealing",
@@ -1738,6 +1770,10 @@
                     {
                         "name": "Devata #2",
                         "ref": "Isamat Urbur/Enemysanity/Group 1/Devata #2"
+                    },
+                    {
+                        "name": "Stranger #1",
+                        "ref": "Isamat Urbur/Stranger (Before Place All Runestones)/Enemysanity - Stranger #1"
                     },
                     {
                         "name": "Puppet Master #2",
@@ -1810,6 +1846,10 @@
                     {
                         "name": "Puppet Master",
                         "ref": "Isamat Urbur/Enemysanity Light/Puppet Master/"
+                    },
+                    {
+                        "name": "Stranger",
+                        "ref": "Isamat Urbur/Stranger (Before Place All Runestones)/Enemysanity - Stranger"
                     },
                     {
                         "name": "Juggernaut",
@@ -1920,16 +1960,16 @@
                         "ref": "Kendarie Fortress/Platform in Water/Flight Chest"
                     },
                     {
-                        "name": "Kendarie Soldier 1",
-                        "ref": "Kendarie Fortress/Kendarie Soldier 1/"
+                        "name": "Blue Key Pickup",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 1/Blue Key Pickup"
                     },
                     {
-                        "name": "Kendarie Soldier 2",
-                        "ref": "Kendarie Fortress/Kendarie Soldier 2/"
+                        "name": "Red Key Pickup",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 2/Red Key Pickup"
                     },
                     {
-                        "name": "Kendarie Soldier 3",
-                        "ref": "Kendarie Fortress/Kendarie Soldier 3/"
+                        "name": "Green Key Pickup",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 3/Green Key Pickup"
                     },
                     {
                         "name": "Red Fairy Fly Across",
@@ -2004,6 +2044,22 @@
                         "ref": "Kendarie Fortress/Enemysanity/Group 8 (Spotlight)/Aggressor GL2 #8"
                     },
                     {
+                        "name": "Kendarie Soldier #1",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 1/Enemysanity - Kendarie Soldier #1"
+                    },
+                    {
+                        "name": "Kendarie Soldier #2",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 2/Enemysanity - Kendarie Soldier #2"
+                    },
+                    {
+                        "name": "Kendarie Soldier #3",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 3/Enemysanity - Kendarie Soldier #3"
+                    },
+                    {
+                        "name": "Kendarie Soldier #4",
+                        "ref": "Kendarie Fortress/Enemysanity/Group 12/Kendarie Soldier #4"
+                    },
+                    {
                         "name": "Mandragora",
                         "ref": "Kendarie Fortress/Enemysanity Light/Mandragora/"
                     },
@@ -2027,6 +2083,10 @@
             {
                 "name": "Krasheen Mountains",
                 "sections": [
+                    {
+                        "name": "Birdman Card",
+                        "ref": "Krasheen Mountains/Sealed Black Dragon/Birdman Card"
+                    },
                     {
                         "name": "Chest 1",
                         "ref": "Krasheen Mountains/Chest 1/"
@@ -2284,8 +2344,8 @@
                         "ref": "Noblemans Residence/Basement Chests/Chest 2"
                     },
                     {
-                        "name": "Stranger",
-                        "ref": "Noblemans Residence/Stranger/"
+                        "name": "Stranger Runestone",
+                        "ref": "Noblemans Residence/Stranger/Runestone Pickup"
                     },
                     {
                         "name": "Red Fairy Sculpture",
@@ -2400,6 +2460,10 @@
                         "ref": "Noblemans Residence/Enemysanity/Group 4/Hell Hound #5"
                     },
                     {
+                        "name": "Stranger #1",
+                        "ref": "Noblemans Residence/Stranger/Enemysanity - Stranger #1"
+                    },
+                    {
                         "name": "Beaker",
                         "ref": "Noblemans Residence/Enemysanity Light/Beaker/"
                     },
@@ -2418,6 +2482,10 @@
                     {
                         "name": "Succubus",
                         "ref": "Noblemans Residence/Enemysanity Light/Succubus (Return After Level End)/"
+                    },
+                    {
+                        "name": "Stranger",
+                        "ref": "Noblemans Residence/Stranger/Enemysanity - Stranger"
                     }
                 ],
                 "map_locations": [
@@ -2680,12 +2748,16 @@
                         "ref": "Plains of Rowahl/Flight Chest 2/"
                     },
                     {
-                        "name": "Kendarie Soldier",
-                        "ref": "Plains of Rowahl/Kendarie Soldier/"
+                        "name": "Kendarie Soldier Castle Gate Key",
+                        "ref": "Plains of Rowahl/Kendarie Soldier/Castle Gate Key Pickup"
                     },
                     {
-                        "name": "Stranger",
-                        "ref": "Plains of Rowahl/Stranger/"
+                        "name": "Stranger Runestone",
+                        "ref": "Plains of Rowahl/Stranger/Runestone Pickup"
+                    },
+                    {
+                        "name": "God of Destruction Card",
+                        "ref": "Plains of Rowahl/Royal Vault/God of Destruction Card"
                     },
                     {
                         "name": "Red Fairy Near Start",
@@ -2820,12 +2892,24 @@
                         "ref": "Plains of Rowahl/Enemysanity/Group 11 (Return After Level End)/Sand Golem #11"
                     },
                     {
+                        "name": "Kendarie Soldier #1",
+                        "ref": "Plains of Rowahl/Kendarie Soldier/Enemysanity - Kendarie Soldier #1"
+                    },
+                    {
+                        "name": "Stranger #1",
+                        "ref": "Plains of Rowahl/Stranger/Enemysanity - Stranger #1"
+                    },
+                    {
                         "name": "Devil Plant",
                         "ref": "Plains of Rowahl/Enemysanity Light/Devil Plant/"
                     },
                     {
                         "name": "Sand Golem",
                         "ref": "Plains of Rowahl/Enemysanity Light/Sand Golem/"
+                    },
+                    {
+                        "name": "Stranger",
+                        "ref": "Plains of Rowahl/Stranger/Enemysanity - Stranger"
                     },
                     {
                         "name": "Manticore",
@@ -3264,8 +3348,8 @@
                         "ref": "Ruldo Forest/Jump Chest/"
                     },
                     {
-                        "name": "Stranger",
-                        "ref": "Ruldo Forest/Stranger/"
+                        "name": "Stranger Runestone",
+                        "ref": "Ruldo Forest/Stranger/Runestone Pickup"
                     },
                     {
                         "name": "Cockatrice Chest 1",
@@ -3432,6 +3516,10 @@
                         "ref": "Ruldo Forest/Enemysanity/Group 9 (Return After Level End)/Elf #7"
                     },
                     {
+                        "name": "Stranger #1",
+                        "ref": "Ruldo Forest/Stranger/Enemysanity - Stranger #1"
+                    },
+                    {
                         "name": "Elf",
                         "ref": "Ruldo Forest/Enemysanity Light/Elf/"
                     },
@@ -3446,6 +3534,10 @@
                     {
                         "name": "Myconid",
                         "ref": "Ruldo Forest/Enemysanity Light/Myconid (Return After Level End)/"
+                    },
+                    {
+                        "name": "Stranger",
+                        "ref": "Ruldo Forest/Stranger/Enemysanity - Stranger"
                     },
                     {
                         "name": "Cockatrice",
@@ -3956,12 +4048,20 @@
                         "ref": "Sacred Battle Arena 1/Lich/Defeat Lich"
                     },
                     {
+                        "name": "Enemysanity - Lich #1",
+                        "ref": "Sacred Battle Arena 1/Lich/Enemysanity - Lich #1"
+                    },
+                    {
                         "name": "Enemysanity - Lich",
                         "ref": "Sacred Battle Arena 1/Lich/Enemysanity - Lich"
                     },
                     {
                         "name": "Defeat Nueh",
                         "ref": "Sacred Battle Arena 1/Nueh/Defeat Nueh"
+                    },
+                    {
+                        "name": "Enemysanity - Nueh #1",
+                        "ref": "Sacred Battle Arena 1/Nueh/Enemysanity - Nueh #1"
                     },
                     {
                         "name": "Enemysanity - Nueh",
@@ -3972,6 +4072,10 @@
                         "ref": "Sacred Battle Arena 1/Gemini/Defeat Gemini"
                     },
                     {
+                        "name": "Enemysanity - Gemini #1",
+                        "ref": "Sacred Battle Arena 1/Gemini/Enemysanity - Gemini #1"
+                    },
+                    {
                         "name": "Enemysanity - Gemini",
                         "ref": "Sacred Battle Arena 1/Gemini/Enemysanity - Gemini"
                     },
@@ -3980,16 +4084,32 @@
                         "ref": "Sacred Battle Arena 1/Kraken/Defeat Kraken"
                     },
                     {
+                        "name": "Enemysanity - Kraken #1",
+                        "ref": "Sacred Battle Arena 1/Kraken/Enemysanity - Kraken #1"
+                    },
+                    {
                         "name": "Enemysanity - Kraken",
                         "ref": "Sacred Battle Arena 1/Kraken/Enemysanity - Kraken"
                     },
                     {
-                        "name": "Stranger",
-                        "ref": "Sacred Battle Arena 1/Stranger/"
+                        "name": "Stranger Runestone",
+                        "ref": "Sacred Battle Arena 1/Stranger/Runestone Pickup"
+                    },
+                    {
+                        "name": "Enemysanity - Stranger #1",
+                        "ref": "Sacred Battle Arena 1/Stranger/Enemysanity - Stranger #1"
+                    },
+                    {
+                        "name": "Enemysanity - Stranger",
+                        "ref": "Sacred Battle Arena 1/Stranger/Enemysanity - Stranger"
                     },
                     {
                         "name": "Gurd Reward",
                         "ref": "Sacred Battle Arena 1/Gurd Reward/"
+                    },
+                    {
+                        "name": "Enemysanity - Kendarie Soldier #1",
+                        "ref": "Sacred Battle Arena 1/Kendarie Soldier (Return After Defeat Stranger)/Enemysanity - Kendarie Soldier #1"
                     },
                     {
                         "name": "Red Fairy 1",
@@ -4020,32 +4140,56 @@
                         "ref": "Sacred Battle Arena 2/Rabandos/Defeat Rabandos"
                     },
                     {
+                        "name": "Enemysanity - Rabandos #1",
+                        "ref": "Sacred Battle Arena 2/Rabandos/Enemysanity - Rabandos #1"
+                    },
+                    {
                         "name": "Enemysanity - Rabandos",
                         "ref": "Sacred Battle Arena 2/Rabandos/Enemysanity - Rabandos"
                     },
                     {
                         "name": "Defeat Helena",
-                        "ref": "Sacred Battle Arena 2/Defeat Helena/"
+                        "ref": "Sacred Battle Arena 2/Helena/Defeat Helena"
+                    },
+                    {
+                        "name": "Enemysanity - Helena #1",
+                        "ref": "Sacred Battle Arena 2/Helena/Enemysanity - Helena #1"
                     },
                     {
                         "name": "Defeat AstroBot",
                         "ref": "Sacred Battle Arena 2/AstroBot/Defeat AstroBot"
                     },
                     {
+                        "name": "Enemysanity - AstroBot #1",
+                        "ref": "Sacred Battle Arena 2/AstroBot/Enemysanity - AstroBot #1"
+                    },
+                    {
                         "name": "Enemysanity - AstroBot",
                         "ref": "Sacred Battle Arena 2/AstroBot/Enemysanity - AstroBot"
                     },
                     {
-                        "name": "Defeat Leod",
-                        "ref": "Sacred Battle Arena 2/Defeat Leod/"
+                        "name": "Defeat Leod VIII",
+                        "ref": "Sacred Battle Arena 2/Leod VIII/Defeat Leod VIII"
+                    },
+                    {
+                        "name": "Enemysanity - Leod VIII #1",
+                        "ref": "Sacred Battle Arena 2/Leod VIII/Enemysanity - Leod VIII #1"
                     },
                     {
                         "name": "Defeat Thalnos",
-                        "ref": "Sacred Battle Arena 2/Defeat Thalnos/"
+                        "ref": "Sacred Battle Arena 2/Thalnos/Defeat Thalnos"
+                    },
+                    {
+                        "name": "Enemysanity - Thalnos #1",
+                        "ref": "Sacred Battle Arena 2/Thalnos/Enemysanity - Thalnos #1"
                     },
                     {
                         "name": "Defeat Katia",
-                        "ref": "Sacred Battle Arena 2/Defeat Katia/"
+                        "ref": "Sacred Battle Arena 2/Katia/Defeat Katia"
+                    },
+                    {
+                        "name": "Enemysanity - Katia #1",
+                        "ref": "Sacred Battle Arena 2/Katia/Enemysanity - Katia #1"
                     },
                     {
                         "name": "Red Fairy Hallway",
@@ -4224,6 +4368,26 @@
                         "ref": "Sarvan/Enemysanity/Group 10 (Return After Level End, Missable)/Siren #4"
                     },
                     {
+                        "name": "Evil Eye #6",
+                        "ref": "Sarvan/Enemysanity/Group 12/Evil Eye #6"
+                    },
+                    {
+                        "name": "Evil Eye #7",
+                        "ref": "Sarvan/Enemysanity/Group 12/Evil Eye #7"
+                    },
+                    {
+                        "name": "Jade Giant #11",
+                        "ref": "Sarvan/Enemysanity/Group 13/Jade Giant #11"
+                    },
+                    {
+                        "name": "Jade Giant #12",
+                        "ref": "Sarvan/Enemysanity/Group 13/Jade Giant #12"
+                    },
+                    {
+                        "name": "Gold Butterfly #4",
+                        "ref": "Sarvan/Enemysanity/Group 13/Gold Butterfly #4"
+                    },
+                    {
                         "name": "Evil Eye",
                         "ref": "Sarvan/Enemysanity Light/Evil Eye/"
                     },
@@ -4357,15 +4521,15 @@
                     },
                     {
                         "name": "Efreet #3",
-                        "ref": "Temple of Sharacia/Enemysanity/Group 4 (1st Visit Only)/Efreet #3"
+                        "ref": "Temple of Sharacia/Enemysanity/Group 4 (1st Visit Only, Left Side Stairs)/Efreet #3"
                     },
                     {
                         "name": "Efreet #4",
-                        "ref": "Temple of Sharacia/Enemysanity/Group 4 (1st Visit Only)/Efreet #4"
+                        "ref": "Temple of Sharacia/Enemysanity/Group 4 (1st Visit Only, Left Side Stairs)/Efreet #4"
                     },
                     {
                         "name": "Red Dragon #1",
-                        "ref": "Temple of Sharacia/Enemysanity/Group 4 (1st Visit Only)/Red Dragon #1"
+                        "ref": "Temple of Sharacia/Enemysanity/Group 4 (1st Visit Only, Left Side Stairs)/Red Dragon #1"
                     },
                     {
                         "name": "Cerberus #3",
@@ -4425,7 +4589,7 @@
                     },
                     {
                         "name": "Red Dragon #2",
-                        "ref": "Temple of Sharacia/Enemysanity/Group 12 (Return After Help Ashura Or Valkyrie)/Red Dragon #2"
+                        "ref": "Temple of Sharacia/Enemysanity/Group 12 (Return After Help Ashura Or Valkyrie, Left Side Stairs)/Red Dragon #2"
                     },
                     {
                         "name": "Cerberus #7",

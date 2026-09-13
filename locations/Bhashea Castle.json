@@ -219,7 +219,7 @@
                 ]
             },
             {
-                "name": "Blade of Skill Puzzle",
+                "name": "Blade of Skill Pickup",
                 "sections": [
                     {
                         "name": ""
@@ -234,10 +234,16 @@
                 ]
             },
             {
-                "name": "Steel Skeleton Defeat",
+                "name": "Steel Skeleton",
                 "sections": [
                     {
-                        "name": "Blade"
+                        "name": "Blade of Power Pickup"
+                    },
+                    {
+                        "name": "Enemysanity - Steel Skeleton #1",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity"]
                     },
                     {
                         "name": "Enemysanity - Steel Skeleton",

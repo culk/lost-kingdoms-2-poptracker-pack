@@ -123,11 +123,23 @@
                 ]
             },
             {
-                "name": "Zombie Dragon Chest",
+                "name": "Zombie Dragon",
                 "access_rules": ["fossil:9"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest"
+                    },
+                    {
+                        "name": "Enemysanity - Zombie Dragon #1",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Zombie Dragon",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
@@ -360,9 +372,21 @@
                 "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
-                        "name": "Stranger",
+                        "name": "Runestone Pickup",
                         "chest_unopened_img": "/images/items/enemy_close.png",
                         "chest_opened_img": "/images/items/enemy_open.png"
+                    },
+                    {
+                        "name": "Enemysanity - Stranger #1",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Stranger",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity_light"]
                     },
                     {
                         "name": "Chest Behind Cultist"
@@ -813,22 +837,6 @@
                                 "map": "Fossil Boneyard",
                                 "x": 640,
                                 "y": 868
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Zombie Dragon",
-                        "access_rules": ["fossil:9"],
-                        "sections": [
-                            {
-                                "name": ""
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Fossil Boneyard",
-                                "x": 545,
-                                "y": 436
                             }
                         ]
                     }

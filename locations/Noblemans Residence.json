@@ -86,7 +86,15 @@
                 "access_rules": ["mysterious_key"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Runestone Pickup"
+                    },
+                    {
+                        "name": "Enemysanity - Stranger #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Stranger",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [

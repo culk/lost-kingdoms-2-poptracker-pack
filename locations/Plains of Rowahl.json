@@ -95,12 +95,15 @@
                     },
                     {
                         "name": "Chest 7"
+                    },
+                    {
+                        "name": "God of Destruction Card"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Plains of Rowahl",
-                        "x": 433,
+                        "x": 435,
                         "y": 883
                     }
                 ]
@@ -201,7 +204,15 @@
                 "access_rules": ["castle_gate_key"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Runestone Pickup"
+                    },
+                    {
+                        "name": "Enemysanity - Stranger #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Stranger",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
@@ -218,7 +229,11 @@
                 "chest_opened_img": "/images/items/enemy_open.png",
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Castle Gate Key Pickup"
+                    },
+                    {
+                        "name": "Enemysanity - Kendarie Soldier #1",
+                        "visibility_rules": ["enemysanity"]
                     }
                 ],
                 "map_locations": [

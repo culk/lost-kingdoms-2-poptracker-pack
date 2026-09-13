@@ -13,9 +13,11 @@
                         "name": "Defeat Rabandos"
                     },
                     {
+                        "name": "Enemysanity - Rabandos #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
                         "name": "Enemysanity - Rabandos",
-                        "chest_unopened_img": "/images/items/enemy_close.png",
-                        "chest_opened_img": "/images/items/enemy_open.png",
                         "visibility_rules": ["enemysanity_light"]
                     }
                 ],
@@ -28,11 +30,19 @@
                 ]
             },
             {
-                "name": "Defeat Helena",
+                "name": "Helena",
                 "access_rules": ["$has_attribute|neutral:6"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Defeat Helena"
+                    },
+                    {
+                        "name": "Enemysanity - Helena #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Helena",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
@@ -51,9 +61,11 @@
                         "name": "Defeat AstroBot"
                     },
                     {
+                        "name": "Enemysanity - AstroBot #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
                         "name": "Enemysanity - AstroBot",
-                        "chest_unopened_img": "/images/items/enemy_close.png",
-                        "chest_opened_img": "/images/items/enemy_open.png",
                         "visibility_rules": ["enemysanity_light"]
                     }
                 ],
@@ -66,11 +78,19 @@
                 ]
             },
             {
-                "name": "Defeat Leod",
+                "name": "Leod VIII",
                 "access_rules": ["^$can_enter_royal_tower_upper, $has_attribute|mech:6"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Defeat Leod VIII"
+                    },
+                    {
+                        "name": "Enemysanity - Leod VIII #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Leod VIII",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
@@ -82,11 +102,19 @@
                 ]
             },
             {
-                "name": "Defeat Thalnos",
+                "name": "Thalnos",
                 "access_rules": ["^$can_enter_royal_tower_upper, $has_attribute|mech:6, $has_attribute|neutral:6"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Defeat Thalnos"
+                    },
+                    {
+                        "name": "Enemysanity - Thalnos #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Thalnos",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
@@ -98,11 +126,19 @@
                 ]
             },
             {
-                "name": "Defeat Katia",
+                "name": "Katia",
                 "access_rules": ["^$can_enter_royal_tower_upper, $has_attribute|mech:6, $has_attribute|neutral:6"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Defeat Katia"
+                    },
+                    {
+                        "name": "Enemysanity - Katia #1",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Katia",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [

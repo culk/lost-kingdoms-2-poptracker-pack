@@ -6,6 +6,21 @@
         "access_rules": ["^$can_enter_level|Krasheen Mountains"],
         "children": [
             {
+                "name": "Sealed Black Dragon",
+                "sections": [
+                    {
+                        "name": "Birdman Card"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Krasheen Mountains",
+                        "x": 536,
+                        "y": 561
+                    }
+                ]
+            },
+            {
                 "name": "Chest 1",
                 "access_rules": ["^$can_fly"],
                 "sections": [

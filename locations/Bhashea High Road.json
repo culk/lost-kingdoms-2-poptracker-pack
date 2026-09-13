@@ -270,7 +270,7 @@
                         "name": "Group 6 (Return After Level End)",
                         "sections": [
                             {
-                                "name": "Man Trap #4"
+                                "name": "Man Trap #6"
                             },
                             {
                                 "name": "Porcupig #6"
@@ -362,7 +362,7 @@
                         ],
                         "sections": [
                             {
-                                "name": "Man Trap #5"
+                                "name": "Man Trap #7"
                             },
                             {
                                 "name": "Storm Hagan #3"
@@ -387,7 +387,7 @@
                                 "name": "Chaos Knight #1"
                             },
                             {
-                                "name": "Man Trap #6"
+                                "name": "Man Trap #8"
                             },
                             {
                                 "name": "Storm Hagan #4"
@@ -398,6 +398,25 @@
                                 "map": "Bhashea High Road",
                                 "x": 840,
                                 "y": 735
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Group 13 (1st Visit Only)",
+                        "visibility_rules": ["missable_locations_show"],
+                        "sections": [
+                            {
+                                "name": "Man Trap #4"
+                            },
+                            {
+                                "name": "Man Trap #5"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 625,
+                                "y": 702
                             }
                         ]
                     }
