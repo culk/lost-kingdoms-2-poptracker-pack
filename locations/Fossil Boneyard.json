@@ -373,8 +373,8 @@
                 "sections": [
                     {
                         "name": "Runestone Pickup",
-                        "chest_unopened_img": "/images/items/enemy_close.png",
-                        "chest_opened_img": "/images/items/enemy_open.png"
+                        "chest_unopened_img": "/images/items/runestone.png",
+                        "chest_opened_img": "/images/items/runestone_open.png"
                     },
                     {
                         "name": "Enemysanity - Stranger #1",

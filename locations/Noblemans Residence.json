@@ -86,7 +86,9 @@
                 "access_rules": ["mysterious_key"],
                 "sections": [
                     {
-                        "name": "Runestone Pickup"
+                        "name": "Runestone Pickup",
+                        "chest_unopened_img": "/images/items/runestone.png",
+                        "chest_opened_img": "/images/items/runestone_open.png"
                     },
                     {
                         "name": "Enemysanity - Stranger #1",

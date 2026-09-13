@@ -164,15 +164,17 @@
             },
             {
                 "name": "Kendarie Soldier 1",
-                "chest_unopened_img": "/images/items/enemy_close.png",
-                "chest_opened_img": "/images/items/enemy_open.png",
                 "sections": [
                     {
                         "name": "Blue Key Pickup",
+                        "chest_unopened_img": "/images/items/blue_key.png",
+                        "chest_opened_img": "/images/items/blue_key_open.png",
                         "visibility_rules": ["missable_locations_show"]
                     },
                     {
-                        "name": "Enemysanity - Kendarie Soldier #1"
+                        "name": "Enemysanity - Kendarie Soldier #1",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png"
                     }
                 ],
                 "map_locations": [
@@ -185,16 +187,18 @@
             },
             {
                 "name": "Kendarie Soldier 2",
-                "chest_unopened_img": "/images/items/enemy_close.png",
-                "chest_opened_img": "/images/items/enemy_open.png",
                 "access_rules": ["blue_key"],
                 "sections": [
                     {
                         "name": "Red Key Pickup",
+                        "chest_unopened_img": "/images/items/red_key.png",
+                        "chest_opened_img": "/images/items/red_key_open.png",
                         "visibility_rules": ["missable_locations_show"]
                     },
                     {
-                        "name": "Enemysanity - Kendarie Soldier #2"
+                        "name": "Enemysanity - Kendarie Soldier #2",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png"
                     }
                 ],
                 "map_locations": [
@@ -207,16 +211,18 @@
             },
             {
                 "name": "Kendarie Soldier 3",
-                "chest_unopened_img": "/images/items/enemy_close.png",
-                "chest_opened_img": "/images/items/enemy_open.png",
                 "access_rules": ["red_key"],
                 "sections": [
                     {
                         "name": "Green Key Pickup",
+                        "chest_unopened_img": "/images/items/green_key.png",
+                        "chest_opened_img": "/images/items/green_key_open.png",
                         "visibility_rules": ["missable_locations_show"]
                     },
                     {
-                        "name": "Enemysanity - Kendarie Soldier #3"
+                        "name": "Enemysanity - Kendarie Soldier #3",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png"
                     }
                 ],
                 "map_locations": [

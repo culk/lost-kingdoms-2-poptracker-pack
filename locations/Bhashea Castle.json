@@ -220,6 +220,8 @@
             },
             {
                 "name": "Blade of Skill Pickup",
+                "chest_unopened_img": "/images/items/blade.png",
+                "chest_opened_img": "/images/items/blade_open.png",
                 "sections": [
                     {
                         "name": ""
@@ -237,7 +239,9 @@
                 "name": "Steel Skeleton",
                 "sections": [
                     {
-                        "name": "Blade of Power Pickup"
+                        "name": "Blade of Power Pickup",
+                        "chest_unopened_img": "/images/items/blade.png",
+                        "chest_opened_img": "/images/items/blade_open.png"
                     },
                     {
                         "name": "Enemysanity - Steel Skeleton #1",
@@ -262,6 +266,8 @@
             },
             {
                 "name": "Blade of Wisdom Pickup",
+                "chest_unopened_img": "/images/items/blade.png",
+                "chest_opened_img": "/images/items/blade_open.png",
                 "sections": [
                     {
                         "name": ""
@@ -277,6 +283,8 @@
             },
             {
                 "name": "Blade of Time Pickup",
+                "chest_unopened_img": "/images/items/blade.png",
+                "chest_opened_img": "/images/items/blade_open.png",
                 "sections": [
                     {
                         "name": ""

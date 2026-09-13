@@ -157,8 +157,8 @@
             },
             {
                 "name": "Gurd Reward",
-                "chest_unopened_img": "/images/items/chest_close.png",
-                "chest_opened_img": "/images/items/chest_open.png",
+                "chest_unopened_img": "/images/items/mysterious_key.png",
+                "chest_opened_img": "/images/items/mysterious_key_open.png",
                 "sections": [
                     {
                         "name": ""
@@ -176,7 +176,9 @@
                 "name": "Stranger",
                 "sections": [
                     {
-                        "name": "Runestone Pickup"
+                        "name": "Runestone Pickup",
+                        "chest_unopened_img": "/images/items/runestone.png",
+                        "chest_opened_img": "/images/items/runestone_open.png"
                     },
                     {
                         "name": "Enemysanity - Stranger #1",

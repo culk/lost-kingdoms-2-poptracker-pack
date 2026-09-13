@@ -204,7 +204,9 @@
                 "access_rules": ["castle_gate_key"],
                 "sections": [
                     {
-                        "name": "Runestone Pickup"
+                        "name": "Runestone Pickup",
+                        "chest_unopened_img": "/images/items/runestone.png",
+                        "chest_opened_img": "/images/items/runestone_open.png"
                     },
                     {
                         "name": "Enemysanity - Stranger #1",
@@ -225,14 +227,16 @@
             },
             {
                 "name": "Kendarie Soldier",
-                "chest_unopened_img": "/images/items/enemy_close.png",
-                "chest_opened_img": "/images/items/enemy_open.png",
                 "sections": [
                     {
-                        "name": "Castle Gate Key Pickup"
+                        "name": "Castle Gate Key Pickup",
+                        "chest_unopened_img": "/images/items/castle_gate_key.png",
+                        "chest_opened_img": "/images/items/castle_gate_key_open.png"
                     },
                     {
                         "name": "Enemysanity - Kendarie Soldier #1",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
                         "visibility_rules": ["enemysanity"]
                     }
                 ],
