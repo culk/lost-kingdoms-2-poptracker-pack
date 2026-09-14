@@ -269,7 +269,7 @@
                         ]
                     },
                     {
-                        "name": "Group 3",
+                        "name": "Group 3 (Wait 5 Seconds)",
                         "sections": [
                             {
                                 "name": "Lizardman #4"
@@ -398,7 +398,7 @@
                         ]
                     },
                     {
-                        "name": "Group 10",
+                        "name": "Group 10 (Wait 5 Seconds)",
                         "sections": [
                             {
                                 "name": "Sand Beetle #1"
