@@ -174,7 +174,14 @@
                     {
                         "name": "Enemysanity - Kendarie Soldier #1",
                         "chest_unopened_img": "/images/items/enemy_close.png",
-                        "chest_opened_img": "/images/items/enemy_open.png"
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Kendarie Soldier",
+                        "chest_unopened_img": "/images/items/enemy_close.png",
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
@@ -198,7 +205,8 @@
                     {
                         "name": "Enemysanity - Kendarie Soldier #2",
                         "chest_unopened_img": "/images/items/enemy_close.png",
-                        "chest_opened_img": "/images/items/enemy_open.png"
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity"]
                     }
                 ],
                 "map_locations": [
@@ -222,7 +230,8 @@
                     {
                         "name": "Enemysanity - Kendarie Soldier #3",
                         "chest_unopened_img": "/images/items/enemy_close.png",
-                        "chest_opened_img": "/images/items/enemy_open.png"
+                        "chest_opened_img": "/images/items/enemy_open.png",
+                        "visibility_rules": ["enemysanity"]
                     }
                 ],
                 "map_locations": [

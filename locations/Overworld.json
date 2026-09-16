@@ -2068,6 +2068,10 @@
                         "ref": "Kendarie Fortress/Enemysanity Light/Aggressor GL2 (Spotlight)/"
                     },
                     {
+                        "name": "Kendarie Soldier",
+                        "ref": "Kendarie Fortress/Kendarie Soldier 1/Enemysanity - Kendarie Soldier"
+                    },
+                    {
                         "name": "MechaPult",
                         "ref": "Kendarie Fortress/Enemysanity Light/MechaPult/"
                     }
@@ -2906,6 +2910,10 @@
                     {
                         "name": "Sand Golem",
                         "ref": "Plains of Rowahl/Enemysanity Light/Sand Golem/"
+                    },
+                    {
+                        "name": "Kendarie Soldier",
+                        "ref": "Plains of Rowahl/Kendarie Soldier/Enemysanity - Kendarie Soldier"
                     },
                     {
                         "name": "Stranger",
@@ -4112,6 +4120,10 @@
                         "ref": "Sacred Battle Arena 1/Kendarie Soldier (Return After Defeat Stranger)/Enemysanity - Kendarie Soldier #1"
                     },
                     {
+                        "name": "Enemysanity - Kendarie Soldier",
+                        "ref": "Sacred Battle Arena 1/Kendarie Soldier (Return After Defeat Stranger)/Enemysanity - Kendarie Soldier"
+                    },
+                    {
                         "name": "Red Fairy 1",
                         "ref": "Sacred Battle Arena 1/Red Fairy 1/"
                     },
@@ -4156,6 +4168,10 @@
                         "ref": "Sacred Battle Arena 2/Helena/Enemysanity - Helena #1"
                     },
                     {
+                        "name": "Enemysanity - Helena",
+                        "ref": "Sacred Battle Arena 2/Helena/Enemysanity - Helena"
+                    },
+                    {
                         "name": "Defeat AstroBot",
                         "ref": "Sacred Battle Arena 2/AstroBot/Defeat AstroBot"
                     },
@@ -4176,6 +4192,10 @@
                         "ref": "Sacred Battle Arena 2/Leod VIII/Enemysanity - Leod VIII #1"
                     },
                     {
+                        "name": "Enemysanity - Leod VIII",
+                        "ref": "Sacred Battle Arena 2/Leod VIII/Enemysanity - Leod VIII"
+                    },
+                    {
                         "name": "Defeat Thalnos",
                         "ref": "Sacred Battle Arena 2/Thalnos/Defeat Thalnos"
                     },
@@ -4184,12 +4204,20 @@
                         "ref": "Sacred Battle Arena 2/Thalnos/Enemysanity - Thalnos #1"
                     },
                     {
+                        "name": "Enemysanity - Thalnos",
+                        "ref": "Sacred Battle Arena 2/Thalnos/Enemysanity - Thalnos"
+                    },
+                    {
                         "name": "Defeat Katia",
                         "ref": "Sacred Battle Arena 2/Katia/Defeat Katia"
                     },
                     {
                         "name": "Enemysanity - Katia #1",
                         "ref": "Sacred Battle Arena 2/Katia/Enemysanity - Katia #1"
+                    },
+                    {
+                        "name": "Enemysanity - Katia",
+                        "ref": "Sacred Battle Arena 2/Katia/Enemysanity - Katia"
                     },
                     {
                         "name": "Red Fairy Hallway",

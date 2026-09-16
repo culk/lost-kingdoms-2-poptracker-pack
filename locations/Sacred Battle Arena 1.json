@@ -203,6 +203,10 @@
                     {
                         "name": "Enemysanity - Kendarie Soldier #1",
                         "visibility_rules": ["enemysanity"]
+                    },
+                    {
+                        "name": "Enemysanity - Kendarie Soldier",
+                        "visibility_rules": ["enemysanity_light"]
                     }
                 ],
                 "map_locations": [
