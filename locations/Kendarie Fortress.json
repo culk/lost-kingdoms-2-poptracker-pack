@@ -168,8 +168,7 @@
                     {
                         "name": "Blue Key Pickup",
                         "chest_unopened_img": "/images/items/blue_key.png",
-                        "chest_opened_img": "/images/items/blue_key_open.png",
-                        "visibility_rules": ["missable_locations_show"]
+                        "chest_opened_img": "/images/items/blue_key_open.png"
                     },
                     {
                         "name": "Enemysanity - Kendarie Soldier #1",
@@ -199,8 +198,7 @@
                     {
                         "name": "Red Key Pickup",
                         "chest_unopened_img": "/images/items/red_key.png",
-                        "chest_opened_img": "/images/items/red_key_open.png",
-                        "visibility_rules": ["missable_locations_show"]
+                        "chest_opened_img": "/images/items/red_key_open.png"
                     },
                     {
                         "name": "Enemysanity - Kendarie Soldier #2",
@@ -224,8 +222,7 @@
                     {
                         "name": "Green Key Pickup",
                         "chest_unopened_img": "/images/items/green_key.png",
-                        "chest_opened_img": "/images/items/green_key_open.png",
-                        "visibility_rules": ["missable_locations_show"]
+                        "chest_opened_img": "/images/items/green_key_open.png"
                     },
                     {
                         "name": "Enemysanity - Kendarie Soldier #3",
