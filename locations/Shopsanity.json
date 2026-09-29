@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Shopsanity",
+        "chest_unopened_img": "/images/items/purchase_close.png",
+        "chest_opened_img": "/images/items/purchase_open.png",
+        "visibility_rules": ["shopsanity"],
+        "children": [
+            {
+                "name": "Kadishu Card Shop",
+                "access_rules": ["^$can_enter_level|Kadishu Shop"],
+                "sections": [
+                    {
+                        "name": "Shop Purchase 1-10",
+                        "item_count": 10
+                    },
+                    {
+                        "name": "Shop Purchase 11-20",
+                        "access_rules": ["^$can_enter_level|Runestone Caverns - Lower Chambers"],
+                        "item_count": 10
+                    },
+                    {
+                        "name": "Shop Purchase 21-30",
+                        "access_rules": ["^$can_enter_level|Runestone Caverns - Lower Chambers, ^$can_enter_royal_tower_lower"],
+                        "item_count": 10
+                    }
+                ]
+            },
+            {
+                "name": "Grenfoel Cathedral Card Shop",
+                "access_rules": ["^$can_enter_level|Grenfoel Cathedral Shop"],
+                "sections": [
+                    {
+                        "name": "Shop Purchase",
+                        "item_count": 10
+                    }
+                ]
+            }
+        ]
+    }
+]

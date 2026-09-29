@@ -17,6 +17,13 @@ SETTING_MAPPING = {
             [1] = true,
         },
     },
+    shopsanity = {
+        code = "shopsanity",
+        mapping = {
+            [0] = false,
+            [1] = true,
+        },
+    },
     combosanity = {
         code = "combosanity",
         mapping = {

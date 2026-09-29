@@ -66,6 +66,12 @@
         "codes": "combosanity"
     },
     {
+        "name": "Shopsanity",
+        "type": "toggle",
+        "img": "images/settings/setting_shopsanity.png",
+        "codes": "shopsanity"
+    },
+    {
         "name": "Enemysanity",
         "type": "progressive",
         "allow_disabled": false,

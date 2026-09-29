@@ -1031,7 +1031,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 794,
+                        "x": 793,
                         "y": 241
                     }
                 ]
@@ -1242,6 +1242,10 @@
                     {
                         "name": "Red Fairy Library",
                         "ref": "Grenfoel Cathedral/Red Fairy Library/"
+                    },
+                    {
+                        "name": "Shop Purchase",
+                        "ref": "Shopsanity/Grenfoel Cathedral Card Shop/Shop Purchase"
                     }
                 ],
                 "map_locations": [
@@ -1922,6 +1926,18 @@
                     {
                         "name": "Red Fairy by Fountain",
                         "ref": "Kadishu/Red Fairy by Fountain/"
+                    },
+                    {
+                        "name": "Shop Purchase 1-10",
+                        "ref": "Shopsanity/Kadishu Card Shop/Shop Purchase 1-10"
+                    },
+                    {
+                        "name": "Shop Purchase 11-20",
+                        "ref": "Shopsanity/Kadishu Card Shop/Shop Purchase 11-20"
+                    },
+                    {
+                        "name": "Shop Purchase 21-30",
+                        "ref": "Shopsanity/Kadishu Card Shop/Shop Purchase 21-30"
                     }
                 ],
                 "map_locations": [
