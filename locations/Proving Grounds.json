@@ -3457,7 +3457,6 @@
                 "name": "Breaksanity",
                 "chest_unopened_img": "/images/items/breakable_close.png",
                 "chest_opened_img": "/images/items/breakable_open.png",
-                "access_rules": ["^$can_wall_break"],
                 "visibility_rules": ["breaksanity"],
                 "children": [
                     {
@@ -3615,6 +3614,18 @@
                                     {
                                         "map": "Proving Grounds F13",
                                         "x": 272, "y": 421
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cracked Wall #3",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F13",
+                                        "x": 614, "y": 765
                                     }
                                 ]
                             }
