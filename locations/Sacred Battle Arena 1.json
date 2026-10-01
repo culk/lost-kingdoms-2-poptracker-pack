@@ -4,6 +4,7 @@
         "chest_unopened_img": "/images/items/enemy_close.png",
         "chest_opened_img": "/images/items/enemy_open.png",
         "access_rules": ["^$can_enter_level|Sacred Battle Arena 1"],
+        "visibility_rules": ["sacred_battle_arena_exclude_off"],
         "children": [
             {
                 "name": "Lich",

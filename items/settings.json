@@ -91,22 +91,10 @@
                 "name": "Enemysanity - Light"
             },
             {
-                "img": "images/settings/setting_enemysanity_light_plus.png",
-                "codes": "enemysanity_light, enemysanity_light_plus",
-                "inherit_codes": false,
-                "name": "Enemysanity - Light Plus"
-            },
-            {
                 "img": "images/settings/setting_enemysanity_on.png",
                 "codes": "enemysanity",
                 "inherit_codes": false,
                 "name": "Enemysanity - On"
-            },
-            {
-                "img": "images/settings/setting_enemysanity_plus.png",
-                "codes": "enemysanity, enemysanity_plus",
-                "inherit_codes": false,
-                "name": "Enemysanity - Plus"
             }
         ]
     },
@@ -115,6 +103,48 @@
         "type": "toggle",
         "img": "images/settings/setting_breaksanity.png",
         "codes": "breaksanity"
+    },
+    {
+        "name": "Sacred Battle Arena",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/setting_sacred_battle_arena_exclude.png",
+                "img_mods": "@disabled",
+                "codes": "sacred_battle_arena_exclude, sacred_battle_arena_exclude_on",
+                "inherit_codes": false,
+                "name": "Sacred Battle Arena - Exclude"
+            },
+            {
+                "img": "images/settings/setting_sacred_battle_arena_include.png",
+                "codes": "sacred_battle_arena_exclude, sacred_battle_arena_exclude_off",
+                "inherit_codes": false,
+                "name": "Sacred Battle Arena - Include"
+            }
+        ]
+    },
+    {
+        "name": "Proving Grounds",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/settings/setting_proving_grounds_exclude.png",
+                "img_mods": "@disabled",
+                "codes": "proving_grounds_exclude, proving_grounds_exclude_on",
+                "inherit_codes": false,
+                "name": "Proving Grounds - Exclude"
+            },
+            {
+                "img": "images/settings/proving_grounds_include.png",
+                "codes": "proving_grounds_exclude, proving_grounds_exclude_off",
+                "inherit_codes": false,
+                "name": "Proving Grounds - Include"
+            }
+        ]
     },
     {
         "name": "Randomize Levels",

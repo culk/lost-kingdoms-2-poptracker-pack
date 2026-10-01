@@ -37,8 +37,6 @@ SETTING_MAPPING = {
             [0] = 0,
             [1] = 1,
             [2] = 2,
-            [3] = 3,
-            [4] = 4,
         },
     },
     breaksanity = {
@@ -46,6 +44,20 @@ SETTING_MAPPING = {
         mapping = {
             [0] = false,
             [1] = true,
+        },
+    },
+    exclude_sacred_battle_arena_checks = {
+        code = "sacred_battle_arena_exclude",
+        mapping = {
+            [0] = 1, -- exclude
+            [1] = 0, -- include
+        },
+    },
+    exclude_proving_grounds_checks = {
+        code = "proving_grounds_exclude",
+        mapping = {
+            [0] = 1, -- exclude
+            [1] = 0, -- include
         },
     },
     randomize_levels = {
