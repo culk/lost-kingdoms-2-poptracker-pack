@@ -11,14 +11,14 @@
                 "rows": [
                     ["header_settings", "header_locations"],
                     ["auto_tab_map", "fairysanity"],
-                    ["missable_locations", "combosanity"],
-                    ["level_unlocks_as_items", "shopsanity"],
-                    ["randomize_levels", "enemysanity"],
-                    ["progressive_leveling", "breaksanity"],
-                    ["progressive_attribute_proficiencies", "sacred_battle_arena_exclude"],
-                    ["header_goal", "proving_grounds_exclude"],
-                    ["goal", ""],
-                    ["red_fairies_goal_amount", ""]
+                    ["missable_locations", "shopsanity"],
+                    ["level_unlocks_as_items", "bonussanity"],
+                    ["randomize_levels", "combosanity"],
+                    ["progressive_leveling", "enemysanity"],
+                    ["progressive_attribute_proficiencies", "breaksanity"],
+                    ["header_goal", "levelsanity"],
+                    ["goal", "sacred_battle_arena_exclude"],
+                    ["red_fairies_goal_amount", "proving_grounds_exclude"]
                 ]
             }
         ]

@@ -24,6 +24,13 @@ SETTING_MAPPING = {
             [1] = true,
         },
     },
+    bonussanity = {
+        code = "bonussanity",
+        mapping = {
+            [0] = false,
+            [1] = true,
+        },
+    },
     combosanity = {
         code = "combosanity",
         mapping = {
@@ -37,6 +44,13 @@ SETTING_MAPPING = {
             [0] = 0,
             [1] = 1,
             [2] = 2,
+        },
+    },
+    levelsanity = {
+        code = "levelsanity",
+        mapping = {
+            [0] = false,
+            [1] = true,
         },
     },
     breaksanity = {

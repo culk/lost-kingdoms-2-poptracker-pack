@@ -9,6 +9,51 @@ CUR_INDEX = -1
 ALL_LOCATIONS = {}
 SLOT_DATA = {}
 
+LEVELSANITY_LOCATIONS = {
+    "@Overworld/Nobleman's Residence - Level Completion/Levelsanity",
+    "@Overworld/Bhashea High Road - Level Completion/Levelsanity",
+    "@Overworld/Isamat Urbur - Level Completion/Levelsanity",
+    "@Overworld/Kendarie Fortress - Level Completion/Levelsanity",
+    "@Overworld/Bhashea Castle - Level Completion/Levelsanity",
+    "@Overworld/Gromtull Desert - Level Completion/Levelsanity",
+    "@Overworld/Runestone Caverns - Level Completion/Upper Chambers - Levelsanity",
+    "@Overworld/Runestone Caverns - Level Completion/Lower Chambers - Levelsanity",
+    "@Overworld/Ruldo Forest - Level Completion/Levelsanity",
+    "@Overworld/Sacred Battle Arena - Level Completion/Arena 1 - Levelsanity",
+    "@Overworld/Sacred Battle Arena - Level Completion/Arena 2 - Levelsanity",
+    "@Overworld/Fossil Boneyard - Level Completion/Levelsanity",
+    "@Overworld/Sarvan - Level Completion/Levelsanity",
+    "@Overworld/Holzogh Town - Level Completion/Levelsanity",
+    "@Overworld/Plains of Rowahl - Level Completion/Levelsanity",
+    "@Overworld/Alanjeh Castle - Level Completion/Levelsanity",
+    "@Overworld/Royal Tower - Lower - Level Completion/Levelsanity",
+    "@Overworld/Royal Tower - Middle - Level Completion/Levelsanity",
+    "@Overworld/Royal Tower - Upper - Level Completion/Levelsanity",
+    "@Overworld/Krasheen Mountains - Level Completion/Levelsanity",
+    "@Overworld/Temple of Sharacia - Level Completion/Levelsanity",
+    "@Overworld/Obenoix Gorge - Level Completion/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 1/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 2/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 3/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 4/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 5/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 6/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 7/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 8/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 9/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 10/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 11/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 12/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 13/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 14/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 15/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 16/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 17/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 18/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 19/Levelsanity",
+    "@Overworld/Proving Grounds - Floor 20/Levelsanity",
+}
+
 if Highlight then
     HIGHLIGHT_LEVEL= {
         [0] = Highlight.Unspecified,
@@ -115,6 +160,17 @@ function onClear(slot_data)
                 end
             else
                 print(string.format("onClear: could not find setting for code %s", SETTING_MAPPING[key].code))
+            end
+        end
+    end
+    if SLOT_DATA["levelsanitylocationcount"] then
+        -- Set number of levelsanity locations to 0 if disabled.
+        for _, location_code in ipairs(LEVELSANITY_LOCATIONS) do
+            local location_obj = Tracker:FindObjectForCode(location_code)
+            if location_obj then
+                location_obj.AvailableChestCount = SLOT_DATA["levelsanitylocationcount"]
+            else
+                print(string.format("onClear: Could not find levelsanity location for code: %s", location_code))
             end
         end
     end
@@ -269,9 +325,9 @@ end
 function UpdateStatus(status)
     if status == Archipelago.ClientStatus.GOAL then
         print("UpdateStatus: goal achieved")
-        onLocation(100000, "Goal - Defeat the God of Harmony")
-        onLocation(100001, "Goal - Defeat the Emperor")
-        onLocation(100002, "Goal - Collect Red Fairies")
+        onLocation(9000, "Goal - Defeat the God of Harmony")
+        onLocation(9001, "Goal - Defeat the Emperor")
+        onLocation(9002, "Goal - Collect Red Fairies")
     end
 end
 

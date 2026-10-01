@@ -72,6 +72,12 @@
         "codes": "shopsanity"
     },
     {
+        "name": "Bonussanity",
+        "type": "toggle",
+        "img": "images/settings/setting_bonussanity.png",
+        "codes": "bonussanity"
+    },
+    {
         "name": "Enemysanity",
         "type": "progressive",
         "allow_disabled": false,
@@ -103,6 +109,12 @@
         "type": "toggle",
         "img": "images/settings/setting_breaksanity.png",
         "codes": "breaksanity"
+    },
+    {
+        "name": "Levelsanity",
+        "type": "toggle",
+        "img": "images/settings/setting_levelsanity.png",
+        "codes": "levelsanity"
     },
     {
         "name": "Sacred Battle Arena",

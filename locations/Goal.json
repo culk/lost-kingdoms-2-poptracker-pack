@@ -10,14 +10,7 @@
                 "visibility_rules": "goal_defeat_god_of_harmony",
                 "sections": [
                     {
-                        "name": "Defeat the God of Harmony"
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Overworld",
-                        "x": 252,
-                        "y": 586
+                        "name": ""
                     }
                 ]
             },
@@ -27,7 +20,7 @@
                 "visibility_rules": "goal_defeat_emperor",
                 "sections": [
                     {
-                        "name": "Defeat the Emperor"
+                        "name": ""
                     }
                 ],
                 "map_locations": [
@@ -44,7 +37,7 @@
                 "visibility_rules": "goal_collect_red_fairies",
                 "sections": [
                     {
-                        "name": "Collect Red Fairies"
+                        "name": ""
                     }
                 ],
                 "map_locations": [

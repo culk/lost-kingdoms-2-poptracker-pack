@@ -241,6 +241,42 @@
                 ]
             },
             {
+                "name": "Alanjeh Castle - Level Completion",
+                "access_rules": ["^$can_enter_level|Alanjeh Castle"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 215,
+                        "y": 586
+                    }
+                ]
+            },
+            {
                 "name": "Bhashea Castle",
                 "sections": [
                     {
@@ -669,6 +705,42 @@
                 ]
             },
             {
+                "name": "Bhashea Castle - Level Completion",
+                "access_rules": ["^$can_enter_level|Bhashea Castle, blade:4"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1110,
+                        "y": 750
+                    }
+                ]
+            },
+            {
                 "name": "Bhashea High Road",
                 "sections": [
                     {
@@ -961,6 +1033,42 @@
                 ]
             },
             {
+                "name": "Bhashea High Road - Level Completion",
+                "access_rules": ["^$can_enter_level|Bhashea High Road"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1020,
+                        "y": 754
+                    }
+                ]
+            },
+            {
                 "name": "Combo",
                 "visibility_rules": ["combosanity"],
                 "sections": [
@@ -1221,7 +1329,7 @@
                     },
                     {
                         "name": "Flight Chest 2",
-                        "ref": "Fossil Boneyard/Southern Flight/Flight Chest 2"
+                        "ref": "Fossil Boneyard/Southern Flight Ledge/Flight Chest 2"
                     },
                     {
                         "name": "Stranger Runestone",
@@ -1681,6 +1789,42 @@
                 ]
             },
             {
+                "name": "Fossil Boneyard - Level Completion",
+                "access_rules": ["^$can_enter_level|Fossil Boneyard, ^$can_booster_jump"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 810,
+                        "y": 173
+                    }
+                ]
+            },
+            {
                 "name": "Grenfoel Cathedral",
                 "sections": [
                     {
@@ -2029,6 +2173,42 @@
                 ]
             },
             {
+                "name": "Gromtull Desert - Level Completion",
+                "access_rules": ["^$can_enter_level|Gromtull Desert, black_liquid"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1055,
+                        "y": 612
+                    }
+                ]
+            },
+            {
                 "name": "Holzogh Town",
                 "sections": [
                     {
@@ -2305,6 +2485,42 @@
                 ]
             },
             {
+                "name": "Holzogh Town - Level Completion",
+                "access_rules": ["^$can_enter_level|Holzogh Town"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 430,
+                        "y": 662
+                    }
+                ]
+            },
+            {
                 "name": "Isamat Urbur",
                 "sections": [
                     {
@@ -2469,6 +2685,42 @@
                         "map": "Overworld",
                         "x": 861,
                         "y": 924
+                    }
+                ]
+            },
+            {
+                "name": "Isamat Urbur - Level Completion",
+                "access_rules": ["^$can_enter_level|Isamat Urbur, runestone:7"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 848,
+                        "y": 817
                     }
                 ]
             },
@@ -2761,6 +3013,42 @@
                         "map": "Overworld",
                         "x": 790,
                         "y": 678
+                    }
+                ]
+            },
+            {
+                "name": "Kendarie Fortress - Level Completion",
+                "access_rules": ["^$can_enter_level|Kendarie Fortress, blue_key, red_key"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 815,
+                        "y": 609
                     }
                 ]
             },
@@ -3085,6 +3373,42 @@
                 ]
             },
             {
+                "name": "Krasheen Mountains - Level Completion",
+                "access_rules": ["^$can_enter_level|Krasheen Mountains, ^$can_fly"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 420,
+                        "y": 204
+                    }
+                ]
+            },
+            {
                 "name": "Nobleman's Residence",
                 "sections": [
                     {
@@ -3281,6 +3605,41 @@
                         "map": "Overworld",
                         "x": 780,
                         "y": 866
+                    }
+                ]
+            },
+            {
+                "name": "Nobleman's Residence - Level Completion",
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 767,
+                        "y": 777
                     }
                 ]
             },
@@ -3589,6 +3948,42 @@
                 ]
             },
             {
+                "name": "Obenoix Gorge - Level Completion",
+                "access_rules": ["^$can_enter_level|Obenoix Gorge"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 515,
+                        "y": 803
+                    }
+                ]
+            },
+            {
                 "name": "Plains of Rowahl",
                 "sections": [
                     {
@@ -3811,7 +4206,7 @@
             {
                 "name": "Plains of Rowahl - Breaksanity",
                 "sections": [
-                {
+                    {
                         "name": "Broken Aggressor GL2 #1",
                         "ref": "Plains of Rowahl/Breaksanity/Broken Aggressors near Soldier/Broken Aggressor GL2 #1"
                     },
@@ -3837,6 +4232,42 @@
                         "map": "Overworld",
                         "x": 330,
                         "y": 783
+                    }
+                ]
+            },
+            {
+                "name": "Plains of Rowahl - Level Completion",
+                "access_rules": ["^$can_enter_level|Holzogh Town"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 355,
+                        "y": 703
                     }
                 ]
             },
@@ -3957,6 +4388,36 @@
                         "map": "Overworld",
                         "x": 240,
                         "y": 763
+                    }
+                ]
+            },
+            {
+                "name": "Royal Tower - Lower - Level Completion",
+                "access_rules": ["^$can_enter_royal_tower_lower"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 240,
+                        "y": 586
                     }
                 ]
             },
@@ -4161,6 +4622,36 @@
                 ]
             },
             {
+                "name": "Royal Tower - Middle - Level Completion",
+                "access_rules": ["^$can_enter_royal_tower_middle"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 265,
+                        "y": 586
+                    }
+                ]
+            },
+            {
                 "name": "Royal Tower - Upper",
                 "sections": [
                     {
@@ -4241,6 +4732,46 @@
                         "map": "Overworld",
                         "x": 290,
                         "y": 763
+                    }
+                ]
+            },
+            {
+                "name": "Royal Tower - Upper - Level Completion",
+                "access_rules": ["^$can_enter_royal_tower_upper"],
+                "sections": [
+                    {
+                        "name": "Goal - Defeat the God of Harmony",
+                        "ref": "Goal/Goal - Defeat the God of Harmony/"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 290,
+                        "y": 586
                     }
                 ]
             },
@@ -4485,6 +5016,42 @@
                         "map": "Overworld",
                         "x": 994,
                         "y": 234
+                    }
+                ]
+            },
+            {
+                "name": "Ruldo Forest - Level Completion",
+                "access_rules": ["^$can_enter_level|Ruldo Forest"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 981,
+                        "y": 167
                     }
                 ]
             },
@@ -5161,6 +5728,72 @@
                 ]
             },
             {
+                "name": "Runestone Caverns - Level Completion",
+                "sections": [
+                    {
+                        "name": "Upper Chambers - Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "access_rules": ["^$can_enter_level|Runestone Caverns - Upper Chambers, stone_golem"],
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Upper Chambers - Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "access_rules": ["^$can_enter_level|Runestone Caverns - Upper Chambers, stone_golem"],
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Upper Chambers - Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "access_rules": ["^$can_enter_level|Runestone Caverns - Upper Chambers, stone_golem"],
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Upper Chambers - Levelsanity",
+                        "item_count": 10,
+                        "access_rules": ["^$can_enter_level|Runestone Caverns - Upper Chambers, stone_golem"],
+                        "visibility_rules": ["levelsanity"]
+                    },
+                    {
+                        "name": "Lower Chambers - Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "access_rules": ["^$can_enter_level|Runestone Caverns - Lower Chambers"],
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Lower Chambers - Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "access_rules": ["^$can_enter_level|Runestone Caverns - Lower Chambers"],
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Lower Chambers - Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "access_rules": ["^$can_enter_level|Runestone Caverns - Lower Chambers"],
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Lower Chambers - Levelsanity",
+                        "item_count": 10,
+                        "access_rules": ["^$can_enter_level|Runestone Caverns - Lower Chambers"],
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1105,
+                        "y": 154
+                    }
+                ]
+            },
+            {
                 "name": "Sacred Battle Arena 1",
                 "sections": [
                     {
@@ -5349,6 +5982,45 @@
                         "map": "Overworld",
                         "x": 900,
                         "y": 151
+                    }
+                ]
+            },
+            {
+                "name": "Sacred Battle Arena - Level Completion",
+                "visibility_rules": ["sacred_battle_arena_exclude_off"],
+                "sections": [
+                    {
+                        "name": "Arena 1 - Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "access_rules": ["^$can_enter_level|Sacred Battle Arena 1, $has_attribute|earth:6, $has_attribute|wood:6, $has_attribute|fire:6, $has_attribute|water:6"],
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Arena 1 - Levelsanity",
+                        "item_count": 10,
+                        "access_rules": ["^$can_enter_level|Sacred Battle Arena 1, $has_attribute|earth:6, $has_attribute|wood:6, $has_attribute|fire:6, $has_attribute|water:6"],
+                        "visibility_rules": ["levelsanity"]
+                    },
+                    {
+                        "name": "Arena 2 - Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "access_rules": ["^$can_enter_sacred_battle_arena_2, ^$can_enter_royal_tower_upper, $has_attribute|neutral:6, $has_attribute|mech:6"],
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Arena 2 - Levelsanity",
+                        "item_count": 10,
+                        "access_rules": ["^$can_enter_sacred_battle_arena_2, ^$can_enter_royal_tower_upper, $has_attribute|neutral:6, $has_attribute|mech:6"],
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 888,
+                        "y": 86
                     }
                 ]
             },
@@ -5593,6 +6265,42 @@
                         "map": "Overworld",
                         "x": 865,
                         "y": 335
+                    }
+                ]
+            },
+            {
+                "name": "Sarvan - Level Completion",
+                "access_rules": ["^$can_enter_level|Sarvan"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 890,
+                        "y": 232
                     }
                 ]
             },
@@ -5849,7 +6557,45 @@
                 ]
             },
             {
+                "name": "Temple of Sharacia - Level Completion",
+                "access_rules": ["^$can_enter_level|Temple of Sharacia"],
+                "sections": [
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 135,
+                        "y": 351
+                    }
+                ]
+            },
+            {
                 "name": "Proving Grounds - Floor 1",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Berserker #1",
@@ -5962,6 +6708,47 @@
                     {
                         "name": "Dragon Knight",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 1/Room 2/Dragon Knight"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -5974,6 +6761,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 2",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Treant #1",
@@ -6094,6 +6883,47 @@
                     {
                         "name": "Red Lizard",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 2/Room 1/Red Lizard"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -6106,6 +6936,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 3",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Hobgoblin #1",
@@ -6230,6 +7062,47 @@
                     {
                         "name": "Orc",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 3/Room 2/Orc"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -6242,6 +7115,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 4",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Salamander #1",
@@ -6338,6 +7213,47 @@
                     {
                         "name": "Great Demon",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 4/Room 1 (Enter Left Side)/Great Demon"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -6350,6 +7266,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 5",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Cyclops #1",
@@ -6458,6 +7376,47 @@
                     {
                         "name": "Night Mare",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 5/Room 1/Night Mare"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -6470,6 +7429,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 6",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Venus Spider #1",
@@ -6578,6 +7539,47 @@
                     {
                         "name": "Maelstrom",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 6/Room 2 (Enter Left Side)/Maelstrom"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -6590,6 +7592,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 7",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Earth Moray #1",
@@ -6698,6 +7702,47 @@
                     {
                         "name": "Leprechaun",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 7/Room 3 (Enter Left Side)/Leprechaun"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -6710,6 +7755,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 8",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Gnome #1",
@@ -6806,6 +7853,47 @@
                     {
                         "name": "Earth Elemental",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 8/Room 2 (Enter Left Side)/Earth Elemental"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -6818,6 +7906,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 9",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Caterpoker #1",
@@ -6910,6 +8000,47 @@
                     {
                         "name": "Mad Reverser",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 9/Unknown Location/Mad Reverser"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -6922,6 +8053,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 10",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Panther Mage #1",
@@ -7030,6 +8163,47 @@
                     {
                         "name": "Sleeping Giant",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 10/Room 3/Sleeping Giant"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -7042,6 +8216,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 11",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Ghost Armor #1",
@@ -7154,6 +8330,47 @@
                     {
                         "name": "Ghoul",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 11/Room 2/Ghoul"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -7166,6 +8383,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 12",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Dryad #1",
@@ -7282,6 +8501,47 @@
                     {
                         "name": "King Mandragora",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 12/Room 2/King Mandragora"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -7294,6 +8554,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 13",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Phooka #1",
@@ -7398,6 +8660,47 @@
                     {
                         "name": "Pazuzu",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 13/Room 4/Pazuzu"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -7410,6 +8713,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 14",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Baby Dragon #1",
@@ -7502,6 +8807,47 @@
                     {
                         "name": "Amber Dragon",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 14/Room 3/Amber Dragon"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -7514,6 +8860,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 15",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Wraith #1",
@@ -7614,6 +8962,47 @@
                     {
                         "name": "Apsaras",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 15/Room 1/Apsaras"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -7626,6 +9015,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 16",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Undine #1",
@@ -7742,6 +9133,47 @@
                     {
                         "name": "Rock Hagan",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 16/Room 4/Rock Hagan"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -7754,6 +9186,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 17",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Yin Yang #1",
@@ -7866,6 +9300,47 @@
                     {
                         "name": "Octobush",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 17/Room 4/Octobush"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -7878,6 +9353,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 18",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Vampire #1",
@@ -7986,6 +9463,47 @@
                     {
                         "name": "Chaos Knight",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 18/Room 2/Chaos Knight"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -7998,6 +9516,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 19",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Demon Lord #1",
@@ -8090,6 +9610,47 @@
                     {
                         "name": "Kraken",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 19/Room 4/Kraken"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
@@ -8102,6 +9663,8 @@
             },
             {
                 "name": "Proving Grounds - Floor 20",
+                "access_rules": ["^$can_enter_proving_grounds"],
+                "visibility_rules": ["proving_grounds_exclude_off"],
                 "sections": [
                     {
                         "name": "Blue Dragon #1",
@@ -8194,6 +9757,47 @@
                     {
                         "name": "Emperor",
                         "ref": "Proving Grounds/Enemysanity Light/Floor 20/Center/Emperor"
+                    },
+                    {
+                        "name": "Bonus Card #1",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #2",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #3",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #4",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #5",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Bonus Card #6",
+                        "chest_unopened_img": "/images/items/purchase_close.png",
+                        "chest_opened_img": "/images/items/purchase_open.png",
+                        "visibility_rules": ["bonussanity"]
+                    },
+                    {
+                        "name": "Levelsanity",
+                        "item_count": 10,
+                        "visibility_rules": ["levelsanity"]
                     }
                 ],
                 "map_locations": [
