@@ -3451,6 +3451,279 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "access_rules": ["^$can_wall_break"],
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Floor 1",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F1",
+                                        "x": 385, "y": 307
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 3",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F3",
+                                        "x": 272, "y": 652
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 4",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F4",
+                                        "x": 385, "y": 307
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 5",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F5",
+                                        "x": 614, "y": 307
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cracked Wall #2",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F5",
+                                        "x": 729, "y": 421
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 9",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F9",
+                                        "x": 614, "y": 765
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 10",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F10",
+                                        "x": 614, "y": 765
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 12",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F12",
+                                        "x": 385, "y": 307
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 13",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F13",
+                                        "x": 385, "y": 307
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cracked Wall #2",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F13",
+                                        "x": 272, "y": 421
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 14",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F14",
+                                        "x": 729, "y": 652
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 15",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F15",
+                                        "x": 614, "y": 307
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cracked Wall #2",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F15",
+                                        "x": 614, "y": 765
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 17",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F17",
+                                        "x": 614, "y": 307
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Floor 18",
+                        "children": [
+                            {
+                                "name": "Cracked Wall #1",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F18",
+                                        "x": 614, "y": 765
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cracked Wall #2",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F18",
+                                        "x": 729, "y": 652
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Cracked Wall #3",
+                                "sections": [
+                                    {"name": ""}
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "Proving Grounds F18",
+                                        "x": 272, "y": 652
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

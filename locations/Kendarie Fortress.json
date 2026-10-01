@@ -327,8 +327,8 @@
                         "map_locations": [
                             {
                                 "map": "Kendarie Fortress",
-                                "x": 339,
-                                "y": 350
+                                "x": 329,
+                                "y": 370
                             }
                         ]
                     },
@@ -447,6 +447,102 @@
                                 "map": "Kendarie Fortress",
                                 "x": 273,
                                 "y": 610
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Barrels near Start",
+                        "sections": [
+                            {"name": "Barrel #1"},
+                            {"name": "Barrel #2"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Kendarie Fortress",
+                                "x": 697,
+                                "y": 571
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gate #1",
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Kendarie Fortress",
+                                "x": 335,
+                                "y": 630
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Barrels near Mechapult",
+                        "access_rules": ["^$can_reach_kendarie_mechapult"],
+                        "sections": [
+                            {"name": "Barrel #3"},
+                            {"name": "Barrel #4"},
+                            {"name": "Barrel #5"},
+                            {"name": "Barrel #6"},
+                            {"name": "Barrel #7"},
+                            {"name": "Barrel #8"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Kendarie Fortress",
+                                "x": 272,
+                                "y": 631
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gate #2",
+                        "access_rules": ["blue_key"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Kendarie Fortress",
+                                "x": 333,
+                                "y": 330
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gate #3",
+                        "access_rules": ["blue_key, red_key"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Kendarie Fortress",
+                                "x": 583,
+                                "y": 451
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Gate #4",
+                        "access_rules": ["blue_key, red_key"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Kendarie Fortress",
+                                "x": 507,
+                                "y": 423
                             }
                         ]
                     }

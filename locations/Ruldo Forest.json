@@ -590,6 +590,41 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "access_rules": ["^$can_wall_break"],
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Log Wall 1",
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 658,
+                                "y": 720
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Log Wall 2",
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Ruldo Forest",
+                                "x": 390,
+                                "y": 634
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

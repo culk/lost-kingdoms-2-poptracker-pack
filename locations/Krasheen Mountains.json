@@ -7,10 +7,16 @@
         "children": [
             {
                 "name": "Sealed Black Dragon",
-                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
-                        "name": "Birdman Card"
+                        "name": "Birdman Card",
+                        "visibility_rules": ["missable_locations_show"]
+                    },
+                    {
+                        "name": "Tree #5",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -32,7 +38,7 @@
                 "map_locations": [
                     {
                         "map": "Krasheen Mountains",
-                        "x": 680,
+                        "x": 685,
                         "y": 690
                     }
                 ]
@@ -70,8 +76,8 @@
                 "map_locations": [
                     {
                         "map": "Krasheen Mountains",
-                        "x": 590,
-                        "y": 534
+                        "x": 570,
+                        "y": 530
                     }
                 ]
             },
@@ -134,7 +140,7 @@
                 "map_locations": [
                     {
                         "map": "Krasheen Mountains",
-                        "x": 175,
+                        "x": 170,
                         "y": 504
                     }
                 ]
@@ -331,7 +337,7 @@
                             {
                                 "map": "Krasheen Mountains",
                                 "x": 754,
-                                "y": 691
+                                "y": 701
                             }
                         ]
                     },
@@ -435,8 +441,8 @@
                         "map_locations": [
                             {
                                 "map": "Krasheen Mountains",
-                                "x": 675,
-                                "y": 586
+                                "x": 650,
+                                "y": 607
                             }
                         ]
                     },
@@ -461,7 +467,7 @@
                             {
                                 "map": "Krasheen Mountains",
                                 "x": 312,
-                                "y": 543
+                                "y": 560
                             }
                         ]
                     },
@@ -613,6 +619,195 @@
                                 "map": "Krasheen Mountains",
                                 "x": 495,
                                 "y": 523
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Tree #1",
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 854,
+                                "y": 758
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #2",
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 798,
+                                "y": 599
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #3",
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 826,
+                                "y": 502
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #4",
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 674,
+                                "y": 583
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #6",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 753,
+                                "y": 675
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #7",
+                        "access_rules": [
+                            "^$can_fly",
+                            "^$can_jump, [^$can_fly]"
+                        ],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 596,
+                                "y": 532
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #8",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 417,
+                                "y": 537
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #9",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 465,
+                                "y": 451
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #10",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 348,
+                                "y": 349
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #11",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 260,
+                                "y": 362
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #12",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 312,
+                                "y": 534
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #13",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 213,
+                                "y": 596
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree #14",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Krasheen Mountains",
+                                "x": 192,
+                                "y": 511
                             }
                         ]
                     }

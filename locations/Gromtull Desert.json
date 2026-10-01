@@ -622,6 +622,32 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Trees near Backpack",
+                        "sections": [
+                            {"name": "Tree #1"},
+                            {"name": "Tree #2"},
+                            {"name": "Tree #3"},
+                            {"name": "Tree #4"},
+                            {"name": "Tree #5"},
+                            {"name": "Tree #6"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Gromtull Desert",
+                                "x": 345,
+                                "y": 289
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

@@ -58,7 +58,7 @@ function can_wall_break()
             "stone_golem",
             ALL(
                 AccessibilityLevel.SequenceBreak,
-                ANY("chariobot", "devata", "baba_yaga", "pazuzu", "talos", "circasaurus")
+                ANY("chariobot", "devata", "baba_yaga", "talos", "pazuzu", "circasaurus")
             )
         )
     )

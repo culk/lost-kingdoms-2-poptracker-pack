@@ -104,14 +104,26 @@
                 ]
             },
             {
-                "name": "Flight Chest 2",
+                "name": "Southern Flight Ledge",
                 "access_rules": [
                     "^$can_booster_jump, ^$can_fly",
                     "^$can_booster_jump, cerberus, [^$can_fly]"
                 ],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Flight Chest 2"
+                    },
+                    {
+                        "name": "Tree #20",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Tree #23",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -169,14 +181,26 @@
                 ]
             },
             {
-                "name": "Red Fairy Near Booster",
-                "chest_unopened_img": "/images/items/fairy_close.png",
-                "chest_opened_img": "/images/items/fairy_open.png",
+                "name": "Near Booster",
                 "access_rules": ["^$can_booster_jump"],
-                "visibility_rules": ["fairysanity"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Red Fairy",
+                        "chest_unopened_img": "/images/items/fairy_close.png",
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": ["fairysanity"]
+                    },
+                    {
+                        "name": "Tree #9",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Tree #10",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -207,13 +231,49 @@
                 ]
             },
             {
-                "name": "Fossil Head Pickup",
-                "chest_unopened_img": "/images/items/fossil.png",
-                "chest_opened_img": "/images/items/fossil_open.png",
+                "name": "Fossil Head",
                 "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Fossil Pickup",
+                        "chest_unopened_img": "/images/items/fossil.png",
+                        "chest_opened_img": "/images/items/fossil_open.png"
+                    },
+                    {
+                        "name": "Rock #8",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Rock #9",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Rock #10",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Rock #11",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Tree #11",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Tree #12",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -225,13 +285,19 @@
                 ]
             },
             {
-                "name": "Fossil Torso Pickup",
-                "chest_unopened_img": "/images/items/fossil.png",
-                "chest_opened_img": "/images/items/fossil_open.png",
+                "name": "Fossil Torso",
                 "access_rules": ["^$can_booster_jump, ^$can_high_jump"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Fossil Pickup",
+                        "chest_unopened_img": "/images/items/fossil.png",
+                        "chest_opened_img": "/images/items/fossil_open.png"
+                    },
+                    {
+                        "name": "Rock #24",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -243,13 +309,43 @@
                 ]
             },
             {
-                "name": "Fossil Tail Pickup",
-                "chest_unopened_img": "/images/items/fossil.png",
-                "chest_opened_img": "/images/items/fossil_open.png",
+                "name": "Fossil Tail",
                 "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Fossil Pickup",
+                        "chest_unopened_img": "/images/items/fossil.png",
+                        "chest_opened_img": "/images/items/fossil_open.png"
+                    },
+                    {
+                        "name": "Tree #15",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Tree #16",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Rock #14",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Rock #15",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Rock #16",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -279,13 +375,31 @@
                 ]
             },
             {
-                "name": "Fossil Left Wing Pickup",
-                "chest_unopened_img": "/images/items/fossil.png",
-                "chest_opened_img": "/images/items/fossil_open.png",
+                "name": "Fossil Left Wing",
                 "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Fossil Pickup",
+                        "chest_unopened_img": "/images/items/fossil.png",
+                        "chest_opened_img": "/images/items/fossil_open.png"
+                    },
+                    {
+                        "name": "Rock #21",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Rock #22",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Rock #23",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -297,13 +411,25 @@
                 ]
             },
             {
-                "name": "Fossil Right Arm Pickup",
+                "name": "Fossil Right Arm",
                 "chest_unopened_img": "/images/items/fossil.png",
                 "chest_opened_img": "/images/items/fossil_open.png",
                 "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Fossil Pickup"
+                    },
+                    {
+                        "name": "Rock #6",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Rock #7",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -315,13 +441,19 @@
                 ]
             },
             {
-                "name": "Fossil Left Arm Pickup",
-                "chest_unopened_img": "/images/items/fossil.png",
-                "chest_opened_img": "/images/items/fossil_open.png",
+                "name": "Fossil Left Arm",
                 "access_rules": ["^$can_booster_jump, ^$can_fly"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Fossil Pickup",
+                        "chest_unopened_img": "/images/items/fossil.png",
+                        "chest_opened_img": "/images/items/fossil_open.png"
+                    },
+                    {
+                        "name": "Rock #25",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -350,13 +482,37 @@
                 ]
             },
             {
-                "name": "Fossil Left Leg Pickup",
-                "chest_unopened_img": "/images/items/fossil.png",
-                "chest_opened_img": "/images/items/fossil_open.png",
+                "name": "Fossil Left Leg",
                 "access_rules": ["^$can_booster_jump"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Fossil Pickup",
+                        "chest_unopened_img": "/images/items/fossil.png",
+                        "chest_opened_img": "/images/items/fossil_open.png"
+                    },
+                    {
+                        "name": "Rock #12",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Rock #13",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Tree #13",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Tree #14",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -377,6 +533,9 @@
                         "chest_opened_img": "/images/items/runestone_open.png"
                     },
                     {
+                        "name": "Chest Behind Cultist"
+                    },
+                    {
                         "name": "Enemysanity - Stranger #1",
                         "chest_unopened_img": "/images/items/enemy_close.png",
                         "chest_opened_img": "/images/items/enemy_open.png",
@@ -389,7 +548,16 @@
                         "visibility_rules": ["enemysanity_light"]
                     },
                     {
-                        "name": "Chest Behind Cultist"
+                        "name": "Tree #5",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Tree #6",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -837,6 +1005,113 @@
                                 "map": "Fossil Boneyard",
                                 "x": 640,
                                 "y": 868
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Breakables near Start",
+                        "sections": [
+                            {"name": "Rock #1"},
+                            {"name": "Rock #2"},
+                            {"name": "Rock #3"},
+                            {"name": "Rock #4"},
+                            {"name": "Rock #5"},
+                            {"name": "Tree #1"},
+                            {"name": "Tree #2"},
+                            {"name": "Tree #3"},
+                            {"name": "Tree #4"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 480,
+                                "y": 272
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trees near Zombie Dragon",
+                        "sections": [
+                            {"name": "Tree #7"},
+                            {"name": "Tree #8"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 556,
+                                "y": 431
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Breakables near Southern Flight Ledge",
+                        "sections": [
+                            {"name": "Tree #18"},
+                            {"name": "Tree #19"},
+                            {"name": "Rock #20"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 426,
+                                "y": 810
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Breakables near Eastern Flight Ledge",
+                        "sections": [
+                            {"name": "Tree #17"},
+                            {"name": "Rock #17"},
+                            {"name": "Rock #18"},
+                            {"name": "Rock #19"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 513,
+                                "y": 694
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Breakables near Amber Dragon",
+                        "sections": [
+                            {"name": "Tree #22"},
+                            {"name": "Rock #26"},
+                            {"name": "Rock #27"},
+                            {"name": "Rock #28"},
+                            {"name": "Rock #29"},
+                            {"name": "Rock #30"},
+                            {"name": "Rock #31"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 666,
+                                "y": 868
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Breakables Past Amber Dragon",
+                        "sections": [
+                            {"name": "Tree #21"},
+                            {"name": "Tree #24"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Fossil Boneyard",
+                                "x": 743,
+                                "y": 867
                             }
                         ]
                     }

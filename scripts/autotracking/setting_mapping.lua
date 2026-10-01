@@ -41,6 +41,13 @@ SETTING_MAPPING = {
             [4] = 4,
         },
     },
+    breaksanity = {
+        code = "breaksanity",
+        mapping = {
+            [0] = false,
+            [1] = true,
+        },
+    },
     randomize_levels = {
         code = "randomize_levels",
         mapping = {

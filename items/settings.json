@@ -111,6 +111,12 @@
         ]
     },
     {
+        "name": "Breaksanity",
+        "type": "toggle",
+        "img": "images/settings/setting_breaksanity.png",
+        "codes": "breaksanity"
+    },
+    {
         "name": "Randomize Levels",
         "type": "progressive",
         "allow_disabled": false,

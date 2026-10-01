@@ -22,10 +22,16 @@
             },
             {
                 "name": "Card Throw Challenge",
-                "visibility_rules": ["missable_locations_show"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Reward",
+                        "visibility_rules": ["missable_locations_show"]
+                    },
+                    {
+                        "name": "Tree #2",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -67,14 +73,20 @@
                 ]
             },
             {
-                "name": "Jump or Flight Chest",
+                "name": "Jump or Flight Ledge",
                 "access_rules": [
                     "^$can_jump",
                     "^$can_fly"
                 ],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest"
+                    },
+                    {
+                        "name": "Tree #21",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -519,6 +531,127 @@
                                 "map": "Bhashea High Road",
                                 "x": 840,
                                 "y": 735
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Near Horses",
+                        "sections": [
+                            {
+                                "name": "Wagon #1",
+                                "visibility_rules": ["missable_locations_show"]
+                            },
+                            {
+                                "name": "Cart #1",
+                                "visibility_rules": ["missable_locations_show"]
+                            },
+                            {
+                                "name": "Tree #1"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 241,
+                                "y": 649
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West of Bridge",
+                        "sections": [
+                            {"name": "Tree #3"},
+                            {"name": "Tree #4"},
+                            {"name": "Tree #5"},
+                            {"name": "Tree #6"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 326,
+                                "y": 523
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East of Bridge",
+                        "sections": [
+                            {"name": "Tree #10"},
+                            {"name": "Tree #12"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 575,
+                                "y": 464
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ledge Between Bridges",
+                        "sections": [
+                            {"name": "Tree #7"},
+                            {"name": "Tree #8"},
+                            {"name": "Tree #9"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 576,
+                                "y": 610
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tree Stump Clearing",
+                        "sections": [
+                            {"name": "Tree #11"},
+                            {"name": "Tree #13"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 583,
+                                "y": 241
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North Path",
+                        "sections": [
+                            {"name": "Tree #14"},
+                            {"name": "Tree #15"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 474,
+                                "y": 231
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Road to Kadishu",
+                        "sections": [
+                            {"name": "Tree #16"},
+                            {"name": "Tree #17"},
+                            {"name": "Tree #18"},
+                            {"name": "Tree #19"},
+                            {"name": "Tree #20"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea High Road",
+                                "x": 232,
+                                "y": 318
                             }
                         ]
                     }

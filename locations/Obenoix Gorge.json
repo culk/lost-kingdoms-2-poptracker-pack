@@ -541,6 +541,83 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Icicles near Start",
+                        "sections": [
+                            {"name": "Icicle #1"},
+                            {"name": "Icicle #2"},
+                            {"name": "Icicle #3"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 749,
+                                "y": 851
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Icicles near Magic Booster",
+                        "sections": [
+                            {"name": "Icicle #4"},
+                            {"name": "Icicle #5"},
+                            {"name": "Icicle #6"},
+                            {"name": "Icicle #7"},
+                            {"name": "Icicle #8"},
+                            {"name": "Icicle #9"},
+                            {"name": "Icicle #10"},
+                            {"name": "Icicle #11"},
+                            {"name": "Icicle #12"},
+                            {"name": "Icicle #13"},
+                            {"name": "Icicle #14"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 587,
+                                "y": 341
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Ice Wall #1",
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 682,
+                                "y": 338
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Icicles on Flight Ledge",
+                        "access_rules": ["^$can_fly"],
+                        "sections": [
+                            {"name": "Icicle #15"},
+                            {"name": "Icicle #16"},
+                            {"name": "Icicle #17"},
+                            {"name": "Icicle #18"},
+                            {"name": "Icicle #19"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Obenoix Gorge",
+                                "x": 685,
+                                "y": 491
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

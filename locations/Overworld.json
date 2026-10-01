@@ -268,8 +268,8 @@
                         "ref": "Bhashea Castle/East Stairway Chest/"
                     },
                     {
-                        "name": "Break Through Wall Chest",
-                        "ref": "Bhashea Castle/Break Through Wall Chest/"
+                        "name": "Break Through Walls Chest",
+                        "ref": "Bhashea Castle/Break Through Walls Room/Chest"
                     },
                     {
                         "name": "West Stairway Chest",
@@ -309,13 +309,13 @@
                     },
                     {
                         "name": "Red Fairy Wall Break Rubble",
-                        "ref": "Bhashea Castle/Red Fairy Wall Break Rubble/"
+                        "ref": "Bhashea Castle/Break Through Walls Room/Red Fairy in Rubble"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1097,
+                        "x": 1110,
                         "y": 860
                     }
                 ]
@@ -515,7 +515,155 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1122,
+                        "x": 1135,
+                        "y": 860
+                    }
+                ]
+            },
+            {
+                "name": "Bhashea Castle - Breaksanity",
+                "sections": [
+                    {
+                        "name": "Crate #1",
+                        "ref": "Bhashea Castle/Breaksanity/Northwest Crates/Crate #1"
+                    },
+                    {
+                        "name": "Crate #2",
+                        "ref": "Bhashea Castle/Breaksanity/Northwest Crates/Crate #2"
+                    },
+                    {
+                        "name": "Crate #3",
+                        "ref": "Bhashea Castle/Breaksanity/Northwest Crates/Crate #3"
+                    },
+                    {
+                        "name": "Crate #4",
+                        "ref": "Bhashea Castle/Breaksanity/Northwest Crates/Crate #4"
+                    },
+                    {
+                        "name": "Crate #5",
+                        "ref": "Bhashea Castle/Breaksanity/Northwest Crates/Crate #5"
+                    },
+                    {
+                        "name": "Crate #6",
+                        "ref": "Bhashea Castle/Break Through Walls Room/Crate #6"
+                    },
+                    {
+                        "name": "Crate #7",
+                        "ref": "Bhashea Castle/Break Through Walls Room/Crate #7"
+                    },
+                    {
+                        "name": "Crate #8",
+                        "ref": "Bhashea Castle/Breaksanity/West Stairway Crates/Crate #8"
+                    },
+                    {
+                        "name": "Crate #9",
+                        "ref": "Bhashea Castle/Breaksanity/West Stairway Crates/Crate #9"
+                    },
+                    {
+                        "name": "Crate #10",
+                        "ref": "Bhashea Castle/Breaksanity/West Stairway Crates/Crate #10"
+                    },
+                    {
+                        "name": "Crate #11",
+                        "ref": "Bhashea Castle/Breaksanity/Crates near Steel Skeleton/Crate #11"
+                    },
+                    {
+                        "name": "Crate #12",
+                        "ref": "Bhashea Castle/Breaksanity/Crates near Steel Skeleton/Crate #12"
+                    },
+                    {
+                        "name": "Crate #13",
+                        "ref": "Bhashea Castle/Breaksanity/East Stairway Crates/Crate #13"
+                    },
+                    {
+                        "name": "Crate #14",
+                        "ref": "Bhashea Castle/Breaksanity/East Stairway Crates/Crate #14"
+                    },
+                    {
+                        "name": "Crate #15",
+                        "ref": "Bhashea Castle/Breaksanity/East Stairway Crates/Crate #15"
+                    },
+                    {
+                        "name": "Crate #16",
+                        "ref": "Bhashea Castle/Breaksanity/East Stairway Crates/Crate #16"
+                    },
+                    {
+                        "name": "Crate #17",
+                        "ref": "Bhashea Castle/Breaksanity/East Room Crates/Crate #17"
+                    },
+                    {
+                        "name": "Crate #18",
+                        "ref": "Bhashea Castle/Breaksanity/East Room Crates/Crate #18"
+                    },
+                    {
+                        "name": "Crate #19",
+                        "ref": "Bhashea Castle/Breaksanity/Northeast Crates/Crate #19"
+                    },
+                    {
+                        "name": "Crate #20",
+                        "ref": "Bhashea Castle/Breaksanity/Northeast Crates/Crate #20"
+                    },
+                    {
+                        "name": "Crate #21",
+                        "ref": "Bhashea Castle/Breaksanity/Northeast Crates/Crate #21"
+                    },
+                    {
+                        "name": "Candlestand #1",
+                        "ref": "Bhashea Castle/Breaksanity/Candlestands near Clock/Candlestand #1"
+                    },
+                    {
+                        "name": "Candlestand #2",
+                        "ref": "Bhashea Castle/Breaksanity/Candlestands near Clock/Candlestand #2"
+                    },
+                    {
+                        "name": "Candlestand #3",
+                        "ref": "Bhashea Castle/Breaksanity/Candlestands near Clock/Candlestand #3"
+                    },
+                    {
+                        "name": "Candlestand #4",
+                        "ref": "Bhashea Castle/Breaksanity/Candlestands near Clock/Candlestand #4"
+                    },
+                    {
+                        "name": "Cracked Wall #1",
+                        "ref": "Bhashea Castle/Breaksanity/Cracked Wall Hallway/Cracked Wall #1"
+                    },
+                    {
+                        "name": "Cracked Wall #2",
+                        "ref": "Bhashea Castle/Breaksanity/Cracked Wall Hallway/Cracked Wall #2"
+                    },
+                    {
+                        "name": "Cracked Wall #3",
+                        "ref": "Bhashea Castle/Breaksanity/Cracked Wall Hallway/Cracked Wall #3"
+                    },
+                    {
+                        "name": "Cracked Wall #4",
+                        "ref": "Bhashea Castle/Breaksanity/Cracked Wall Hallway/Cracked Wall #4"
+                    },
+                    {
+                        "name": "Cracked Wall #5",
+                        "ref": "Bhashea Castle/Breaksanity/Cracked Wall Hallway/Cracked Wall #5"
+                    },
+                    {
+                        "name": "Cracked Wall #6",
+                        "ref": "Bhashea Castle/Breaksanity/Cracked Wall Hallway/Cracked Wall #6"
+                    },
+                    {
+                        "name": "Cracked Wall #7",
+                        "ref": "Bhashea Castle/Breaksanity/Cracked Wall Hallway/Cracked Wall #7"
+                    },
+                    {
+                        "name": "Cracked Wall #8",
+                        "ref": "Bhashea Castle/Breaksanity/Cracked Wall Hallway/Cracked Wall #8"
+                    },
+                    {
+                        "name": "Cracked Wall #9",
+                        "ref": "Bhashea Castle/Breaksanity/Cracked Wall Hallway/Cracked Wall #9"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1085,
                         "y": 860
                     }
                 ]
@@ -529,7 +677,7 @@
                     },
                     {
                         "name": "Card Throw Challenge",
-                        "ref": "Bhashea High Road/Card Throw Challenge/"
+                        "ref": "Bhashea High Road/Card Throw Challenge/Reward"
                     },
                     {
                         "name": "Chest Near Overlook",
@@ -541,7 +689,7 @@
                     },
                     {
                         "name": "Jump or Flight Chest",
-                        "ref": "Bhashea High Road/Jump or Flight Chest/"
+                        "ref": "Bhashea High Road/Jump or Flight Ledge/Chest"
                     },
                     {
                         "name": "Flight Chest",
@@ -563,7 +711,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1011,
+                        "x": 1020,
                         "y": 841
                     }
                 ]
@@ -703,7 +851,111 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1036,
+                        "x": 1045,
+                        "y": 841
+                    }
+                ]
+            },
+            {
+                "name": "Bhashea High Road - Breaksanity",
+                "sections": [
+                    {
+                        "name": "Cart #1",
+                        "ref": "Bhashea High Road/Breaksanity/Near Horses/Cart #1"
+                    },
+                    {
+                        "name": "Wagon #1",
+                        "ref": "Bhashea High Road/Breaksanity/Near Horses/Wagon #1"
+                    },
+                    {
+                        "name": "Tree #1",
+                        "ref": "Bhashea High Road/Breaksanity/Near Horses/Tree #1"
+                    },
+                    {
+                        "name": "Tree #2",
+                        "ref": "Bhashea High Road/Card Throw Challenge/Tree #2"
+                    },
+                    {
+                        "name": "Tree #3",
+                        "ref": "Bhashea High Road/Breaksanity/West of Bridge/Tree #3"
+                    },
+                    {
+                        "name": "Tree #4",
+                        "ref": "Bhashea High Road/Breaksanity/West of Bridge/Tree #4"
+                    },
+                    {
+                        "name": "Tree #5",
+                        "ref": "Bhashea High Road/Breaksanity/West of Bridge/Tree #5"
+                    },
+                    {
+                        "name": "Tree #6",
+                        "ref": "Bhashea High Road/Breaksanity/West of Bridge/Tree #6"
+                    },
+                    {
+                        "name": "Tree #7",
+                        "ref": "Bhashea High Road/Breaksanity/Ledge Between Bridges/Tree #7"
+                    },
+                    {
+                        "name": "Tree #8",
+                        "ref": "Bhashea High Road/Breaksanity/Ledge Between Bridges/Tree #8"
+                    },
+                    {
+                        "name": "Tree #9",
+                        "ref": "Bhashea High Road/Breaksanity/Ledge Between Bridges/Tree #9"
+                    },
+                    {
+                        "name": "Tree #10",
+                        "ref": "Bhashea High Road/Breaksanity/East of Bridge/Tree #10"
+                    },
+                    {
+                        "name": "Tree #11",
+                        "ref": "Bhashea High Road/Breaksanity/Tree Stump Clearing/Tree #11"
+                    },
+                    {
+                        "name": "Tree #12",
+                        "ref": "Bhashea High Road/Breaksanity/East of Bridge/Tree #12"
+                    },
+                    {
+                        "name": "Tree #13",
+                        "ref": "Bhashea High Road/Breaksanity/Tree Stump Clearing/Tree #13"
+                    },
+                    {
+                        "name": "Tree #14",
+                        "ref": "Bhashea High Road/Breaksanity/North Path/Tree #14"
+                    },
+                    {
+                        "name": "Tree #15",
+                        "ref": "Bhashea High Road/Breaksanity/North Path/Tree #15"
+                    },
+                    {
+                        "name": "Tree #16",
+                        "ref": "Bhashea High Road/Breaksanity/Road to Kadishu/Tree #16"
+                    },
+                    {
+                        "name": "Tree #17",
+                        "ref": "Bhashea High Road/Breaksanity/Road to Kadishu/Tree #17"
+                    },
+                    {
+                        "name": "Tree #18",
+                        "ref": "Bhashea High Road/Breaksanity/Road to Kadishu/Tree #18"
+                    },
+                    {
+                        "name": "Tree #19",
+                        "ref": "Bhashea High Road/Breaksanity/Road to Kadishu/Tree #19"
+                    },
+                    {
+                        "name": "Tree #20",
+                        "ref": "Bhashea High Road/Breaksanity/Road to Kadishu/Tree #20"
+                    },
+                    {
+                        "name": "Tree #21",
+                        "ref": "Bhashea High Road/Jump or Flight Ledge/Tree #21"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 995,
                         "y": 841
                     }
                 ]
@@ -969,7 +1221,7 @@
                     },
                     {
                         "name": "Flight Chest 2",
-                        "ref": "Fossil Boneyard/Flight Chest 2/"
+                        "ref": "Fossil Boneyard/Southern Flight/Flight Chest 2"
                     },
                     {
                         "name": "Stranger Runestone",
@@ -985,7 +1237,7 @@
                     },
                     {
                         "name": "Red Fairy Near Booster",
-                        "ref": "Fossil Boneyard/Red Fairy Near Booster/"
+                        "ref": "Fossil Boneyard/Near Booster/Red Fairy"
                     },
                     {
                         "name": "Red Fairy up Ledges",
@@ -993,15 +1245,15 @@
                     },
                     {
                         "name": "Fossil Head Pickup",
-                        "ref": "Fossil Boneyard/Fossil Head Pickup/"
+                        "ref": "Fossil Boneyard/Fossil Head/Fossil Pickup"
                     },
                     {
                         "name": "Fossil Torso Pickup",
-                        "ref": "Fossil Boneyard/Fossil Torso Pickup/"
+                        "ref": "Fossil Boneyard/Fossil Torso/Fossil Pickup"
                     },
                     {
                         "name": "Fossil Tail Pickup",
-                        "ref": "Fossil Boneyard/Fossil Tail Pickup/"
+                        "ref": "Fossil Boneyard/Fossil Tail/Fossil Pickup"
                     },
                     {
                         "name": "Fossil Right Wing Pickup",
@@ -1009,15 +1261,15 @@
                     },
                     {
                         "name": "Fossil Left Wing Pickup",
-                        "ref": "Fossil Boneyard/Fossil Left Wing Pickup/"
+                        "ref": "Fossil Boneyard/Fossil Left Wing/Fossil Pickup"
                     },
                     {
                         "name": "Fossil Right Arm Pickup",
-                        "ref": "Fossil Boneyard/Fossil Right Arm Pickup/"
+                        "ref": "Fossil Boneyard/Fossil Right Arm/Fossil Pickup"
                     },
                     {
                         "name": "Fossil Left Arm Pickup",
-                        "ref": "Fossil Boneyard/Fossil Left Arm Pickup/"
+                        "ref": "Fossil Boneyard/Fossil Left Arm/Fossil Pickup"
                     },
                     {
                         "name": "Fossil Right Leg Pickup",
@@ -1025,13 +1277,13 @@
                     },
                     {
                         "name": "Fossil Left Leg Pickup",
-                        "ref": "Fossil Boneyard/Fossil Left Leg Pickup/"
+                        "ref": "Fossil Boneyard/Fossil Left Leg/Fossil Pickup"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 793,
+                        "x": 810,
                         "y": 241
                     }
                 ]
@@ -1191,7 +1443,239 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 818,
+                        "x": 835,
+                        "y": 241
+                    }
+                ]
+            },
+            {
+                "name": "Fossil Boneyard - Breaksanity",
+                "sections": [
+                    {
+                        "name": "Rock #1",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Start/Rock #1"
+                    },
+                    {
+                        "name": "Rock #2",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Start/Rock #2"
+                    },
+                    {
+                        "name": "Rock #3",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Start/Rock #3"
+                    },
+                    {
+                        "name": "Rock #4",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Start/Rock #4"
+                    },
+                    {
+                        "name": "Rock #5",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Start/Rock #5"
+                    },
+                    {
+                        "name": "Rock #6",
+                        "ref": "Fossil Boneyard/Fossil Right Arm/Rock #6"
+                    },
+                    {
+                        "name": "Rock #7",
+                        "ref": "Fossil Boneyard/Fossil Right Arm/Rock #7"
+                    },
+                    {
+                        "name": "Rock #8",
+                        "ref": "Fossil Boneyard/Fossil Head/Rock #8"
+                    },
+                    {
+                        "name": "Rock #9",
+                        "ref": "Fossil Boneyard/Fossil Head/Rock #9"
+                    },
+                    {
+                        "name": "Rock #10",
+                        "ref": "Fossil Boneyard/Fossil Head/Rock #10"
+                    },
+                    {
+                        "name": "Rock #11",
+                        "ref": "Fossil Boneyard/Fossil Head/Rock #11"
+                    },
+                    {
+                        "name": "Rock #12",
+                        "ref": "Fossil Boneyard/Fossil Left Leg/Rock #12"
+                    },
+                    {
+                        "name": "Rock #13",
+                        "ref": "Fossil Boneyard/Fossil Left Leg/Rock #13"
+                    },
+                    {
+                        "name": "Rock #14",
+                        "ref": "Fossil Boneyard/Fossil Tail/Rock #14"
+                    },
+                    {
+                        "name": "Rock #15",
+                        "ref": "Fossil Boneyard/Fossil Tail/Rock #15"
+                    },
+                    {
+                        "name": "Rock #16",
+                        "ref": "Fossil Boneyard/Fossil Tail/Rock #16"
+                    },
+                    {
+                        "name": "Rock #17",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Eastern Flight Ledge/Rock #17"
+                    },
+                    {
+                        "name": "Rock #18",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Eastern Flight Ledge/Rock #18"
+                    },
+                    {
+                        "name": "Rock #19",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Eastern Flight Ledge/Rock #19"
+                    },
+                    {
+                        "name": "Rock #20",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Southern Flight Ledge/Rock #20"
+                    },
+                    {
+                        "name": "Rock #21",
+                        "ref": "Fossil Boneyard/Fossil Left Wing/Rock #21"
+                    },
+                    {
+                        "name": "Rock #22",
+                        "ref": "Fossil Boneyard/Fossil Left Wing/Rock #22"
+                    },
+                    {
+                        "name": "Rock #23",
+                        "ref": "Fossil Boneyard/Fossil Left Wing/Rock #23"
+                    },
+                    {
+                        "name": "Rock #24",
+                        "ref": "Fossil Boneyard/Fossil Torso/Rock #24"
+                    },
+                    {
+                        "name": "Rock #25",
+                        "ref": "Fossil Boneyard/Fossil Left Arm/Rock #25"
+                    },
+                    {
+                        "name": "Rock #26",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Amber Dragon/Rock #26"
+                    },
+                    {
+                        "name": "Rock #27",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Amber Dragon/Rock #27"
+                    },
+                    {
+                        "name": "Rock #28",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Amber Dragon/Rock #28"
+                    },
+                    {
+                        "name": "Rock #29",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Amber Dragon/Rock #29"
+                    },
+                    {
+                        "name": "Rock #30",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Amber Dragon/Rock #30"
+                    },
+                    {
+                        "name": "Rock #31",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Amber Dragon/Rock #31"
+                    },
+                    {
+                        "name": "Tree #1",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Start/Tree #1"
+                    },
+                    {
+                        "name": "Tree #2",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Start/Tree #2"
+                    },
+                    {
+                        "name": "Tree #3",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Start/Tree #3"
+                    },
+                    {
+                        "name": "Tree #4",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Start/Tree #4"
+                    },
+                    {
+                        "name": "Tree #5",
+                        "ref": "Fossil Boneyard/Ledge With Stranger/Tree #5"
+                    },
+                    {
+                        "name": "Tree #6",
+                        "ref": "Fossil Boneyard/Ledge With Stranger/Tree #6"
+                    },
+                    {
+                        "name": "Tree #7",
+                        "ref": "Fossil Boneyard/Breaksanity/Trees near Zombie Dragon/Tree #7"
+                    },
+                    {
+                        "name": "Tree #8",
+                        "ref": "Fossil Boneyard/Breaksanity/Trees near Zombie Dragon/Tree #8"
+                    },
+                    {
+                        "name": "Tree #9",
+                        "ref": "Fossil Boneyard/Near Booster/Tree #9"
+                    },
+                    {
+                        "name": "Tree #10",
+                        "ref": "Fossil Boneyard/Near Booster/Tree #10"
+                    },
+                    {
+                        "name": "Tree #11",
+                        "ref": "Fossil Boneyard/Fossil Head/Tree #11"
+                    },
+                    {
+                        "name": "Tree #12",
+                        "ref": "Fossil Boneyard/Fossil Head/Tree #12"
+                    },
+                    {
+                        "name": "Tree #13",
+                        "ref": "Fossil Boneyard/Fossil Left Leg/Tree #13"
+                    },
+                    {
+                        "name": "Tree #14",
+                        "ref": "Fossil Boneyard/Fossil Left Leg/Tree #14"
+                    },
+                    {
+                        "name": "Tree #15",
+                        "ref": "Fossil Boneyard/Fossil Tail/Tree #15"
+                    },
+                    {
+                        "name": "Tree #16",
+                        "ref": "Fossil Boneyard/Fossil Tail/Tree #16"
+                    },
+                    {
+                        "name": "Tree #17",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Eastern Flight Ledge/Tree #17"
+                    },
+                    {
+                        "name": "Tree #18",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Southern Flight Ledge/Tree #18"
+                    },
+                    {
+                        "name": "Tree #19",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Southern Flight Ledge/Tree #19"
+                    },
+                    {
+                        "name": "Tree #20",
+                        "ref": "Fossil Boneyard/Southern Flight Ledge/Tree #20"
+                    },
+                    {
+                        "name": "Tree #21",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables Past Amber Dragon/Tree #21"
+                    },
+                    {
+                        "name": "Tree #22",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables near Amber Dragon/Tree #22"
+                    },
+                    {
+                        "name": "Tree #23",
+                        "ref": "Fossil Boneyard/Southern Flight Ledge/Tree #23"
+                    },
+                    {
+                        "name": "Tree #24",
+                        "ref": "Fossil Boneyard/Breaksanity/Breakables Past Amber Dragon/Tree #24"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 785,
                         "y": 241
                     }
                 ]
@@ -1327,7 +1811,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1042,
+                        "x": 1055,
                         "y": 676
                     }
                 ]
@@ -1503,7 +1987,43 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 1067,
+                        "x": 1080,
+                        "y": 676
+                    }
+                ]
+            },
+            {
+                "name": "Gromtull Desert - Breaksanity",
+                "sections": [
+                    {
+                        "name": "Tree #1",
+                        "ref": "Gromtull Desert/Breaksanity/Trees near Backpack/Tree #1"
+                    },
+                    {
+                        "name": "Tree #2",
+                        "ref": "Gromtull Desert/Breaksanity/Trees near Backpack/Tree #2"
+                    },
+                    {
+                        "name": "Tree #3",
+                        "ref": "Gromtull Desert/Breaksanity/Trees near Backpack/Tree #3"
+                    },
+                    {
+                        "name": "Tree #4",
+                        "ref": "Gromtull Desert/Breaksanity/Trees near Backpack/Tree #4"
+                    },
+                    {
+                        "name": "Tree #5",
+                        "ref": "Gromtull Desert/Breaksanity/Trees near Backpack/Tree #5"
+                    },
+                    {
+                        "name": "Tree #6",
+                        "ref": "Gromtull Desert/Breaksanity/Trees near Backpack/Tree #6"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1030,
                         "y": 676
                     }
                 ]
@@ -1567,7 +2087,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 417,
+                        "x": 430,
                         "y": 731
                     }
                 ]
@@ -1695,7 +2215,91 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 442,
+                        "x": 455,
+                        "y": 731
+                    }
+                ]
+            },
+            {
+                "name": "Holzogh Town - Breaksanity",
+                "sections": [
+                    {
+                        "name": "Tree #1",
+                        "ref": "Holzogh Town/Breaksanity/Northwest Trees/Tree #1"
+                    },
+                    {
+                        "name": "Tree #2",
+                        "ref": "Holzogh Town/Breaksanity/Northwest Trees/Tree #2"
+                    },
+                    {
+                        "name": "Tree #3",
+                        "ref": "Holzogh Town/Breaksanity/Northwest Trees/Tree #3"
+                    },
+                    {
+                        "name": "Tree #4",
+                        "ref": "Holzogh Town/Breaksanity/Northwest Trees/Tree #4"
+                    },
+                    {
+                        "name": "Tree #5",
+                        "ref": "Holzogh Town/Breaksanity/Trees near Fountain Switch/Tree #5"
+                    },
+                    {
+                        "name": "Tree #6",
+                        "ref": "Holzogh Town/Breaksanity/Trees near Fountain Switch/Tree #6"
+                    },
+                    {
+                        "name": "Tree #7",
+                        "ref": "Holzogh Town/Breaksanity/Trees near Fountain Switch/Tree #7"
+                    },
+                    {
+                        "name": "Tree #8",
+                        "ref": "Holzogh Town/Breaksanity/Trees near Fountain Switch/Tree #8"
+                    },
+                    {
+                        "name": "Tree #9",
+                        "ref": "Holzogh Town/Breaksanity/Trees Behind Fountain/Tree #9"
+                    },
+                    {
+                        "name": "Tree #10",
+                        "ref": "Holzogh Town/Breaksanity/Trees Behind Fountain/Tree #10"
+                    },
+                    {
+                        "name": "Tree #11",
+                        "ref": "Holzogh Town/Breaksanity/Trees Behind Fountain/Tree #11"
+                    },
+                    {
+                        "name": "Tree #12",
+                        "ref": "Holzogh Town/Breaksanity/Trees Behind Fountain/Tree #12"
+                    },
+                    {
+                        "name": "Tree #13",
+                        "ref": "Holzogh Town/Breaksanity/Trees near Stairs/Tree #13"
+                    },
+                    {
+                        "name": "Tree #14",
+                        "ref": "Holzogh Town/Breaksanity/Trees near Stairs/Tree #14"
+                    },
+                    {
+                        "name": "Tree #15",
+                        "ref": "Holzogh Town/Breaksanity/Trees near Corpse/Tree #15"
+                    },
+                    {
+                        "name": "Tree #16",
+                        "ref": "Holzogh Town/Breaksanity/Trees near Corpse/Tree #16"
+                    },
+                    {
+                        "name": "Tree #17",
+                        "ref": "Holzogh Town/Breaksanity/Trees near Eastern Wall/Tree #17"
+                    },
+                    {
+                        "name": "Tree #18",
+                        "ref": "Holzogh Town/Breaksanity/Trees near Eastern Wall/Tree #18"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 405,
                         "y": 731
                     }
                 ]
@@ -2007,7 +2611,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 801,
+                        "x": 815,
                         "y": 678
                     }
                 ]
@@ -2095,7 +2699,67 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 826,
+                        "x": 840,
+                        "y": 678
+                    }
+                ]
+            },
+            {
+                "name": "Kendarie Fortress - Breaksanity",
+                "sections": [
+                    {
+                        "name": "Barrel #1",
+                        "ref": "Kendarie Fortress/Breaksanity/Barrels near Start/Barrel #1"
+                    },
+                    {
+                        "name": "Barrel #2",
+                        "ref": "Kendarie Fortress/Breaksanity/Barrels near Start/Barrel #2"
+                    },
+                    {
+                        "name": "Barrel #3",
+                        "ref": "Kendarie Fortress/Breaksanity/Barrels near Mechapult/Barrel #3"
+                    },
+                    {
+                        "name": "Barrel #4",
+                        "ref": "Kendarie Fortress/Breaksanity/Barrels near Mechapult/Barrel #4"
+                    },
+                    {
+                        "name": "Barrel #5",
+                        "ref": "Kendarie Fortress/Breaksanity/Barrels near Mechapult/Barrel #5"
+                    },
+                    {
+                        "name": "Barrel #6",
+                        "ref": "Kendarie Fortress/Breaksanity/Barrels near Mechapult/Barrel #6"
+                    },
+                    {
+                        "name": "Barrel #7",
+                        "ref": "Kendarie Fortress/Breaksanity/Barrels near Mechapult/Barrel #7"
+                    },
+                    {
+                        "name": "Barrel #8",
+                        "ref": "Kendarie Fortress/Breaksanity/Barrels near Mechapult/Barrel #8"
+                    },
+                    {
+                        "name": "Gate #1",
+                        "ref": "Kendarie Fortress/Breaksanity/Gate #1/"
+                    },
+                    {
+                        "name": "Gate #2",
+                        "ref": "Kendarie Fortress/Breaksanity/Gate #2/"
+                    },
+                    {
+                        "name": "Gate #3",
+                        "ref": "Kendarie Fortress/Breaksanity/Gate #3/"
+                    },
+                    {
+                        "name": "Gate #4",
+                        "ref": "Kendarie Fortress/Breaksanity/Gate #4/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 790,
                         "y": 678
                     }
                 ]
@@ -2155,7 +2819,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 405,
+                        "x": 420,
                         "y": 280
                     }
                 ]
@@ -2347,7 +3011,75 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 431,
+                        "x": 445,
+                        "y": 280
+                    }
+                ]
+            },
+            {
+                "name": "Krasheen Mountains - Breaksanity",
+                "sections": [
+                    {
+                        "name": "Tree #1",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #1/"
+                    },
+                    {
+                        "name": "Tree #2",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #2/"
+                    },
+                    {
+                        "name": "Tree #3",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #3/"
+                    },
+                    {
+                        "name": "Tree #4",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #4/"
+                    },
+                    {
+                        "name": "Tree #5",
+                        "ref": "Krasheen Mountains/Sealed Black Dragon/Tree #5"
+                    },
+                    {
+                        "name": "Tree #6",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #6/"
+                    },
+                    {
+                        "name": "Tree #7",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #7/"
+                    },
+                    {
+                        "name": "Tree #8",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #8/"
+                    },
+                    {
+                        "name": "Tree #9",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #9/"
+                    },
+                    {
+                        "name": "Tree #10",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #10/"
+                    },
+                    {
+                        "name": "Tree #11",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #11/"
+                    },
+                    {
+                        "name": "Tree #12",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #12/"
+                    },
+                    {
+                        "name": "Tree #13",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #13/"
+                    },
+                    {
+                        "name": "Tree #14",
+                        "ref": "Krasheen Mountains/Breaksanity/Tree #14/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 395,
                         "y": 280
                     }
                 ]
@@ -2378,12 +3110,48 @@
                     {
                         "name": "Red Fairy Office",
                         "ref": "Noblemans Residence/Red Fairy Office/"
+                    },
+                    {
+                        "name": "Crate #1",
+	                    "ref": "Noblemans Residence/Breaksanity/Basement Crates/Crate #1"
+                    },
+                    {
+                        "name": "Crate #2",
+	                    "ref": "Noblemans Residence/Breaksanity/Basement Crates/Crate #2"
+                    },
+                    {
+                        "name": "Crate #3",
+	                    "ref": "Noblemans Residence/Breaksanity/Basement Crates/Crate #3"
+                    },
+                    {
+                        "name": "Crate #4",
+	                    "ref": "Noblemans Residence/Breaksanity/Basement Crates/Crate #4"
+                    },
+                    {
+                        "name": "Crate #5",
+	                    "ref": "Noblemans Residence/Breaksanity/Basement Crates/Crate #5"
+                    },
+                    {
+                        "name": "Vase #1",
+	                    "ref": "Noblemans Residence/Breaksanity/West Hall Vases/Vase #1"
+                    },
+                    {
+                        "name": "Vase #2",
+	                    "ref": "Noblemans Residence/Breaksanity/West Hall Vases/Vase #2"
+                    },
+                    {
+                        "name": "Vase #3",
+	                    "ref": "Noblemans Residence/Breaksanity/West Hall Vases/Vase #3"
+                    },
+                    {
+                        "name": "Vase #4",
+	                    "ref": "Noblemans Residence/Breaksanity/West Hall Vases/Vase #4"
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 756,
+                        "x": 755,
                         "y": 866
                     }
                 ]
@@ -2575,7 +3343,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 496,
+                        "x": 515,
                         "y": 902
                     }
                 ]
@@ -2723,7 +3491,99 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 521,
+                        "x": 540,
+                        "y": 902
+                    }
+                ]
+            },
+            {
+                "name": "Obenoix Gorge - Breaksanity",
+                "sections": [
+                    {
+                        "name": "Icicle #1",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Start/Icicle #1"
+                    },
+                    {
+                        "name": "Icicle #2",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Start/Icicle #2"
+                    },
+                    {
+                        "name": "Icicle #3",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Start/Icicle #3"
+                    },
+                    {
+                        "name": "Icicle #4",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Magic Booster/Icicle #4"
+                    },
+                    {
+                        "name": "Icicle #5",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Magic Booster/Icicle #5"
+                    },
+                    {
+                        "name": "Icicle #6",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Magic Booster/Icicle #6"
+                    },
+                    {
+                        "name": "Icicle #7",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Magic Booster/Icicle #7"
+                    },
+                    {
+                        "name": "Icicle #8",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Magic Booster/Icicle #8"
+                    },
+                    {
+                        "name": "Icicle #9",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Magic Booster/Icicle #9"
+                    },
+                    {
+                        "name": "Icicle #10",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Magic Booster/Icicle #10"
+                    },
+                    {
+                        "name": "Icicle #11",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Magic Booster/Icicle #11"
+                    },
+                    {
+                        "name": "Icicle #12",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Magic Booster/Icicle #12"
+                    },
+                    {
+                        "name": "Icicle #13",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Magic Booster/Icicle #13"
+                    },
+                    {
+                        "name": "Icicle #14",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles near Magic Booster/Icicle #14"
+                    },
+                    {
+                        "name": "Icicle #15",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles on Flight Ledge/Icicle #15"
+                    },
+                    {
+                        "name": "Icicle #16",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles on Flight Ledge/Icicle #16"
+                    },
+                    {
+                        "name": "Icicle #17",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles on Flight Ledge/Icicle #17"
+                    },
+                    {
+                        "name": "Icicle #18",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles on Flight Ledge/Icicle #18"
+                    },
+                    {
+                        "name": "Icicle #19",
+                        "ref": "Obenoix Gorge/Breaksanity/Icicles on Flight Ledge/Icicle #19"
+                    },
+                    {
+                        "name": "Ice Wall #1",
+                        "ref": "Obenoix Gorge/Breaksanity/Ice Wall #1/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 490,
                         "y": 902
                     }
                 ]
@@ -2799,7 +3659,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 343,
+                        "x": 355,
                         "y": 783
                     }
                 ]
@@ -2943,7 +3803,39 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 368,
+                        "x": 380,
+                        "y": 783
+                    }
+                ]
+            },
+            {
+                "name": "Plains of Rowahl - Breaksanity",
+                "sections": [
+                {
+                        "name": "Broken Aggressor GL2 #1",
+                        "ref": "Plains of Rowahl/Breaksanity/Broken Aggressors near Soldier/Broken Aggressor GL2 #1"
+                    },
+                    {
+                        "name": "Broken Aggressor GL2 #2",
+                        "ref": "Plains of Rowahl/Breaksanity/Broken Aggressors near Soldier/Broken Aggressor GL2 #2"
+                    },
+                    {
+                        "name": "Broken Aggressor GL2 #3",
+                        "ref": "Plains of Rowahl/Breaksanity/Broken Aggressors near Soldier/Broken Aggressor GL2 #3"
+                    },
+                    {
+                        "name": "Crate #1",
+                        "ref": "Plains of Rowahl/Breaksanity/Crates near Tents/Crate #1"
+                    },
+                    {
+                        "name": "Crate #2",
+                        "ref": "Plains of Rowahl/Breaksanity/Crates near Tents/Crate #2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 330,
                         "y": 783
                     }
                 ]
@@ -3081,11 +3973,11 @@
                     },
                     {
                         "name": "Breakable Wall Chest 1",
-                        "ref": "Royal Tower - Middle/Breakable Wall 1/Chest"
+                        "ref": "Royal Tower - Middle/Northern Breakable Wall/Chest"
                     },
                     {
                         "name": "Breakable Wall Chest 2",
-                        "ref": "Royal Tower - Middle/Breakable Wall 2/Chest"
+                        "ref": "Royal Tower - Middle/Southern Breakable Wall/Chest"
                     },
                     {
                         "name": "Forcefield Chest 1",
@@ -3105,11 +3997,19 @@
                     },
                     {
                         "name": "Red Fairy Breakable Wall 1",
-                        "ref": "Royal Tower - Middle/Breakable Wall 1/Red Fairy"
+                        "ref": "Royal Tower - Middle/Northern Breakable Wall/Red Fairy"
                     },
                     {
                         "name": "Red Fairy Breakable Wall 2",
-                        "ref": "Royal Tower - Middle/Breakable Wall 2/Red Fairy"
+                        "ref": "Royal Tower - Middle/Southern Breakable Wall/Red Fairy"
+                    },
+                    {
+                        "name": "Cracked Wall #1",
+                        "ref": "Royal Tower - Middle/Southern Breakable Wall/Cracked Wall #1"
+                    },
+                    {
+                        "name": "Cracked Wall #2",
+                        "ref": "Royal Tower - Middle/Northern Breakable Wall/Cracked Wall #2"
                     }
                 ],
                 "map_locations": [
@@ -3402,6 +4302,14 @@
                     {
                         "name": "Red Fairy Past Cockatrice",
                         "ref": "Ruldo Forest/Red Fairy Past Cockatrice/"
+                    },
+                    {
+                        "name": "Log Wall 1",
+                        "ref": "Ruldo Forest/Breaksanity/Log Wall 1/"
+                    },
+                    {
+                        "name": "Log Wall 2",
+                        "ref": "Ruldo Forest/Breaksanity/Log Wall 2/"
                     }
                 ],
                 "map_locations": [
@@ -3821,6 +4729,38 @@
                 ]
             },
             {
+                "name": "Runestone Caverns - Lower Chambers - Breaksanity",
+                "sections": [
+                    {
+                        "name": "Crate #1",
+                        "ref": "Runestone Caverns - Lower Chambers/Breaksanity/Crates/Crate #1"
+                    },
+                    {
+                        "name": "Crate #2",
+                        "ref": "Runestone Caverns - Lower Chambers/Breaksanity/Crates/Crate #2"
+                    },
+                    {
+                        "name": "Crate #3",
+                        "ref": "Runestone Caverns - Lower Chambers/Breaksanity/Crates/Crate #3"
+                    },
+                    {
+                        "name": "Crate #4",
+                        "ref": "Runestone Caverns - Lower Chambers/Breaksanity/Crates/Crate #4"
+                    },
+                    {
+                        "name": "Crate #5",
+                        "ref": "Runestone Caverns - Lower Chambers/Breaksanity/Crates/Crate #5"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1143,
+                        "y": 227
+                    }
+                ]
+            },
+            {
                 "name": "Runestone Caverns - Upper Chambers",
                 "sections": [
                     {
@@ -3845,11 +4785,11 @@
                     },
                     {
                         "name": "Chest Behind Ice 1",
-                        "ref": "Runestone Caverns - Upper Chambers/Chest Behind Ice 1/"
+                        "ref": "Runestone Caverns - Upper Chambers/Lower Ice Wall/Chest Behind Ice 1"
                     },
                     {
                         "name": "Chest Behind Ice 2",
-                        "ref": "Runestone Caverns - Upper Chambers/Chest Behind Ice 2/"
+                        "ref": "Runestone Caverns - Upper Chambers/Upper Ice Wall/Chest Behind Ice 2"
                     },
                     {
                         "name": "Dragon Chest 1",
@@ -4061,6 +5001,162 @@
                         "map": "Overworld",
                         "x": 1093,
                         "y": 252
+                    }
+                ]
+            },
+            {
+                "name": "Runestone Caverns - Upper Chambers - Breaksanity",
+                "sections": [
+                {
+                        "name": "Icicle #1",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Lower Icicles/Icicle #1"
+                    },
+                    {
+                        "name": "Icicle #2",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Lower Icicles/Icicle #2"
+                    },
+                    {
+                        "name": "Icicle #3",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Lower Icicles/Icicle #3"
+                    },
+                    {
+                        "name": "Icicle #4",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Lower Icicles/Icicle #4"
+                    },
+                    {
+                        "name": "Icicle #5",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Icicles near Sluice Gate/Icicle #5"
+                    },
+                    {
+                        "name": "Icicle #6",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Icicles near Sluice Gate/Icicle #6"
+                    },
+                    {
+                        "name": "Icicle #7",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Icicles near Sluice Gate/Icicle #7"
+                    },
+                    {
+                        "name": "Icicle #8",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Icicles near Sluice Gate/Icicle #8"
+                    },
+                    {
+                        "name": "Icicle #9",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Icicles near Sluice Gate/Icicle #9"
+                    },
+                    {
+                        "name": "Icicle #10",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Icicles near Sluice Gate/Icicle #10"
+                    },
+                    {
+                        "name": "Icicle #11",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/West Icicles near Sluice Gate/Icicle #11"
+                    },
+                    {
+                        "name": "Icicle #12",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/West Icicles near Sluice Gate/Icicle #12"
+                    },
+                    {
+                        "name": "Icicle #13",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/West Icicles near Sluice Gate/Icicle #13"
+                    },
+                    {
+                        "name": "Icicle #14",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/West Icicles near Sluice Gate/Icicle #14"
+                    },
+                    {
+                        "name": "Icicle #15",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/West Icicles near Sluice Gate/Icicle #15"
+                    },
+                    {
+                        "name": "Icicle #16",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/West Icicles near Sluice Gate/Icicle #16"
+                    },
+                    {
+                        "name": "Icicle #17",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Room Icicles/Icicle #17"
+                    },
+                    {
+                        "name": "Icicle #18",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Room Icicles/Icicle #18"
+                    },
+                    {
+                        "name": "Icicle #19",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Room Icicles/Icicle #19"
+                    },
+                    {
+                        "name": "Icicle #20",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Room Icicles/Icicle #20"
+                    },
+                    {
+                        "name": "Icicle #21",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Room Icicles/Icicle #21"
+                    },
+                    {
+                        "name": "Icicle #22",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/East Room Icicles/Icicle #22"
+                    },
+                    {
+                        "name": "Icicle #23",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #23"
+                    },
+                    {
+                        "name": "Icicle #24",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #24"
+                    },
+                    {
+                        "name": "Icicle #25",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #25"
+                    },
+                    {
+                        "name": "Icicle #26",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #26"
+                    },
+                    {
+                        "name": "Icicle #27",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #27"
+                    },
+                    {
+                        "name": "Icicle #28",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #28"
+                    },
+                    {
+                        "name": "Icicle #29",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #29"
+                    },
+                    {
+                        "name": "Icicle #30",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #30"
+                    },
+                    {
+                        "name": "Icicle #31",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #31"
+                    },
+                    {
+                        "name": "Icicle #32",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #32"
+                    },
+                    {
+                        "name": "Icicle #33",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #33"
+                    },
+                    {
+                        "name": "Icicle #34",
+                        "ref": "Runestone Caverns - Upper Chambers/Breaksanity/Icicles near Stone Golem/Icicle #34"
+                    },
+                    {
+                        "name": "Ice Wall #1",
+                        "ref": "Runestone Caverns - Upper Chambers/Upper Ice Wall/Ice Wall #1"
+                    },
+                    {
+                        "name": "Ice Wall #2",
+                        "ref": "Runestone Caverns - Upper Chambers/Lower Ice Wall/Ice Wall #2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1068,
+                        "y": 227
                     }
                 ]
             },
@@ -4311,7 +5407,7 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 880,
+                        "x": 890,
                         "y": 335
                     }
                 ]
@@ -4455,7 +5551,47 @@
                 "map_locations": [
                     {
                         "map": "Overworld",
-                        "x": 905,
+                        "x": 915,
+                        "y": 335
+                    }
+                ]
+            },
+            {
+                "name": "Sarvan - Breaksanity",
+                "sections": [
+                {
+                        "name": "Tree #1",
+                        "ref": "Sarvan/Breaksanity/Trees near Ledge/Tree #1"
+                    },
+                    {
+                        "name": "Tree #2",
+                        "ref": "Sarvan/Breaksanity/Trees near Ledge/Tree #2"
+                    },
+                    {
+                        "name": "Tree #3",
+                        "ref": "Sarvan/Breaksanity/Trees near Fence/Tree #3"
+                    },
+                    {
+                        "name": "Tree #4",
+                        "ref": "Sarvan/Breaksanity/Trees near Fence/Tree #4"
+                    },
+                    {
+                        "name": "Tree #5",
+                        "ref": "Sarvan/Breaksanity/Trees near Fence/Tree #5"
+                    },
+                    {
+                        "name": "Tree #6",
+                        "ref": "Sarvan/Breaksanity/Trees near Fence/Tree #6"
+                    },
+                    {
+                        "name": "Tree #7",
+                        "ref": "Sarvan/Breaksanity/Trees near Fence/Tree #7"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 865,
                         "y": 335
                     }
                 ]
@@ -4522,6 +5658,14 @@
                     {
                         "name": "Red Fairy Valkyrie Side",
                         "ref": "Temple of Sharacia/Red Fairy Valkyrie Side/"
+                    },
+                    {
+                        "name": "Pillar #1",
+                        "ref": "Temple of Sharacia/Breaksanity/Pillar #1/"
+                    },
+                    {
+                        "name": "Pillar #2",
+                        "ref": "Temple of Sharacia/Breaksanity/Pillar #2/"
                     }
                 ],
                 "map_locations": [
@@ -4705,7 +5849,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 1 - Enemysanity",
+                "name": "Proving Grounds - Floor 1",
                 "sections": [
                     {
                         "name": "Berserker #1",
@@ -4829,7 +5973,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 2 - Enemysanity",
+                "name": "Proving Grounds - Floor 2",
                 "sections": [
                     {
                         "name": "Treant #1",
@@ -4961,7 +6105,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 3 - Enemysanity",
+                "name": "Proving Grounds - Floor 3",
                 "sections": [
                     {
                         "name": "Hobgoblin #1",
@@ -5097,7 +6241,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 4 - Enemysanity",
+                "name": "Proving Grounds - Floor 4",
                 "sections": [
                     {
                         "name": "Salamander #1",
@@ -5205,7 +6349,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 5 - Enemysanity",
+                "name": "Proving Grounds - Floor 5",
                 "sections": [
                     {
                         "name": "Cyclops #1",
@@ -5325,7 +6469,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 6 - Enemysanity",
+                "name": "Proving Grounds - Floor 6",
                 "sections": [
                     {
                         "name": "Venus Spider #1",
@@ -5445,7 +6589,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 7 - Enemysanity",
+                "name": "Proving Grounds - Floor 7",
                 "sections": [
                     {
                         "name": "Earth Moray #1",
@@ -5565,7 +6709,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 8 - Enemysanity",
+                "name": "Proving Grounds - Floor 8",
                 "sections": [
                     {
                         "name": "Gnome #1",
@@ -5673,7 +6817,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 9 - Enemysanity",
+                "name": "Proving Grounds - Floor 9",
                 "sections": [
                     {
                         "name": "Caterpoker #1",
@@ -5777,7 +6921,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 10 - Enemysanity",
+                "name": "Proving Grounds - Floor 10",
                 "sections": [
                     {
                         "name": "Panther Mage #1",
@@ -5897,7 +7041,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 11 - Enemysanity",
+                "name": "Proving Grounds - Floor 11",
                 "sections": [
                     {
                         "name": "Ghost Armor #1",
@@ -6021,7 +7165,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 12 - Enemysanity",
+                "name": "Proving Grounds - Floor 12",
                 "sections": [
                     {
                         "name": "Dryad #1",
@@ -6149,7 +7293,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 13 - Enemysanity",
+                "name": "Proving Grounds - Floor 13",
                 "sections": [
                     {
                         "name": "Phooka #1",
@@ -6265,7 +7409,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 14 - Enemysanity",
+                "name": "Proving Grounds - Floor 14",
                 "sections": [
                     {
                         "name": "Baby Dragon #1",
@@ -6369,7 +7513,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 15 - Enemysanity",
+                "name": "Proving Grounds - Floor 15",
                 "sections": [
                     {
                         "name": "Wraith #1",
@@ -6481,7 +7625,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 16 - Enemysanity",
+                "name": "Proving Grounds - Floor 16",
                 "sections": [
                     {
                         "name": "Undine #1",
@@ -6609,7 +7753,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 17 - Enemysanity",
+                "name": "Proving Grounds - Floor 17",
                 "sections": [
                     {
                         "name": "Yin Yang #1",
@@ -6733,7 +7877,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 18 - Enemysanity",
+                "name": "Proving Grounds - Floor 18",
                 "sections": [
                     {
                         "name": "Vampire #1",
@@ -6853,7 +7997,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 19 - Enemysanity",
+                "name": "Proving Grounds - Floor 19",
                 "sections": [
                     {
                         "name": "Demon Lord #1",
@@ -6957,7 +8101,7 @@
                 ]
             },
             {
-                "name": "Proving Grounds - Floor 20 - Enemysanity",
+                "name": "Proving Grounds - Floor 20",
                 "sections": [
                     {
                         "name": "Blue Dragon #1",
@@ -7057,6 +8201,86 @@
                         "map": "Overworld",
                         "x": 163,
                         "y": 232
+                    }
+                ]
+            },
+            {
+                "name": "Proving Grounds - Breaksanity",
+                "sections": [
+                    {
+                        "name": "Floor 1 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 1/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 3 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 3/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 4 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 4/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 5 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 5/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 5 - Cracked Wall #2",
+                        "ref": "Proving Grounds/Breaksanity/Floor 5/Cracked Wall #2/"
+                    },
+                    {
+                        "name": "Floor 9 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 9/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 10 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 10/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 12 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 12/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 13 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 13/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 13 - Cracked Wall #2",
+                        "ref": "Proving Grounds/Breaksanity/Floor 13/Cracked Wall #2/"
+                    },
+                    {
+                        "name": "Floor 14 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 14/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 15 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 15/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 15 - Cracked Wall #2",
+                        "ref": "Proving Grounds/Breaksanity/Floor 15/Cracked Wall #2/"
+                    },
+                    {
+                        "name": "Floor 17 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 17/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 18 - Cracked Wall #1",
+                        "ref": "Proving Grounds/Breaksanity/Floor 18/Cracked Wall #1/"
+                    },
+                    {
+                        "name": "Floor 18 - Cracked Wall #2",
+                        "ref": "Proving Grounds/Breaksanity/Floor 18/Cracked Wall #2/"
+                    },
+                    {
+                        "name": "Floor 18 - Cracked Wall #3",
+                        "ref": "Proving Grounds/Breaksanity/Floor 18/Cracked Wall #3/"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 88,
+                        "y": 132
                     }
                 ]
             }

@@ -94,14 +94,21 @@
                 ]
             },
             {
-                "name": "Chest Behind Ice 1",
+                "name": "Lower Ice Wall",
                 "access_rules": [
                     "^$can_ice_break",
                     "^$can_high_jump, [^$can_ice_break]"
                 ],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest Behind Ice 1"
+                    },
+                    {
+                        "name": "Ice Wall #2",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "access_rules": ["^$can_ice_break"],
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -113,11 +120,17 @@
                 ]
             },
             {
-                "name": "Chest Behind Ice 2",
+                "name": "Upper Ice Wall",
                 "access_rules": ["^$can_ice_break"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest Behind Ice 2"
+                    },
+                    {
+                        "name": "Ice Wall #1",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
@@ -624,6 +637,108 @@
                                 "map": "Runestone Caverns - Upper Chambers",
                                 "x": 700,
                                 "y": 661
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Lower Icicles",
+                        "sections": [
+                            {"name": "Icicle #1"},
+                            {"name": "Icicle #2"},
+                            {"name": "Icicle #3"},
+                            {"name": "Icicle #4"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 639,
+                                "y": 478
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East Icicles near Sluice Gate",
+                        "sections": [
+                            {"name": "Icicle #5"},
+                            {"name": "Icicle #6"},
+                            {"name": "Icicle #7"},
+                            {"name": "Icicle #8"},
+                            {"name": "Icicle #9"},
+                            {"name": "Icicle #10"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 422,
+                                "y": 531
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West Icicles near Sluice Gate",
+                        "sections": [
+                            {"name": "Icicle #11"},
+                            {"name": "Icicle #12"},
+                            {"name": "Icicle #13"},
+                            {"name": "Icicle #14"},
+                            {"name": "Icicle #15"},
+                            {"name": "Icicle #16"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 357,
+                                "y": 525
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East Room Icicles",
+                        "sections": [
+                            {"name": "Icicle #17"},
+                            {"name": "Icicle #18"},
+                            {"name": "Icicle #19"},
+                            {"name": "Icicle #20"},
+                            {"name": "Icicle #21"},
+                            {"name": "Icicle #22"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 716,
+                                "y": 630
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Icicles near Stone Golem",
+                        "sections": [
+                            {"name": "Icicle #23"},
+                            {"name": "Icicle #24"},
+                            {"name": "Icicle #25"},
+                            {"name": "Icicle #26"},
+                            {"name": "Icicle #27"},
+                            {"name": "Icicle #28"},
+                            {"name": "Icicle #29"},
+                            {"name": "Icicle #30"},
+                            {"name": "Icicle #31"},
+                            {"name": "Icicle #32"},
+                            {"name": "Icicle #33"},
+                            {"name": "Icicle #34"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Runestone Caverns - Upper Chambers",
+                                "x": 550,
+                                "y": 306
                             }
                         ]
                     }

@@ -681,6 +681,42 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Pillar #1",
+                        "access_rules": ["^$can_medium_wall_break"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 473,
+                                "y": 432
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pillar #2",
+                        "access_rules": ["^$can_medium_wall_break"],
+                        "sections": [
+                            {"name": ""}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Temple of Sharacia",
+                                "x": 527,
+                                "y": 432
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

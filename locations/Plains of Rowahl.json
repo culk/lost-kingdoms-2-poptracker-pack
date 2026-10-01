@@ -532,6 +532,43 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Crates near Tents",
+                        "sections": [
+                            {"name": "Crate #1"},
+                            {"name": "Crate #2"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 364,
+                                "y": 686
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Broken Aggressors near Soldier",
+                        "sections": [
+                            {"name": "Broken Aggressor GL2 #1"},
+                            {"name": "Broken Aggressor GL2 #2"},
+                            {"name": "Broken Aggressor GL2 #3"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Plains of Rowahl",
+                                "x": 442,
+                                "y": 668
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

@@ -497,6 +497,104 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Northwest Trees",
+                        "sections": [
+                            {"name": "Tree #1"},
+                            {"name": "Tree #2"},
+                            {"name": "Tree #3"},
+                            {"name": "Tree #4"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 150,
+                                "y": 280
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trees near Fountain Switch",
+                        "sections": [
+                            {"name": "Tree #5"},
+                            {"name": "Tree #6"},
+                            {"name": "Tree #7"},
+                            {"name": "Tree #8"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 255,
+                                "y": 750
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trees Behind Fountain",
+                        "sections": [
+                            {"name": "Tree #9"},
+                            {"name": "Tree #10"},
+                            {"name": "Tree #11"},
+                            {"name": "Tree #12"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 255,
+                                "y": 750
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trees near Corpse",
+                        "sections": [
+                            {"name": "Tree #15"},
+                            {"name": "Tree #16"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 751,
+                                "y": 313
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trees near Eastern Wall",
+                        "sections": [
+                            {"name": "Tree #17"},
+                            {"name": "Tree #18"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 854,
+                                "y": 382
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trees near Stairs",
+                        "sections": [
+                            {"name": "Tree #13"},
+                            {"name": "Tree #14"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Holzogh Town",
+                                "x": 721,
+                                "y": 409
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

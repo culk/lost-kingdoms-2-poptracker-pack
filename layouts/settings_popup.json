@@ -23,7 +23,8 @@
                     ["fairysanity"],
                     ["combosanity"],
                     ["shopsanity"],
-                    ["enemysanity"]
+                    ["enemysanity"],
+                    ["breaksanity"]
                 ]
             }
         ]

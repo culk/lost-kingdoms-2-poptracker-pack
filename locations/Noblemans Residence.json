@@ -406,6 +406,47 @@
                         ]
                     }
                 ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Basement Crates",
+                        "sections": [
+                            {"name": "Crate #1"},
+                            {"name": "Crate #2"},
+                            {"name": "Crate #3"},
+                            {"name": "Crate #4"},
+                            {"name": "Crate #5"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Noblemans Residence",
+                                "x": 255,
+                                "y": 274
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West Hall Vases",
+                        "sections": [
+                            {"name": "Vase #1"},
+                            {"name": "Vase #2"},
+                            {"name": "Vase #3"},
+                            {"name": "Vase #4"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Noblemans Residence",
+                                "x": 374,
+                                "y": 587
+                            }
+                        ]
+                    }
+                ]
             }
         ]
     }

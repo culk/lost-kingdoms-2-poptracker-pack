@@ -97,17 +97,35 @@
                 ]
             },
             {
-                "name": "Break Through Wall Chest",
+                "name": "Break Through Walls Room",
                 "access_rules": ["^$can_medium_wall_break"],
                 "sections": [
                     {
-                        "name": ""
+                        "name": "Chest"
+                    },
+                    {
+                        "name": "Red Fairy in Rubble",
+                        "chest_unopened_img": "/images/items/fairy_close.png",
+                        "chest_opened_img": "/images/items/fairy_open.png",
+                        "visibility_rules": ["fairysanity"]
+                    },
+                    {
+                        "name": "Crate #6",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
+                    },
+                    {
+                        "name": "Crate #7",
+                        "chest_unopened_img": "/images/items/breakable_close.png",
+                        "chest_opened_img": "/images/items/breakable_open.png",
+                        "visibility_rules": ["breaksanity"]
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Bhashea Castle",
-                        "x": 257,
+                        "x": 240,
                         "y": 833
                     }
                 ]
@@ -200,25 +218,6 @@
                 ]
             },
             {
-                "name": "Red Fairy Wall Break Rubble",
-                "chest_unopened_img": "/images/items/fairy_close.png",
-                "chest_opened_img": "/images/items/fairy_open.png",
-                "access_rules": ["^$can_medium_wall_break"],
-                "visibility_rules": ["fairysanity"],
-                "sections": [
-                    {
-                        "name": ""
-                    }
-                ],
-                "map_locations": [
-                    {
-                        "map": "Bhashea Castle",
-                        "x": 232,
-                        "y": 833
-                    }
-                ]
-            },
-            {
                 "name": "Blade of Skill Pickup",
                 "chest_unopened_img": "/images/items/blade.png",
                 "chest_opened_img": "/images/items/blade_open.png",
@@ -259,8 +258,8 @@
                 "map_locations": [
                     {
                         "map": "Bhashea Castle",
-                        "x": 521,
-                        "y": 722
+                        "x": 513,
+                        "y": 716
                     }
                 ]
             },
@@ -517,7 +516,7 @@
                         "map_locations": [
                             {
                                 "map": "Bhashea Castle",
-                                "x": 512,
+                                "x": 485,
                                 "y": 329
                             }
                         ]
@@ -740,6 +739,143 @@
                                 "map": "Bhashea Castle",
                                 "x": 332,
                                 "y": 531
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breaksanity",
+                "chest_unopened_img": "/images/items/breakable_close.png",
+                "chest_opened_img": "/images/items/breakable_open.png",
+                "visibility_rules": ["breaksanity"],
+                "children": [
+                    {
+                        "name": "Northwest Crates",
+                        "sections": [
+                            {"name": "Crate #1"},
+                            {"name": "Crate #2"},
+                            {"name": "Crate #3"},
+                            {"name": "Crate #4"},
+                            {"name": "Crate #5"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 156,
+                                "y": 337
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Cracked Wall Hallway",
+                        "access_rules": ["^$can_medium_wall_break"],
+                        "sections": [
+                            {"name": "Cracked Wall #1"},
+                            {"name": "Cracked Wall #2"},
+                            {"name": "Cracked Wall #3"},
+                            {"name": "Cracked Wall #4"},
+                            {"name": "Cracked Wall #5"},
+                            {"name": "Cracked Wall #6"},
+                            {"name": "Cracked Wall #7"},
+                            {"name": "Cracked Wall #8"},
+                            {"name": "Cracked Wall #9"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 115,
+                                "y": 402
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West Stairway Crates",
+                        "sections": [
+                            {"name": "Crate #8"},
+                            {"name": "Crate #9"},
+                            {"name": "Crate #10"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 229,
+                                "y": 617
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Candlestands near Clock",
+                        "sections": [
+                            {"name": "Candlestand #1"},
+                            {"name": "Candlestand #2"},
+                            {"name": "Candlestand #3"},
+                            {"name": "Candlestand #4"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 333,
+                                "y": 744
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crates near Steel Skeleton",
+                        "sections": [
+                            {"name": "Crate #11"},
+                            {"name": "Crate #12"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 537,
+                                "y": 736
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East Stairway Crates",
+                        "sections": [
+                            {"name": "Crate #13"},
+                            {"name": "Crate #14"},
+                            {"name": "Crate #15"},
+                            {"name": "Crate #16"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 437,
+                                "y": 617
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East Room Crates",
+                        "sections": [
+                            {"name": "Crate #17"},
+                            {"name": "Crate #18"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 500,
+                                "y": 430
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Northeast Crates",
+                        "sections": [
+                            {"name": "Crate #19"},
+                            {"name": "Crate #20"},
+                            {"name": "Crate #21"}
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Bhashea Castle",
+                                "x": 512,
+                                "y": 329
                             }
                         ]
                     }
