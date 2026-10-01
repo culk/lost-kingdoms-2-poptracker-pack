@@ -22,7 +22,7 @@ Download the most recent .zip file from the **Releases** and either drag it to t
 | AP World Version | PopTracker Pack Version |
 |------------------|-------------------------|
 | v0.3.00+         | v1.3.0+                 |
-| v0.2.04 - 0.2.12 | v1.2.4+                 |
+| v0.2.04 - 0.2.12 | v1.2.4                  |
 | v0.2.00 - 0.2.03 | v1.1.1                  |
 | v0.1.12 - 0.1.13 | v1.0.3                  |
 | v0.1.08 - 0.1.11 | v0.6.0                  |
