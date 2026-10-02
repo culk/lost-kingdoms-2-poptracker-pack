@@ -1053,6 +1053,7 @@
                     },
                     {
                         "name": "Breakables near Southern Flight Ledge",
+                        "access_rules": ["^$can_booster_jump"],
                         "sections": [
                             {"name": "Tree #18"},
                             {"name": "Tree #19"},
@@ -1068,6 +1069,7 @@
                     },
                     {
                         "name": "Breakables near Eastern Flight Ledge",
+                        "access_rules": ["^$can_booster_jump"],
                         "sections": [
                             {"name": "Tree #17"},
                             {"name": "Rock #17"},
@@ -1084,6 +1086,7 @@
                     },
                     {
                         "name": "Breakables near Amber Dragon",
+                        "access_rules": ["^$can_booster_jump"],
                         "sections": [
                             {"name": "Tree #22"},
                             {"name": "Rock #26"},
@@ -1103,6 +1106,7 @@
                     },
                     {
                         "name": "Breakables Past Amber Dragon",
+                        "access_rules": ["^$can_booster_jump"],
                         "sections": [
                             {"name": "Tree #21"},
                             {"name": "Tree #24"}
