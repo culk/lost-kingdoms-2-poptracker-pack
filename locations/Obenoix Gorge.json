@@ -588,6 +588,7 @@
                     },
                     {
                         "name": "Ice Wall #1",
+                        "access_rules": ["^$can_far_ice_break"],
                         "sections": [
                             {"name": ""}
                         ],
